@@ -196,4 +196,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | O(log n) | Cada paso descarta la mitad: crece muy despacio |
 > | Exponencial | O(2ⁿ): crece tan rápido que es inviable con datos medianos |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/07-algoritmica-fundamentos) · **Anterior:** [05 · Ordenación por inserción](/ApuntesProgramacion/07-algoritmica-fundamentos/05-ordenacion-insercion) · **Siguiente:** [07 · Elegir el algoritmo adecuado](/ApuntesProgramacion/07-algoritmica-fundamentos/07-elegir-algoritmo)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/07-algoritmica-fundamentos) · **Anterior:** [05 · Ordenación por inserción](/ApuntsProgramacio/07-algoritmica-fundamentos/05-ordenacion-insercion) · **Siguiente:** [07 · Elegir el algoritmo adecuado](/ApuntsProgramacio/07-algoritmica-fundamentos/07-elegir-algoritmo)

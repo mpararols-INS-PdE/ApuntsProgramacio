@@ -188,4 +188,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Cerca lineal | Recórrer de principi a fi buscant un valor |
 > | `break` | Tallar el bucle en el moment en què trobes allò que busques |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/06-arrays) · **Anterior:** [01 · Arrays: l'aparcament de dades](/ApuntesProgramacion/ca/06-arrays/01-arrays-basicos) · **Següent:** [03 · Arrays multidimensionals](/ApuntesProgramacion/ca/06-arrays/03-arrays-multidimensionales)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/06-arrays) · **Anterior:** [01 · Arrays: l'aparcament de dades](/ApuntsProgramacio/ca/06-arrays/01-arrays-basicos) · **Següent:** [03 · Arrays multidimensionals](/ApuntsProgramacio/ca/06-arrays/03-arrays-multidimensionales)

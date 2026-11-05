@@ -269,4 +269,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Template method | Esquelet d'algoritme amb parts que les filles omplen |
 > | `abstract` | Modificador que marca classes i mètodes sense acabar |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/11-herencia-polimorfismo-interfaces) · **Anterior:** [06 · La classe Object: el besavi de tot](/ApuntesProgramacion/ca/11-herencia-polimorfismo-interfaces/06-clase-object) · **Següent:** [08 · Interfícies: el contracte que signes](/ApuntesProgramacion/ca/11-herencia-polimorfismo-interfaces/08-interfaces)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/11-herencia-polimorfismo-interfaces) · **Anterior:** [06 · La classe Object: el besavi de tot](/ApuntsProgramacio/ca/11-herencia-polimorfismo-interfaces/06-clase-object) · **Següent:** [08 · Interfícies: el contracte que signes](/ApuntsProgramacio/ca/11-herencia-polimorfismo-interfaces/08-interfaces)

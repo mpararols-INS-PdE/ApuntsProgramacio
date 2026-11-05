@@ -199,4 +199,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Escapar | Neutralitzar caràcters perillosos d'un text |
 > | Bobby Tables | El xiquet que t'ensenya per què no concatenar |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/15-conexion-bases-datos) · **Anterior:** [04 · CRUD complet](/ApuntesProgramacion/ca/15-conexion-bases-datos/04-crud) · **Següent:** [06 · El patró DAO](/ApuntesProgramacion/ca/15-conexion-bases-datos/06-pattern-dao)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/15-conexion-bases-datos) · **Anterior:** [04 · CRUD complet](/ApuntsProgramacio/ca/15-conexion-bases-datos/04-crud) · **Següent:** [06 · El patró DAO](/ApuntsProgramacio/ca/15-conexion-bases-datos/06-pattern-dao)

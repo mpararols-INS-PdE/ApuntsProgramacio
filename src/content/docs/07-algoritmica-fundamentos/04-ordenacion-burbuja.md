@@ -184,4 +184,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | O(n²) | El tiempo crece al cuadrado: dos bucles anidados |
 > | In-place | Ordena modificando el propio array, sin memoria extra |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/07-algoritmica-fundamentos) · **Anterior:** [03 · Búsqueda binaria](/ApuntesProgramacion/07-algoritmica-fundamentos/03-busqueda-binaria) · **Siguiente:** [05 · Ordenación por inserción](/ApuntesProgramacion/07-algoritmica-fundamentos/05-ordenacion-insercion)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/07-algoritmica-fundamentos) · **Anterior:** [03 · Búsqueda binaria](/ApuntsProgramacio/07-algoritmica-fundamentos/03-busqueda-binaria) · **Siguiente:** [05 · Ordenación por inserción](/ApuntsProgramacio/07-algoritmica-fundamentos/05-ordenacion-insercion)

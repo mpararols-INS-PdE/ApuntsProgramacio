@@ -176,4 +176,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Ruta absoluta | Adreça completa des de l'arrel del disc |
 > | `listFiles()` | Torna els fitxers/carpetes que hi ha dins d'un directori |
 
-📁 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/14-ficheros-regex) · **Anterior:** — · **Següent:** [02 · Escriure i llegir text: FileWriter, FileReader i BufferedReader](/ApuntesProgramacion/va/14-ficheros-regex/02-escribir-leer-texto)
+📁 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/14-ficheros-regex) · **Anterior:** — · **Següent:** [02 · Escriure i llegir text: FileWriter, FileReader i BufferedReader](/ApuntsProgramacio/va/14-ficheros-regex/02-escribir-leer-texto)

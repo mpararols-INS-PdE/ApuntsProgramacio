@@ -95,4 +95,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | SQLite | Base de datos en un único archivo, sin servidor |
 > | Dependencia Maven | La línea en el `pom.xml` que trae el controlador |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/15-conexion-bases-datos) · **Anterior:** — · **Siguiente:** [02 · Conexión a SQLite: los 5 pasos y Connection](/ApuntesProgramacion/15-conexion-bases-datos/02-conexion)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/15-conexion-bases-datos) · **Anterior:** — · **Siguiente:** [02 · Conexión a SQLite: los 5 pasos y Connection](/ApuntsProgramacio/15-conexion-bases-datos/02-conexion)

@@ -154,4 +154,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Convenció | Regla d'estil (MAJÚSCULES) que tots seguixen |
 > | Constructor privat | Impedix crear objectes de la classe |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/10-visibilidad-encapsulacion-static) · **Anterior:** [06 · Mètodes static i el main](/ApuntesProgramacion/va/10-visibilidad-encapsulacion-static/06-metodos-static) · **Següent:** [08 · Be the Code: encapsula la teua classe](/ApuntesProgramacion/va/10-visibilidad-encapsulacion-static/08-be-the-code)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/10-visibilidad-encapsulacion-static) · **Anterior:** [06 · Mètodes static i el main](/ApuntsProgramacio/va/10-visibilidad-encapsulacion-static/06-metodos-static) · **Següent:** [08 · Be the Code: encapsula la teua classe](/ApuntsProgramacio/va/10-visibilidad-encapsulacion-static/08-be-the-code)

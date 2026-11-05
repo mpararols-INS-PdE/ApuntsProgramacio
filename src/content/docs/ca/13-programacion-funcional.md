@@ -43,15 +43,15 @@ En acabar, seràs capaç de:
 
 | Punt | Què aprendràs | Dificultat |
 |---|---|---|
-| [01 · Lambdes: funcions que viatgen soles](/ApuntesProgramacion/ca/13-programacion-funcional/01-lambdas) | La fletxa `->`, la sintaxi i guardar funcions en variables | Tots |
-| [02 · Interfícies funcionals: Predicate, Function, Consumer, Supplier](/ApuntesProgramacion/ca/13-programacion-funcional/02-interfaces-funcionales) | Els quatre vestits oficials de tota lambda i `@FunctionalInterface` | Tots |
-| [03 · Referències a mètodes: la drecera `::`](/ApuntesProgramacion/ca/13-programacion-funcional/03-referencias-metodos) | `String::toUpperCase`: reciclar mètodes com si fossin lambdes | Tots |
-| [04 · Streams: el flux de dades](/ApuntesProgramacion/ca/13-programacion-funcional/04-streams-basicos) | Crear streams amb `stream()` i `Stream.of`, i el pipeline | Tots |
-| [05 · Operacions intermèdies: filter, map, distinct, sorted, limit](/ApuntesProgramacion/ca/13-programacion-funcional/05-streams-intermedias) | La cinta que filtra, transforma, lleva repetits, ordena i limita | Tots |
-| [06 · Operacions terminals: collect, reduce, count, forEach](/ApuntesProgramacion/ca/13-programacion-funcional/06-streams-terminales) | L'aixeta que fa que l'aigua flueixi de veritat | Tots |
-| [07 · Del stream a la col·lecció: toList, Collectors, groupingBy](/ApuntesProgramacion/ca/13-programacion-funcional/07-streams-colecciones) | `toList()`, `Collectors.toMap` i agrupar com en una taula | Tots |
-| [08 · Optional: el que accepta l'absència](/ApuntesProgramacion/ca/13-programacion-funcional/08-optional) | Embolicar el `null` per a no ensopegar-hi | Tots |
-| [09 · Repàs interactiu](/ApuntesProgramacion/ca/13-programacion-funcional/09-repaso-interactivo) | Be the Code, Fireside, Laboratori, Crucigrama i més | Tots |
+| [01 · Lambdes: funcions que viatgen soles](/ApuntsProgramacio/ca/13-programacion-funcional/01-lambdas) | La fletxa `->`, la sintaxi i guardar funcions en variables | Tots |
+| [02 · Interfícies funcionals: Predicate, Function, Consumer, Supplier](/ApuntsProgramacio/ca/13-programacion-funcional/02-interfaces-funcionales) | Els quatre vestits oficials de tota lambda i `@FunctionalInterface` | Tots |
+| [03 · Referències a mètodes: la drecera `::`](/ApuntsProgramacio/ca/13-programacion-funcional/03-referencias-metodos) | `String::toUpperCase`: reciclar mètodes com si fossin lambdes | Tots |
+| [04 · Streams: el flux de dades](/ApuntsProgramacio/ca/13-programacion-funcional/04-streams-basicos) | Crear streams amb `stream()` i `Stream.of`, i el pipeline | Tots |
+| [05 · Operacions intermèdies: filter, map, distinct, sorted, limit](/ApuntsProgramacio/ca/13-programacion-funcional/05-streams-intermedias) | La cinta que filtra, transforma, lleva repetits, ordena i limita | Tots |
+| [06 · Operacions terminals: collect, reduce, count, forEach](/ApuntsProgramacio/ca/13-programacion-funcional/06-streams-terminales) | L'aixeta que fa que l'aigua flueixi de veritat | Tots |
+| [07 · Del stream a la col·lecció: toList, Collectors, groupingBy](/ApuntsProgramacio/ca/13-programacion-funcional/07-streams-colecciones) | `toList()`, `Collectors.toMap` i agrupar com en una taula | Tots |
+| [08 · Optional: el que accepta l'absència](/ApuntsProgramacio/ca/13-programacion-funcional/08-optional) | Embolicar el `null` per a no ensopegar-hi | Tots |
+| [09 · Repàs interactiu](/ApuntsProgramacio/ca/13-programacion-funcional/09-repaso-interactivo) | Be the Code, Fireside, Laboratori, Crucigrama i més | Tots |
 
 > 📖 **Flux de lectura:** els 8 primers punts són teoria en progressió. El 9 és l'aterratge pràctic: llegeix-lo just després del 8 i abans d'obrir els butlletins.
 
@@ -62,11 +62,11 @@ En acabar, seràs capaç de:
 > Practica amb els parells del curs: en aquesta unitat el per-resoldre va primer. Intenta-ho de veritat i només mira el resolt quan hagis suat una mica.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u13-inicial" class="elink">🟢 Inicial per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u13-inicial-resuelto" class="elink">✅ Inicial resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u13-avanzado" class="elink">⭐ Avançat per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u13-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u13-extras" class="elink">🔥 Extres</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u13-inicial" class="elink">🟢 Inicial per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u13-inicial-resuelto" class="elink">✅ Inicial resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u13-avanzado" class="elink">⭐ Avançat per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u13-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u13-extras" class="elink">🔥 Extres</a>
 </div>
 
 ---
@@ -99,10 +99,10 @@ En acabar, seràs capaç de:
 
 ## 🚪 Per on començo?
 
-- Vens de la U12 i vols l'essencial? → Comença en el [punt 1](/ApuntesProgramacion/ca/13-programacion-funcional/01-lambdas) i el [punt 2](/ApuntesProgramacion/ca/13-programacion-funcional/02-interfaces-funcionales): les funcions que viatgen soles.
-- Ja escrius lambdes i vols fluxos? → Ves directe al [punt 4](/ApuntesProgramacion/ca/13-programacion-funcional/04-streams-basicos) i al [punt 5](/ApuntesProgramacion/ca/13-programacion-funcional/05-streams-intermedias): la cinta transportadora.
-- Només vens a pels trucs? → Salta al [punt 3](/ApuntesProgramacion/ca/13-programacion-funcional/03-referencias-metodos) (la drecera `::`) i al [punt 8](/ApuntesProgramacion/ca/13-programacion-funcional/08-optional) (la capsa que accepta l'absència).
-- Vens a repassar? → Fes el [Repàs interactiu](/ApuntesProgramacion/ca/13-programacion-funcional/09-repaso-interactivo) i després els [butlletins](/ApuntesProgramacion/ca/boletines/boletin-u13-inicial).
+- Vens de la U12 i vols l'essencial? → Comença en el [punt 1](/ApuntsProgramacio/ca/13-programacion-funcional/01-lambdas) i el [punt 2](/ApuntsProgramacio/ca/13-programacion-funcional/02-interfaces-funcionales): les funcions que viatgen soles.
+- Ja escrius lambdes i vols fluxos? → Ves directe al [punt 4](/ApuntsProgramacio/ca/13-programacion-funcional/04-streams-basicos) i al [punt 5](/ApuntsProgramacio/ca/13-programacion-funcional/05-streams-intermedias): la cinta transportadora.
+- Només vens a pels trucs? → Salta al [punt 3](/ApuntsProgramacio/ca/13-programacion-funcional/03-referencias-metodos) (la drecera `::`) i al [punt 8](/ApuntsProgramacio/ca/13-programacion-funcional/08-optional) (la capsa que accepta l'absència).
+- Vens a repassar? → Fes el [Repàs interactiu](/ApuntsProgramacio/ca/13-programacion-funcional/09-repaso-interactivo) i després els [butlletins](/ApuntsProgramacio/ca/boletines/boletin-u13-inicial).
 
-**📍 Primer punt:** [01 · Lambdes: funcions que viatgen soles](/ApuntesProgramacion/ca/13-programacion-funcional/01-lambdas)  
-**⏭️ En acabar la unitat, continua en [U14 · Fitxers i expressions regulars (Regex)](/ApuntesProgramacion/ca/14-ficheros-regex).**
+**📍 Primer punt:** [01 · Lambdes: funcions que viatgen soles](/ApuntsProgramacio/ca/13-programacion-funcional/01-lambdas)  
+**⏭️ En acabar la unitat, continua en [U14 · Fitxers i expressions regulars (Regex)](/ApuntsProgramacio/ca/14-ficheros-regex).**

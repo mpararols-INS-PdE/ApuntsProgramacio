@@ -45,16 +45,16 @@ Al terminar, serás capaz de:
 
 | Punto | Qué aprenderás | Dificultad |
 |---|---|---|
-| [01 · Qué es JDBC](/ApuntesProgramacion/15-conexion-bases-datos/01-que-es-jdbc) | JDBC, SQLite y la dependencia Maven que lo pone todo en marcha | Todos |
-| [02 · Conexión a SQLite](/ApuntesProgramacion/15-conexion-bases-datos/02-conexion) | Los 5 pasos del ritual y la interfaz `Connection` | Todos |
-| [03 · Statement y ResultSet](/ApuntesProgramacion/15-conexion-bases-datos/03-statement-resultset) | Ejecutar consultas y procesar filas con `next()` y `getXxx` | Todos |
-| [04 · CRUD completo](/ApuntesProgramacion/15-conexion-bases-datos/04-crud) | Insertar, leer, actualizar y borrar con `executeQuery` y `executeUpdate` | Todos |
-| [05 · PreparedStatement y SQL injection](/ApuntesProgramacion/15-conexion-bases-datos/05-preparedstatement) | Placeholders `?`, `setXxx` y la historia de Bobby Tables | Todos |
-| [06 · El patrón DAO](/ApuntesProgramacion/15-conexion-bases-datos/06-pattern-dao) | Interfaz + implementación: el SQL no pisa tu lógica de negocio | Todos |
-| [07 · Transacciones](/ApuntesProgramacion/15-conexion-bases-datos/07-transacciones) | `commit`, `rollback` y savepoints: todo o nada | Todos |
-| [08 · Buenas prácticas](/ApuntesProgramacion/15-conexion-bases-datos/08-buenas-practicas) | El decálogo del JDBC: recursos, filas afectadas y `WHERE` siempre | Todos |
-| [09 · Introducción a ORM](/ApuntesProgramacion/15-conexion-bases-datos/09-introduccion-orm) | Qué es un ORM, mapeo objeto-relacional y JDBC vs ORM | Todos |
-| [10 · Repaso interactivo](/ApuntesProgramacion/15-conexion-bases-datos/10-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
+| [01 · Qué es JDBC](/ApuntsProgramacio/15-conexion-bases-datos/01-que-es-jdbc) | JDBC, SQLite y la dependencia Maven que lo pone todo en marcha | Todos |
+| [02 · Conexión a SQLite](/ApuntsProgramacio/15-conexion-bases-datos/02-conexion) | Los 5 pasos del ritual y la interfaz `Connection` | Todos |
+| [03 · Statement y ResultSet](/ApuntsProgramacio/15-conexion-bases-datos/03-statement-resultset) | Ejecutar consultas y procesar filas con `next()` y `getXxx` | Todos |
+| [04 · CRUD completo](/ApuntsProgramacio/15-conexion-bases-datos/04-crud) | Insertar, leer, actualizar y borrar con `executeQuery` y `executeUpdate` | Todos |
+| [05 · PreparedStatement y SQL injection](/ApuntsProgramacio/15-conexion-bases-datos/05-preparedstatement) | Placeholders `?`, `setXxx` y la historia de Bobby Tables | Todos |
+| [06 · El patrón DAO](/ApuntsProgramacio/15-conexion-bases-datos/06-pattern-dao) | Interfaz + implementación: el SQL no pisa tu lógica de negocio | Todos |
+| [07 · Transacciones](/ApuntsProgramacio/15-conexion-bases-datos/07-transacciones) | `commit`, `rollback` y savepoints: todo o nada | Todos |
+| [08 · Buenas prácticas](/ApuntsProgramacio/15-conexion-bases-datos/08-buenas-practicas) | El decálogo del JDBC: recursos, filas afectadas y `WHERE` siempre | Todos |
+| [09 · Introducción a ORM](/ApuntsProgramacio/15-conexion-bases-datos/09-introduccion-orm) | Qué es un ORM, mapeo objeto-relacional y JDBC vs ORM | Todos |
+| [10 · Repaso interactivo](/ApuntsProgramacio/15-conexion-bases-datos/10-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
 
 > 📖 **Flujo de lectura:** los 9 primeros puntos son teoría en progresión. El 10º es el aterrizaje práctico: léelo justo después del 9º y antes de abrir los boletines.
 
@@ -65,11 +65,11 @@ Al terminar, serás capaz de:
 > Practica con los pares del curso: intenta primero el por-resolver y comprueba con el resuelto cuando hayas terminado.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/boletines/boletin-u15-inicial" class="elink">🟢 Inicial por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u15-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u15-avanzado" class="elink">⭐ Avanzado por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u15-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u15-extras" class="elink">🔥 Extras</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u15-inicial" class="elink">🟢 Inicial por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u15-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u15-avanzado" class="elink">⭐ Avanzado por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u15-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u15-extras" class="elink">🔥 Extras</a>
 </div>
 
 ---
@@ -94,10 +94,10 @@ Al terminar, serás capaz de:
 
 ## 🚪 ¿Por dónde empiezo?
 
-- ¿Vienes de la U14 (ficheros) y quieres lo esencial? → Arranca en el [punto 1](/ApuntesProgramacion/15-conexion-bases-datos/01-que-es-jdbc) y el [punto 2](/ApuntesProgramacion/15-conexion-bases-datos/02-conexion): conectar es el 90% de la batalla.
-- ¿Ya conectas y quieres manejar datos? → Ve directo al [punto 4](/ApuntesProgramacion/15-conexion-bases-datos/04-crud) (el CRUD) y al [punto 5](/ApuntesProgramacion/15-conexion-bases-datos/05-preparedstatement) (hacerlo sin que te hackeen).
-- ¿Solo vienes a por los trucos? → Salta al [punto 5](/ApuntesProgramacion/15-conexion-bases-datos/05-preparedstatement) (la SQL injection) y al [punto 8](/ApuntesProgramacion/15-conexion-bases-datos/08-buenas-practicas) (el decálogo).
-- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntesProgramacion/15-conexion-bases-datos/10-repaso-interactivo) y después los [boletines](/ApuntesProgramacion/boletines/boletin-u15-inicial).
+- ¿Vienes de la U14 (ficheros) y quieres lo esencial? → Arranca en el [punto 1](/ApuntsProgramacio/15-conexion-bases-datos/01-que-es-jdbc) y el [punto 2](/ApuntsProgramacio/15-conexion-bases-datos/02-conexion): conectar es el 90% de la batalla.
+- ¿Ya conectas y quieres manejar datos? → Ve directo al [punto 4](/ApuntsProgramacio/15-conexion-bases-datos/04-crud) (el CRUD) y al [punto 5](/ApuntsProgramacio/15-conexion-bases-datos/05-preparedstatement) (hacerlo sin que te hackeen).
+- ¿Solo vienes a por los trucos? → Salta al [punto 5](/ApuntsProgramacio/15-conexion-bases-datos/05-preparedstatement) (la SQL injection) y al [punto 8](/ApuntsProgramacio/15-conexion-bases-datos/08-buenas-practicas) (el decálogo).
+- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntsProgramacio/15-conexion-bases-datos/10-repaso-interactivo) y después los [boletines](/ApuntsProgramacio/boletines/boletin-u15-inicial).
 
-**📍 Primer punto:** [01 · Qué es JDBC](/ApuntesProgramacion/15-conexion-bases-datos/01-que-es-jdbc)  
-**⏭️ Al acabar la unidad, continúa en [U16 · Servir y consumir APIs con Web](/ApuntesProgramacion/16-apis-web).**
+**📍 Primer punto:** [01 · Qué es JDBC](/ApuntsProgramacio/15-conexion-bases-datos/01-que-es-jdbc)  
+**⏭️ Al acabar la unidad, continúa en [U16 · Servir y consumir APIs con Web](/ApuntsProgramacio/16-apis-web).**

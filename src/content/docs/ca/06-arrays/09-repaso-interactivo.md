@@ -328,4 +328,4 @@ El novell guarda el seu projecte, tanca l'IDE i sent que ja no guarda dades solt
 
 ---
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/06-arrays) · **Anterior:** [08 · Array-revelde: errors comuns i depuració](/ApuntesProgramacion/ca/06-arrays/08-array-revelde) · **Següent:** **[U07 · Algorítmica I: fonaments](/ApuntesProgramacion/ca/07-algoritmica-fundamentos)**
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/06-arrays) · **Anterior:** [08 · Array-revelde: errors comuns i depuració](/ApuntsProgramacio/ca/06-arrays/08-array-revelde) · **Següent:** **[U07 · Algorítmica I: fonaments](/ApuntsProgramacio/ca/07-algoritmica-fundamentos)**

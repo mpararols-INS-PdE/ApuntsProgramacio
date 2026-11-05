@@ -39,7 +39,7 @@ Tu código (.java)  --javac-->  bytecode (.class)  --JVM-->  ¡se ejecuta!
 
 La gracia es que ese `.class` es el mismo para todas las plataformas: la JVM de Windows, la de Linux y la de macOS saben leerlo. Solo cambia la JVM, no tu programa.
 
-![Diagrama del proceso de compilación: de código .java a bytecode .class y a la salida](/ApuntesProgramacion/diagrams/u02-pipeline-compilacion.svg)
+![Diagrama del proceso de compilación: de código .java a bytecode .class y a la salida](/ApuntsProgramacio/diagrams/u02-pipeline-compilacion.svg)
 
 ---
 
@@ -70,7 +70,7 @@ El JDK compila esto a bytecode (café molido), el JRE lo pasa por la JVM y... ¡
 
 ⚠️ **Advertencia:** no confundas JDK con JRE. El JDK es el *cuchillo del chef*; el JRE es el *plato servido*. El JDK incluye el JRE, así que instalando el JDK tienes las dos cosas. Instalar solo el JRE te permite ejecutar programas, pero no crearlos.
 
-![Diagrama de la trilogía del café: qué incluye el JDK, el JRE y la JVM](/ApuntesProgramacion/diagrams/u02-jdk-jre-jvm.svg)
+![Diagrama de la trilogía del café: qué incluye el JDK, el JRE y la JVM](/ApuntsProgramacio/diagrams/u02-jdk-jre-jvm.svg)
 
 ---
 

@@ -154,4 +154,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Estable | Que conserva el orden original de los elementos iguales |
 > | O(n log n) | Complejidad "casi lineal": el estándar de la ordenación moderna |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/08-algoritmica-tecnicas) · **Anterior:** [03 · Divide y vencerás](/ApuntesProgramacion/08-algoritmica-tecnicas/03-divide-y-venceras) · **Siguiente:** [05 · Mergesort](/ApuntesProgramacion/08-algoritmica-tecnicas/05-mergesort)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/08-algoritmica-tecnicas) · **Anterior:** [03 · Divide y vencerás](/ApuntsProgramacio/08-algoritmica-tecnicas/03-divide-y-venceras) · **Siguiente:** [05 · Mergesort](/ApuntsProgramacio/08-algoritmica-tecnicas/05-mergesort)

@@ -379,4 +379,4 @@ El novençà guarda el seu projecte, i sent que alguna cosa ha canviat en la seu
 
 ---
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/08-algoritmica-tecnicas) · **Anterior:** [09 · Modularitat](/ApuntesProgramacion/va/08-algoritmica-tecnicas/09-modularidad) · **Següent:** **[U09 · POO: Classes i objectes](/ApuntesProgramacion/va/09-poo-clases-objetos)**
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/08-algoritmica-tecnicas) · **Anterior:** [09 · Modularitat](/ApuntsProgramacio/va/08-algoritmica-tecnicas/09-modularidad) · **Següent:** **[U09 · POO: Classes i objectes](/ApuntsProgramacio/va/09-poo-clases-objetos)**

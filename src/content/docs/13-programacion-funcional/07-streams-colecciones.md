@@ -174,4 +174,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Fusión (merge) | Función que resuelve qué hacer con claves repetidas |
 > | `joining` | Une los elementos en un `String` |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/13-programacion-funcional) · **Anterior:** [06 · Operaciones terminales: collect, reduce, count, forEach](/ApuntesProgramacion/13-programacion-funcional/06-streams-terminales) · **Siguiente:** [08 · Optional: el que acepta la ausencia](/ApuntesProgramacion/13-programacion-funcional/08-optional)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/13-programacion-funcional) · **Anterior:** [06 · Operaciones terminales: collect, reduce, count, forEach](/ApuntsProgramacio/13-programacion-funcional/06-streams-terminales) · **Siguiente:** [08 · Optional: el que acepta la ausencia](/ApuntsProgramacio/13-programacion-funcional/08-optional)

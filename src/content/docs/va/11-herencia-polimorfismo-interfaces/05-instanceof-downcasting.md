@@ -198,4 +198,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `ClassCastException` | Explosió en runtime per un cast impossible |
 > | Pattern matching | `instanceof Perro p` (Java 16+): preguntar i baixar en un pas |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces) · **Anterior:** [04 · Polimorfisme: el camaleó de la POO](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/04-polimorfismo) · **Següent:** [06 · La classe Object: el besavi de tot](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/06-clase-object)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces) · **Anterior:** [04 · Polimorfisme: el camaleó de la POO](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/04-polimorfismo) · **Següent:** [06 · La classe Object: el besavi de tot](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/06-clase-object)

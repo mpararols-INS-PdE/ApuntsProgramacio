@@ -211,4 +211,4 @@ En total, **10 asteriscos** (1 + 2 + 3 + 4). Fíjate en el truco: la condición 
 > | Off-by-one | Fallar por uno en la condición (`<` vs `<=`) |
 > | Iteración | Una vuelta del bucle |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/04-estructuras-control-excepciones) · **Anterior:** [03 · Bucles: while y do-while](/ApuntesProgramacion/04-estructuras-control-excepciones/03-bucles-while-do-while) · **Siguiente:** [05 · break y continue](/ApuntesProgramacion/04-estructuras-control-excepciones/05-break-continue)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/04-estructuras-control-excepciones) · **Anterior:** [03 · Bucles: while y do-while](/ApuntsProgramacio/04-estructuras-control-excepciones/03-bucles-while-do-while) · **Siguiente:** [05 · break y continue](/ApuntsProgramacio/04-estructuras-control-excepciones/05-break-continue)

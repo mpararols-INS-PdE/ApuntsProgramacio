@@ -227,4 +227,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Autoboxing | Passar de primitiu a wrapper automàticament |
 > | Unboxing | Passar de wrapper a primitiu automàticament |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/12-colecciones) · **Anterior:** — · **Següent:** [02 · LinkedList: la conga line](/ApuntesProgramacion/ca/12-colecciones/02-linkedlist)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/12-colecciones) · **Anterior:** — · **Següent:** [02 · LinkedList: la conga line](/ApuntsProgramacio/ca/12-colecciones/02-linkedlist)

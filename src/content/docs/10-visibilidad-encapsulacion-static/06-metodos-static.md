@@ -184,4 +184,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Clase utilitaria | Solo métodos estáticos, sin objetos |
 > | Contexto estático | "El mundo de la clase": sin objetos a la vista |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/10-visibilidad-encapsulacion-static) · **Anterior:** [05 · Atributos static](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/05-atributos-static) · **Siguiente:** [07 · Constantes de clase: static final](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/07-constantes-static-final)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/10-visibilidad-encapsulacion-static) · **Anterior:** [05 · Atributos static](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/05-atributos-static) · **Siguiente:** [07 · Constantes de clase: static final](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/07-constantes-static-final)

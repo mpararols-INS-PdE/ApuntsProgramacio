@@ -99,4 +99,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Files afectades | El `int` de `executeUpdate()` que confirma el canvi |
 > | `config.properties` | Fitxer on van la URL i les credencials |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/15-conexion-bases-datos) · **Anterior:** [07 · Transaccions](/ApuntesProgramacion/va/15-conexion-bases-datos/07-transacciones) · **Següent:** [09 · Introducció a ORM](/ApuntesProgramacion/va/15-conexion-bases-datos/09-introduccion-orm)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/15-conexion-bases-datos) · **Anterior:** [07 · Transaccions](/ApuntsProgramacio/va/15-conexion-bases-datos/07-transacciones) · **Següent:** [09 · Introducció a ORM](/ApuntsProgramacio/va/15-conexion-bases-datos/09-introduccion-orm)

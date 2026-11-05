@@ -235,4 +235,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Variable temporal | El `temp` que guarda un valor durant l'intercanvi |
 > | Flag | Booleà que avisa de si va passar alguna cosa en la passada |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/07-algoritmica-fundamentos) · **Anterior:** [07 · Triar l'algoritme adequat](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/07-elegir-algoritmo) · **Següent:** [09 · Repàs interactiu](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/09-repaso-interactivo)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/07-algoritmica-fundamentos) · **Anterior:** [07 · Triar l'algoritme adequat](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/07-elegir-algoritmo) · **Següent:** [09 · Repàs interactiu](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/09-repaso-interactivo)

@@ -60,7 +60,7 @@ int entreCincoYDiez = (int) (Math.random() * 6) + 5;   // 5, 6, 7, 8, 9 o 10
 
 > 📝 **Nota:** memoritza la fórmula com un mantra: `(max - min + 1)` dona la mida del ventall, i `+ min` el col·loca on comença. No hi ha més secret.
 
-![Escala de la fórmula aleatòria: de Math.random() entre 0 i 0,999 al rang 1-6 després de multiplicar, truncar amb int i sumar, amb la fórmula universal davall](/ApuntesProgramacion/diagrams/u03-escalera-random-ca.svg)
+![Escala de la fórmula aleatòria: de Math.random() entre 0 i 0,999 al rang 1-6 després de multiplicar, truncar amb int i sumar, amb la fórmula universal davall](/ApuntsProgramacio/diagrams/u03-escalera-random-ca.svg)
 
 ---
 
@@ -182,4 +182,4 @@ La diferència entre `b` i `c` és subtil però decisiva: la `+ 1` ha d'anar **f
 > | `Math.PI` | Constant amb el número π |
 > | Truncar | Tallar els decimals amb `(int)` |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/03-variables-tipos-operadores) · **Anterior:** [07 · Consola: sortida amb format i errors d'entrada](/ApuntesProgramacion/ca/03-variables-tipos-operadores/07-consola-salida-formateada) · **Següent:** [09 · Mètodes útils de String](/ApuntesProgramacion/ca/03-variables-tipos-operadores/09-metodos-string)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/03-variables-tipos-operadores) · **Anterior:** [07 · Consola: sortida amb format i errors d'entrada](/ApuntsProgramacio/ca/03-variables-tipos-operadores/07-consola-salida-formateada) · **Següent:** [09 · Mètodes útils de String](/ApuntsProgramacio/ca/03-variables-tipos-operadores/09-metodos-string)

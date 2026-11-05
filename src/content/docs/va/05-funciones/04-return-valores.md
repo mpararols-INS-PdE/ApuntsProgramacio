@@ -192,4 +192,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Predicat | Mètode que torna `boolean` (`esPar`) |
 > | Ampliació | `int` cap en `double` en tornar |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/05-funciones) · **Anterior:** [03 · Paràmetres: l'entrada](/ApuntesProgramacion/va/05-funciones/03-parametros) · **Següent:** [05 · Àmbit de variables](/ApuntesProgramacion/va/05-funciones/05-ambito-variables)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/05-funciones) · **Anterior:** [03 · Paràmetres: l'entrada](/ApuntsProgramacio/va/05-funciones/03-parametros) · **Següent:** [05 · Àmbit de variables](/ApuntsProgramacio/va/05-funciones/05-ambito-variables)

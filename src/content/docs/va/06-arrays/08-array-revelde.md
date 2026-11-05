@@ -186,4 +186,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Valor de sentinella | Valor especial que representa "buit" en primitius |
 > | *Breakpoint* | Punt de parada del depurador per a inspeccionar variables |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/06-arrays) · **Anterior:** [07 · Be the Code: l'aparcament es gestiona](/ApuntesProgramacion/va/06-arrays/07-be-the-code) · **Següent:** [09 · Repàs interactiu](/ApuntesProgramacion/va/06-arrays/09-repaso-interactivo)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/06-arrays) · **Anterior:** [07 · Be the Code: l'aparcament es gestiona](/ApuntsProgramacio/va/06-arrays/07-be-the-code) · **Següent:** [09 · Repàs interactiu](/ApuntsProgramacio/va/06-arrays/09-repaso-interactivo)

@@ -220,4 +220,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `getOrDefault` | Tornar un valor segur si la clau no existeix |
 > | `entrySet` | Les entrades (clau + valor) per a recórrer |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/12-colecciones) · **Anterior:** [06 · El diamant, mètodes genèrics i wildcards](/ApuntesProgramacion/ca/12-colecciones/06-genericos-avanzado) · **Següent:** [08 · TreeMap i com triar estructura](/ApuntesProgramacion/ca/12-colecciones/08-treemap-elegir-estructura)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/12-colecciones) · **Anterior:** [06 · El diamant, mètodes genèrics i wildcards](/ApuntsProgramacio/ca/12-colecciones/06-genericos-avanzado) · **Següent:** [08 · TreeMap i com triar estructura](/ApuntsProgramacio/ca/12-colecciones/08-treemap-elegir-estructura)

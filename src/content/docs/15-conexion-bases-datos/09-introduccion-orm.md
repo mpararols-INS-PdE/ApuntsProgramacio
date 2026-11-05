@@ -135,4 +135,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `EntityManager` | El "mandamás" que ejecuta persistencia |
 > | Lazy / eager | Cargar datos tarde (cuando toca) o de golpe |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/15-conexion-bases-datos) · **Anterior:** [08 · Buenas prácticas](/ApuntesProgramacion/15-conexion-bases-datos/08-buenas-practicas) · **Siguiente:** [10 · Repaso interactivo](/ApuntesProgramacion/15-conexion-bases-datos/10-repaso-interactivo)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/15-conexion-bases-datos) · **Anterior:** [08 · Buenas prácticas](/ApuntsProgramacio/15-conexion-bases-datos/08-buenas-practicas) · **Siguiente:** [10 · Repaso interactivo](/ApuntsProgramacio/15-conexion-bases-datos/10-repaso-interactivo)

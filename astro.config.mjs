@@ -2,8 +2,8 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
-  site: 'https://sergarb1.github.io/ApuntesProgramacion',
-  base: '/ApuntesProgramacion',
+  site: 'https://mpararols-ins-pde.github.io',
+  base: '/ApuntsProgramacio',
   integrations: [
     starlight({
       title: {
@@ -23,11 +23,11 @@ export default defineConfig({
       },
       defaultLocale: 'root',
       social: [
-        { icon: 'github', label: 'GitHub', href: 'https://github.com/sergarb1/ApuntesProgramacion' },
+        { icon: 'github', label: 'GitHub', href: 'https://github.com/mpararols-INS-PdE/ApuntsProgramacio' },
       ],
       head: [
         { tag: 'meta', attrs: { name: 'theme-color', content: '#2d8a4e' } },
-        { tag: 'link', attrs: { rel: 'icon', type: 'image/png', href: '/ApuntesProgramacion/favicon.png' } },
+        { tag: 'link', attrs: { rel: 'icon', type: 'image/png', href: '/ApuntsProgramacio/favicon.png' } },
       ],
       sidebar: [
         {

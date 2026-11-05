@@ -316,4 +316,4 @@ El novato guarda su proyecto, cierra el IDE y siente que los programas ya no le 
 
 ---
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/04-estructuras-control-excepciones) · **Anterior:** [08 · throw y excepciones propias](/ApuntesProgramacion/04-estructuras-control-excepciones/08-throw-excepciones-propias) · **Siguiente:** **[U05 · Funciones y métodos](/ApuntesProgramacion/05-funciones)**
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/04-estructuras-control-excepciones) · **Anterior:** [08 · throw y excepciones propias](/ApuntsProgramacio/04-estructuras-control-excepciones/08-throw-excepciones-propias) · **Siguiente:** **[U05 · Funciones y métodos](/ApuntsProgramacio/05-funciones)**

@@ -343,4 +343,4 @@ El novell guarda el seu projecte, tanca l'IDE i sent que ja no busca ni ordena: 
 
 ---
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/07-algoritmica-fundamentos) · **Anterior:** [08 · Be the Code: cerca binària des de zero](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/08-be-the-code) · **Següent:** **[U08 · Algorítmica II: tècniques avançades i modularitat](/ApuntesProgramacion/ca/08-algoritmica-tecnicas)**
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/07-algoritmica-fundamentos) · **Anterior:** [08 · Be the Code: cerca binària des de zero](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/08-be-the-code) · **Següent:** **[U08 · Algorítmica II: tècniques avançades i modularitat](/ApuntsProgramacio/ca/08-algoritmica-tecnicas)**

@@ -290,4 +290,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Contrato múltiple | Una clase puede implementar varias interfaces |
 > | `Interfaz.super.metodo()` | Cómo resolver conflictos entre `default` |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces) · **Anterior:** [07 · Clases abstractas](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/07-clases-abstractas) · **Siguiente:** [09 · Repaso interactivo](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/09-repaso-interactivo)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces) · **Anterior:** [07 · Clases abstractas](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/07-clases-abstractas) · **Siguiente:** [09 · Repaso interactivo](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/09-repaso-interactivo)

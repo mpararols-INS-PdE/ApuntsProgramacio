@@ -290,4 +290,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Override | La herramienta que cambia el comportamiento |
 > | Shadowing | Ocultar un atributo de la superclase (los atributos no son polimórficos) |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces) · **Anterior:** [03 · protected y jerarquías de clases](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/03-protected-jerarquias) · **Siguiente:** [05 · instanceof y downcasting](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/05-instanceof-downcasting)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces) · **Anterior:** [03 · protected y jerarquías de clases](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/03-protected-jerarquias) · **Siguiente:** [05 · instanceof y downcasting](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/05-instanceof-downcasting)

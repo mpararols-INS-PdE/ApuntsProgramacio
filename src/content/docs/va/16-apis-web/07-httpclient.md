@@ -212,4 +212,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `JsonObject` / `JsonArray` | El JSON sense mapejar, accessible a lo bruto |
 > | Rate limit | Límit de peticions per minut que imposen les APIs |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/16-apis-web) · **Anterior:** [06 · Mini projecte: gestor de tasques (API REST)](/ApuntesProgramacion/va/16-apis-web/06-proyecto-rest) · **Següent:** [08 · HttpClient avançat](/ApuntesProgramacion/va/16-apis-web/08-httpclient-avanzado)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/16-apis-web) · **Anterior:** [06 · Mini projecte: gestor de tasques (API REST)](/ApuntsProgramacio/va/16-apis-web/06-proyecto-rest) · **Següent:** [08 · HttpClient avançat](/ApuntsProgramacio/va/16-apis-web/08-httpclient-avanzado)

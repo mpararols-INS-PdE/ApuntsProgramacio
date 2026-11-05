@@ -191,4 +191,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | *Append* | Añadir al final del archivo sin borrar lo anterior |
 > | `FileNotFoundException` | Se lanza al leer un archivo que no existe |
 
-📁 [Volver al índice de la unidad](/ApuntesProgramacion/14-ficheros-regex) · **Anterior:** [01 · La clase File: tu explorador de archivos](/ApuntesProgramacion/14-ficheros-regex/01-clase-file) · **Siguiente:** [03 · try-with-resources: cerrar sin llorar](/ApuntesProgramacion/14-ficheros-regex/03-try-with-resources)
+📁 [Volver al índice de la unidad](/ApuntsProgramacio/14-ficheros-regex) · **Anterior:** [01 · La clase File: tu explorador de archivos](/ApuntsProgramacio/14-ficheros-regex/01-clase-file) · **Siguiente:** [03 · try-with-resources: cerrar sin llorar](/ApuntsProgramacio/14-ficheros-regex/03-try-with-resources)

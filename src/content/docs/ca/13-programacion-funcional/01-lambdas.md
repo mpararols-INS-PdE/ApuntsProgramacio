@@ -162,4 +162,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Interfície funcional | Interfície amb un únic mètode abstracte |
 > | Variable funcional | Variable el tipus de la qual és una interfície funcional i guarda una lambda |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/13-programacion-funcional) · **Anterior:** — · **Següent:** [02 · Interfícies funcionals: Predicate, Function, Consumer, Supplier](/ApuntesProgramacion/ca/13-programacion-funcional/02-interfaces-funcionales)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/13-programacion-funcional) · **Anterior:** — · **Següent:** [02 · Interfícies funcionals: Predicate, Function, Consumer, Supplier](/ApuntsProgramacio/ca/13-programacion-funcional/02-interfaces-funcionales)

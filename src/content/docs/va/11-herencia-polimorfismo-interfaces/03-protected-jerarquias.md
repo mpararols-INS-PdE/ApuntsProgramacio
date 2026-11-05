@@ -228,4 +228,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Acoblament | Quant depenen unes classes d'unes altres |
 > | Composició | "Tindre" (HAS-A) en comptes de "ser" (IS-A) |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces) · **Anterior:** [02 · super i @Override](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/02-super-override) · **Següent:** [04 · Polimorfisme: el camaleó de la POO](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/04-polimorfismo)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces) · **Anterior:** [02 · super i @Override](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/02-super-override) · **Següent:** [04 · Polimorfisme: el camaleó de la POO](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/04-polimorfismo)

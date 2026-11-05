@@ -207,4 +207,4 @@ try {
 > | `e.getMessage()` | Mensaje del error atrapado |
 > | Stack trace | Rastro de llamadas donde ocurrió el fallo |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/04-estructuras-control-excepciones) · **Anterior:** [06 · Excepciones básicas](/ApuntesProgramacion/04-estructuras-control-excepciones/06-excepciones-basicas) · **Siguiente:** [08 · throw y excepciones propias](/ApuntesProgramacion/04-estructuras-control-excepciones/08-throw-excepciones-propias)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/04-estructuras-control-excepciones) · **Anterior:** [06 · Excepciones básicas](/ApuntsProgramacio/04-estructuras-control-excepciones/06-excepciones-basicas) · **Siguiente:** [08 · throw y excepciones propias](/ApuntsProgramacio/04-estructuras-control-excepciones/08-throw-excepciones-propias)

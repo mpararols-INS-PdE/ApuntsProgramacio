@@ -369,4 +369,4 @@ Se acerca CONRAD, el compilador cascarrabias, con su taza humeante.
 
 ---
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces) · **Anterior:** [08 · Interfaces: el contrato que firmas](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/08-interfaces) · **Siguiente:** **[U12 · Colecciones](/ApuntesProgramacion/12-colecciones)**
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces) · **Anterior:** [08 · Interfaces: el contrato que firmas](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/08-interfaces) · **Siguiente:** **[U12 · Colecciones](/ApuntsProgramacio/12-colecciones)**

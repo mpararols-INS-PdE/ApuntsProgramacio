@@ -39,15 +39,15 @@ En acabar, seràs capaç de:
 
 | Punt | Què aprendràs | Dificultat |
 |---|---|---|
-| [01 · Què és la POO](/ApuntesProgramacion/ca/09-poo-clases-objetos/01-que-es-poo) | Programació procedural vs orientada a objectes i per què el món real mana | Tots |
-| [02 · Classes i objectes: el tallagalletas i les galetes](/ApuntesProgramacion/ca/09-poo-clases-objetos/02-clases-objetos) | El motlle, la galeta, `new`, i la teva primera classe | Tots |
-| [03 · Atributs i mètodes](/ApuntesProgramacion/ca/09-poo-clases-objetos/03-atributos-metodos) | Les propietats i els comportaments d'una classe, amb els seus tipus i paràmetres | Tots |
-| [04 · Constructors](/ApuntesProgramacion/ca/09-poo-clases-objetos/04-constructores) | El mètode que prepara l'objecte en néixer: per defecte i amb paràmetres | Tots |
-| [05 · La paraula clau this](/ApuntesProgramacion/ca/09-poo-clases-objetos/05-this) | Quan els paràmetres es diuen igual que els atributs (i com sortir de l'embolic) | Tots |
-| [06 · Referències, null i memòria](/ApuntesProgramacion/ca/09-poo-clases-objetos/06-referencias-memoria) | Què guarda una variable d'objecte, el `heap`, `null` i el mític `NullPointerException` | Tots |
-| [07 · Sobrecàrrega i pas per valor](/ApuntesProgramacion/ca/09-poo-clases-objetos/07-sobrecarga-paso-valor) | Diversos mètodes amb el mateix nom i què es copia quan crides | Tots |
-| [08 · Be the Code: dissenya la teva classe](/ApuntesProgramacion/ca/09-poo-clases-objetos/08-be-the-code) | Dissenyar i construir una classe completa pas a pas, sense mirar | ⭐⭐⭐ |
-| [09 · Repàs interactiu](/ApuntesProgramacion/ca/09-poo-clases-objetos/09-repaso-interactivo) | Be the Code, Fireside, Laboratori, Crucigrama i més | Tots |
+| [01 · Què és la POO](/ApuntsProgramacio/ca/09-poo-clases-objetos/01-que-es-poo) | Programació procedural vs orientada a objectes i per què el món real mana | Tots |
+| [02 · Classes i objectes: el tallagalletas i les galetes](/ApuntsProgramacio/ca/09-poo-clases-objetos/02-clases-objetos) | El motlle, la galeta, `new`, i la teva primera classe | Tots |
+| [03 · Atributs i mètodes](/ApuntsProgramacio/ca/09-poo-clases-objetos/03-atributos-metodos) | Les propietats i els comportaments d'una classe, amb els seus tipus i paràmetres | Tots |
+| [04 · Constructors](/ApuntsProgramacio/ca/09-poo-clases-objetos/04-constructores) | El mètode que prepara l'objecte en néixer: per defecte i amb paràmetres | Tots |
+| [05 · La paraula clau this](/ApuntsProgramacio/ca/09-poo-clases-objetos/05-this) | Quan els paràmetres es diuen igual que els atributs (i com sortir de l'embolic) | Tots |
+| [06 · Referències, null i memòria](/ApuntsProgramacio/ca/09-poo-clases-objetos/06-referencias-memoria) | Què guarda una variable d'objecte, el `heap`, `null` i el mític `NullPointerException` | Tots |
+| [07 · Sobrecàrrega i pas per valor](/ApuntsProgramacio/ca/09-poo-clases-objetos/07-sobrecarga-paso-valor) | Diversos mètodes amb el mateix nom i què es copia quan crides | Tots |
+| [08 · Be the Code: dissenya la teva classe](/ApuntsProgramacio/ca/09-poo-clases-objetos/08-be-the-code) | Dissenyar i construir una classe completa pas a pas, sense mirar | ⭐⭐⭐ |
+| [09 · Repàs interactiu](/ApuntsProgramacio/ca/09-poo-clases-objetos/09-repaso-interactivo) | Be the Code, Fireside, Laboratori, Crucigrama i més | Tots |
 
 > 📖 **Flux de lectura:** els 8 primers punts són teoria en progressió. El 9 és l'aterratge pràctic: llegeix-lo just després del 8 i abans d'obrir els butlletins.
 
@@ -58,11 +58,11 @@ En acabar, seràs capaç de:
 > Practica amb els parells del curs: intenta primer el per-resoldre i comprova amb el resolt quan hagis acabat.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u09-inicial" class="elink">🟢 Inicial per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u09-inicial-resuelto" class="elink">✅ Inicial resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u09-avanzado" class="elink">⭐ Avançat per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u09-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u09-extras" class="elink">🔥 Extres</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u09-inicial" class="elink">🟢 Inicial per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u09-inicial-resuelto" class="elink">✅ Inicial resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u09-avanzado" class="elink">⭐ Avançat per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u09-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u09-extras" class="elink">🔥 Extres</a>
 </div>
 
 ---
@@ -93,10 +93,10 @@ En acabar, seràs capaç de:
 
 ## 🚪 Per on començo?
 
-- Cero coneixements de POO? → Arranca en el [punt 1](/ApuntesProgramacion/ca/09-poo-clases-objetos/01-que-es-poo). Només necessites el que vas veure fins a la U08.
-- Ja saps què és una classe i vols cim? → Ves directe al [punt 4](/ApuntesProgramacion/ca/09-poo-clases-objetos/04-constructores) i al [punt 5](/ApuntesProgramacion/ca/09-poo-clases-objetos/05-this): aquí comença el ball seriós.
-- Et flipen els reptes? → Fes el [punt 8](/ApuntesProgramacion/ca/09-poo-clases-objetos/08-be-the-code) sense mirar el codi dels punts anteriors. Dissenya la teva classe amb honor.
-- Vens a repassar? → Fes el [Repàs interactiu](/ApuntesProgramacion/ca/09-poo-clases-objetos/09-repaso-interactivo) i després els [butlletins](/ApuntesProgramacion/ca/boletines/boletin-u09-inicial).
+- Cero coneixements de POO? → Arranca en el [punt 1](/ApuntsProgramacio/ca/09-poo-clases-objetos/01-que-es-poo). Només necessites el que vas veure fins a la U08.
+- Ja saps què és una classe i vols cim? → Ves directe al [punt 4](/ApuntsProgramacio/ca/09-poo-clases-objetos/04-constructores) i al [punt 5](/ApuntsProgramacio/ca/09-poo-clases-objetos/05-this): aquí comença el ball seriós.
+- Et flipen els reptes? → Fes el [punt 8](/ApuntsProgramacio/ca/09-poo-clases-objetos/08-be-the-code) sense mirar el codi dels punts anteriors. Dissenya la teva classe amb honor.
+- Vens a repassar? → Fes el [Repàs interactiu](/ApuntsProgramacio/ca/09-poo-clases-objetos/09-repaso-interactivo) i després els [butlletins](/ApuntsProgramacio/ca/boletines/boletin-u09-inicial).
 
-**📍 Primer punt:** [01 · Què és la POO](/ApuntesProgramacion/ca/09-poo-clases-objetos/01-que-es-poo)  
-**⏭️ En acabar la unitat, continua en [U10 · Visibilitat, encapsulació i static](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static).**
+**📍 Primer punt:** [01 · Què és la POO](/ApuntsProgramacio/ca/09-poo-clases-objetos/01-que-es-poo)  
+**⏭️ En acabar la unitat, continua en [U10 · Visibilitat, encapsulació i static](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static).**

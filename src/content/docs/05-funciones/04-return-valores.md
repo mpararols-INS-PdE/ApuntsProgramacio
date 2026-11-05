@@ -192,4 +192,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Predicado | Método que devuelve `boolean` (`esPar`) |
 > | Ampliación | `int` cabe en `double` al devolver |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/05-funciones) · **Anterior:** [03 · Parámetros: la entrada](/ApuntesProgramacion/05-funciones/03-parametros) · **Siguiente:** [05 · Ámbito de variables](/ApuntesProgramacion/05-funciones/05-ambito-variables)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/05-funciones) · **Anterior:** [03 · Parámetros: la entrada](/ApuntsProgramacio/05-funciones/03-parametros) · **Siguiente:** [05 · Ámbito de variables](/ApuntsProgramacio/05-funciones/05-ambito-variables)

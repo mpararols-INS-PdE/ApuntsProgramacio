@@ -157,4 +157,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Memòria O(n) | Necessita un array auxiliar de la mateixa mida |
 > | Mergesort extern | Variant que ordena dades que no caben en RAM (discs) |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/08-algoritmica-tecnicas) · **Anterior:** [04 · Quicksort](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/04-quicksort) · **Següent:** [06 · Comparació: quan usar cada ordenació](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/06-comparacion-ordenacion)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/08-algoritmica-tecnicas) · **Anterior:** [04 · Quicksort](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/04-quicksort) · **Següent:** [06 · Comparació: quan usar cada ordenació](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/06-comparacion-ordenacion)

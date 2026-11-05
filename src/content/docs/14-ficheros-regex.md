@@ -45,15 +45,15 @@ Al terminar, serás capaz de:
 
 | Punto | Qué aprenderás | Dificultad |
 |---|---|---|
-| [01 · La clase File: tu explorador de archivos](/ApuntesProgramacion/14-ficheros-regex/01-clase-file) | El GPS que localiza archivos sin leer su contenido | Todos |
-| [02 · Escribir y leer texto: FileWriter, FileReader y BufferedReader](/ApuntesProgramacion/14-ficheros-regex/02-escribir-leer-texto) | El lápiz que no olvida y el lector que no se atraganta | Todos |
-| [03 · try-with-resources: cerrar sin llorar](/ApuntesProgramacion/14-ficheros-regex/03-try-with-resources) | La puerta que se cierra sola: adiós al `close()` manual | Todos |
-| [04 · PrintWriter y Scanner + File](/ApuntesProgramacion/14-ficheros-regex/04-printwriter-scanner-file) | El sargento que formatea y el pulpo que tokeniza | Todos |
-| [05 · NIO: Files y Paths (la forma moderna)](/ApuntesProgramacion/14-ficheros-regex/05-nio-files-paths) | Leer, escribir y consultar archivos en una línea | Todos |
-| [06 · Serialización: guardar objetos con ObjectOutputStream](/ApuntesProgramacion/14-ficheros-regex/06-serializacion) | Tu objeto entero en una maleta: `Serializable` | Todos |
-| [07 · Expresiones regulares: Pattern y Matcher](/ApuntesProgramacion/14-ficheros-regex/07-regex-basica) | El molde, el texto y el infierno de las contrabarras | Todos |
-| [08 · Regex en acción: matches, replaceAll, split y validaciones](/ApuntesProgramacion/14-ficheros-regex/08-regex-aplicaciones) | Validar correos, DNIs, teléfonos y extraer con grupos | Todos |
-| [09 · Repaso interactivo](/ApuntesProgramacion/14-ficheros-regex/09-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
+| [01 · La clase File: tu explorador de archivos](/ApuntsProgramacio/14-ficheros-regex/01-clase-file) | El GPS que localiza archivos sin leer su contenido | Todos |
+| [02 · Escribir y leer texto: FileWriter, FileReader y BufferedReader](/ApuntsProgramacio/14-ficheros-regex/02-escribir-leer-texto) | El lápiz que no olvida y el lector que no se atraganta | Todos |
+| [03 · try-with-resources: cerrar sin llorar](/ApuntsProgramacio/14-ficheros-regex/03-try-with-resources) | La puerta que se cierra sola: adiós al `close()` manual | Todos |
+| [04 · PrintWriter y Scanner + File](/ApuntsProgramacio/14-ficheros-regex/04-printwriter-scanner-file) | El sargento que formatea y el pulpo que tokeniza | Todos |
+| [05 · NIO: Files y Paths (la forma moderna)](/ApuntsProgramacio/14-ficheros-regex/05-nio-files-paths) | Leer, escribir y consultar archivos en una línea | Todos |
+| [06 · Serialización: guardar objetos con ObjectOutputStream](/ApuntsProgramacio/14-ficheros-regex/06-serializacion) | Tu objeto entero en una maleta: `Serializable` | Todos |
+| [07 · Expresiones regulares: Pattern y Matcher](/ApuntsProgramacio/14-ficheros-regex/07-regex-basica) | El molde, el texto y el infierno de las contrabarras | Todos |
+| [08 · Regex en acción: matches, replaceAll, split y validaciones](/ApuntsProgramacio/14-ficheros-regex/08-regex-aplicaciones) | Validar correos, DNIs, teléfonos y extraer con grupos | Todos |
+| [09 · Repaso interactivo](/ApuntsProgramacio/14-ficheros-regex/09-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
 
 > 📖 **Flujo de lectura:** los 8 primeros puntos son teoría en progresión. El 9º es el aterrizaje práctico: léelo justo después del 8º y antes de abrir los boletines.
 
@@ -64,11 +64,11 @@ Al terminar, serás capaz de:
 > Practica con los pares del curso: intenta primero el por-resolver y comprueba con el resuelto cuando hayas terminado.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/boletines/boletin-u14-inicial" class="elink">🟢 Inicial por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u14-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u14-avanzado" class="elink">⭐ Avanzado por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u14-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u14-extras" class="elink">🔥 Extras</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u14-inicial" class="elink">🟢 Inicial por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u14-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u14-avanzado" class="elink">⭐ Avanzado por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u14-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u14-extras" class="elink">🔥 Extras</a>
 </div>
 
 ---
@@ -101,10 +101,10 @@ Al terminar, serás capaz de:
 
 ## 🚪 ¿Por dónde empiezo?
 
-- ¿Vienes de la U12 y quieres lo esencial? → Arranca en el [punto 1](/ApuntesProgramacion/14-ficheros-regex/01-clase-file) y el [punto 2](/ApuntesProgramacion/14-ficheros-regex/02-escribir-leer-texto): localizar y leer archivos de texto.
-- ¿Ya sabes escribir y leer y quieres la forma moderna? → Salta al [punto 3](/ApuntesProgramacion/14-ficheros-regex/03-try-with-resources) (cerrar sin llorar) y al [punto 5](/ApuntesProgramacion/14-ficheros-regex/05-nio-files-paths) (NIO en una línea).
-- ¿Solo vienes a por las regex? → Ve directo al [punto 7](/ApuntesProgramacion/14-ficheros-regex/07-regex-basica) y al [punto 8](/ApuntesProgramacion/14-ficheros-regex/08-regex-aplicaciones): el detective de patrones.
-- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntesProgramacion/14-ficheros-regex/09-repaso-interactivo) y después los [boletines](/ApuntesProgramacion/boletines/boletin-u14-inicial).
+- ¿Vienes de la U12 y quieres lo esencial? → Arranca en el [punto 1](/ApuntsProgramacio/14-ficheros-regex/01-clase-file) y el [punto 2](/ApuntsProgramacio/14-ficheros-regex/02-escribir-leer-texto): localizar y leer archivos de texto.
+- ¿Ya sabes escribir y leer y quieres la forma moderna? → Salta al [punto 3](/ApuntsProgramacio/14-ficheros-regex/03-try-with-resources) (cerrar sin llorar) y al [punto 5](/ApuntsProgramacio/14-ficheros-regex/05-nio-files-paths) (NIO en una línea).
+- ¿Solo vienes a por las regex? → Ve directo al [punto 7](/ApuntsProgramacio/14-ficheros-regex/07-regex-basica) y al [punto 8](/ApuntsProgramacio/14-ficheros-regex/08-regex-aplicaciones): el detective de patrones.
+- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntsProgramacio/14-ficheros-regex/09-repaso-interactivo) y después los [boletines](/ApuntsProgramacio/boletines/boletin-u14-inicial).
 
-**📍 Primer punto:** [01 · La clase File: tu explorador de archivos](/ApuntesProgramacion/14-ficheros-regex/01-clase-file)  
-**⏭️ Al acabar la unidad, continúa en [U15 · Persistencia de datos: JDBC e introducción a ORM](/ApuntesProgramacion/15-conexion-bases-datos).**
+**📍 Primer punto:** [01 · La clase File: tu explorador de archivos](/ApuntsProgramacio/14-ficheros-regex/01-clase-file)  
+**⏭️ Al acabar la unidad, continúa en [U15 · Persistencia de datos: JDBC e introducción a ORM](/ApuntsProgramacio/15-conexion-bases-datos).**

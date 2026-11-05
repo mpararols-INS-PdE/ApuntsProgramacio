@@ -37,15 +37,15 @@ Al terminar, serás capaz de:
 
 | Punto | Qué aprenderás | Nivel |
 |---|---|---|
-| [01 · ¿Qué es Java?](/ApuntesProgramacion/02-introduccion/01-que-es-java) | Historia, bytecode, la trilogía JVM/JRE/JDK | Todos |
-| [02 · Instalación del JDK](/ApuntesProgramacion/02-introduccion/02-instalacion-jdk) | Eclipse Temurin, VS Code, Extension Pack, `java -version`, PATH | Todos |
-| [03 · Tu primer programa](/ApuntesProgramacion/02-introduccion/03-hola-mundo) | Hola Mundo, estructura, el método `main` | Todos |
-| [04 · El depurador](/ApuntesProgramacion/02-introduccion/04-depurador) | Breakpoints, step over/into, watch | Todos |
-| [05 · Comentarios y documentación](/ApuntesProgramacion/02-introduccion/05-comentarios) | `//`, `/* */`, `/** */` y Javadoc | Todos |
-| [06 · Argumentos de línea de órdenes](/ApuntesProgramacion/02-introduccion/06-argumentos) | El array `args`, cómo leerlo y usarlo | Todos |
-| [07 · El compilador y sus errores](/ApuntesProgramacion/02-introduccion/07-errores-compilador) | Compilar vs ejecutar, errores típicos del novato | Todos |
-| [08 · VS Code y tu flujo de trabajo](/ApuntesProgramacion/02-introduccion/08-ide-flujo-trabajo) | Proyectos, atajos, crear/ejecutar/depurar | Todos |
-| [09 · Repaso interactivo](/ApuntesProgramacion/02-introduccion/09-repaso-interactivo) | Sé el Código, Fireside, Quién Soy, Laboratorio, Crucigrama… | Todos |
+| [01 · ¿Qué es Java?](/ApuntsProgramacio/02-introduccion/01-que-es-java) | Historia, bytecode, la trilogía JVM/JRE/JDK | Todos |
+| [02 · Instalación del JDK](/ApuntsProgramacio/02-introduccion/02-instalacion-jdk) | Eclipse Temurin, VS Code, Extension Pack, `java -version`, PATH | Todos |
+| [03 · Tu primer programa](/ApuntsProgramacio/02-introduccion/03-hola-mundo) | Hola Mundo, estructura, el método `main` | Todos |
+| [04 · El depurador](/ApuntsProgramacio/02-introduccion/04-depurador) | Breakpoints, step over/into, watch | Todos |
+| [05 · Comentarios y documentación](/ApuntsProgramacio/02-introduccion/05-comentarios) | `//`, `/* */`, `/** */` y Javadoc | Todos |
+| [06 · Argumentos de línea de órdenes](/ApuntsProgramacio/02-introduccion/06-argumentos) | El array `args`, cómo leerlo y usarlo | Todos |
+| [07 · El compilador y sus errores](/ApuntsProgramacio/02-introduccion/07-errores-compilador) | Compilar vs ejecutar, errores típicos del novato | Todos |
+| [08 · VS Code y tu flujo de trabajo](/ApuntsProgramacio/02-introduccion/08-ide-flujo-trabajo) | Proyectos, atajos, crear/ejecutar/depurar | Todos |
+| [09 · Repaso interactivo](/ApuntsProgramacio/02-introduccion/09-repaso-interactivo) | Sé el Código, Fireside, Quién Soy, Laboratorio, Crucigrama… | Todos |
 
 > 📖 **Flujo de lectura:** los 8 primeros puntos son teoría en progresión. El 9º es el aterrizaje práctico: léelo justo después del 8º y antes de abrir los boletines.
 
@@ -56,11 +56,11 @@ Al terminar, serás capaz de:
 > Practica con los pares del curso: intenta primero el por-resolver y comprueba con el resuelto cuando hayas terminado.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/boletines/boletin-u02-inicial" class="elink">🟢 Inicial por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u02-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u02-avanzado" class="elink">⭐ Avanzado por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u02-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u02-extras" class="elink">🔥 Extras</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u02-inicial" class="elink">🟢 Inicial por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u02-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u02-avanzado" class="elink">⭐ Avanzado por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u02-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u02-extras" class="elink">🔥 Extras</a>
 </div>
 
 ---
@@ -82,9 +82,9 @@ Al terminar, serás capaz de:
 
 ## 🚪 ¿Por dónde empiezo?
 
-- ¿Cero conocimientos? → Arranca en el [punto 1](/ApuntesProgramacion/02-introduccion/01-que-es-java), no hay ningún requisito previo.
-- ¿Ya sabes qué es un IDE? → Ve directo al [punto 3](/ApuntesProgramacion/02-introduccion/03-hola-mundo) y vuelve atrás solo si te pierdes.
-- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntesProgramacion/02-introduccion/09-repaso-interactivo) y los [boletines](/ApuntesProgramacion/boletines/boletin-u02-inicial).
+- ¿Cero conocimientos? → Arranca en el [punto 1](/ApuntsProgramacio/02-introduccion/01-que-es-java), no hay ningún requisito previo.
+- ¿Ya sabes qué es un IDE? → Ve directo al [punto 3](/ApuntsProgramacio/02-introduccion/03-hola-mundo) y vuelve atrás solo si te pierdes.
+- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntsProgramacio/02-introduccion/09-repaso-interactivo) y los [boletines](/ApuntsProgramacio/boletines/boletin-u02-inicial).
 
-**📍 Primer punto:** [01 · ¿Qué es Java?](/ApuntesProgramacion/02-introduccion/01-que-es-java)  
-**⏭️ Al acabar la unidad, continúa en [U03 · Variables, tipos y operadores](/ApuntesProgramacion/03-variables-tipos-operadores).**
+**📍 Primer punto:** [01 · ¿Qué es Java?](/ApuntsProgramacio/02-introduccion/01-que-es-java)  
+**⏭️ Al acabar la unidad, continúa en [U03 · Variables, tipos y operadores](/ApuntsProgramacio/03-variables-tipos-operadores).**

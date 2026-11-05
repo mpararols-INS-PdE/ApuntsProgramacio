@@ -193,4 +193,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `ArrayIndexOutOfBoundsException` | Error per eixir-te de les places vàlides |
 > | Valor per defecte | El que ocupa una plaça acabada de crear (`0`, `false`, `null`...) |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/06-arrays) · **Anterior:** [Índex de la unitat](/ApuntesProgramacion/va/06-arrays) · **Següent:** [02 · Recórrer arrays: for i for-each](/ApuntesProgramacion/va/06-arrays/02-recorrer-arrays)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/06-arrays) · **Anterior:** [Índex de la unitat](/ApuntsProgramacio/va/06-arrays) · **Següent:** [02 · Recórrer arrays: for i for-each](/ApuntsProgramacio/va/06-arrays/02-recorrer-arrays)

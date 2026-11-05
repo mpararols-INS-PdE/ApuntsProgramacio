@@ -163,4 +163,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `StackOverflowError` | El que passa quan omplis la pila |
 > | Recursió de cua | Quan la crida recursiva és l'últim que fa la funció |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/08-algoritmica-tecnicas) · **Anterior:** [Índex de la unitat](/ApuntesProgramacion/va/08-algoritmica-tecnicas) · **Següent:** [02 · Recursivitat: exemples clàssics](/ApuntesProgramacion/va/08-algoritmica-tecnicas/02-recursividad-ejemplos-clasicos)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/08-algoritmica-tecnicas) · **Anterior:** [Índex de la unitat](/ApuntsProgramacio/va/08-algoritmica-tecnicas) · **Següent:** [02 · Recursivitat: exemples clàssics](/ApuntsProgramacio/va/08-algoritmica-tecnicas/02-recursividad-ejemplos-clasicos)

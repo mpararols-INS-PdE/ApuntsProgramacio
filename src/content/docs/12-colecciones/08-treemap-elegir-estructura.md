@@ -233,4 +233,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 
 ---
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/12-colecciones) · **Anterior:** [07 · HashMap: la guía telefónica](/ApuntesProgramacion/12-colecciones/07-hashmap) · **Siguiente:** [09 · Repaso interactivo](/ApuntesProgramacion/12-colecciones/09-repaso-interactivo)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/12-colecciones) · **Anterior:** [07 · HashMap: la guía telefónica](/ApuntsProgramacio/12-colecciones/07-hashmap) · **Siguiente:** [09 · Repaso interactivo](/ApuntsProgramacio/12-colecciones/09-repaso-interactivo)

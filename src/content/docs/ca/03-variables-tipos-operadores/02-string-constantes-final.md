@@ -67,7 +67,7 @@ Per què `a == b` dona `true` i `a == c` dona `false`, si els tres textos són "
 
 > ⚠️ **Advertència:** regla d'or: **els `String` sempre es comparen amb `.equals()`**. Si uses `==`, tard o d'hora et mossegarà en un examen.
 
-![Diagrama del pool de Strings: a i b apunten al mateix objecte del pool i c a un de nou amb new, amb == comparant referències i .equals() el contingut](/ApuntesProgramacion/diagrams/u03-pool-strings-ca.svg)
+![Diagrama del pool de Strings: a i b apunten al mateix objecte del pool i c a un de nou amb new, amb == comparant referències i .equals() el contingut](/ApuntsProgramacio/diagrams/u03-pool-strings-ca.svg)
 
 ---
 
@@ -188,4 +188,4 @@ Clàssic d'examen. Si l'encertes a la primera, aquesta unitat la portes bé.
 > | Pool de Strings | Zona on Java reutilitza literals iguals |
 > | `.equals()` | Mètode que compara el contingut de dos objectes |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/03-variables-tipos-operadores) · **Anterior:** [01 · Variables i tipus primitius](/ApuntesProgramacion/ca/03-variables-tipos-operadores/01-variables-tipos-primitivos) · **Següent:** [03 · Operadors aritmètics](/ApuntesProgramacion/ca/03-variables-tipos-operadores/03-operadores-aritmeticos)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/03-variables-tipos-operadores) · **Anterior:** [01 · Variables i tipus primitius](/ApuntsProgramacio/ca/03-variables-tipos-operadores/01-variables-tipos-primitivos) · **Següent:** [03 · Operadors aritmètics](/ApuntsProgramacio/ca/03-variables-tipos-operadores/03-operadores-aritmeticos)

@@ -212,4 +212,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `char[]` | Array de caracteres, modificable, sin métodos propios |
 > | Tabla de datos | `double[][]`: filas y columnas para datos reales |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/06-arrays) · **Anterior:** [05 · Arrays y métodos](/ApuntesProgramacion/06-arrays/05-arrays-metodos) · **Siguiente:** [07 · Be the Code: el parking se gestiona](/ApuntesProgramacion/06-arrays/07-be-the-code)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/06-arrays) · **Anterior:** [05 · Arrays y métodos](/ApuntsProgramacio/06-arrays/05-arrays-metodos) · **Siguiente:** [07 · Be the Code: el parking se gestiona](/ApuntsProgramacio/06-arrays/07-be-the-code)

@@ -176,4 +176,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Ruta absoluta | Dirección completa desde la raíz del disco |
 > | `listFiles()` | Devuelve los archivos/carpetas que hay dentro de un directorio |
 
-📁 [Volver al índice de la unidad](/ApuntesProgramacion/14-ficheros-regex) · **Anterior:** — · **Siguiente:** [02 · Escribir y leer texto: FileWriter, FileReader y BufferedReader](/ApuntesProgramacion/14-ficheros-regex/02-escribir-leer-texto)
+📁 [Volver al índice de la unidad](/ApuntsProgramacio/14-ficheros-regex) · **Anterior:** — · **Siguiente:** [02 · Escribir y leer texto: FileWriter, FileReader y BufferedReader](/ApuntsProgramacio/14-ficheros-regex/02-escribir-leer-texto)

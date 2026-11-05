@@ -38,15 +38,15 @@ Al terminar, serás capaz de:
 
 | Punto | Qué aprenderás | Dificultad |
 |---|---|---|
-| [01 · Qué es un algoritmo](/ApuntesProgramacion/07-algoritmica-fundamentos/01-que-es-algoritmo) | Definir algoritmo, sus propiedades y la receta de la tortilla | Todos |
-| [02 · Búsqueda lineal](/ApuntesProgramacion/07-algoritmica-fundamentos/02-busqueda-lineal) | Recorrer el array buscando un elemento, O(n) | Todos |
-| [03 · Búsqueda binaria](/ApuntesProgramacion/07-algoritmica-fundamentos/03-busqueda-binaria) | Dividir y vencer: descartar mitades, O(log n) | Todos |
-| [04 · Ordenación burbuja](/ApuntesProgramacion/07-algoritmica-fundamentos/04-ordenacion-burbuja) | Intercambiar burbujas hasta que todo flote, O(n²) | Todos |
-| [05 · Ordenación por inserción](/ApuntesProgramacion/07-algoritmica-fundamentos/05-ordenacion-insercion) | Ordenar como cartas en la mano, O(n²) y bestia con casi ordenados | Todos |
-| [06 · Complejidad algorítmica: Big O](/ApuntesProgramacion/07-algoritmica-fundamentos/06-complejidad-big-o) | Cómo crece el tiempo con los datos, de O(1) a O(2ⁿ) | Todos |
-| [07 · Elegir el algoritmo adecuado](/ApuntesProgramacion/07-algoritmica-fundamentos/07-elegir-algoritmo) | La tabla de decisión según tamaño y orden inicial | Todos |
-| [08 · Be the Code: búsqueda binaria desde cero](/ApuntesProgramacion/07-algoritmica-fundamentos/08-be-the-code) | Programar binaria y burbuja sin red de seguridad | Todos |
-| [09 · Repaso interactivo](/ApuntesProgramacion/07-algoritmica-fundamentos/09-repaso-interactivo) | Sé el Código, Fireside, Quién Soy, Laboratorio, Crucigrama… | Todos |
+| [01 · Qué es un algoritmo](/ApuntsProgramacio/07-algoritmica-fundamentos/01-que-es-algoritmo) | Definir algoritmo, sus propiedades y la receta de la tortilla | Todos |
+| [02 · Búsqueda lineal](/ApuntsProgramacio/07-algoritmica-fundamentos/02-busqueda-lineal) | Recorrer el array buscando un elemento, O(n) | Todos |
+| [03 · Búsqueda binaria](/ApuntsProgramacio/07-algoritmica-fundamentos/03-busqueda-binaria) | Dividir y vencer: descartar mitades, O(log n) | Todos |
+| [04 · Ordenación burbuja](/ApuntsProgramacio/07-algoritmica-fundamentos/04-ordenacion-burbuja) | Intercambiar burbujas hasta que todo flote, O(n²) | Todos |
+| [05 · Ordenación por inserción](/ApuntsProgramacio/07-algoritmica-fundamentos/05-ordenacion-insercion) | Ordenar como cartas en la mano, O(n²) y bestia con casi ordenados | Todos |
+| [06 · Complejidad algorítmica: Big O](/ApuntsProgramacio/07-algoritmica-fundamentos/06-complejidad-big-o) | Cómo crece el tiempo con los datos, de O(1) a O(2ⁿ) | Todos |
+| [07 · Elegir el algoritmo adecuado](/ApuntsProgramacio/07-algoritmica-fundamentos/07-elegir-algoritmo) | La tabla de decisión según tamaño y orden inicial | Todos |
+| [08 · Be the Code: búsqueda binaria desde cero](/ApuntsProgramacio/07-algoritmica-fundamentos/08-be-the-code) | Programar binaria y burbuja sin red de seguridad | Todos |
+| [09 · Repaso interactivo](/ApuntsProgramacio/07-algoritmica-fundamentos/09-repaso-interactivo) | Sé el Código, Fireside, Quién Soy, Laboratorio, Crucigrama… | Todos |
 
 > 📖 **Flujo de lectura:** los 8 primeros puntos son teoría en progresión. El 9º es el aterrizaje práctico: léelo justo después del 8º y antes de abrir los boletines.
 
@@ -57,11 +57,11 @@ Al terminar, serás capaz de:
 > Practica con los pares del curso: intenta primero el por-resolver y comprueba con el resuelto cuando hayas terminado.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/boletines/boletin-u07-inicial" class="elink">🟢 Inicial por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u07-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u07-avanzado" class="elink">⭐ Avanzado por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u07-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u07-extras" class="elink">🔥 Extras</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u07-inicial" class="elink">🟢 Inicial por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u07-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u07-avanzado" class="elink">⭐ Avanzado por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u07-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u07-extras" class="elink">🔥 Extras</a>
 </div>
 
 ---
@@ -84,10 +84,10 @@ Al terminar, serás capaz de:
 
 ## 🚪 ¿Por dónde empiezo?
 
-- ¿Cero conocimientos? → Arranca en el [punto 1](/ApuntesProgramacion/07-algoritmica-fundamentos/01-que-es-algoritmo). Solo necesitas variables, bucles y arrays básicos de la U04.
-- ¿Ya sabes qué es un algoritmo y quieres chicha? → Salta a la [búsqueda binaria](/ApuntesProgramacion/07-algoritmica-fundamentos/03-busqueda-binaria) o a la [ordenación por inserción](/ApuntesProgramacion/07-algoritmica-fundamentos/05-ordenacion-insercion).
-- ¿Solo quieres saber qué algoritmo elegir? → Lee [Big O](/ApuntesProgramacion/07-algoritmica-fundamentos/06-complejidad-big-o) y [Elegir el algoritmo adecuado](/ApuntesProgramacion/07-algoritmica-fundamentos/07-elegir-algoritmo).
-- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntesProgramacion/07-algoritmica-fundamentos/09-repaso-interactivo) y después los [boletines](/ApuntesProgramacion/boletines/boletin-u07-inicial).
+- ¿Cero conocimientos? → Arranca en el [punto 1](/ApuntsProgramacio/07-algoritmica-fundamentos/01-que-es-algoritmo). Solo necesitas variables, bucles y arrays básicos de la U04.
+- ¿Ya sabes qué es un algoritmo y quieres chicha? → Salta a la [búsqueda binaria](/ApuntsProgramacio/07-algoritmica-fundamentos/03-busqueda-binaria) o a la [ordenación por inserción](/ApuntsProgramacio/07-algoritmica-fundamentos/05-ordenacion-insercion).
+- ¿Solo quieres saber qué algoritmo elegir? → Lee [Big O](/ApuntsProgramacio/07-algoritmica-fundamentos/06-complejidad-big-o) y [Elegir el algoritmo adecuado](/ApuntsProgramacio/07-algoritmica-fundamentos/07-elegir-algoritmo).
+- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntsProgramacio/07-algoritmica-fundamentos/09-repaso-interactivo) y después los [boletines](/ApuntsProgramacio/boletines/boletin-u07-inicial).
 
-**📍 Primer punto:** [01 · Qué es un algoritmo](/ApuntesProgramacion/07-algoritmica-fundamentos/01-que-es-algoritmo)  
-**⏭️ Al acabar la unidad, continúa en [U08 · Algorítmica II: técnicas avanzadas y modularidad](/ApuntesProgramacion/08-algoritmica-tecnicas).**
+**📍 Primer punto:** [01 · Qué es un algoritmo](/ApuntsProgramacio/07-algoritmica-fundamentos/01-que-es-algoritmo)  
+**⏭️ Al acabar la unidad, continúa en [U08 · Algorítmica II: técnicas avanzadas y modularidad](/ApuntsProgramacio/08-algoritmica-tecnicas).**

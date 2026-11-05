@@ -170,4 +170,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Abstracció | Quedar-te amb l'essencial i oblidar el soroll |
 > | Procedural | Estil antic: una recepta d'instruccions en ordre |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/09-poo-clases-objetos) · **Anterior:** [Índex de la unitat](/ApuntesProgramacion/va/09-poo-clases-objetos) · **Següent:** [02 · Classes i objectes: el tallagalletas i les galetes](/ApuntesProgramacion/va/09-poo-clases-objetos/02-clases-objetos)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/09-poo-clases-objetos) · **Anterior:** [Índex de la unitat](/ApuntsProgramacio/va/09-poo-clases-objetos) · **Següent:** [02 · Classes i objectes: el tallagalletas i les galetes](/ApuntsProgramacio/va/09-poo-clases-objetos/02-clases-objetos)

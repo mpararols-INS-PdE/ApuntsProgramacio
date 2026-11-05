@@ -162,4 +162,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | O(n) | El tiempo crece en proporción directa al número de elementos |
 > | Mejor caso | El elemento está el primero: 1 solo paso |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/07-algoritmica-fundamentos) · **Anterior:** [01 · Qué es un algoritmo](/ApuntesProgramacion/07-algoritmica-fundamentos/01-que-es-algoritmo) · **Siguiente:** [03 · Búsqueda binaria](/ApuntesProgramacion/07-algoritmica-fundamentos/03-busqueda-binaria)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/07-algoritmica-fundamentos) · **Anterior:** [01 · Qué es un algoritmo](/ApuntsProgramacio/07-algoritmica-fundamentos/01-que-es-algoritmo) · **Siguiente:** [03 · Búsqueda binaria](/ApuntsProgramacio/07-algoritmica-fundamentos/03-busqueda-binaria)

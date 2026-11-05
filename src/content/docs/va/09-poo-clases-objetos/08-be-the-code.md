@@ -205,4 +205,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `main` de prova | El programa que demostra que la classe funciona |
 > | Iterar | Provar, trobar l'error, corregir i tornar a provar |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/09-poo-clases-objetos) · **Anterior:** [07 · Sobrecàrrega i pas per valor](/ApuntesProgramacion/va/09-poo-clases-objetos/07-sobrecarga-paso-valor) · **Següent:** [09 · Repàs interactiu](/ApuntesProgramacion/va/09-poo-clases-objetos/09-repaso-interactivo)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/09-poo-clases-objetos) · **Anterior:** [07 · Sobrecàrrega i pas per valor](/ApuntsProgramacio/va/09-poo-clases-objetos/07-sobrecarga-paso-valor) · **Següent:** [09 · Repàs interactiu](/ApuntsProgramacio/va/09-poo-clases-objetos/09-repaso-interactivo)

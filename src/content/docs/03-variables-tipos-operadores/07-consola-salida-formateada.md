@@ -43,7 +43,7 @@ Cada `%algo` es un **hueco** que se rellena con el valor que le sigue, en orden.
 
 > 💡 **Consejo:** `%n` para saltos de línea en `printf` (no `\n`): funciona igual en Windows, Linux y Mac. El `\n` también vale, pero `%n` es la opción "oficial".
 
-![Flujo de printf: la plantilla con huecos %d y %s y los argumentos 25 y Ana pasan por la llamada hasta la salida formateada](/ApuntesProgramacion/diagrams/u03-flujo-printf.svg)
+![Flujo de printf: la plantilla con huecos %d y %s y los argumentos 25 y Ana pasan por la llamada hasta la salida formateada](/ApuntsProgramacio/diagrams/u03-flujo-printf.svg)
 
 ### Controlar los decimales y el ancho
 
@@ -246,4 +246,4 @@ El `%d` rellena con el entero, `%.1f` con un decimal, y `%.2f` con dos. Los tres
 > | `InputMismatchException` | Explosión al pedir un tipo y recibir otro |
 > | `hasNextInt()` | Pregunta si lo que viene es un entero, sin consumirlo |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/03-variables-tipos-operadores) · **Anterior:** [06 · Scanner: leer por teclado](/ApuntesProgramacion/03-variables-tipos-operadores/06-scanner-entrada-teclado) · **Siguiente:** [08 · Math.random() y números aleatorios](/ApuntesProgramacion/03-variables-tipos-operadores/08-math-random-aleatorios)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/03-variables-tipos-operadores) · **Anterior:** [06 · Scanner: leer por teclado](/ApuntsProgramacio/03-variables-tipos-operadores/06-scanner-entrada-teclado) · **Siguiente:** [08 · Math.random() y números aleatorios](/ApuntsProgramacio/03-variables-tipos-operadores/08-math-random-aleatorios)

@@ -10,8 +10,8 @@ import subprocess
 import tempfile
 
 ROOT = Path(__file__).resolve().parents[1]
-BASE = '/ApuntesProgramacion/'
-SITE = 'https://sergarb1.github.io' + BASE
+BASE = '/ApuntsProgramacio/'
+SITE = 'https://mpararols-ins-pde.github.io' + BASE
 LANGUAGES = {
     'es': ('Apuntes de programación Java', 'es-ES', 'cast', 'portada.png'),
     'va': ('Apunts de programació Java', 'ca-ES-valencia', 'val', 'portada_val.png'),

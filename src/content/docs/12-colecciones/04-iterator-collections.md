@@ -262,4 +262,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `shuffle` | Mezclar al azar |
 > | `frequency` | Contar apariciones |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/12-colecciones) · **Anterior:** [03 · HashSet, TreeSet y LinkedHashSet](/ApuntesProgramacion/12-colecciones/03-conjuntos-sets) · **Siguiente:** [05 · Tu propia clase genérica: `Caja<T>`](/ApuntesProgramacion/12-colecciones/05-clases-genericas)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/12-colecciones) · **Anterior:** [03 · HashSet, TreeSet y LinkedHashSet](/ApuntsProgramacio/12-colecciones/03-conjuntos-sets) · **Siguiente:** [05 · Tu propia clase genérica: `Caja<T>`](/ApuntsProgramacio/12-colecciones/05-clases-genericas)

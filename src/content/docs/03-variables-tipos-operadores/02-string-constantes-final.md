@@ -67,7 +67,7 @@ System.out.println(a.equals(c));  // true
 
 > ⚠️ **Advertencia:** regla de oro: **los `String` siempre se comparan con `.equals()`**. Si usas `==`, tarde o temprano te morderá en un examen.
 
-![Diagrama del pool de Strings: a y b apuntan al mismo objeto del pool y c a uno nuevo con new, con == comparando referencias y .equals() el contenido](/ApuntesProgramacion/diagrams/u03-pool-strings.svg)
+![Diagrama del pool de Strings: a y b apuntan al mismo objeto del pool y c a uno nuevo con new, con == comparando referencias y .equals() el contenido](/ApuntsProgramacio/diagrams/u03-pool-strings.svg)
 
 ---
 
@@ -188,4 +188,4 @@ Clásico de examen. Si lo aciertas a la primera, esta unidad la llevas bien.
 > | Pool de Strings | Zona donde Java reutiliza literales iguales |
 > | `.equals()` | Método que compara el contenido de dos objetos |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/03-variables-tipos-operadores) · **Anterior:** [01 · Variables y tipos primitivos](/ApuntesProgramacion/03-variables-tipos-operadores/01-variables-tipos-primitivos) · **Siguiente:** [03 · Operadores aritméticos](/ApuntesProgramacion/03-variables-tipos-operadores/03-operadores-aritmeticos)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/03-variables-tipos-operadores) · **Anterior:** [01 · Variables y tipos primitivos](/ApuntsProgramacio/03-variables-tipos-operadores/01-variables-tipos-primitivos) · **Siguiente:** [03 · Operadores aritméticos](/ApuntsProgramacio/03-variables-tipos-operadores/03-operadores-aritmeticos)

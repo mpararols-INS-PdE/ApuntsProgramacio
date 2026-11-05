@@ -221,4 +221,4 @@ La teva excepció hereta de `RuntimeException` (que al seu torn hereta d'`Except
 > | Unchecked | Excepció sense obligació de captura (`RuntimeException`) |
 > | `super(missatge)` | Passa el missatge a la classe pare |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/04-estructuras-control-excepciones) · **Anterior:** [07 · try, catch i finally](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/07-try-catch-finally) · **Següent:** [09 · Repàs interactiu](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/09-repaso-interactivo)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/04-estructuras-control-excepciones) · **Anterior:** [07 · try, catch i finally](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/07-try-catch-finally) · **Següent:** [09 · Repàs interactiu](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/09-repaso-interactivo)

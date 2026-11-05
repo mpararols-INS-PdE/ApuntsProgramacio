@@ -178,4 +178,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `Supplier<T>` | Fabrica un valor: `T get()` |
 > | `@FunctionalInterface` | Anotació que valida que la interfície és funcional |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/13-programacion-funcional) · **Anterior:** [01 · Lambdes: funcions que viatgen soles](/ApuntesProgramacion/ca/13-programacion-funcional/01-lambdas) · **Següent:** [03 · Referències a mètodes: la drecera `::`](/ApuntesProgramacion/ca/13-programacion-funcional/03-referencias-metodos)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/13-programacion-funcional) · **Anterior:** [01 · Lambdes: funcions que viatgen soles](/ApuntsProgramacio/ca/13-programacion-funcional/01-lambdas) · **Següent:** [03 · Referències a mètodes: la drecera `::`](/ApuntsProgramacio/ca/13-programacion-funcional/03-referencias-metodos)

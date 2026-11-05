@@ -175,4 +175,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `cannot find symbol` | Estàs usant una variable fora de la seva casa |
 > | Còpia de l'argument | El mètode treballa amb el seu propi duplicat |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/05-funciones) · **Anterior:** [04 · return: la sortida](/ApuntesProgramacion/ca/05-funciones/04-return-valores) · **Següent:** [06 · Errors freqüents](/ApuntesProgramacion/ca/05-funciones/06-errores-frecuentes)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/05-funciones) · **Anterior:** [04 · return: la sortida](/ApuntsProgramacio/ca/05-funciones/04-return-valores) · **Següent:** [06 · Errors freqüents](/ApuntsProgramacio/ca/05-funciones/06-errores-frecuentes)

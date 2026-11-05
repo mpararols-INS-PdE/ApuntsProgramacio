@@ -344,4 +344,4 @@ S'acosta CONRAD, el compilador cascarrabutxes, amb la seua tassa fumant.
 
 ---
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/16-apis-web) · **Anterior:** [08 · HttpClient avançat](/ApuntesProgramacion/va/16-apis-web/08-httpclient-avanzado) · **🎓 Fi del curs**
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/16-apis-web) · **Anterior:** [08 · HttpClient avançat](/ApuntsProgramacio/va/16-apis-web/08-httpclient-avanzado) · **🎓 Fi del curs**

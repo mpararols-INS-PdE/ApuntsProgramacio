@@ -37,15 +37,15 @@ En acabar, seràs capaç d'explicar:
 
 | Punt | Què aprendràs | Nivel |
 |---|---|---|
-| [01 · Què és un ordinador i un llenguatge de programació](/ApuntesProgramacion/ca/01-pensamiento-computacional/01-ordenadores-lenguajes) | Binari, compiladors vs intèrprets, JVM, terminologia clau | Todos |
-| [02 · Programar no és memoritzar codi](/ApuntesProgramacion/ca/01-pensamiento-computacional/02-no-memorizar) | Miratge de la comprensió, pantalla en blanc, tutorial hell | Todos |
-| [03 · Primer pensem, després escrivim](/ApuntesProgramacion/ca/01-pensamiento-computacional/03-pensar-antes) | Literalitat, els 4 passos sagrats, exercici del robot | Todos |
-| [04 · La descomposició](/ApuntesProgramacion/ca/01-pensamiento-computacional/04-descomposicion) | Divideix i venceràs, l'art de partir problemes | Todos |
-| [05 · Debugging i casos límit](/ApuntesProgramacion/ca/01-pensamiento-computacional/05-debugging-casos-limite) | El text vermell és el teu amic, edge cases | Todos |
-| [06 · El protocol de pau](/ApuntesProgramacion/ca/01-pensamiento-computacional/06-protocolo-paz) | 4 passos abans de demanar ajuda al fòrum | Todos |
-| [07 · Practicar (menys mirar, més intentar)](/ApuntesProgramacion/ca/01-pensamiento-computacional/07-practicar) | Regla 80/20, hàbits diaris del programador | Todos |
-| [08 · Com utilitzarem la IA](/ApuntesProgramacion/ca/01-pensamiento-computacional/08-ia-tutor) | Tutor socràtic, al·lucinacions, regles d'or | Todos |
-| [09 · El meu primer problema (pont cap a Java)](/ApuntesProgramacion/ca/01-pensamiento-computacional/09-primer-problema) | Comparador de nombres, pseudocodi, glossari | Todos |
+| [01 · Què és un ordinador i un llenguatge de programació](/ApuntsProgramacio/ca/01-pensamiento-computacional/01-ordenadores-lenguajes) | Binari, compiladors vs intèrprets, JVM, terminologia clau | Todos |
+| [02 · Programar no és memoritzar codi](/ApuntsProgramacio/ca/01-pensamiento-computacional/02-no-memorizar) | Miratge de la comprensió, pantalla en blanc, tutorial hell | Todos |
+| [03 · Primer pensem, després escrivim](/ApuntsProgramacio/ca/01-pensamiento-computacional/03-pensar-antes) | Literalitat, els 4 passos sagrats, exercici del robot | Todos |
+| [04 · La descomposició](/ApuntsProgramacio/ca/01-pensamiento-computacional/04-descomposicion) | Divideix i venceràs, l'art de partir problemes | Todos |
+| [05 · Debugging i casos límit](/ApuntsProgramacio/ca/01-pensamiento-computacional/05-debugging-casos-limite) | El text vermell és el teu amic, edge cases | Todos |
+| [06 · El protocol de pau](/ApuntsProgramacio/ca/01-pensamiento-computacional/06-protocolo-paz) | 4 passos abans de demanar ajuda al fòrum | Todos |
+| [07 · Practicar (menys mirar, més intentar)](/ApuntsProgramacio/ca/01-pensamiento-computacional/07-practicar) | Regla 80/20, hàbits diaris del programador | Todos |
+| [08 · Com utilitzarem la IA](/ApuntsProgramacio/ca/01-pensamiento-computacional/08-ia-tutor) | Tutor socràtic, al·lucinacions, regles d'or | Todos |
+| [09 · El meu primer problema (pont cap a Java)](/ApuntsProgramacio/ca/01-pensamiento-computacional/09-primer-problema) | Comparador de nombres, pseudocodi, glossari | Todos |
 
 > 📖 **Flux de lectura:** els 8 primers punts són teoria en progressió. El 9º és l'aterratge pràctic: lé-lo just després del 8º i abans d'obrir els boletins.
 
@@ -56,7 +56,7 @@ En acabar, seràs capaç d'explicar:
 > Entrena la ment de programador/a sense una sola línia de Java. Són exercicis no avaluables, però són la millor manera de trencar el gel.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u01-inicial" class="elink">🟢 Inicial per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u01-inicial" class="elink">🟢 Inicial per resoldre</a>
 </div>
 
 ---
@@ -76,9 +76,9 @@ En acabar, seràs capaç d'explicar:
 
 ## 🚪 Per on commence?
 
-- 🆕 Zero coneixements? → Comença en el [punt 1](/ApuntesProgramacion/ca/01-pensamiento-computacional/01-ordenadores-lenguajes), no hi ha cap requisit previ.
-- 💻 Ja saps què és un ordinador? → Ves directe al [punt 3](/ApuntesProgramacion/ca/01-pensamiento-computacional/03-pensar-antes) i torna enrere si et perds.
-- 🎯 Vens a repassar? → Fes les [activitats](/ApuntesProgramacion/ca/boletines/boletin-u01-inicial).
+- 🆕 Zero coneixements? → Comença en el [punt 1](/ApuntsProgramacio/ca/01-pensamiento-computacional/01-ordenadores-lenguajes), no hi ha cap requisit previ.
+- 💻 Ja saps què és un ordinador? → Ves directe al [punt 3](/ApuntsProgramacio/ca/01-pensamiento-computacional/03-pensar-antes) i torna enrere si et perds.
+- 🎯 Vens a repassar? → Fes les [activitats](/ApuntsProgramacio/ca/boletines/boletin-u01-inicial).
 
-**📍 Primer punt:** [01 · Què és un ordinador i un llenguatge de programació](/ApuntesProgramacion/ca/01-pensamiento-computacional/01-ordenadores-lenguajes)
-**⏭️ En acabar la unitat, continua en [U02 · Introducció a Java i l'entorn de treball](/ApuntesProgramacion/ca/02-introduccion).**
+**📍 Primer punt:** [01 · Què és un ordinador i un llenguatge de programació](/ApuntsProgramacio/ca/01-pensamiento-computacional/01-ordenadores-lenguajes)
+**⏭️ En acabar la unitat, continua en [U02 · Introducció a Java i l'entorn de treball](/ApuntsProgramacio/ca/02-introduccion).**

@@ -220,4 +220,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `getOrDefault` | Devolver un valor seguro si la clave no existe |
 > | `entrySet` | Las entradas (clave + valor) para recorrer |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/12-colecciones) · **Anterior:** [06 · El diamante, métodos genéricos y wildcards](/ApuntesProgramacion/12-colecciones/06-genericos-avanzado) · **Siguiente:** [08 · TreeMap y cómo elegir estructura](/ApuntesProgramacion/12-colecciones/08-treemap-elegir-estructura)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/12-colecciones) · **Anterior:** [06 · El diamante, métodos genéricos y wildcards](/ApuntsProgramacio/12-colecciones/06-genericos-avanzado) · **Siguiente:** [08 · TreeMap y cómo elegir estructura](/ApuntsProgramacio/12-colecciones/08-treemap-elegir-estructura)

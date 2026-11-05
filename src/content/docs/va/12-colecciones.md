@@ -43,15 +43,15 @@ En acabar, seràs capaç de:
 
 | Punt | Què aprendràs | Dificultat |
 |---|---|---|
-| [01 · ArrayList i el Java Collections Framework](/ApuntesProgramacion/va/12-colecciones/01-arraylist-jcf) | L'aparcament que creix sol, la família `java.util` i per què no guarda `int` a palpes | Tots |
-| [02 · LinkedList: la conga line](/ApuntesProgramacion/va/12-colecciones/02-linkedlist) | La llista enllaçada, cues FIFO, piles LIFO i els seus mètodes d'extrems | Tots |
-| [03 · HashSet, TreeSet i LinkedHashSet: els conjunts](/ApuntesProgramacion/va/12-colecciones/03-conjuntos-sets) | El porter sense duplicats, el que ordena sol i el que recorda l'ordre d'arribada | Tots |
-| [04 · Iterator i Collections](/ApuntesProgramacion/va/12-colecciones/04-iterator-collections) | Esborrar mentre recorres i la navalla suïssa de les col·leccions | Tots |
-| [05 · Classes genèriques: la teua `Caja<T>`](/ApuntesProgramacion/va/12-colecciones/05-clases-genericas) | D'on ix el `<String>`, convencions T/E/K/V i la teua primera classe genèrica | Tots |
-| [06 · El diamant, mètodes genèrics i wildcards](/ApuntesProgramacion/va/12-colecciones/06-genericos-avanzado) | Type erasure, inferència, límits i el principi PECS | Tots |
-| [07 · HashMap: la guia telefònica](/ApuntesProgramacion/va/12-colecciones/07-hashmap) | Clau → valor, `get`, `put`, `containsKey` i recórrer mapes | Tots |
-| [08 · TreeMap i com triar estructura](/ApuntesProgramacion/va/12-colecciones/08-treemap-elegir-estructura) | Mapes ordenats, `LinkedHashMap` i Map vs List vs Set | Tots |
-| [09 · Repàs interactiu](/ApuntesProgramacion/va/12-colecciones/09-repaso-interactivo) | Sé el Código, Fireside, Laboratori, Crucigrama i més | Tots |
+| [01 · ArrayList i el Java Collections Framework](/ApuntsProgramacio/va/12-colecciones/01-arraylist-jcf) | L'aparcament que creix sol, la família `java.util` i per què no guarda `int` a palpes | Tots |
+| [02 · LinkedList: la conga line](/ApuntsProgramacio/va/12-colecciones/02-linkedlist) | La llista enllaçada, cues FIFO, piles LIFO i els seus mètodes d'extrems | Tots |
+| [03 · HashSet, TreeSet i LinkedHashSet: els conjunts](/ApuntsProgramacio/va/12-colecciones/03-conjuntos-sets) | El porter sense duplicats, el que ordena sol i el que recorda l'ordre d'arribada | Tots |
+| [04 · Iterator i Collections](/ApuntsProgramacio/va/12-colecciones/04-iterator-collections) | Esborrar mentre recorres i la navalla suïssa de les col·leccions | Tots |
+| [05 · Classes genèriques: la teua `Caja<T>`](/ApuntsProgramacio/va/12-colecciones/05-clases-genericas) | D'on ix el `<String>`, convencions T/E/K/V i la teua primera classe genèrica | Tots |
+| [06 · El diamant, mètodes genèrics i wildcards](/ApuntsProgramacio/va/12-colecciones/06-genericos-avanzado) | Type erasure, inferència, límits i el principi PECS | Tots |
+| [07 · HashMap: la guia telefònica](/ApuntsProgramacio/va/12-colecciones/07-hashmap) | Clau → valor, `get`, `put`, `containsKey` i recórrer mapes | Tots |
+| [08 · TreeMap i com triar estructura](/ApuntsProgramacio/va/12-colecciones/08-treemap-elegir-estructura) | Mapes ordenats, `LinkedHashMap` i Map vs List vs Set | Tots |
+| [09 · Repàs interactiu](/ApuntsProgramacio/va/12-colecciones/09-repaso-interactivo) | Sé el Código, Fireside, Laboratori, Crucigrama i més | Tots |
 
 > 📖 **Flux de lectura:** els 8 primers punts són teoria en progressió. El 9 és l'aterratge pràctic: llig-lo just després del 8 i abans d'obrir els butlletins.
 
@@ -62,11 +62,11 @@ En acabar, seràs capaç de:
 > Practica amb els parells del curs: intenta primer el per-resoldre i comprova amb el resolt quan hagues acabat.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u12-inicial" class="elink">🟢 Inicial per resoldre</a>
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u12-inicial-resuelto" class="elink">✅ Inicial resolt</a>
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u12-avanzado" class="elink">⭐ Avançat per resoldre</a>
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u12-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u12-extras" class="elink">🔥 Extres</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u12-inicial" class="elink">🟢 Inicial per resoldre</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u12-inicial-resuelto" class="elink">✅ Inicial resolt</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u12-avanzado" class="elink">⭐ Avançat per resoldre</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u12-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u12-extras" class="elink">🔥 Extres</a>
 </div>
 
 ---
@@ -89,11 +89,11 @@ En acabar, seràs capaç de:
 
 ## 🚪 Per on comence?
 
-- Vens de la U11 i vols l'essencial? → Comença en el [punt 1](/ApuntesProgramacion/va/12-colecciones/01-arraylist-jcf) i el [punt 2](/ApuntesProgramacion/va/12-colecciones/02-linkedlist): les llistes de tots els dies.
-- Ja uses llistes i vols conjunts? → Ves directe al [punt 3](/ApuntesProgramacion/va/12-colecciones/03-conjuntos-sets): duplicats fora.
-- Et pica la curiositat del `<T>`? → Salta al [punt 5](/ApuntesProgramacion/va/12-colecciones/05-clases-genericas) i al [punt 6](/ApuntesProgramacion/va/12-colecciones/06-genericos-avanzado): genèrics de cap a cap.
-- Vols mapes? → [Punt 7](/ApuntesProgramacion/va/12-colecciones/07-hashmap) i [punt 8](/ApuntesProgramacion/va/12-colecciones/08-treemap-elegir-estructura): la guia telefònica i el mapa de decisió.
-- Vens a repassar? → Fes el [Repàs interactiu](/ApuntesProgramacion/va/12-colecciones/09-repaso-interactivo) i després els [butlletins](/ApuntesProgramacion/va/boletines/boletin-u12-inicial).
+- Vens de la U11 i vols l'essencial? → Comença en el [punt 1](/ApuntsProgramacio/va/12-colecciones/01-arraylist-jcf) i el [punt 2](/ApuntsProgramacio/va/12-colecciones/02-linkedlist): les llistes de tots els dies.
+- Ja uses llistes i vols conjunts? → Ves directe al [punt 3](/ApuntsProgramacio/va/12-colecciones/03-conjuntos-sets): duplicats fora.
+- Et pica la curiositat del `<T>`? → Salta al [punt 5](/ApuntsProgramacio/va/12-colecciones/05-clases-genericas) i al [punt 6](/ApuntsProgramacio/va/12-colecciones/06-genericos-avanzado): genèrics de cap a cap.
+- Vols mapes? → [Punt 7](/ApuntsProgramacio/va/12-colecciones/07-hashmap) i [punt 8](/ApuntsProgramacio/va/12-colecciones/08-treemap-elegir-estructura): la guia telefònica i el mapa de decisió.
+- Vens a repassar? → Fes el [Repàs interactiu](/ApuntsProgramacio/va/12-colecciones/09-repaso-interactivo) i després els [butlletins](/ApuntsProgramacio/va/boletines/boletin-u12-inicial).
 
-**📍 Primer punt:** [01 · ArrayList i el Java Collections Framework](/ApuntesProgramacion/va/12-colecciones/01-arraylist-jcf)  
-**⏭️ En acabar la unitat, continua en [U13 · Programació funcional (Streams i Lambdas)](/ApuntesProgramacion/va/13-programacion-funcional).**
+**📍 Primer punt:** [01 · ArrayList i el Java Collections Framework](/ApuntsProgramacio/va/12-colecciones/01-arraylist-jcf)  
+**⏭️ En acabar la unitat, continua en [U13 · Programació funcional (Streams i Lambdas)](/ApuntsProgramacio/va/13-programacion-funcional).**

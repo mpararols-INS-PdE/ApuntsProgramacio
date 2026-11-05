@@ -189,4 +189,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Refactoritzar | Reorganitzar sense canviar el que fa |
 > | Mètode helper | Ajudant petit al servei d'un altre pas |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/05-funciones) · **Anterior:** [06 · Errors freqüents](/ApuntesProgramacion/ca/05-funciones/06-errores-frecuentes) · **Següent:** [08 · Be the Code](/ApuntesProgramacion/ca/05-funciones/08-be-the-code)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/05-funciones) · **Anterior:** [06 · Errors freqüents](/ApuntsProgramacio/ca/05-funciones/06-errores-frecuentes) · **Següent:** [08 · Be the Code](/ApuntsProgramacio/ca/05-funciones/08-be-the-code)

@@ -167,4 +167,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Contador | Atributo `static` que se incrementa en cada `new` |
 > | Id autoincremental | Número único asignado con el contador |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/10-visibilidad-encapsulacion-static) · **Anterior:** [04 · Getters y setters](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/04-getters-setters) · **Siguiente:** [06 · Métodos static y el main](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/06-metodos-static)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/10-visibilidad-encapsulacion-static) · **Anterior:** [04 · Getters y setters](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/04-getters-setters) · **Siguiente:** [06 · Métodos static y el main](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/06-metodos-static)

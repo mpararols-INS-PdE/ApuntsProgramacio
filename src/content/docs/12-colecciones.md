@@ -43,15 +43,15 @@ Al terminar, serás capaz de:
 
 | Punto | Qué aprenderás | Dificultad |
 |---|---|---|
-| [01 · ArrayList y el Java Collections Framework](/ApuntesProgramacion/12-colecciones/01-arraylist-jcf) | El parking que crece solo, la familia `java.util` y por qué no guarda `int` a pelo | Todos |
-| [02 · LinkedList: la conga line](/ApuntesProgramacion/12-colecciones/02-linkedlist) | La lista enlazada, colas FIFO, pilas LIFO y sus métodos de extremos | Todos |
-| [03 · HashSet, TreeSet y LinkedHashSet: los conjuntos](/ApuntesProgramacion/12-colecciones/03-conjuntos-sets) | El porter sin duplicados, el que ordena solo y el que recuerda el orden de llegada | Todos |
-| [04 · Iterator y Collections](/ApuntesProgramacion/12-colecciones/04-iterator-collections) | Borrar mientras recorres y la navaja suiza de las colecciones | Todos |
-| [05 · Clases genéricas: tu propia `Caja<T>`](/ApuntesProgramacion/12-colecciones/05-clases-genericas) | De dónde sale el `<String>`, convenciones T/E/K/V y tu primera clase genérica | Todos |
-| [06 · El diamante, métodos genéricos y wildcards](/ApuntesProgramacion/12-colecciones/06-genericos-avanzado) | Type erasure, inferencia, límites y el principio PECS | Todos |
-| [07 · HashMap: la guía telefónica](/ApuntesProgramacion/12-colecciones/07-hashmap) | Clave → valor, `get`, `put`, `containsKey` y recorrer mapas | Todos |
-| [08 · TreeMap y cómo elegir estructura](/ApuntesProgramacion/12-colecciones/08-treemap-elegir-estructura) | Mapas ordenados, `LinkedHashMap` y Map vs List vs Set | Todos |
-| [09 · Repaso interactivo](/ApuntesProgramacion/12-colecciones/09-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
+| [01 · ArrayList y el Java Collections Framework](/ApuntsProgramacio/12-colecciones/01-arraylist-jcf) | El parking que crece solo, la familia `java.util` y por qué no guarda `int` a pelo | Todos |
+| [02 · LinkedList: la conga line](/ApuntsProgramacio/12-colecciones/02-linkedlist) | La lista enlazada, colas FIFO, pilas LIFO y sus métodos de extremos | Todos |
+| [03 · HashSet, TreeSet y LinkedHashSet: los conjuntos](/ApuntsProgramacio/12-colecciones/03-conjuntos-sets) | El porter sin duplicados, el que ordena solo y el que recuerda el orden de llegada | Todos |
+| [04 · Iterator y Collections](/ApuntsProgramacio/12-colecciones/04-iterator-collections) | Borrar mientras recorres y la navaja suiza de las colecciones | Todos |
+| [05 · Clases genéricas: tu propia `Caja<T>`](/ApuntsProgramacio/12-colecciones/05-clases-genericas) | De dónde sale el `<String>`, convenciones T/E/K/V y tu primera clase genérica | Todos |
+| [06 · El diamante, métodos genéricos y wildcards](/ApuntsProgramacio/12-colecciones/06-genericos-avanzado) | Type erasure, inferencia, límites y el principio PECS | Todos |
+| [07 · HashMap: la guía telefónica](/ApuntsProgramacio/12-colecciones/07-hashmap) | Clave → valor, `get`, `put`, `containsKey` y recorrer mapas | Todos |
+| [08 · TreeMap y cómo elegir estructura](/ApuntsProgramacio/12-colecciones/08-treemap-elegir-estructura) | Mapas ordenados, `LinkedHashMap` y Map vs List vs Set | Todos |
+| [09 · Repaso interactivo](/ApuntsProgramacio/12-colecciones/09-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
 
 > 📖 **Flujo de lectura:** los 8 primeros puntos son teoría en progresión. El 9º es el aterrizaje práctico: léelo justo después del 8º y antes de abrir los boletines.
 
@@ -62,11 +62,11 @@ Al terminar, serás capaz de:
 > Practica con los pares del curso: intenta primero el por-resolver y comprueba con el resuelto cuando hayas terminado.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/boletines/boletin-u12-inicial" class="elink">🟢 Inicial por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u12-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u12-avanzado" class="elink">⭐ Avanzado por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u12-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u12-extras" class="elink">🔥 Extras</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u12-inicial" class="elink">🟢 Inicial por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u12-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u12-avanzado" class="elink">⭐ Avanzado por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u12-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u12-extras" class="elink">🔥 Extras</a>
 </div>
 
 ---
@@ -89,11 +89,11 @@ Al terminar, serás capaz de:
 
 ## 🚪 ¿Por dónde empiezo?
 
-- ¿Vienes de la U11 y quieres lo esencial? → Arranca en el [punto 1](/ApuntesProgramacion/12-colecciones/01-arraylist-jcf) y el [punto 2](/ApuntesProgramacion/12-colecciones/02-linkedlist): las listas de todos los días.
-- ¿Ya usas listas y quieres conjuntos? → Ve directo al [punto 3](/ApuntesProgramacion/12-colecciones/03-conjuntos-sets): duplicados fuera.
-- ¿Te pica la curiosidad del `<T>`? → Salta al [punto 5](/ApuntesProgramacion/12-colecciones/05-clases-genericas) y al [punto 6](/ApuntesProgramacion/12-colecciones/06-genericos-avanzado): genéricos de cabo a rabo.
-- ¿Quieres mapas? → [Punto 7](/ApuntesProgramacion/12-colecciones/07-hashmap) y [punto 8](/ApuntesProgramacion/12-colecciones/08-treemap-elegir-estructura): la guía telefónica y el mapa de decisión.
-- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntesProgramacion/12-colecciones/09-repaso-interactivo) y después los [boletines](/ApuntesProgramacion/boletines/boletin-u12-inicial).
+- ¿Vienes de la U11 y quieres lo esencial? → Arranca en el [punto 1](/ApuntsProgramacio/12-colecciones/01-arraylist-jcf) y el [punto 2](/ApuntsProgramacio/12-colecciones/02-linkedlist): las listas de todos los días.
+- ¿Ya usas listas y quieres conjuntos? → Ve directo al [punto 3](/ApuntsProgramacio/12-colecciones/03-conjuntos-sets): duplicados fuera.
+- ¿Te pica la curiosidad del `<T>`? → Salta al [punto 5](/ApuntsProgramacio/12-colecciones/05-clases-genericas) y al [punto 6](/ApuntsProgramacio/12-colecciones/06-genericos-avanzado): genéricos de cabo a rabo.
+- ¿Quieres mapas? → [Punto 7](/ApuntsProgramacio/12-colecciones/07-hashmap) y [punto 8](/ApuntsProgramacio/12-colecciones/08-treemap-elegir-estructura): la guía telefónica y el mapa de decisión.
+- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntsProgramacio/12-colecciones/09-repaso-interactivo) y después los [boletines](/ApuntsProgramacio/boletines/boletin-u12-inicial).
 
-**📍 Primer punto:** [01 · ArrayList y el Java Collections Framework](/ApuntesProgramacion/12-colecciones/01-arraylist-jcf)  
-**⏭️ Al acabar la unidad, continúa en [U13 · Programación funcional (Streams y Lambdas)](/ApuntesProgramacion/13-programacion-funcional).**
+**📍 Primer punto:** [01 · ArrayList y el Java Collections Framework](/ApuntsProgramacio/12-colecciones/01-arraylist-jcf)  
+**⏭️ Al acabar la unidad, continúa en [U13 · Programación funcional (Streams y Lambdas)](/ApuntsProgramacio/13-programacion-funcional).**

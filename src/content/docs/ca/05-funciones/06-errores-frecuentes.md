@@ -181,4 +181,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `static context` | Cridar a algo de classe des de `main` (detalls en U10) |
 > | Error de lògica | Compila i executa, però ment |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/05-funciones) · **Anterior:** [05 · Àmbit de variables](/ApuntesProgramacion/ca/05-funciones/05-ambito-variables) · **Següent:** [07 · Divideix el problema](/ApuntesProgramacion/ca/05-funciones/07-divide-problema)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/05-funciones) · **Anterior:** [05 · Àmbit de variables](/ApuntsProgramacio/ca/05-funciones/05-ambito-variables) · **Següent:** [07 · Divideix el problema](/ApuntsProgramacio/ca/05-funciones/07-divide-problema)

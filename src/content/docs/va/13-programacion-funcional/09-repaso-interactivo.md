@@ -356,4 +356,4 @@ S'acosta CONRAD, el compilador cascarrabutxes, amb la seua tassa fumant.
 
 ---
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/13-programacion-funcional) · **Anterior:** [08 · Optional: el que accepta l'absència](/ApuntesProgramacion/va/13-programacion-funcional/08-optional) · **Següent:** **[U14 · Fitxers i expressions regulars (Regex)](/ApuntesProgramacion/va/14-ficheros-regex)**
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/13-programacion-funcional) · **Anterior:** [08 · Optional: el que accepta l'absència](/ApuntsProgramacio/va/13-programacion-funcional/08-optional) · **Següent:** **[U14 · Fitxers i expressions regulars (Regex)](/ApuntsProgramacio/va/14-ficheros-regex)**

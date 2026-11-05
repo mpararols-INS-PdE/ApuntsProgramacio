@@ -4,18 +4,18 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
 ---
 
 <div align="center">
-  <img src="https://sergarb1.github.io/ApuntesProgramacion/portada.png" alt="☕ Programación Java — DAM/DAW. Curso completo de iniciación a la programación en Java. En castellano, valenciano y catalán, con buscador, modo oscuro y diseño premium." style="max-width:100%;height:auto;border-radius:12px;margin:0 0 1.5rem;box-shadow:0 8px 40px rgba(0,0,0,0.15);">
+  <img src="https://mpararols-ins-pde.github.io/ApuntsProgramacio/portada.png" alt="☕ Programación Java — DAM/DAW. Curso completo de iniciación a la programación en Java. En castellano, valenciano y catalán, con buscador, modo oscuro y diseño premium." style="max-width:100%;height:auto;border-radius:12px;margin:0 0 1.5rem;box-shadow:0 8px 40px rgba(0,0,0,0.15);">
 </div>
 
 <div align="center" style="margin-bottom:2rem;">
-  <a href="/ApuntesProgramacion/02-introduccion" style="display:inline-block;padding:0.75rem 2rem;background:linear-gradient(135deg,#2d8a4e,#1e6b38);color:#fff;border-radius:8px;text-decoration:none;font-weight:600;margin:0 0.5rem;">🚀 Empezar por la Unidad 2</a>
-  <a href="/ApuntesProgramacion/01-pensamiento-computacional" style="display:inline-block;padding:0.75rem 2rem;background:var(--sl-color-gray-5);color:var(--sl-color-white);border-radius:8px;text-decoration:none;font-weight:600;margin:0 0.5rem;">🧠 Primero: Introducción al Pensamiento Computacional</a>
-  <a href="https://github.com/sergarb1/ApuntesProgramacion" style="display:inline-block;padding:0.75rem 2rem;background:var(--sl-color-gray-5);color:var(--sl-color-white);border-radius:8px;text-decoration:none;font-weight:600;margin:0 0.5rem;">🐙 Ver en GitHub</a>
+  <a href="/ApuntsProgramacio/02-introduccion" style="display:inline-block;padding:0.75rem 2rem;background:linear-gradient(135deg,#2d8a4e,#1e6b38);color:#fff;border-radius:8px;text-decoration:none;font-weight:600;margin:0 0.5rem;">🚀 Empezar por la Unidad 2</a>
+  <a href="/ApuntsProgramacio/01-pensamiento-computacional" style="display:inline-block;padding:0.75rem 2rem;background:var(--sl-color-gray-5);color:var(--sl-color-white);border-radius:8px;text-decoration:none;font-weight:600;margin:0 0.5rem;">🧠 Primero: Introducción al Pensamiento Computacional</a>
+  <a href="https://github.com/mpararols-INS-PdE/ApuntsProgramacio" style="display:inline-block;padding:0.75rem 2rem;background:var(--sl-color-gray-5);color:var(--sl-color-white);border-radius:8px;text-decoration:none;font-weight:600;margin:0 0.5rem;">🐙 Ver en GitHub</a>
 </div>
 
 <div align="center">
   <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank">
-    <img src="/ApuntesProgramacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31">
+    <img src="/ApuntsProgramacio/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31">
   </a>
   <p style="font-size:0.8rem;color:var(--sl-color-gray-3);margin-top:0.5rem;">
     <strong>Sergi Garcia Barea</strong> — CC BY-SA 4.0
@@ -25,12 +25,12 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
 <div class="download-bar">
   <p class="download-msg">⬇️ ¿Prefieres estudiar sin conexión? Descarga el curso completo</p>
   <div class="download-links">
-    <a href="/ApuntesProgramacion/pdf/ApuntesProgramacion-es.pdf" class="dl-btn">📄 PDF (Castellano)</a>
-    <a href="/ApuntesProgramacion/pdf/ApuntesProgramacion-va.pdf" class="dl-btn">📄 PDF (Valencià)</a>
-    <a href="/ApuntesProgramacion/pdf/ApuntesProgramacion-ca.pdf" class="dl-btn">📄 PDF (Catalán)</a>
-    <a href="/ApuntesProgramacion/epub/ApuntesProgramacion-cast.epub" class="dl-btn">📱 EPUB (Castellano)</a>
-    <a href="/ApuntesProgramacion/epub/ApuntesProgramacion-val.epub" class="dl-btn">📱 EPUB (Valencià)</a>
-    <a href="/ApuntesProgramacion/epub/ApuntesProgramacion-ca.epub" class="dl-btn">📱 EPUB (Catalán)</a>
+    <a href="/ApuntsProgramacio/pdf/ApuntesProgramacion-es.pdf" class="dl-btn">📄 PDF (Castellano)</a>
+    <a href="/ApuntsProgramacio/pdf/ApuntesProgramacion-va.pdf" class="dl-btn">📄 PDF (Valencià)</a>
+    <a href="/ApuntsProgramacio/pdf/ApuntesProgramacion-ca.pdf" class="dl-btn">📄 PDF (Catalán)</a>
+    <a href="/ApuntsProgramacio/epub/ApuntesProgramacion-cast.epub" class="dl-btn">📱 EPUB (Castellano)</a>
+    <a href="/ApuntsProgramacio/epub/ApuntesProgramacion-val.epub" class="dl-btn">📱 EPUB (Valencià)</a>
+    <a href="/ApuntsProgramacio/epub/ApuntesProgramacion-ca.epub" class="dl-btn">📱 EPUB (Catalán)</a>
   </div>
 </div>
 
@@ -43,9 +43,9 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
     <span class="num">Unidad 1</span>
     <span class="ra">RA1</span>
   </div>
-  <a href="/ApuntesProgramacion/01-pensamiento-computacional" class="title-link">Introducción al Pensamiento Computacional</a>
+  <a href="/ApuntsProgramacio/01-pensamiento-computacional" class="title-link">Introducción al Pensamiento Computacional</a>
   <p class="desc">Antes de código, pensemos. Descomposición, debugging, protocolo de paz y tu primer problema de programación sin tocar Java.</p>
-  <a href="/ApuntesProgramacion/01-pensamiento-computacional" class="unit-link">👉 Ver unidad 👈</a>
+  <a href="/ApuntsProgramacio/01-pensamiento-computacional" class="unit-link">👉 Ver unidad 👈</a>
 
 </div>
 
@@ -54,9 +54,9 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
     <span class="num">Unidad 2</span>
     <span class="ra">RA1</span>
   </div>
-  <a href="/ApuntesProgramacion/02-introduccion" class="title-link">Introducción a Java y el entorno de trabajo</a>
+  <a href="/ApuntsProgramacio/02-introduccion" class="title-link">Introducción a Java y el entorno de trabajo</a>
   <p class="desc">Primer contacto con Java: instala el JDK, escribe tu primer programa, conoce el método <code>main</code>, los comentarios y los argumentos de línea de comandos.</p>
-  <a href="/ApuntesProgramacion/02-introduccion" class="unit-link">👉 Ver unidad 👈</a>
+  <a href="/ApuntsProgramacio/02-introduccion" class="unit-link">👉 Ver unidad 👈</a>
 
 </div>
 
@@ -65,9 +65,9 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
     <span class="num">Unidad 3</span>
     <span class="ra">RA2</span>
   </div>
-  <a href="/ApuntesProgramacion/03-variables-tipos-operadores" class="title-link">Variables, tipos y operadores</a>
+  <a href="/ApuntsProgramacio/03-variables-tipos-operadores" class="title-link">Variables, tipos y operadores</a>
   <p class="desc">Declara variables, usa tipos primitivos, operadores aritméticos y lógicos, conversiones de tipo y lee datos por teclado con <code>Scanner</code>.</p>
-  <a href="/ApuntesProgramacion/03-variables-tipos-operadores" class="unit-link">👉 Ver unidad 👈</a>
+  <a href="/ApuntsProgramacio/03-variables-tipos-operadores" class="unit-link">👉 Ver unidad 👈</a>
 
 </div>
 
@@ -76,9 +76,9 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
     <span class="num">Unidad 4</span>
     <span class="ra">RA3</span>
   </div>
-  <a href="/ApuntesProgramacion/04-estructuras-control-excepciones" class="title-link">Estructuras de control y excepciones básicas</a>
+  <a href="/ApuntsProgramacio/04-estructuras-control-excepciones" class="title-link">Estructuras de control y excepciones básicas</a>
   <p class="desc">Domina <code>if</code>/<code>else</code>, <code>switch</code>, bucles <code>while</code> y <code>for</code>, y maneja excepciones con <code>try</code>/<code>catch</code> para que tu programa nunca se rompa.</p>
-  <a href="/ApuntesProgramacion/04-estructuras-control-excepciones" class="unit-link">👉 Ver unidad 👈</a>
+  <a href="/ApuntsProgramacio/04-estructuras-control-excepciones" class="unit-link">👉 Ver unidad 👈</a>
 
 </div>
 
@@ -87,9 +87,9 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
     <span class="num">Unidad 5</span>
     <span class="ra">RA2</span>
   </div>
-  <a href="/ApuntesProgramacion/05-funciones" class="title-link">Funciones y métodos</a>
+  <a href="/ApuntsProgramacio/05-funciones" class="title-link">Funciones y métodos</a>
   <p class="desc">Pasa de escribir código suelto a diseñarlo: métodos con parámetros, <code>return</code> con sentido y variables con su ámbito.</p>
-  <a href="/ApuntesProgramacion/05-funciones" class="unit-link">
+  <a href="/ApuntsProgramacio/05-funciones" class="unit-link">
 👉
  Ver unidad 
 👈
@@ -102,9 +102,9 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
     <span class="num">Unidad 6</span>
     <span class="ra">RA6</span>
   </div>
-  <a href="/ApuntesProgramacion/06-arrays" class="title-link">Arrays</a>
+  <a href="/ApuntsProgramacio/06-arrays" class="title-link">Arrays</a>
   <p class="desc">Los arrays son el aparcamiento de datos: declara, recorre, ordena y manipula colecciones de datos con arrays unidimensionales, multidimensionales y la clase <code>Arrays</code>.</p>
-  <a href="/ApuntesProgramacion/06-arrays" class="unit-link">👉 Ver unidad 👈</a>
+  <a href="/ApuntsProgramacio/06-arrays" class="unit-link">👉 Ver unidad 👈</a>
 
 </div>
 
@@ -113,9 +113,9 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
     <span class="num">Unidad 7</span>
     <span class="ra">RA2, RA6</span>
   </div>
-  <a href="/ApuntesProgramacion/07-algoritmica-fundamentos" class="title-link">Algorítmica I: Fundamentos</a>
+  <a href="/ApuntsProgramacio/07-algoritmica-fundamentos" class="title-link">Algorítmica I: Fundamentos</a>
   <p class="desc">Aprende a pensar como un programador: divide problemas en partes, usa pseudocódigo, diagramas de flujo y crea funciones reutilizables.</p>
-  <a href="/ApuntesProgramacion/07-algoritmica-fundamentos" class="unit-link">👉 Ver unidad 👈</a>
+  <a href="/ApuntsProgramacio/07-algoritmica-fundamentos" class="unit-link">👉 Ver unidad 👈</a>
 
 </div>
 
@@ -124,9 +124,9 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
     <span class="num">Unidad 8</span>
     <span class="ra">RA2, RA6</span>
   </div>
-  <a href="/ApuntesProgramacion/08-algoritmica-tecnicas" class="title-link">Algorítmica II: técnicas avanzadas y modularidad</a>
+  <a href="/ApuntsProgramacio/08-algoritmica-tecnicas" class="title-link">Algorítmica II: técnicas avanzadas y modularidad</a>
   <p class="desc">Algoritmos de ordenación, búsqueda binaria, recursividad y técnicas divide y vencerás para resolver problemas más complejos.</p>
-  <a href="/ApuntesProgramacion/08-algoritmica-tecnicas" class="unit-link">👉 Ver unidad 👈</a>
+  <a href="/ApuntsProgramacio/08-algoritmica-tecnicas" class="unit-link">👉 Ver unidad 👈</a>
 
 </div>
 
@@ -135,9 +135,9 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
     <span class="num">Unidad 9</span>
     <span class="ra">RA2, RA4</span>
   </div>
-  <a href="/ApuntesProgramacion/09-poo-clases-objetos" class="title-link">POO: clases y objetos</a>
+  <a href="/ApuntsProgramacio/09-poo-clases-objetos" class="title-link">POO: clases y objetos</a>
   <p class="desc">Programación Orientada a Objetos: crea clases, instancia objetos, define atributos y métodos, y entiende la magia de los constructores.</p>
-  <a href="/ApuntesProgramacion/09-poo-clases-objetos" class="unit-link">👉 Ver unidad 👈</a>
+  <a href="/ApuntsProgramacio/09-poo-clases-objetos" class="unit-link">👉 Ver unidad 👈</a>
 
 </div>
 
@@ -146,9 +146,9 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
     <span class="num">Unidad 10</span>
     <span class="ra">RA4</span>
   </div>
-  <a href="/ApuntesProgramacion/10-visibilidad-encapsulacion-static" class="title-link">Visibilidad, encapsulación y static</a>
+  <a href="/ApuntsProgramacio/10-visibilidad-encapsulacion-static" class="title-link">Visibilidad, encapsulación y static</a>
   <p class="desc">Controla quién ve qué: modificadores de acceso (<code>public</code>, <code>private</code>, <code>protected</code>), encapsulación con getters/setters, miembros <code>static</code> y constantes.</p>
-  <a href="/ApuntesProgramacion/10-visibilidad-encapsulacion-static" class="unit-link">👉 Ver unidad 👈</a>
+  <a href="/ApuntsProgramacio/10-visibilidad-encapsulacion-static" class="unit-link">👉 Ver unidad 👈</a>
 
 </div>
 
@@ -157,9 +157,9 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
     <span class="num">Unidad 11</span>
     <span class="ra">RA4, RA7</span>
   </div>
-  <a href="/ApuntesProgramacion/11-herencia-polimorfismo-interfaces" class="title-link">Herencia, polimorfismo e interfaces</a>
+  <a href="/ApuntsProgramacio/11-herencia-polimorfismo-interfaces" class="title-link">Herencia, polimorfismo e interfaces</a>
   <p class="desc">Herencia, polimorfismo, clases abstractas e interfaces: la base del diseño flexible y reutilizable en Java. Aprende a sobrescribir métodos y a usar <code>super</code>.</p>
-  <a href="/ApuntesProgramacion/11-herencia-polimorfismo-interfaces" class="unit-link">👉 Ver unidad 👈</a>
+  <a href="/ApuntsProgramacio/11-herencia-polimorfismo-interfaces" class="unit-link">👉 Ver unidad 👈</a>
 
 </div>
 
@@ -168,9 +168,9 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
     <span class="num">Unidad 12</span>
     <span class="ra">RA6</span>
   </div>
-  <a href="/ApuntesProgramacion/12-colecciones" class="title-link">Colecciones, genéricos y mapas</a>
+  <a href="/ApuntsProgramacio/12-colecciones" class="title-link">Colecciones, genéricos y mapas</a>
   <p class="desc">El Java Collections Framework completo: <code>ArrayList</code>, <code>LinkedList</code>, <code>HashSet</code>, <code>TreeSet</code>, <code>Iterator</code>, <code>Collections</code>, genéricos (<code>Caja&lt;T&gt;</code>, wildcards) y mapas (<code>HashMap</code>, <code>TreeMap</code>).</p>
-  <a href="/ApuntesProgramacion/12-colecciones" class="unit-link">👉 Ver unidad 👈</a>
+  <a href="/ApuntsProgramacio/12-colecciones" class="unit-link">👉 Ver unidad 👈</a>
 
 </div>
 
@@ -179,9 +179,9 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
     <span class="num">Unidad 13</span>
     <span class="ra">RA6, RA7</span>
   </div>
-  <a href="/ApuntesProgramacion/13-programacion-funcional" class="title-link">Programación funcional (Streams y Lambdas)</a>
+  <a href="/ApuntsProgramacio/13-programacion-funcional" class="title-link">Programación funcional (Streams y Lambdas)</a>
   <p class="desc">Lambdas, interfaces funcionales, referencias a métodos, la Stream API (<code>filter</code>, <code>map</code>, <code>reduce</code>, <code>collect</code>) y <code>Optional</code> para escribir Java moderno y expresivo.</p>
-  <a href="/ApuntesProgramacion/13-programacion-funcional" class="unit-link">👉 Ver unidad 👈</a>
+  <a href="/ApuntsProgramacio/13-programacion-funcional" class="unit-link">👉 Ver unidad 👈</a>
 
 </div>
 
@@ -190,9 +190,9 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
     <span class="num">Unidad 14</span>
     <span class="ra">RA5</span>
   </div>
-  <a href="/ApuntesProgramacion/14-ficheros-regex" class="title-link">Ficheros y expresiones regulares (Regex)</a>
+  <a href="/ApuntsProgramacio/14-ficheros-regex" class="title-link">Ficheros y expresiones regulares (Regex)</a>
   <p class="desc">Lectura y escritura de ficheros de texto y binarios, serialización de objetos y expresiones regulares para buscar, validar y reemplazar patrones en texto.</p>
-  <a href="/ApuntesProgramacion/14-ficheros-regex" class="unit-link">👉 Ver unidad 👈</a>
+  <a href="/ApuntsProgramacio/14-ficheros-regex" class="unit-link">👉 Ver unidad 👈</a>
 
 </div>
 
@@ -201,9 +201,9 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
     <span class="num">Unidad 15</span>
     <span class="ra">RA9</span>
   </div>
-  <a href="/ApuntesProgramacion/15-conexion-bases-datos" class="title-link">Persistencia de datos: JDBC e introducción a ORM</a>
+  <a href="/ApuntsProgramacio/15-conexion-bases-datos" class="title-link">Persistencia de datos: JDBC e introducción a ORM</a>
   <p class="desc">Conecta Java con bases de datos relacionales usando JDBC: <code>Connection</code>, <code>Statement</code>, consultas, inserciones, actualizaciones y transacciones seguras.</p>
-  <a href="/ApuntesProgramacion/15-conexion-bases-datos" class="unit-link">👉 Ver unidad 👈</a>
+  <a href="/ApuntsProgramacio/15-conexion-bases-datos" class="unit-link">👉 Ver unidad 👈</a>
 
 </div>
 
@@ -212,9 +212,9 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
     <span class="num">Unidad 16 (extra)</span>
     <span class="ra">RA5</span>
   </div>
-  <a href="/ApuntesProgramacion/16-apis-web" class="title-link">Servir y consumir APIs con Web</a>
+  <a href="/ApuntsProgramacio/16-apis-web" class="title-link">Servir y consumir APIs con Web</a>
   <p class="desc">Crea un servidor HTTP con Java <code>HttpServer</code>, sirve páginas HTML/JS, atiende peticiones JSON, implementa una API REST completa desde cero.</p>
-  <a href="/ApuntesProgramacion/16-apis-web" class="unit-link">👉 Ver unidad 👈</a>
+  <a href="/ApuntsProgramacio/16-apis-web" class="unit-link">👉 Ver unidad 👈</a>
 
 </div>
 
@@ -230,7 +230,7 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
   </div>
   <p class="boletin-section-label">📝 Boletines de la unidad</p>
   <div class="boletin-links">
-    <a href="/ApuntesProgramacion/boletines/boletin-u01-inicial" class="blink">🟢 Inicial por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u01-inicial" class="blink">🟢 Inicial por resolver</a>
   </div>
 </div>
 
@@ -240,11 +240,11 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
   </div>
   <p class="boletin-section-label">📝 Boletines de la unidad</p>
   <div class="boletin-links">
-    <a href="/ApuntesProgramacion/boletines/boletin-u02-inicial" class="blink">🟢 Inicial por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u02-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u02-avanzado" class="blink">⭐ Avanzado por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u02-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u02-extras" class="blink">🔥 Extras</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u02-inicial" class="blink">🟢 Inicial por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u02-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u02-avanzado" class="blink">⭐ Avanzado por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u02-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u02-extras" class="blink">🔥 Extras</a>
   </div>
 </div>
 
@@ -254,11 +254,11 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
   </div>
   <p class="boletin-section-label">📝 Boletines de la unidad</p>
   <div class="boletin-links">
-    <a href="/ApuntesProgramacion/boletines/boletin-u03-inicial" class="blink">🟢 Inicial por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u03-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u03-avanzado" class="blink">⭐ Avanzado por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u03-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u03-extras" class="blink">🔥 Extras</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u03-inicial" class="blink">🟢 Inicial por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u03-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u03-avanzado" class="blink">⭐ Avanzado por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u03-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u03-extras" class="blink">🔥 Extras</a>
   </div>
 </div>
 
@@ -268,11 +268,11 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
   </div>
   <p class="boletin-section-label">📝 Boletines de la unidad</p>
   <div class="boletin-links">
-    <a href="/ApuntesProgramacion/boletines/boletin-u04-inicial" class="blink">🟢 Inicial por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u04-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u04-avanzado" class="blink">⭐ Avanzado por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u04-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u04-extras" class="blink">🔥 Extras</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u04-inicial" class="blink">🟢 Inicial por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u04-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u04-avanzado" class="blink">⭐ Avanzado por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u04-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u04-extras" class="blink">🔥 Extras</a>
   </div>
 </div>
 
@@ -282,11 +282,11 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
   </div>
   <p class="boletin-section-label">📝 Boletines de la unidad</p>
   <div class="boletin-links">
-    <a href="/ApuntesProgramacion/boletines/boletin-u05-inicial" class="blink">🟢 Inicial por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u05-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u05-avanzado" class="blink">⭐ Avanzado por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u05-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u05-extras" class="blink">🔥 Extras</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u05-inicial" class="blink">🟢 Inicial por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u05-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u05-avanzado" class="blink">⭐ Avanzado por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u05-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u05-extras" class="blink">🔥 Extras</a>
   </div>
 </div>
 
@@ -296,11 +296,11 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
   </div>
   <p class="boletin-section-label">📝 Boletines de la unidad</p>
   <div class="boletin-links">
-    <a href="/ApuntesProgramacion/boletines/boletin-u06-inicial" class="blink">🟢 Inicial por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u06-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u06-avanzado" class="blink">⭐ Avanzado por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u06-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u06-extras" class="blink">🔥 Extras</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u06-inicial" class="blink">🟢 Inicial por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u06-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u06-avanzado" class="blink">⭐ Avanzado por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u06-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u06-extras" class="blink">🔥 Extras</a>
   </div>
 </div>
 
@@ -310,11 +310,11 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
   </div>
   <p class="boletin-section-label">📝 Boletines de la unidad</p>
   <div class="boletin-links">
-    <a href="/ApuntesProgramacion/boletines/boletin-u07-inicial" class="blink">🟢 Inicial por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u07-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u07-avanzado" class="blink">⭐ Avanzado por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u07-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u07-extras" class="blink">🔥 Extras</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u07-inicial" class="blink">🟢 Inicial por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u07-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u07-avanzado" class="blink">⭐ Avanzado por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u07-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u07-extras" class="blink">🔥 Extras</a>
   </div>
 </div>
 
@@ -324,11 +324,11 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
   </div>
   <p class="boletin-section-label">📝 Boletines de la unidad</p>
   <div class="boletin-links">
-    <a href="/ApuntesProgramacion/boletines/boletin-u08-inicial" class="blink">🟢 Inicial por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u08-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u08-avanzado" class="blink">⭐ Avanzado por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u08-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u08-extras" class="blink">🔥 Extras</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u08-inicial" class="blink">🟢 Inicial por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u08-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u08-avanzado" class="blink">⭐ Avanzado por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u08-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u08-extras" class="blink">🔥 Extras</a>
   </div>
 </div>
 
@@ -338,11 +338,11 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
   </div>
   <p class="boletin-section-label">📝 Boletines de la unidad</p>
   <div class="boletin-links">
-    <a href="/ApuntesProgramacion/boletines/boletin-u09-inicial" class="blink">🟢 Inicial por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u09-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u09-avanzado" class="blink">⭐ Avanzado por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u09-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u09-extras" class="blink">🔥 Extras</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u09-inicial" class="blink">🟢 Inicial por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u09-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u09-avanzado" class="blink">⭐ Avanzado por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u09-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u09-extras" class="blink">🔥 Extras</a>
   </div>
 </div>
 
@@ -352,11 +352,11 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
   </div>
   <p class="boletin-section-label">📝 Boletines de la unidad</p>
   <div class="boletin-links">
-    <a href="/ApuntesProgramacion/boletines/boletin-u10-inicial" class="blink">🟢 Inicial por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u10-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u10-avanzado" class="blink">⭐ Avanzado por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u10-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u10-extras" class="blink">🔥 Extras</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u10-inicial" class="blink">🟢 Inicial por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u10-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u10-avanzado" class="blink">⭐ Avanzado por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u10-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u10-extras" class="blink">🔥 Extras</a>
   </div>
 </div>
 
@@ -366,11 +366,11 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
   </div>
   <p class="boletin-section-label">📝 Boletines de la unidad</p>
   <div class="boletin-links">
-    <a href="/ApuntesProgramacion/boletines/boletin-u11-inicial" class="blink">🟢 Inicial por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u11-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u11-avanzado" class="blink">⭐ Avanzado por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u11-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u11-extras" class="blink">🔥 Extras</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u11-inicial" class="blink">🟢 Inicial por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u11-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u11-avanzado" class="blink">⭐ Avanzado por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u11-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u11-extras" class="blink">🔥 Extras</a>
   </div>
 </div>
 
@@ -380,11 +380,11 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
   </div>
   <p class="boletin-section-label">📝 Boletines de la unidad</p>
   <div class="boletin-links">
-    <a href="/ApuntesProgramacion/boletines/boletin-u12-inicial" class="blink">🟢 Inicial por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u12-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u12-avanzado" class="blink">⭐ Avanzado por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u12-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u12-extras" class="blink">🔥 Extras</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u12-inicial" class="blink">🟢 Inicial por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u12-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u12-avanzado" class="blink">⭐ Avanzado por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u12-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u12-extras" class="blink">🔥 Extras</a>
   </div>
 </div>
 
@@ -394,11 +394,11 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
   </div>
   <p class="boletin-section-label">📝 Boletines de la unidad</p>
   <div class="boletin-links">
-    <a href="/ApuntesProgramacion/boletines/boletin-u13-inicial" class="blink">🟢 Inicial por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u13-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u13-avanzado" class="blink">⭐ Avanzado por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u13-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u13-extras" class="blink">🔥 Extras</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u13-inicial" class="blink">🟢 Inicial por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u13-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u13-avanzado" class="blink">⭐ Avanzado por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u13-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u13-extras" class="blink">🔥 Extras</a>
   </div>
 </div>
 
@@ -408,11 +408,11 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
   </div>
   <p class="boletin-section-label">📝 Boletines de la unidad</p>
   <div class="boletin-links">
-    <a href="/ApuntesProgramacion/boletines/boletin-u14-inicial" class="blink">🟢 Inicial por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u14-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u14-avanzado" class="blink">⭐ Avanzado por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u14-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u14-extras" class="blink">🔥 Extras</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u14-inicial" class="blink">🟢 Inicial por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u14-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u14-avanzado" class="blink">⭐ Avanzado por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u14-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u14-extras" class="blink">🔥 Extras</a>
   </div>
 </div>
 
@@ -422,11 +422,11 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
   </div>
   <p class="boletin-section-label">📝 Boletines de la unidad</p>
   <div class="boletin-links">
-    <a href="/ApuntesProgramacion/boletines/boletin-u15-inicial" class="blink">🟢 Inicial por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u15-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u15-avanzado" class="blink">⭐ Avanzado por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u15-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u15-extras" class="blink">🔥 Extras</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u15-inicial" class="blink">🟢 Inicial por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u15-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u15-avanzado" class="blink">⭐ Avanzado por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u15-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u15-extras" class="blink">🔥 Extras</a>
   </div>
 </div>
 
@@ -436,11 +436,11 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
   </div>
   <p class="boletin-section-label">📝 Boletines de la unidad</p>
   <div class="boletin-links">
-    <a href="/ApuntesProgramacion/boletines/boletin-u16-inicial" class="blink">🟢 Inicial por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u16-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u16-avanzado" class="blink">⭐ Avanzado por resolver</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u16-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
-    <a href="/ApuntesProgramacion/boletines/boletin-u16-extras" class="blink">🔥 Extras</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u16-inicial" class="blink">🟢 Inicial por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u16-inicial-resuelto" class="blink">✅ Inicial resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u16-avanzado" class="blink">⭐ Avanzado por resolver</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u16-avanzado-resuelto" class="blink">💪 Avanzado resuelto</a>
+    <a href="/ApuntsProgramacio/boletines/boletin-u16-extras" class="blink">🔥 Extras</a>
   </div>
 </div>
 
@@ -450,7 +450,7 @@ description: Curso completo de Programación en Java para DAM/DAW. CC BY-SA 4.0 
 
 <div style="text-align:center;">
   <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank">
-    <img src="/ApuntesProgramacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31">
+    <img src="/ApuntsProgramacio/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31">
   </a><br>
   <span style="font-size:0.85rem;color:var(--sl-color-gray-3);"><strong>CC BY-SA 4.0</strong> — <em>Sergi Garcia Barea</em></span><br>
   <span style="font-size:0.75rem;color:var(--sl-color-gray-3);"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a></span><br>

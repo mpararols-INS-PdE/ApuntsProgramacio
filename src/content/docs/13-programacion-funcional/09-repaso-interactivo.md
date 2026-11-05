@@ -356,4 +356,4 @@ Se acerca CONRAD, el compilador cascarrabias, con su taza humeante.
 
 ---
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/13-programacion-funcional) · **Anterior:** [08 · Optional: el que acepta la ausencia](/ApuntesProgramacion/13-programacion-funcional/08-optional) · **Siguiente:** **[U14 · Ficheros y expresiones regulares (Regex)](/ApuntesProgramacion/14-ficheros-regex)**
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/13-programacion-funcional) · **Anterior:** [08 · Optional: el que acepta la ausencia](/ApuntsProgramacio/13-programacion-funcional/08-optional) · **Siguiente:** **[U14 · Ficheros y expresiones regulares (Regex)](/ApuntsProgramacio/14-ficheros-regex)**

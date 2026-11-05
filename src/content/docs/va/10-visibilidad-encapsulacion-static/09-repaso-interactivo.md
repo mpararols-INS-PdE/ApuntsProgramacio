@@ -411,4 +411,4 @@ El novell guarda el seu projecte, tanca l'IDE i sent que els seus objectes ja no
 
 ---
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/10-visibilidad-encapsulacion-static) · **Anterior:** [08 · Be the Code: encapsula la teua classe](/ApuntesProgramacion/va/10-visibilidad-encapsulacion-static/08-be-the-code) · **Següent:** **[U11 · Herència, polimorfisme i interfícies](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces)**
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/10-visibilidad-encapsulacion-static) · **Anterior:** [08 · Be the Code: encapsula la teua classe](/ApuntsProgramacio/va/10-visibilidad-encapsulacion-static/08-be-the-code) · **Següent:** **[U11 · Herència, polimorfisme i interfícies](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces)**

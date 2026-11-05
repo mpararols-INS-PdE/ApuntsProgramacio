@@ -13,7 +13,7 @@ description: El tancament pràctic de la unitat, amb un bug de truncament que no
 
 > **En aquest punt no aprenem res de nou: ho convertim tot en pràctica. I, com sempre, alguna cosa no funcionarà.** 😈
 
-![Mapa mental de la unitat 03: set zones del temari amb l'error típic de cadascuna, dels tipus de variables als mètodes de String](/ApuntesProgramacion/diagrams/u03-mapa-unidad-ca.svg)
+![Mapa mental de la unitat 03: set zones del temari amb l'error típic de cadascuna, dels tipus de variables als mètodes de String](/ApuntsProgramacio/diagrams/u03-mapa-unidad-ca.svg)
 
 ---
 
@@ -313,4 +313,4 @@ El novell guarda el seu projecte, tanca l'IDE i sent que el magatzem de dades ja
 
 ---
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/03-variables-tipos-operadores) · **Anterior:** [09 · Mètodes útils de String](/ApuntesProgramacion/ca/03-variables-tipos-operadores/09-metodos-string) · **Següent:** **[U04 · Estructures de control i excepcions bàsiques](/ApuntesProgramacion/ca/04-estructuras-control-excepciones)**
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/03-variables-tipos-operadores) · **Anterior:** [09 · Mètodes útils de String](/ApuntsProgramacio/ca/03-variables-tipos-operadores/09-metodos-string) · **Següent:** **[U04 · Estructures de control i excepcions bàsiques](/ApuntsProgramacio/ca/04-estructuras-control-excepciones)**

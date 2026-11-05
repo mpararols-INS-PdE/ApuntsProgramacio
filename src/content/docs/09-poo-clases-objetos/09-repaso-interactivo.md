@@ -358,4 +358,4 @@ Se acerca CONRAD, el compilador cascarrabias, con su taza humeante.
 
 ---
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/09-poo-clases-objetos) · **Anterior:** [08 · Be the Code: diseña tu clase](/ApuntesProgramacion/09-poo-clases-objetos/08-be-the-code) · **Siguiente:** **[U10 · Visibilidad, encapsulación y static](/ApuntesProgramacion/10-visibilidad-encapsulacion-static)**
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/09-poo-clases-objetos) · **Anterior:** [08 · Be the Code: diseña tu clase](/ApuntsProgramacio/09-poo-clases-objetos/08-be-the-code) · **Siguiente:** **[U10 · Visibilidad, encapsulación y static](/ApuntsProgramacio/10-visibilidad-encapsulacion-static)**

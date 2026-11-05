@@ -191,4 +191,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | NPE | `NullPointerException`, el crash per usar `null` |
 > | Recol·lector de brossa | El que recicla objectes sense referències |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/09-poo-clases-objetos) · **Anterior:** [05 · La paraula clau this](/ApuntesProgramacion/va/09-poo-clases-objetos/05-this) · **Següent:** [07 · Sobrecàrrega i pas per valor](/ApuntesProgramacion/va/09-poo-clases-objetos/07-sobrecarga-paso-valor)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/09-poo-clases-objetos) · **Anterior:** [05 · La paraula clau this](/ApuntsProgramacio/va/09-poo-clases-objetos/05-this) · **Següent:** [07 · Sobrecàrrega i pas per valor](/ApuntsProgramacio/va/09-poo-clases-objetos/07-sobrecarga-paso-valor)

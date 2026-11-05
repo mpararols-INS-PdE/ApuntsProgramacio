@@ -190,4 +190,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Off-by-one | Error de "por uno": confundir `<=` con `<` o `medio+1` con `medio` |
 > | Desbordamiento | Cuando una suma supera el máximo que cabe en un `int` |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/07-algoritmica-fundamentos) · **Anterior:** [02 · Búsqueda lineal](/ApuntesProgramacion/07-algoritmica-fundamentos/02-busqueda-lineal) · **Siguiente:** [04 · Ordenación burbuja](/ApuntesProgramacion/07-algoritmica-fundamentos/04-ordenacion-burbuja)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/07-algoritmica-fundamentos) · **Anterior:** [02 · Búsqueda lineal](/ApuntsProgramacio/07-algoritmica-fundamentos/02-busqueda-lineal) · **Siguiente:** [04 · Ordenación burbuja](/ApuntsProgramacio/07-algoritmica-fundamentos/04-ordenacion-burbuja)

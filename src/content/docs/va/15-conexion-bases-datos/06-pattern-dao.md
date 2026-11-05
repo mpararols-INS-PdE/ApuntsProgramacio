@@ -199,4 +199,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Lògica de negoci | Les regles del problema, sense SQL |
 > | Repository | Cosí del DAO, més prop del domini |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/15-conexion-bases-datos) · **Anterior:** [05 · PreparedStatement i SQL injection](/ApuntesProgramacion/va/15-conexion-bases-datos/05-preparedstatement) · **Següent:** [07 · Transaccions](/ApuntesProgramacion/va/15-conexion-bases-datos/07-transacciones)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/15-conexion-bases-datos) · **Anterior:** [05 · PreparedStatement i SQL injection](/ApuntsProgramacio/va/15-conexion-bases-datos/05-preparedstatement) · **Següent:** [07 · Transaccions](/ApuntsProgramacio/va/15-conexion-bases-datos/07-transacciones)

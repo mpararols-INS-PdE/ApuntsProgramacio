@@ -39,16 +39,16 @@ Al terminar, serás capaz de:
 
 | Punto | Qué aprenderás | Nivel |
 |---|---|---|
-| [01 · Variables y tipos primitivos](/ApuntesProgramacion/03-variables-tipos-operadores/01-variables-tipos-primitivos) | Declarar variables, nomenclatura y los 8 primitivos | Todos |
-| [02 · String, constantes y final](/ApuntesProgramacion/03-variables-tipos-operadores/02-string-constantes-final) | `String`, inmutabilidad, `==` vs `equals` y constantes `final` | Todos |
-| [03 · Operadores aritméticos](/ApuntesProgramacion/03-variables-tipos-operadores/03-operadores-aritmeticos) | `+ - * / %`, división entera, precedencia y `++`/`--` | Todos |
-| [04 · Relacionales, lógicos y ternario](/ApuntesProgramacion/03-variables-tipos-operadores/04-operadores-relacionales-logicos) | Comparaciones, `&&`/`\|\|`/`!`, cortocircuito y ternario | Todos |
-| [05 · Casting y conversiones](/ApuntesProgramacion/03-variables-tipos-operadores/05-casting-conversiones) | Conversión implícita y explícita, truncamiento y desbordamiento | Todos |
-| [06 · Scanner: leer por teclado](/ApuntesProgramacion/03-variables-tipos-operadores/06-scanner-entrada-teclado) | `Scanner`, `nextInt`, `nextDouble` y `nextLine` | Todos |
-| [07 · Consola: salida formateada y errores de entrada](/ApuntesProgramacion/03-variables-tipos-operadores/07-consola-salida-formateada) | `printf`, `String.format`, `NumberFormat` y errores del `Scanner` | Todos |
-| [08 · Math.random() y números aleatorios](/ApuntesProgramacion/03-variables-tipos-operadores/08-math-random-aleatorios) | `Math.random()`, la fórmula min-max y las herramientas de `Math` | Todos |
-| [09 · Métodos útiles de String](/ApuntesProgramacion/03-variables-tipos-operadores/09-metodos-string) | `length`, `substring`, `replace`, `trim`, `charAt`… | Todos |
-| [10 · Repaso interactivo](/ApuntesProgramacion/03-variables-tipos-operadores/10-repaso-interactivo) | Sé el Código, Fireside, Quién Soy, Laboratorio, Crucigrama… | Todos |
+| [01 · Variables y tipos primitivos](/ApuntsProgramacio/03-variables-tipos-operadores/01-variables-tipos-primitivos) | Declarar variables, nomenclatura y los 8 primitivos | Todos |
+| [02 · String, constantes y final](/ApuntsProgramacio/03-variables-tipos-operadores/02-string-constantes-final) | `String`, inmutabilidad, `==` vs `equals` y constantes `final` | Todos |
+| [03 · Operadores aritméticos](/ApuntsProgramacio/03-variables-tipos-operadores/03-operadores-aritmeticos) | `+ - * / %`, división entera, precedencia y `++`/`--` | Todos |
+| [04 · Relacionales, lógicos y ternario](/ApuntsProgramacio/03-variables-tipos-operadores/04-operadores-relacionales-logicos) | Comparaciones, `&&`/`\|\|`/`!`, cortocircuito y ternario | Todos |
+| [05 · Casting y conversiones](/ApuntsProgramacio/03-variables-tipos-operadores/05-casting-conversiones) | Conversión implícita y explícita, truncamiento y desbordamiento | Todos |
+| [06 · Scanner: leer por teclado](/ApuntsProgramacio/03-variables-tipos-operadores/06-scanner-entrada-teclado) | `Scanner`, `nextInt`, `nextDouble` y `nextLine` | Todos |
+| [07 · Consola: salida formateada y errores de entrada](/ApuntsProgramacio/03-variables-tipos-operadores/07-consola-salida-formateada) | `printf`, `String.format`, `NumberFormat` y errores del `Scanner` | Todos |
+| [08 · Math.random() y números aleatorios](/ApuntsProgramacio/03-variables-tipos-operadores/08-math-random-aleatorios) | `Math.random()`, la fórmula min-max y las herramientas de `Math` | Todos |
+| [09 · Métodos útiles de String](/ApuntsProgramacio/03-variables-tipos-operadores/09-metodos-string) | `length`, `substring`, `replace`, `trim`, `charAt`… | Todos |
+| [10 · Repaso interactivo](/ApuntsProgramacio/03-variables-tipos-operadores/10-repaso-interactivo) | Sé el Código, Fireside, Quién Soy, Laboratorio, Crucigrama… | Todos |
 
 > 📖 **Flujo de lectura:** los 9 primeros puntos son teoría en progresión. El 10º es el aterrizaje práctico: léelo justo después del 9º y antes de abrir los boletines.
 
@@ -59,11 +59,11 @@ Al terminar, serás capaz de:
 > Practica con los pares del curso: intenta primero el por-resolver y comprueba con el resuelto cuando hayas terminado.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/boletines/boletin-u03-inicial" class="elink">🟢 Inicial por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u03-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u03-avanzado" class="elink">⭐ Avanzado por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u03-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u03-extras" class="elink">🔥 Extras</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u03-inicial" class="elink">🟢 Inicial por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u03-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u03-avanzado" class="elink">⭐ Avanzado por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u03-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u03-extras" class="elink">🔥 Extras</a>
 </div>
 
 ---
@@ -94,10 +94,10 @@ Al terminar, serás capaz de:
 
 ## 🚪 ¿Por dónde empiezo?
 
-- ¿Cero conocimientos? → Arranca en el [punto 1](/ApuntesProgramacion/03-variables-tipos-operadores/01-variables-tipos-primitivos). Solo necesitas lo que viste en la U02.
-- ¿Ya sabes declarar variables y quieres chicha? → Ve directo al [punto 6](/ApuntesProgramacion/03-variables-tipos-operadores/06-scanner-entrada-teclado) y al [punto 8](/ApuntesProgramacion/03-variables-tipos-operadores/08-math-random-aleatorios): ahí empiezan los programas interesantes.
-- ¿Solo vienes a por operadores? → Salta al [punto 3](/ApuntesProgramacion/03-variables-tipos-operadores/03-operadores-aritmeticos) y al [punto 4](/ApuntesProgramacion/03-variables-tipos-operadores/04-operadores-relacionales-logicos).
-- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntesProgramacion/03-variables-tipos-operadores/10-repaso-interactivo) y después los [boletines](/ApuntesProgramacion/boletines/boletin-u03-inicial).
+- ¿Cero conocimientos? → Arranca en el [punto 1](/ApuntsProgramacio/03-variables-tipos-operadores/01-variables-tipos-primitivos). Solo necesitas lo que viste en la U02.
+- ¿Ya sabes declarar variables y quieres chicha? → Ve directo al [punto 6](/ApuntsProgramacio/03-variables-tipos-operadores/06-scanner-entrada-teclado) y al [punto 8](/ApuntsProgramacio/03-variables-tipos-operadores/08-math-random-aleatorios): ahí empiezan los programas interesantes.
+- ¿Solo vienes a por operadores? → Salta al [punto 3](/ApuntsProgramacio/03-variables-tipos-operadores/03-operadores-aritmeticos) y al [punto 4](/ApuntsProgramacio/03-variables-tipos-operadores/04-operadores-relacionales-logicos).
+- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntsProgramacio/03-variables-tipos-operadores/10-repaso-interactivo) y después los [boletines](/ApuntsProgramacio/boletines/boletin-u03-inicial).
 
-**📍 Primer punto:** [01 · Variables y tipos primitivos](/ApuntesProgramacion/03-variables-tipos-operadores/01-variables-tipos-primitivos)  
-**⏭️ Al acabar la unidad, continúa en [U04 · Estructuras de control y excepciones básicas](/ApuntesProgramacion/04-estructuras-control-excepciones).**
+**📍 Primer punto:** [01 · Variables y tipos primitivos](/ApuntsProgramacio/03-variables-tipos-operadores/01-variables-tipos-primitivos)  
+**⏭️ Al acabar la unidad, continúa en [U04 · Estructuras de control y excepciones básicas](/ApuntsProgramacio/04-estructuras-control-excepciones).**

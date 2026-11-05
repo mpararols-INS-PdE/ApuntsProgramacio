@@ -243,4 +243,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `WHERE` | El filtro que te evita actualizar/borrar la tabla entera |
 > | Filas afectadas | El `int` que devuelve `executeUpdate()` |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/15-conexion-bases-datos) · **Anterior:** [03 · Statement y ResultSet](/ApuntesProgramacion/15-conexion-bases-datos/03-statement-resultset) · **Siguiente:** [05 · PreparedStatement y SQL injection](/ApuntesProgramacion/15-conexion-bases-datos/05-preparedstatement)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/15-conexion-bases-datos) · **Anterior:** [03 · Statement y ResultSet](/ApuntsProgramacio/15-conexion-bases-datos/03-statement-resultset) · **Siguiente:** [05 · PreparedStatement y SQL injection](/ApuntsProgramacio/15-conexion-bases-datos/05-preparedstatement)

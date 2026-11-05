@@ -36,7 +36,7 @@ boletin-u0N-avanzado-resuelto.md   → Mismos ejercicios que avanzado.md con sol
 boletin-u0N-extras.md              → CodeWars + AceptaElReto con pistas (incluye las soluciones en <details>).
 ```
 
-Los boletines viven en `src/content/docs/boletines/` (ES) y `src/content/docs/va/boletines/` (VA). Archivos y **URLs SIEMPRE en minúsculas** (`/ApuntesProgramacion/boletines/boletin-u0N-*`). En la web, en el sidebar, las landings y los índices de unidad, el **orden de los boletines** es siempre: `inicial → inicial-resuelto → avanzado → avanzado-resuelto → extras` (por-resolver primero, luego su resuelto).
+Los boletines viven en `src/content/docs/boletines/` (ES) y `src/content/docs/va/boletines/` (VA). Archivos y **URLs SIEMPRE en minúsculas** (`/ApuntsProgramacio/boletines/boletin-u0N-*`). En la web, en el sidebar, las landings y los índices de unidad, el **orden de los boletines** es siempre: `inicial → inicial-resuelto → avanzado → avanzado-resuelto → extras` (por-resolver primero, luego su resuelto).
 
 ## Estilo
 Humor, secciones "⭐ Be the Code", "¡No hay preguntas tontas!", [NOTE]/[WARNING]/[TIP] en blockquotes, lenguaje conversacional en castellano, valenciano y catalán. Formato Markdown compatible con Google Docs (importación directa).
@@ -152,7 +152,7 @@ Cada .md se importa directamente a Google Docs:
 
 ## Comandos
 ```bash
-npm run dev       # Servidor local (http://localhost:4321/ApuntesProgramacion)
+npm run dev       # Servidor local (http://localhost:4321/ApuntsProgramacio)
 npm run build     # Build estático en dist/
 npm run preview   # Previsualizar build
 npm run pdf:es    # Generar PDF castellano en public/pdf/
@@ -175,7 +175,7 @@ npm run epub:all  # Generar EPUB de los tres idiomas
 ### Rutas (PROHIBIDO incumplir)
 - SVG y fuente: **solo** `public/diagrams/NOMBRE.svg` y `public/diagrams/NOMBRE.excalidraw`.
 - **PROHIBIDO** `src/assets/`, componentes React Excalidraw, páginas `.astro`/`.mdx` solo para diagramas.
-- Referencia Markdown (base path `/ApuntesProgramacion`): `![alt en es-ES](/ApuntesProgramacion/diagrams/NOMBRE.svg)`.
+- Referencia Markdown (base path `/ApuntsProgramacio`): `![alt en es-ES](/ApuntsProgramacio/diagrams/NOMBRE.svg)`.
 - Config OpenCode/Skill: `~/.config/opencode/` (agnóstico; en Windows = `%USERPROFILE%\.config\opencode\`).
 
 ### Workflow (orden obligatorio)
@@ -201,14 +201,14 @@ npm run epub:all  # Generar EPUB de los tres idiomas
 - El layout de la web usa las 3 columnas por defecto de Starlight (sidebar, contenido, TOC derecho)
 - `portada.png` se usa como portada común para PDF y EPUB, y se muestra en la web como hero de la landing (castellano)
 - `portada_val.png` es la portada en valenciano para web, PDF y EPUB
-- Las rutas de la portada en `index.md` y `pdf-cover.html` usan URL absoluta (`https://sergarb1.github.io/ApuntesProgramacion/portada.png`) para que funcionen tanto en web como en PDF generado
+- Las rutas de la portada en `index.md` y `pdf-cover.html` usan URL absoluta (`https://mpararols-ins-pde.github.io/ApuntsProgramacio/portada.png`) para que funcionen tanto en web como en PDF generado
 - Sección de boletines dedicada al final de la landing (`📝 Boletines`); las cards de unidades no incluyen boletines
 - `Ver unidad` en las cards es un botón verde degradado (`.unit-link` en `custom.css`)
 - PDF generado con `--preceding-html scripts/pdf-cover.html` (portada castellano) o `scripts/pdf-cover-va.html` (portada valenciano), `--header scripts/pdf-header.html` (vacío, elimina hora), `--footer scripts/pdf-footer.html` (numeración estilizada)
 - **13 · Lingüística:** todo contenido en castellano cumple el «Requisito lingüístico (es-ES)» de la sección Estilo (vocabulario peninsular, mayúsculas oracionales, formato numérico español); revisión obligatoria antes de cerrar cualquier unidad o boletín.
 - **14 · Reordenamiento 2026-27:** el curso quedó en 15 unidades estándar + APIs extra. Colecciones y genéricos/mapas se fusionaron en la U12 (📚); Programación Funcional es la U13; Ficheros (sin consola) la U14; JDBC la U15; la consola vive en U03 (punto 7); la U16 (APIs web) es extra no evaluable. Los informes de revisión están en `openspec/reviews/unidad-0X.md`.
-- **15 · Diagramas U02:** los 8 diagramas Excalidraw de la U02 viven en `public/diagrams/` con tres ficheros cada uno: `u02-NOMBRE.excalidraw` (origen editable), `u02-NOMBRE.svg` (castellano) y `u02-NOMBRE-val.svg` (valenciano). Los ocho capítulos de `02-introduccion/` (ES y VA) referencian su SVG con ruta absoluta `/ApuntesProgramacion/diagrams/…`; los diagramas ASCII existentes se conservan. Toda la tipografía es cascadia (nada de Virgil/Excalifont/Comic).
+- **15 · Diagramas U02:** los 8 diagramas Excalidraw de la U02 viven en `public/diagrams/` con tres ficheros cada uno: `u02-NOMBRE.excalidraw` (origen editable), `u02-NOMBRE.svg` (castellano) y `u02-NOMBRE-val.svg` (valenciano). Los ocho capítulos de `02-introduccion/` (ES y VA) referencian su SVG con ruta absoluta `/ApuntsProgramacio/diagrams/…`; los diagramas ASCII existentes se conservan. Toda la tipografía es cascadia (nada de Virgil/Excalifont/Comic).
 - **16 · Temario 2026-27 (UD1–UD15):** títulos oficiales aplicados en ES y VA; RA1 cubierto en UD1 (badge en la landing + sección de criterios en `01-pensamiento-computacional/index.md`); capítulos nuevos `09-modularidad` (U08) y `09-introduccion-orm` (U15) con sus repasos renumerados al punto 10 (sidebar, índices, footers y flujo de lectura actualizados en ambos idiomas).
 - **17 · Unidad 05 Funciones y métodos (2026-27):** nueva unidad RA2 entre Estructuras de control y Arrays; todo renumerado sin huecos (01–16, carpetas y URLs 05–14 → 06–15); sidebar, landings, cards de boletines y array de emojis (🔧 en U05) actualizados en ambos idiomas; 10 boletines U05 (5 ES + 5 VA) verificados (FFFD=0, CJK=0, LF, convenciones u04).
 
-- **18 · Catalán:** tercera edición en `src/content/docs/ca/`, con 240 documentos y rutas `/ApuntesProgramacion/ca/`. Revisar léxico, conjugaciones y apostrofación del catalán central estándar; conservar el código y las salidas. Diagramas catalanes: `public/diagrams/*-ca.svg` y `*-ca.excalidraw`. La portada `portada_val.png` se comparte con el valenciano porque su texto es común. Exportaciones: `npm run pdf:ca`, `npm run epub:ca` y `npm run docx:ca`; el exportador común es `scripts/export-course.py` (Python 3.9+ y Pandoc 3.x). Ejecutar `npm run check:locales` y `npm run build` antes de cerrar cambios de idiomas.
+- **18 · Catalán:** tercera edición en `src/content/docs/ca/`, con 240 documentos y rutas `/ApuntsProgramacio/ca/`. Revisar léxico, conjugaciones y apostrofación del catalán central estándar; conservar el código y las salidas. Diagramas catalanes: `public/diagrams/*-ca.svg` y `*-ca.excalidraw`. La portada `portada_val.png` se comparte con el valenciano porque su texto es común. Exportaciones: `npm run pdf:ca`, `npm run epub:ca` y `npm run docx:ca`; el exportador común es `scripts/export-course.py` (Python 3.9+ y Pandoc 3.x). Ejecutar `npm run check:locales` y `npm run build` antes de cerrar cambios de idiomas.

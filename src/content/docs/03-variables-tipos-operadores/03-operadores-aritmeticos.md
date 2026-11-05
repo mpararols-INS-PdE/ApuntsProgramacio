@@ -56,7 +56,7 @@ Para Java, 17 dividido entre 5 son **3**. Ni 3.4 ni 3.5: 3. Si quieres decimales
 
 > ⚠️ **Advertencia:** este es uno de los errores más rentables para un examen. `5 / 2` es `2`. `5 / 2.0` es `2.5`. `(double) 5 / 2` es `2.5`. Memorízalo como un mantra.
 
-![Árbol de la división entera: si ambos operandos son int, 17/5 trunca a 3; si hay un double, 17.0/5 da 3.4](/ApuntesProgramacion/diagrams/u03-division-entera-arbol.svg)
+![Árbol de la división entera: si ambos operandos son int, 17/5 trunca a 3; si hay un double, 17.0/5 da 3.4](/ApuntsProgramacio/diagrams/u03-division-entera-arbol.svg)
 
 ---
 
@@ -177,4 +177,4 @@ A los programadores profesionales también les cuesta. Por eso casi nadie escrib
 > | Asignación compuesta | Atajo como `x += 5` (= `x = x + 5`) |
 > | Incremento | `++`/`--`: sumar o restar 1, con cara pre y post |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/03-variables-tipos-operadores) · **Anterior:** [02 · String, constantes y final](/ApuntesProgramacion/03-variables-tipos-operadores/02-string-constantes-final) · **Siguiente:** [04 · Relacionales, lógicos y ternario](/ApuntesProgramacion/03-variables-tipos-operadores/04-operadores-relacionales-logicos)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/03-variables-tipos-operadores) · **Anterior:** [02 · String, constantes y final](/ApuntsProgramacio/03-variables-tipos-operadores/02-string-constantes-final) · **Siguiente:** [04 · Relacionales, lógicos y ternario](/ApuntsProgramacio/03-variables-tipos-operadores/04-operadores-relacionales-logicos)

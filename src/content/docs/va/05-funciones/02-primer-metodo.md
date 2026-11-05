@@ -180,4 +180,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `void` | "No torne res" |
 > | camelCase | `calcularMedia`: minúscula a l'inici, majúscules entre paraules |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/05-funciones) · **Anterior:** [01 · Què és una funció?](/ApuntesProgramacion/va/05-funciones/01-que-es-funcion) · **Següent:** [03 · Paràmetres: l'entrada](/ApuntesProgramacion/va/05-funciones/03-parametros)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/05-funciones) · **Anterior:** [01 · Què és una funció?](/ApuntsProgramacio/va/05-funciones/01-que-es-funcion) · **Següent:** [03 · Paràmetres: l'entrada](/ApuntsProgramacio/va/05-funciones/03-parametros)

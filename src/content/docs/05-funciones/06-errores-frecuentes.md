@@ -181,4 +181,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `static context` | Llamar a algo de clase desde `main` (detalles en U10) |
 > | Error de lógica | Compila y ejecuta, pero miente |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/05-funciones) · **Anterior:** [05 · Ámbito de variables](/ApuntesProgramacion/05-funciones/05-ambito-variables) · **Siguiente:** [07 · Divide el problema](/ApuntesProgramacion/05-funciones/07-divide-problema)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/05-funciones) · **Anterior:** [05 · Ámbito de variables](/ApuntsProgramacio/05-funciones/05-ambito-variables) · **Siguiente:** [07 · Divide el problema](/ApuntsProgramacio/05-funciones/07-divide-problema)

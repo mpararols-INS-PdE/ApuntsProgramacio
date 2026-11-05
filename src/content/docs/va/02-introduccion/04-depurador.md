@@ -46,7 +46,7 @@ Depurar (debug) és traure-li els bitxos (bugs) al programa. I el secret dels pr
 
 ⚠️ **Advertència:** Si et perds dins d'un mètode alié amb Step Into, prem Step Out (`Shift + F11`): ix del mètode i torna al punt on el vas cridar. És el botó "he entrat sense voler, traieu-me d'ací".
 
-![Diagrama per a depurar pas a pas en VS Code: breakpoint, F5, F10/F11 i panell de variables](/ApuntesProgramacion/diagrams/u02-step-debug-val.svg)
+![Diagrama per a depurar pas a pas en VS Code: breakpoint, F5, F10/F11 i panell de variables](/ApuntsProgramacio/diagrams/u02-step-debug-val.svg)
 
 ---
 

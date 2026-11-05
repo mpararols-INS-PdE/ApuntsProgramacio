@@ -37,16 +37,16 @@ Al terminar, serás capaz de:
 
 | Punto | Qué aprenderás | Dificultad |
 |---|---|---|
-| [01 · Recursividad](/ApuntesProgramacion/08-algoritmica-tecnicas/01-recursividad) | Caso base, caso recursivo, la pila de llamadas y el miedo al `StackOverflowError` | Todos |
-| [02 · Recursividad: ejemplos clásicos](/ApuntesProgramacion/08-algoritmica-tecnicas/02-recursividad-ejemplos-clasicos) | Factorial, Fibonacci, palíndromos y torres de Hanói | Todos |
-| [03 · Divide y vencerás](/ApuntesProgramacion/08-algoritmica-tecnicas/03-divide-y-venceras) | Dividir, conquistar y combinar: el patrón de Julio César | Todos |
-| [04 · Quicksort](/ApuntesProgramacion/08-algoritmica-tecnicas/04-quicksort) | Partición, pivote, complejidades y por qué es tan famoso | Todos |
-| [05 · Mergesort](/ApuntesProgramacion/08-algoritmica-tecnicas/05-mergesort) | División por la mitad, fusión y estabilidad | Todos |
-| [06 · Comparación: cuándo usar cada ordenación](/ApuntesProgramacion/08-algoritmica-tecnicas/06-comparacion-ordenacion) | Guía práctica para elegir algoritmo y qué hay bajo `Arrays.sort()` | Todos |
-| [07 · Be the Code: quicksort desde cero](/ApuntesProgramacion/08-algoritmica-tecnicas/07-be-the-code-quicksort) | Implementar Quicksort y Mergesort paso a paso, sin mirar | ⭐⭐⭐ |
-| [08 · Otras técnicas algorítmicas](/ApuntesProgramacion/08-algoritmica-tecnicas/08-otras-tecnicas-algoritmicas) | Algoritmos voraces (greedy) y backtracking | ⭐⭐⭐ |
-| [09 · Modularidad](/ApuntesProgramacion/08-algoritmica-tecnicas/09-modularidad) | Paquetes, cohesión y acoplamiento para partir tu código | Todos |
-| [10 · Repaso interactivo](/ApuntesProgramacion/08-algoritmica-tecnicas/10-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
+| [01 · Recursividad](/ApuntsProgramacio/08-algoritmica-tecnicas/01-recursividad) | Caso base, caso recursivo, la pila de llamadas y el miedo al `StackOverflowError` | Todos |
+| [02 · Recursividad: ejemplos clásicos](/ApuntsProgramacio/08-algoritmica-tecnicas/02-recursividad-ejemplos-clasicos) | Factorial, Fibonacci, palíndromos y torres de Hanói | Todos |
+| [03 · Divide y vencerás](/ApuntsProgramacio/08-algoritmica-tecnicas/03-divide-y-venceras) | Dividir, conquistar y combinar: el patrón de Julio César | Todos |
+| [04 · Quicksort](/ApuntsProgramacio/08-algoritmica-tecnicas/04-quicksort) | Partición, pivote, complejidades y por qué es tan famoso | Todos |
+| [05 · Mergesort](/ApuntsProgramacio/08-algoritmica-tecnicas/05-mergesort) | División por la mitad, fusión y estabilidad | Todos |
+| [06 · Comparación: cuándo usar cada ordenación](/ApuntsProgramacio/08-algoritmica-tecnicas/06-comparacion-ordenacion) | Guía práctica para elegir algoritmo y qué hay bajo `Arrays.sort()` | Todos |
+| [07 · Be the Code: quicksort desde cero](/ApuntsProgramacio/08-algoritmica-tecnicas/07-be-the-code-quicksort) | Implementar Quicksort y Mergesort paso a paso, sin mirar | ⭐⭐⭐ |
+| [08 · Otras técnicas algorítmicas](/ApuntsProgramacio/08-algoritmica-tecnicas/08-otras-tecnicas-algoritmicas) | Algoritmos voraces (greedy) y backtracking | ⭐⭐⭐ |
+| [09 · Modularidad](/ApuntsProgramacio/08-algoritmica-tecnicas/09-modularidad) | Paquetes, cohesión y acoplamiento para partir tu código | Todos |
+| [10 · Repaso interactivo](/ApuntsProgramacio/08-algoritmica-tecnicas/10-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
 
 > 📖 **Flujo de lectura:** los 9 primeros puntos son teoría y práctica en progresión. El 10º es el aterrizaje final: léelo justo después del 9º y antes de abrir los boletines.
 
@@ -57,11 +57,11 @@ Al terminar, serás capaz de:
 > Practica con los pares del curso: intenta primero el por-resolver y comprueba con el resuelto cuando hayas terminado.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/boletines/boletin-u08-inicial" class="elink">🟢 Inicial por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u08-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u08-avanzado" class="elink">⭐ Avanzado por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u08-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u08-extras" class="elink">🔥 Extras</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u08-inicial" class="elink">🟢 Inicial por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u08-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u08-avanzado" class="elink">⭐ Avanzado por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u08-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u08-extras" class="elink">🔥 Extras</a>
 </div>
 
 ---
@@ -87,10 +87,10 @@ Al terminar, serás capaz de:
 
 ## 🚪 ¿Por dónde empiezo?
 
-- ¿Vienes de la U07 y estás fresco de Big O? → Arranca en el [punto 1](/ApuntesProgramacion/08-algoritmica-tecnicas/01-recursividad). Solo necesitas lo que viste en Fundamentos.
-- ¿Lo tuyo es ver el resultado y no las tripas? → Salta al [punto 4](/ApuntesProgramacion/08-algoritmica-tecnicas/04-quicksort) y al [punto 5](/ApuntesProgramacion/08-algoritmica-tecnicas/05-mergesort) y vuelve después a la teoría de la recursividad.
-- ¿Te flipan los retos? → Haz el [punto 7](/ApuntesProgramacion/08-algoritmica-tecnicas/07-be-the-code-quicksort) sin mirar el código de los puntos 4 y 5. Sufre con honor.
-- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntesProgramacion/08-algoritmica-tecnicas/10-repaso-interactivo) y después los [boletines](/ApuntesProgramacion/boletines/boletin-u08-inicial).
+- ¿Vienes de la U07 y estás fresco de Big O? → Arranca en el [punto 1](/ApuntsProgramacio/08-algoritmica-tecnicas/01-recursividad). Solo necesitas lo que viste en Fundamentos.
+- ¿Lo tuyo es ver el resultado y no las tripas? → Salta al [punto 4](/ApuntsProgramacio/08-algoritmica-tecnicas/04-quicksort) y al [punto 5](/ApuntsProgramacio/08-algoritmica-tecnicas/05-mergesort) y vuelve después a la teoría de la recursividad.
+- ¿Te flipan los retos? → Haz el [punto 7](/ApuntsProgramacio/08-algoritmica-tecnicas/07-be-the-code-quicksort) sin mirar el código de los puntos 4 y 5. Sufre con honor.
+- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntsProgramacio/08-algoritmica-tecnicas/10-repaso-interactivo) y después los [boletines](/ApuntsProgramacio/boletines/boletin-u08-inicial).
 
-**📍 Primer punto:** [01 · Recursividad](/ApuntesProgramacion/08-algoritmica-tecnicas/01-recursividad)  
-**⏭️ Al acabar la unidad, continúa en [U09 · POO: clases y objetos](/ApuntesProgramacion/09-poo-clases-objetos).**
+**📍 Primer punto:** [01 · Recursividad](/ApuntsProgramacio/08-algoritmica-tecnicas/01-recursividad)  
+**⏭️ Al acabar la unidad, continúa en [U09 · POO: clases y objetos](/ApuntsProgramacio/09-poo-clases-objetos).**

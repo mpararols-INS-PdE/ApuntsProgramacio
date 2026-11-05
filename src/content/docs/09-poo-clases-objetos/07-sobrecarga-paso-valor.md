@@ -220,4 +220,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Copia de referencia | Se copia la dirección, no el objeto |
 > | Encadenar constructores | Un constructor llama a otro con `this(...)` |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/09-poo-clases-objetos) · **Anterior:** [06 · Referencias, null y memoria](/ApuntesProgramacion/09-poo-clases-objetos/06-referencias-memoria) · **Siguiente:** [08 · Be the Code: diseña tu clase](/ApuntesProgramacion/09-poo-clases-objetos/08-be-the-code)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/09-poo-clases-objetos) · **Anterior:** [06 · Referencias, null y memoria](/ApuntsProgramacio/09-poo-clases-objetos/06-referencias-memoria) · **Siguiente:** [08 · Be the Code: diseña tu clase](/ApuntsProgramacio/09-poo-clases-objetos/08-be-the-code)

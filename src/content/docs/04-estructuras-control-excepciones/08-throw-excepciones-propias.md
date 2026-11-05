@@ -221,4 +221,4 @@ Tu excepción hereda de `RuntimeException` (que a su vez hereda de `Exception` y
 > | Unchecked | Excepción sin obligación de captura (`RuntimeException`) |
 > | `super(mensaje)` | Pasa el mensaje a la clase padre |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/04-estructuras-control-excepciones) · **Anterior:** [07 · try, catch y finally](/ApuntesProgramacion/04-estructuras-control-excepciones/07-try-catch-finally) · **Siguiente:** [09 · Repaso interactivo](/ApuntesProgramacion/04-estructuras-control-excepciones/09-repaso-interactivo)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/04-estructuras-control-excepciones) · **Anterior:** [07 · try, catch y finally](/ApuntsProgramacio/04-estructuras-control-excepciones/07-try-catch-finally) · **Siguiente:** [09 · Repaso interactivo](/ApuntsProgramacio/04-estructuras-control-excepciones/09-repaso-interactivo)

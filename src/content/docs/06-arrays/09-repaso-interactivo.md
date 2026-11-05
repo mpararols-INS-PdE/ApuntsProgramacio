@@ -328,4 +328,4 @@ El novato guarda su proyecto, cierra el IDE y siente que ya no guarda datos suel
 
 ---
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/06-arrays) · **Anterior:** [08 · Array-revelde: errores comunes y depuración](/ApuntesProgramacion/06-arrays/08-array-revelde) · **Siguiente:** **[U07 · Algorítmica I: Fundamentos](/ApuntesProgramacion/07-algoritmica-fundamentos)**
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/06-arrays) · **Anterior:** [08 · Array-revelde: errores comunes y depuración](/ApuntsProgramacio/06-arrays/08-array-revelde) · **Siguiente:** **[U07 · Algorítmica I: Fundamentos](/ApuntsProgramacio/07-algoritmica-fundamentos)**

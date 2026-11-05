@@ -120,4 +120,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Orden inicial | Cómo llegan los datos: al azar, ordenados, casi ordenados |
 > | Mergesort externo | Ordenación de datos que no caben en RAM (bases de datos) |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/08-algoritmica-tecnicas) · **Anterior:** [05 · Mergesort](/ApuntesProgramacion/08-algoritmica-tecnicas/05-mergesort) · **Siguiente:** [07 · Be the Code: quicksort desde cero](/ApuntesProgramacion/08-algoritmica-tecnicas/07-be-the-code-quicksort)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/08-algoritmica-tecnicas) · **Anterior:** [05 · Mergesort](/ApuntsProgramacio/08-algoritmica-tecnicas/05-mergesort) · **Siguiente:** [07 · Be the Code: quicksort desde cero](/ApuntsProgramacio/08-algoritmica-tecnicas/07-be-the-code-quicksort)

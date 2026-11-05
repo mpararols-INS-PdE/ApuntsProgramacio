@@ -213,4 +213,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `void` | El método no devuelve nada |
 > | `return` | Devuelve un valor al que llamó |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/09-poo-clases-objetos) · **Anterior:** [02 · Clases y objetos: el cortapastas y las galletas](/ApuntesProgramacion/09-poo-clases-objetos/02-clases-objetos) · **Siguiente:** [04 · Constructores](/ApuntesProgramacion/09-poo-clases-objetos/04-constructores)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/09-poo-clases-objetos) · **Anterior:** [02 · Clases y objetos: el cortapastas y las galletas](/ApuntsProgramacio/09-poo-clases-objetos/02-clases-objetos) · **Siguiente:** [04 · Constructores](/ApuntsProgramacio/09-poo-clases-objetos/04-constructores)

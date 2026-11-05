@@ -154,4 +154,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Recurs | Alguna cosa que s'ha d'alliberar: fitxer, connexió, scanner... |
 > | *Append* | Afegir al final d'un fitxer (segon argument `true` de `FileWriter`) |
 
-📁 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/14-ficheros-regex) · **Anterior:** [02 · Escriure i llegir text: FileWriter, FileReader i BufferedReader](/ApuntesProgramacion/va/14-ficheros-regex/02-escribir-leer-texto) · **Següent:** [04 · PrintWriter i Scanner + File](/ApuntesProgramacion/va/14-ficheros-regex/04-printwriter-scanner-file)
+📁 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/14-ficheros-regex) · **Anterior:** [02 · Escriure i llegir text: FileWriter, FileReader i BufferedReader](/ApuntsProgramacio/va/14-ficheros-regex/02-escribir-leer-texto) · **Següent:** [04 · PrintWriter i Scanner + File](/ApuntsProgramacio/va/14-ficheros-regex/04-printwriter-scanner-file)

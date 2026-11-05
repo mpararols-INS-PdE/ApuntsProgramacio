@@ -211,4 +211,4 @@ En total, **10 asteriscs** (1 + 2 + 3 + 4). Fixa't en el truc: la condició de l
 > | Off-by-one | Fallar per un en la condició (`<` vs `<=`) |
 > | Iteració | Una vegada del bucle |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/04-estructuras-control-excepciones) · **Anterior:** [03 · Bucles: while i do-while](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/03-bucles-while-do-while) · **Següent:** [05 · break i continue](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/05-break-continue)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/04-estructuras-control-excepciones) · **Anterior:** [03 · Bucles: while i do-while](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/03-bucles-while-do-while) · **Següent:** [05 · break i continue](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/05-break-continue)

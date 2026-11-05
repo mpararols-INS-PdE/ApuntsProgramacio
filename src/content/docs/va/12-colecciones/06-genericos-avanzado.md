@@ -208,4 +208,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Covariància / Contravariància | `? extends` (llegir) / `? super` (escriure) |
 > | PECS | Producer Extends, Consumer Super |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/12-colecciones) · **Anterior:** [05 · Classes genèriques: la teua `Caja<T>`](/ApuntesProgramacion/va/12-colecciones/05-clases-genericas) · **Següent:** [07 · HashMap: la guia telefònica](/ApuntesProgramacion/va/12-colecciones/07-hashmap)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/12-colecciones) · **Anterior:** [05 · Classes genèriques: la teua `Caja<T>`](/ApuntsProgramacio/va/12-colecciones/05-clases-genericas) · **Següent:** [07 · HashMap: la guia telefònica](/ApuntsProgramacio/va/12-colecciones/07-hashmap)

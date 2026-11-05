@@ -70,7 +70,7 @@ String apellido = nombreCompleto.substring(4);        // "Martínez" — desde e
 
 > ⚠️ **Advertencia:** en `substring(inicio, fin)`, el `fin` **no se incluye**. `substring(0, 3)` te da los caracteres 0, 1 y 2. Es un error típico pedir un carácter de más (o de menos).
 
-![Índices de substring sobre "PROGRAMA": las celdas 2 a 5 en verde forman "OGRA" y la celda 6 (fin) queda fuera](/ApuntesProgramacion/diagrams/u03-substring-indices.svg)
+![Índices de substring sobre "PROGRAMA": las celdas 2 a 5 en verde forman "OGRA" y la celda 6 (fin) queda fuera](/ApuntsProgramacio/diagrams/u03-substring-indices.svg)
 
 ---
 
@@ -179,4 +179,4 @@ Imprime `M. erida`.
 > | `replace()` | Sustituye una parte del texto por otra |
 > | Encadenar métodos | Aplicar varios métodos seguidos con puntos |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/03-variables-tipos-operadores) · **Anterior:** [08 · Math.random() y números aleatorios](/ApuntesProgramacion/03-variables-tipos-operadores/08-math-random-aleatorios) · **Siguiente:** [10 · Repaso interactivo](/ApuntesProgramacion/03-variables-tipos-operadores/10-repaso-interactivo)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/03-variables-tipos-operadores) · **Anterior:** [08 · Math.random() y números aleatorios](/ApuntsProgramacio/03-variables-tipos-operadores/08-math-random-aleatorios) · **Siguiente:** [10 · Repaso interactivo](/ApuntsProgramacio/03-variables-tipos-operadores/10-repaso-interactivo)

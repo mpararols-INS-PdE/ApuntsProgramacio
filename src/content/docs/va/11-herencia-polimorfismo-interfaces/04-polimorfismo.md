@@ -290,4 +290,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Override | La ferramenta que canvia el comportament |
 > | Shadowing | Ocultar un atribut de la superclasse (els atributs no són polimòrfics) |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces) · **Anterior:** [03 · protected i jerarquies de classes](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/03-protected-jerarquias) · **Següent:** [05 · instanceof i downcasting](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/05-instanceof-downcasting)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces) · **Anterior:** [03 · protected i jerarquies de classes](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/03-protected-jerarquias) · **Següent:** [05 · instanceof i downcasting](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/05-instanceof-downcasting)

@@ -151,4 +151,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Peresa | Les operacions intermèdies no s'executen fins a la terminal |
 > | Consumible | Un stream només es recorre una vegada |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/13-programacion-funcional) · **Anterior:** [03 · Referències a mètodes: la drecera `::`](/ApuntesProgramacion/va/13-programacion-funcional/03-referencias-metodos) · **Següent:** [05 · Operacions intermèdies: filter, map, distinct, sorted, limit](/ApuntesProgramacion/va/13-programacion-funcional/05-streams-intermedias)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/13-programacion-funcional) · **Anterior:** [03 · Referències a mètodes: la drecera `::`](/ApuntsProgramacio/va/13-programacion-funcional/03-referencias-metodos) · **Següent:** [05 · Operacions intermèdies: filter, map, distinct, sorted, limit](/ApuntsProgramacio/va/13-programacion-funcional/05-streams-intermedias)

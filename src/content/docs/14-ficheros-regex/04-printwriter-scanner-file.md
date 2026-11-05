@@ -205,4 +205,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `\\R` | "Cualquier salto de línea" en regex de Java |
 > | CSV | Archivo de valores separados por comas (o por `;`) |
 
-📁 [Volver al índice de la unidad](/ApuntesProgramacion/14-ficheros-regex) · **Anterior:** [03 · try-with-resources: cerrar sin llorar](/ApuntesProgramacion/14-ficheros-regex/03-try-with-resources) · **Siguiente:** [05 · NIO: Files y Paths (la forma moderna)](/ApuntesProgramacion/14-ficheros-regex/05-nio-files-paths)
+📁 [Volver al índice de la unidad](/ApuntsProgramacio/14-ficheros-regex) · **Anterior:** [03 · try-with-resources: cerrar sin llorar](/ApuntsProgramacio/14-ficheros-regex/03-try-with-resources) · **Siguiente:** [05 · NIO: Files y Paths (la forma moderna)](/ApuntsProgramacio/14-ficheros-regex/05-nio-files-paths)

@@ -358,4 +358,4 @@ El novato guarda su proyecto, cierra el IDE y siente que ya no escribe bloques d
 
 ---
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/05-funciones) · **Anterior:** [08 · Be the Code](/ApuntesProgramacion/05-funciones/08-be-the-code) · **Siguiente:** **[U06 · Arrays](/ApuntesProgramacion/06-arrays)**
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/05-funciones) · **Anterior:** [08 · Be the Code](/ApuntsProgramacio/05-funciones/08-be-the-code) · **Siguiente:** **[U06 · Arrays](/ApuntsProgramacio/06-arrays)**

@@ -184,4 +184,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Classe utilitària | Només mètodes estàtics, sense objectes |
 > | Context estàtic | "El món de la classe": sense objectes a la vista |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static) · **Anterior:** [05 · Atributs static](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/05-atributos-static) · **Següent:** [07 · Constants de classe: static final](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/07-constantes-static-final)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static) · **Anterior:** [05 · Atributs static](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/05-atributos-static) · **Següent:** [07 · Constants de classe: static final](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/07-constantes-static-final)

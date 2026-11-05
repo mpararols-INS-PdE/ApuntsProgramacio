@@ -99,4 +99,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Filas afectadas | El `int` de `executeUpdate()` que confirma el cambio |
 > | `config.properties` | Archivo donde van la URL y las credenciales |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/15-conexion-bases-datos) · **Anterior:** [07 · Transacciones](/ApuntesProgramacion/15-conexion-bases-datos/07-transacciones) · **Siguiente:** [09 · Introducción a ORM](/ApuntesProgramacion/15-conexion-bases-datos/09-introduccion-orm)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/15-conexion-bases-datos) · **Anterior:** [07 · Transacciones](/ApuntsProgramacio/15-conexion-bases-datos/07-transacciones) · **Siguiente:** [09 · Introducción a ORM](/ApuntsProgramacio/15-conexion-bases-datos/09-introduccion-orm)

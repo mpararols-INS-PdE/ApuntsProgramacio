@@ -613,4 +613,4 @@ Se acerca CONRAD, el compilador cascarrabias, con su taza humeante.
 
 ---
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/12-colecciones) · **Anterior:** [08 · TreeMap y cómo elegir estructura](/ApuntesProgramacion/12-colecciones/08-treemap-elegir-estructura) · **Siguiente:** **[U13 · Programación funcional (Streams y Lambdas)](/ApuntesProgramacion/13-programacion-funcional)**
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/12-colecciones) · **Anterior:** [08 · TreeMap y cómo elegir estructura](/ApuntsProgramacio/12-colecciones/08-treemap-elegir-estructura) · **Siguiente:** **[U13 · Programación funcional (Streams y Lambdas)](/ApuntsProgramacio/13-programacion-funcional)**

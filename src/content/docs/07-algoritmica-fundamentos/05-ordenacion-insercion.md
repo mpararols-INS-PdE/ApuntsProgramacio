@@ -160,4 +160,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Estable | Respeta el orden relativo de los elementos iguales |
 > | In-place | Ordena sin necesidad de arrays auxiliares |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/07-algoritmica-fundamentos) · **Anterior:** [04 · Ordenación burbuja](/ApuntesProgramacion/07-algoritmica-fundamentos/04-ordenacion-burbuja) · **Siguiente:** [06 · Complejidad algorítmica: Big O](/ApuntesProgramacion/07-algoritmica-fundamentos/06-complejidad-big-o)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/07-algoritmica-fundamentos) · **Anterior:** [04 · Ordenación burbuja](/ApuntsProgramacio/07-algoritmica-fundamentos/04-ordenacion-burbuja) · **Siguiente:** [06 · Complejidad algorítmica: Big O](/ApuntsProgramacio/07-algoritmica-fundamentos/06-complejidad-big-o)

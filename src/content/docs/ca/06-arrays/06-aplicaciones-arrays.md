@@ -212,4 +212,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `char[]` | Array de caràcters, modificable, sense mètodes propis |
 > | Taula de dades | `double[][]`: files i columnes per a dades reals |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/06-arrays) · **Anterior:** [05 · Arrays i mètodes](/ApuntesProgramacion/ca/06-arrays/05-arrays-metodos) · **Següent:** [07 · Be the Code: l'aparcament es gestiona](/ApuntesProgramacion/ca/06-arrays/07-be-the-code)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/06-arrays) · **Anterior:** [05 · Arrays i mètodes](/ApuntsProgramacio/ca/06-arrays/05-arrays-metodos) · **Següent:** [07 · Be the Code: l'aparcament es gestiona](/ApuntsProgramacio/ca/06-arrays/07-be-the-code)

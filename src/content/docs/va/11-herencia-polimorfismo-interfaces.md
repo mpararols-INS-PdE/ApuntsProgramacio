@@ -44,15 +44,15 @@ En acabar, seràs capaç de:
 
 | Punt | Què aprendràs | Dificultat |
 |---|---|---|
-| [01 · Herència: quan els teus fills seguixen els teus passos](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/01-herencia) | `extends`, què s'hereda i què no, IS-A vs HAS-A, l'arbre genealògic | Tots |
-| [02 · super i @Override](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/02-super-override) | Cridar la superclasse, sobreescriure mètodes i encadenar constructors | Tots |
-| [03 · protected i jerarquies de classes](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/03-protected-jerarquias) | El membre que només veu la família, arbres de classes i la classe base fràgil | Tots |
-| [04 · Polimorfisme: el camaleó de la POO](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/04-polimorfismo) | Dynamic binding, referències polimòrfiques, col·leccions i paràmetres | Tots |
-| [05 · instanceof i downcasting](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/05-instanceof-downcasting) | Preguntar qui eres i baixar la referència sense trencar res | Tots |
-| [06 · La classe Object: el besavi de tot](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/06-clase-object) | `toString()`, `equals()` i `hashCode()` ben sobreescrits | Tots |
-| [07 · Classes abstractes](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/07-clases-abstractas) | Esbossos que no s'instancien, mètodes abstractes i template method | Tots |
-| [08 · Interfícies: el contracte que signes](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/08-interfaces) | `implements`, polimorfisme, mètodes `default` i abstract vs interface | Tots |
-| [09 · Repàs interactiu](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/09-repaso-interactivo) | Sé el Código, Fireside, Laboratori, Crucigrama i més | Tots |
+| [01 · Herència: quan els teus fills seguixen els teus passos](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/01-herencia) | `extends`, què s'hereda i què no, IS-A vs HAS-A, l'arbre genealògic | Tots |
+| [02 · super i @Override](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/02-super-override) | Cridar la superclasse, sobreescriure mètodes i encadenar constructors | Tots |
+| [03 · protected i jerarquies de classes](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/03-protected-jerarquias) | El membre que només veu la família, arbres de classes i la classe base fràgil | Tots |
+| [04 · Polimorfisme: el camaleó de la POO](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/04-polimorfismo) | Dynamic binding, referències polimòrfiques, col·leccions i paràmetres | Tots |
+| [05 · instanceof i downcasting](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/05-instanceof-downcasting) | Preguntar qui eres i baixar la referència sense trencar res | Tots |
+| [06 · La classe Object: el besavi de tot](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/06-clase-object) | `toString()`, `equals()` i `hashCode()` ben sobreescrits | Tots |
+| [07 · Classes abstractes](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/07-clases-abstractas) | Esbossos que no s'instancien, mètodes abstractes i template method | Tots |
+| [08 · Interfícies: el contracte que signes](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/08-interfaces) | `implements`, polimorfisme, mètodes `default` i abstract vs interface | Tots |
+| [09 · Repàs interactiu](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/09-repaso-interactivo) | Sé el Código, Fireside, Laboratori, Crucigrama i més | Tots |
 
 > 📖 **Flux de lectura:** els 8 primers punts són teoria en progressió. El 9 és l'aterratge pràctic: llig-lo just després del 8 i abans d'obrir els butlletins.
 
@@ -63,11 +63,11 @@ En acabar, seràs capaç de:
 > Practica amb els parells del curs: intenta primer el per-resoldre i comprova amb el resolt quan hagues acabat.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u11-inicial" class="elink">🟢 Inicial per resoldre</a>
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u11-inicial-resuelto" class="elink">✅ Inicial resolt</a>
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u11-avanzado" class="elink">⭐ Avançat per resoldre</a>
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u11-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u11-extras" class="elink">🔥 Extres</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u11-inicial" class="elink">🟢 Inicial per resoldre</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u11-inicial-resuelto" class="elink">✅ Inicial resolt</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u11-avanzado" class="elink">⭐ Avançat per resoldre</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u11-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u11-extras" class="elink">🔥 Extres</a>
 </div>
 
 ---
@@ -103,10 +103,10 @@ En acabar, seràs capaç de:
 
 ## 🚪 Per on comence?
 
-- Cero coneixements? → Comença en el [punt 1](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/01-herencia). Només necessites el que vas vore en les unitats 06 i 07.
-- Ja heredes i vols el contracte? → Ves directe al [punt 7](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/07-clases-abstractas) i al [punt 8](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/08-interfaces): ací està la mitat abstracta de la unitat.
-- Només vens a per el polimorfisme? → Salta al [punt 4](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/04-polimorfismo) i al [punt 5](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/05-instanceof-downcasting).
-- Vens a repassar? → Fes el [Repàs interactiu](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/09-repaso-interactivo) i després els [butlletins](/ApuntesProgramacion/va/boletines/boletin-u11-inicial).
+- Cero coneixements? → Comença en el [punt 1](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/01-herencia). Només necessites el que vas vore en les unitats 06 i 07.
+- Ja heredes i vols el contracte? → Ves directe al [punt 7](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/07-clases-abstractas) i al [punt 8](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/08-interfaces): ací està la mitat abstracta de la unitat.
+- Només vens a per el polimorfisme? → Salta al [punt 4](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/04-polimorfismo) i al [punt 5](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/05-instanceof-downcasting).
+- Vens a repassar? → Fes el [Repàs interactiu](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/09-repaso-interactivo) i després els [butlletins](/ApuntsProgramacio/va/boletines/boletin-u11-inicial).
 
-**📍 Primer punt:** [01 · Herència: quan els teus fills seguixen els teus passos](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/01-herencia)  
-**⏭️ En acabar la unitat, continua en [U12 · Col·leccions](/ApuntesProgramacion/va/12-colecciones).**
+**📍 Primer punt:** [01 · Herència: quan els teus fills seguixen els teus passos](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/01-herencia)  
+**⏭️ En acabar la unitat, continua en [U12 · Col·leccions](/ApuntsProgramacio/va/12-colecciones).**

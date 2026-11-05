@@ -204,4 +204,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Instanciar | Crear un objeto con `new` (que llama al constructor) |
 > | `new` | Operador que reserva memoria, llama al constructor y devuelve la referencia |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/09-poo-clases-objetos) · **Anterior:** [03 · Atributos y métodos](/ApuntesProgramacion/09-poo-clases-objetos/03-atributos-metodos) · **Siguiente:** [05 · La palabra clave this](/ApuntesProgramacion/09-poo-clases-objetos/05-this)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/09-poo-clases-objetos) · **Anterior:** [03 · Atributos y métodos](/ApuntsProgramacio/09-poo-clases-objetos/03-atributos-metodos) · **Siguiente:** [05 · La palabra clave this](/ApuntsProgramacio/09-poo-clases-objetos/05-this)

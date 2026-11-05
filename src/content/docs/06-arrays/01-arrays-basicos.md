@@ -193,4 +193,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `ArrayIndexOutOfBoundsException` | Error al salirte de las plazas válidas |
 > | Valor por defecto | Lo que ocupa una plaza recién creada (`0`, `false`, `null`...) |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/06-arrays) · **Anterior:** [Índice de la unidad](/ApuntesProgramacion/06-arrays) · **Siguiente:** [02 · Recorrer arrays: for y for-each](/ApuntesProgramacion/06-arrays/02-recorrer-arrays)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/06-arrays) · **Anterior:** [Índice de la unidad](/ApuntsProgramacio/06-arrays) · **Siguiente:** [02 · Recorrer arrays: for y for-each](/ApuntsProgramacio/06-arrays/02-recorrer-arrays)

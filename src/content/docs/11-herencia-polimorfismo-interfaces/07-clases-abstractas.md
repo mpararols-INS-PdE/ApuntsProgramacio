@@ -269,4 +269,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Template method | Esqueleto de algoritmo con partes que las hijas rellenan |
 > | `abstract` | Modificador que marca clases y métodos sin acabar |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces) · **Anterior:** [06 · La clase Object: el tatarabuelo](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/06-clase-object) · **Siguiente:** [08 · Interfaces: el contrato que firmas](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/08-interfaces)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces) · **Anterior:** [06 · La clase Object: el tatarabuelo](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/06-clase-object) · **Siguiente:** [08 · Interfaces: el contrato que firmas](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/08-interfaces)

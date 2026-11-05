@@ -188,4 +188,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `sorted` | Ordena (ordre natural o amb `Comparator`) |
 > | `limit(n)` | Tall el flux en n elements |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/13-programacion-funcional) · **Anterior:** [04 · Streams: el flux de dades](/ApuntesProgramacion/va/13-programacion-funcional/04-streams-basicos) · **Següent:** [06 · Operacions terminals: collect, reduce, count, forEach](/ApuntesProgramacion/va/13-programacion-funcional/06-streams-terminales)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/13-programacion-funcional) · **Anterior:** [04 · Streams: el flux de dades](/ApuntsProgramacio/va/13-programacion-funcional/04-streams-basicos) · **Següent:** [06 · Operacions terminals: collect, reduce, count, forEach](/ApuntsProgramacio/va/13-programacion-funcional/06-streams-terminales)

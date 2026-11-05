@@ -226,4 +226,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `serialVersionUID` | Versión de la clase para compatibilidad |
 > | Binario | Archivo que no es texto legible (`.obj`, `.dat`, `.ser`) |
 
-📁 [Volver al índice de la unidad](/ApuntesProgramacion/14-ficheros-regex) · **Anterior:** [05 · NIO: Files y Paths (la forma moderna)](/ApuntesProgramacion/14-ficheros-regex/05-nio-files-paths) · **Siguiente:** [07 · Expresiones regulares: Pattern y Matcher](/ApuntesProgramacion/14-ficheros-regex/07-regex-basica)
+📁 [Volver al índice de la unidad](/ApuntsProgramacio/14-ficheros-regex) · **Anterior:** [05 · NIO: Files y Paths (la forma moderna)](/ApuntsProgramacio/14-ficheros-regex/05-nio-files-paths) · **Siguiente:** [07 · Expresiones regulares: Pattern y Matcher](/ApuntsProgramacio/14-ficheros-regex/07-regex-basica)

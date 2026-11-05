@@ -186,4 +186,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Valor centinela | Valor especial que representa "vacío" en primitivos |
 > | *Breakpoint* | Punto de parada del depurador para inspeccionar variables |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/06-arrays) · **Anterior:** [07 · Be the Code: el parking se gestiona](/ApuntesProgramacion/06-arrays/07-be-the-code) · **Siguiente:** [09 · Repaso interactivo](/ApuntesProgramacion/06-arrays/09-repaso-interactivo)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/06-arrays) · **Anterior:** [07 · Be the Code: el parking se gestiona](/ApuntsProgramacio/06-arrays/07-be-the-code) · **Siguiente:** [09 · Repaso interactivo](/ApuntsProgramacio/06-arrays/09-repaso-interactivo)

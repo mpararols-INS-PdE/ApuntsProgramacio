@@ -358,4 +358,4 @@ S'acosta CONRAD, el compilador cascarrabutxes, amb la seua tassa humejant.
 
 ---
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/09-poo-clases-objetos) · **Anterior:** [08 · Be the Code: dissenya la teua classe](/ApuntesProgramacion/va/09-poo-clases-objetos/08-be-the-code) · **Següent:** **[U10 · Visibilitat, encapsulació i static](/ApuntesProgramacion/va/10-visibilidad-encapsulacion-static)**
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/09-poo-clases-objetos) · **Anterior:** [08 · Be the Code: dissenya la teua classe](/ApuntsProgramacio/va/09-poo-clases-objetos/08-be-the-code) · **Següent:** **[U10 · Visibilitat, encapsulació i static](/ApuntsProgramacio/va/10-visibilidad-encapsulacion-static)**

@@ -262,4 +262,4 @@ Posa't a prova en 30 segons (les respostes estan amagades):
 > | `shuffle` | Barrejar a l'atzar |
 > | `frequency` | Comptar aparicions |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/12-colecciones) · **Anterior:** [03 · HashSet, TreeSet i LinkedHashSet](/ApuntesProgramacion/va/12-colecciones/03-conjuntos-sets) · **Següent:** [05 · Classes genèriques: la teua `Caja<T>`](/ApuntesProgramacion/va/12-colecciones/05-clases-genericas)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/12-colecciones) · **Anterior:** [03 · HashSet, TreeSet i LinkedHashSet](/ApuntsProgramacio/va/12-colecciones/03-conjuntos-sets) · **Següent:** [05 · Classes genèriques: la teua `Caja<T>`](/ApuntsProgramacio/va/12-colecciones/05-clases-genericas)

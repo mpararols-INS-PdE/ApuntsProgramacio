@@ -177,4 +177,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Wrapper | Classe que embolica un primitiu (`Integer` embolica `int`) |
 > | Tipus cru (raw type) | `Caja` sense `< >`: sense seguretat de tipus, evita'l |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/12-colecciones) · **Anterior:** [04 · Iterator i Collections](/ApuntesProgramacion/ca/12-colecciones/04-iterator-collections) · **Següent:** [06 · El diamant, mètodes genèrics i wildcards](/ApuntesProgramacion/ca/12-colecciones/06-genericos-avanzado)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/12-colecciones) · **Anterior:** [04 · Iterator i Collections](/ApuntsProgramacio/ca/12-colecciones/04-iterator-collections) · **Següent:** [06 · El diamant, mètodes genèrics i wildcards](/ApuntsProgramacio/ca/12-colecciones/06-genericos-avanzado)

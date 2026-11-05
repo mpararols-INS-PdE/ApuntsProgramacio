@@ -186,4 +186,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `Files` | Classe estàtica amb les operacions sobre rutes |
 > | `Stream` | Seqüència de dades sobre la qual pots filtrar, transformar i recórrer |
 
-📁 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/14-ficheros-regex) · **Anterior:** [04 · PrintWriter i Scanner + File](/ApuntesProgramacion/ca/14-ficheros-regex/04-printwriter-scanner-file) · **Següent:** [06 · Serialització: guardar objectes amb ObjectOutputStream](/ApuntesProgramacion/ca/14-ficheros-regex/06-serializacion)
+📁 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/14-ficheros-regex) · **Anterior:** [04 · PrintWriter i Scanner + File](/ApuntsProgramacio/ca/14-ficheros-regex/04-printwriter-scanner-file) · **Següent:** [06 · Serialització: guardar objectes amb ObjectOutputStream](/ApuntsProgramacio/ca/14-ficheros-regex/06-serializacion)

@@ -38,15 +38,15 @@ En acabar, seràs capaç de:
 
 | Punt | Què aprendràs | Dificultat |
 |---|---|---|
-| [01 · Arrays: l'aparcament de dades](/ApuntesProgramacion/ca/06-arrays/01-arrays-basicos) | Crear arrays, índexs, `length` i el primer BOOM | Tots |
-| [02 · Recórrer arrays: for i for-each](/ApuntesProgramacion/ca/06-arrays/02-recorrer-arrays) | El duo inseparable i la variant peresosa de només lectura | Tots |
-| [03 · Arrays multidimensionals](/ApuntesProgramacion/ca/06-arrays/03-arrays-multidimensionales) | Arrays de arrays, files, columnes i bucles niats | Tots |
-| [04 · La classe Arrays: la teva navalla suïssa](/ApuntesProgramacion/ca/06-arrays/04-clase-arrays) | `toString`, `sort`, `binarySearch`, `copyOf`, `fill`, `equals` | Tots |
-| [05 · Arrays i mètodes](/ApuntesProgramacion/ca/06-arrays/05-arrays-metodos) | Passar arrays per referència i tornar-los | Tots |
-| [06 · Aplicacions dels arrays](/ApuntesProgramacion/ca/06-arrays/06-aplicaciones-arrays) | Arrays de String, de char, d'objectes i dades en taula | Tots |
-| [07 · Be the Code: l'aparcament es gestiona](/ApuntesProgramacion/ca/06-arrays/07-be-the-code) | Programar invers, cerques i compactar a mà | Tots |
-| [08 · Array-revelde: errors comuns i depuració](/ApuntesProgramacion/ca/06-arrays/08-array-revelde) | La galeria de monstres dels arrays i com caçar-los | Tots |
-| [09 · Repàs interactiu](/ApuntesProgramacion/ca/06-arrays/09-repaso-interactivo) | Be the Code, Fireside, Qui Soc, Laboratori, Crucigrama… | Tots |
+| [01 · Arrays: l'aparcament de dades](/ApuntsProgramacio/ca/06-arrays/01-arrays-basicos) | Crear arrays, índexs, `length` i el primer BOOM | Tots |
+| [02 · Recórrer arrays: for i for-each](/ApuntsProgramacio/ca/06-arrays/02-recorrer-arrays) | El duo inseparable i la variant peresosa de només lectura | Tots |
+| [03 · Arrays multidimensionals](/ApuntsProgramacio/ca/06-arrays/03-arrays-multidimensionales) | Arrays de arrays, files, columnes i bucles niats | Tots |
+| [04 · La classe Arrays: la teva navalla suïssa](/ApuntsProgramacio/ca/06-arrays/04-clase-arrays) | `toString`, `sort`, `binarySearch`, `copyOf`, `fill`, `equals` | Tots |
+| [05 · Arrays i mètodes](/ApuntsProgramacio/ca/06-arrays/05-arrays-metodos) | Passar arrays per referència i tornar-los | Tots |
+| [06 · Aplicacions dels arrays](/ApuntsProgramacio/ca/06-arrays/06-aplicaciones-arrays) | Arrays de String, de char, d'objectes i dades en taula | Tots |
+| [07 · Be the Code: l'aparcament es gestiona](/ApuntsProgramacio/ca/06-arrays/07-be-the-code) | Programar invers, cerques i compactar a mà | Tots |
+| [08 · Array-revelde: errors comuns i depuració](/ApuntsProgramacio/ca/06-arrays/08-array-revelde) | La galeria de monstres dels arrays i com caçar-los | Tots |
+| [09 · Repàs interactiu](/ApuntsProgramacio/ca/06-arrays/09-repaso-interactivo) | Be the Code, Fireside, Qui Soc, Laboratori, Crucigrama… | Tots |
 
 > 📖 **Flux de lectura:** els 8 primers punts són teoria en progressió. El 9 és l'aterratge pràctic: llegeix-lo just després del 8 i abans d'obrir els butlletins.
 
@@ -57,11 +57,11 @@ En acabar, seràs capaç de:
 > Practica amb els parells del curs: intenta primer el per-resoldre i comprova amb el resolt quan hagis acabat.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u06-inicial" class="elink">🟢 Inicial per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u06-inicial-resuelto" class="elink">✅ Inicial resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u06-avanzado" class="elink">⭐ Avançat per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u06-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u06-extras" class="elink">🔥 Extres</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u06-inicial" class="elink">🟢 Inicial per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u06-inicial-resuelto" class="elink">✅ Inicial resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u06-avanzado" class="elink">⭐ Avançat per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u06-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u06-extras" class="elink">🔥 Extres</a>
 </div>
 
 ---
@@ -81,10 +81,10 @@ En acabar, seràs capaç de:
 
 ## 🚪 Per on començo?
 
-- Cero coneixements? → Comença en el [punt 1](/ApuntesProgramacion/ca/06-arrays/01-arrays-basicos). Només necessites variables, bucles i `if` de la U04.
-- Ja saps crear arrays i vols molta cosa? → Salta al [recorregut](/ApuntesProgramacion/ca/06-arrays/02-recorrer-arrays) o a la [classe Arrays](/ApuntesProgramacion/ca/06-arrays/04-clase-arrays).
-- Només vols veure arrays en acció real? → Llegeix [Aplicacions dels arrays](/ApuntesProgramacion/ca/06-arrays/06-aplicaciones-arrays).
-- Vens a repassar? → Fes el [Repàs interactiu](/ApuntesProgramacion/ca/06-arrays/09-repaso-interactivo) i després els [butlletins](/ApuntesProgramacion/ca/boletines/boletin-u06-inicial).
+- Cero coneixements? → Comença en el [punt 1](/ApuntsProgramacio/ca/06-arrays/01-arrays-basicos). Només necessites variables, bucles i `if` de la U04.
+- Ja saps crear arrays i vols molta cosa? → Salta al [recorregut](/ApuntsProgramacio/ca/06-arrays/02-recorrer-arrays) o a la [classe Arrays](/ApuntsProgramacio/ca/06-arrays/04-clase-arrays).
+- Només vols veure arrays en acció real? → Llegeix [Aplicacions dels arrays](/ApuntsProgramacio/ca/06-arrays/06-aplicaciones-arrays).
+- Vens a repassar? → Fes el [Repàs interactiu](/ApuntsProgramacio/ca/06-arrays/09-repaso-interactivo) i després els [butlletins](/ApuntsProgramacio/ca/boletines/boletin-u06-inicial).
 
-**📍 Primer punt:** [01 · Arrays: l'aparcament de dades](/ApuntesProgramacion/ca/06-arrays/01-arrays-basicos)  
-**⏭️ En acabar la unitat, continua en [U07 · Algorítmica I: fonaments](/ApuntesProgramacion/ca/07-algoritmica-fundamentos).**
+**📍 Primer punt:** [01 · Arrays: l'aparcament de dades](/ApuntsProgramacio/ca/06-arrays/01-arrays-basicos)  
+**⏭️ En acabar la unitat, continua en [U07 · Algorítmica I: fonaments](/ApuntsProgramacio/ca/07-algoritmica-fundamentos).**

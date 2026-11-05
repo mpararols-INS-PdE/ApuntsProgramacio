@@ -191,4 +191,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Poda | Descartar de inmediato los caminos sin salida |
 > | Programación dinámica | Memoización + subproblemas que se repiten |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/08-algoritmica-tecnicas) · **Anterior:** [07 · Be the Code: quicksort desde cero](/ApuntesProgramacion/08-algoritmica-tecnicas/07-be-the-code-quicksort) · **Siguiente:** [09 · Modularidad](/ApuntesProgramacion/08-algoritmica-tecnicas/09-modularidad)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/08-algoritmica-tecnicas) · **Anterior:** [07 · Be the Code: quicksort desde cero](/ApuntsProgramacio/08-algoritmica-tecnicas/07-be-the-code-quicksort) · **Siguiente:** [09 · Modularidad](/ApuntsProgramacio/08-algoritmica-tecnicas/09-modularidad)

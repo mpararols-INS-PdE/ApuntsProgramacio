@@ -352,4 +352,4 @@ S'acosta CONRAD, el compilador cascarrabutxes, amb la seua tassa fumant.
 
 ---
 
-📁 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/14-ficheros-regex) · **Anterior:** [08 · Regex en acció: matches, replaceAll, split i validacions](/ApuntesProgramacion/va/14-ficheros-regex/08-regex-aplicaciones) · **Següent:** **[U15 · Persistència de dades: JDBC i introducció a ORM](/ApuntesProgramacion/va/15-conexion-bases-datos)**
+📁 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/14-ficheros-regex) · **Anterior:** [08 · Regex en acció: matches, replaceAll, split i validacions](/ApuntsProgramacio/va/14-ficheros-regex/08-regex-aplicaciones) · **Següent:** **[U15 · Persistència de dades: JDBC i introducció a ORM](/ApuntsProgramacio/va/15-conexion-bases-datos)**

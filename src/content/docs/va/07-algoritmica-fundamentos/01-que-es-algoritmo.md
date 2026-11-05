@@ -137,4 +137,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Ordenació | Posar les dades en un ordre determinat (numèric, alfabètic…) |
 > | Materialitzar | Traduir la idea de l'algoritme a codi d'un llenguatge |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/07-algoritmica-fundamentos) · **Anterior:** [Índex de la unitat](/ApuntesProgramacion/va/07-algoritmica-fundamentos) · **Següent:** [02 · Cerca lineal](/ApuntesProgramacion/va/07-algoritmica-fundamentos/02-busqueda-lineal)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/07-algoritmica-fundamentos) · **Anterior:** [Índex de la unitat](/ApuntsProgramacio/va/07-algoritmica-fundamentos) · **Següent:** [02 · Cerca lineal](/ApuntsProgramacio/va/07-algoritmica-fundamentos/02-busqueda-lineal)

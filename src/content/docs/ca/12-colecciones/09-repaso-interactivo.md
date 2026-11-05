@@ -613,4 +613,4 @@ S'acosta CONRAD, el compilador cascarrabutxes, amb la seva tassa fumant.
 
 ---
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/12-colecciones) · **Anterior:** [08 · TreeMap i com triar estructura](/ApuntesProgramacion/ca/12-colecciones/08-treemap-elegir-estructura) · **Següent:** **[U13 · Programació funcional (Streams i Lambdas)](/ApuntesProgramacion/ca/13-programacion-funcional)**
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/12-colecciones) · **Anterior:** [08 · TreeMap i com triar estructura](/ApuntsProgramacio/ca/12-colecciones/08-treemap-elegir-estructura) · **Següent:** **[U13 · Programació funcional (Streams i Lambdas)](/ApuntsProgramacio/ca/13-programacion-funcional)**

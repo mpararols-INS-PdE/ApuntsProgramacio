@@ -60,7 +60,7 @@ int entreCincoYDiez = (int) (Math.random() * 6) + 5;   // 5, 6, 7, 8, 9 o 10
 
 > 📝 **Nota:** memoriza la fórmula como un mantra: `(max - min + 1)` da el tamaño del abanico, y `+ min` lo coloca donde empieza. No hay más secreto.
 
-![Escalera de la fórmula aleatoria: de Math.random() entre 0 y 0,999 al rango 1-6 tras multiplicar, truncar con int y sumar, con la fórmula universal debajo](/ApuntesProgramacion/diagrams/u03-escalera-random.svg)
+![Escalera de la fórmula aleatoria: de Math.random() entre 0 y 0,999 al rango 1-6 tras multiplicar, truncar con int y sumar, con la fórmula universal debajo](/ApuntsProgramacio/diagrams/u03-escalera-random.svg)
 
 ---
 
@@ -182,4 +182,4 @@ La diferencia entre `b` y `c` es sutil pero decisiva: la `+ 1` debe ir **fuera**
 > | `Math.PI` | Constante con el número π |
 > | Truncar | Cortar los decimales con `(int)` |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/03-variables-tipos-operadores) · **Anterior:** [07 · Consola: salida formateada y errores de entrada](/ApuntesProgramacion/03-variables-tipos-operadores/07-consola-salida-formateada) · **Siguiente:** [09 · Métodos útiles de String](/ApuntesProgramacion/03-variables-tipos-operadores/09-metodos-string)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/03-variables-tipos-operadores) · **Anterior:** [07 · Consola: salida formateada y errores de entrada](/ApuntsProgramacio/03-variables-tipos-operadores/07-consola-salida-formateada) · **Siguiente:** [09 · Métodos útiles de String](/ApuntsProgramacio/03-variables-tipos-operadores/09-metodos-string)

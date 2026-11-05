@@ -44,15 +44,15 @@ Al terminar, serás capaz de:
 
 | Punto | Qué aprenderás | Dificultad |
 |---|---|---|
-| [01 · if, else if y else](/ApuntesProgramacion/04-estructuras-control-excepciones/01-if-else) | Decisiones con `if`/`else`, anidados y ternario | Todos |
-| [02 · switch](/ApuntesProgramacion/04-estructuras-control-excepciones/02-switch) | `switch`, `case`, `break` y `default` | Todos |
-| [03 · Bucles: while y do-while](/ApuntesProgramacion/04-estructuras-control-excepciones/03-bucles-while-do-while) | Repetir con `while` y `do-while`, bucles infinitos | Todos |
-| [04 · Bucle for y bucles anidados](/ApuntesProgramacion/04-estructuras-control-excepciones/04-bucle-for) | `for` con contador y bucles dentro de bucles | Todos |
-| [05 · break, continue y etiquetas](/ApuntesProgramacion/04-estructuras-control-excepciones/05-break-continue) | Escapes del bucle y salto entre etiquetas | Todos |
-| [06 · Excepciones básicas](/ApuntesProgramacion/04-estructuras-control-excepciones/06-excepciones-basicas) | `Throwable`, `Exception`, `RuntimeException` y las excepciones típicas | Todos |
-| [07 · try, catch y finally](/ApuntesProgramacion/04-estructuras-control-excepciones/07-try-catch-finally) | Proteger código, capturar errores y captura múltiple | Todos |
-| [08 · throw y excepciones propias](/ApuntesProgramacion/04-estructuras-control-excepciones/08-throw-excepciones-propias) | Lanzar excepciones y crear las tuyas | Todos |
-| [09 · Repaso interactivo](/ApuntesProgramacion/04-estructuras-control-excepciones/09-repaso-interactivo) | Sé el Código, Fireside, Quién Soy, Laboratorio, Crucigrama… | Todos |
+| [01 · if, else if y else](/ApuntsProgramacio/04-estructuras-control-excepciones/01-if-else) | Decisiones con `if`/`else`, anidados y ternario | Todos |
+| [02 · switch](/ApuntsProgramacio/04-estructuras-control-excepciones/02-switch) | `switch`, `case`, `break` y `default` | Todos |
+| [03 · Bucles: while y do-while](/ApuntsProgramacio/04-estructuras-control-excepciones/03-bucles-while-do-while) | Repetir con `while` y `do-while`, bucles infinitos | Todos |
+| [04 · Bucle for y bucles anidados](/ApuntsProgramacio/04-estructuras-control-excepciones/04-bucle-for) | `for` con contador y bucles dentro de bucles | Todos |
+| [05 · break, continue y etiquetas](/ApuntsProgramacio/04-estructuras-control-excepciones/05-break-continue) | Escapes del bucle y salto entre etiquetas | Todos |
+| [06 · Excepciones básicas](/ApuntsProgramacio/04-estructuras-control-excepciones/06-excepciones-basicas) | `Throwable`, `Exception`, `RuntimeException` y las excepciones típicas | Todos |
+| [07 · try, catch y finally](/ApuntsProgramacio/04-estructuras-control-excepciones/07-try-catch-finally) | Proteger código, capturar errores y captura múltiple | Todos |
+| [08 · throw y excepciones propias](/ApuntsProgramacio/04-estructuras-control-excepciones/08-throw-excepciones-propias) | Lanzar excepciones y crear las tuyas | Todos |
+| [09 · Repaso interactivo](/ApuntsProgramacio/04-estructuras-control-excepciones/09-repaso-interactivo) | Sé el Código, Fireside, Quién Soy, Laboratorio, Crucigrama… | Todos |
 
 > 📖 **Flujo de lectura:** los 8 primeros puntos son teoría en progresión. El 9º es el aterrizaje práctico: léelo justo después del 8º y antes de abrir los boletines.
 
@@ -63,11 +63,11 @@ Al terminar, serás capaz de:
 > Practica con los pares del curso: intenta primero el por-resolver y comprueba con el resuelto cuando hayas terminado.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/boletines/boletin-u04-inicial" class="elink">🟢 Inicial por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u04-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u04-avanzado" class="elink">⭐ Avanzado por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u04-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u04-extras" class="elink">🔥 Extras</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u04-inicial" class="elink">🟢 Inicial por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u04-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u04-avanzado" class="elink">⭐ Avanzado por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u04-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u04-extras" class="elink">🔥 Extras</a>
 </div>
 
 ---
@@ -92,10 +92,10 @@ Al terminar, serás capaz de:
 
 ## 🚪 ¿Por dónde empiezo?
 
-- ¿Cero conocimientos? → Arranca en el [punto 1](/ApuntesProgramacion/04-estructuras-control-excepciones/01-if-else). Solo necesitas las variables y el `Scanner` de la U03.
-- ¿Ya sabes decidir y solo quieres repetir? → Ve directo al [punto 3](/ApuntesProgramacion/04-estructuras-control-excepciones/03-bucles-while-do-while) y al [punto 4](/ApuntesProgramacion/04-estructuras-control-excepciones/04-bucle-for).
-- ¿Tu programa se rompe y no sabes por qué? → Los [puntos 6](/ApuntesProgramacion/04-estructuras-control-excepciones/06-excepciones-basicas), [7](/ApuntesProgramacion/04-estructuras-control-excepciones/07-try-catch-finally) y [8](/ApuntesProgramacion/04-estructuras-control-excepciones/08-throw-excepciones-propias) te enseñan a leer los gritos de Java.
-- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntesProgramacion/04-estructuras-control-excepciones/09-repaso-interactivo) y después los [boletines](/ApuntesProgramacion/boletines/boletin-u04-inicial).
+- ¿Cero conocimientos? → Arranca en el [punto 1](/ApuntsProgramacio/04-estructuras-control-excepciones/01-if-else). Solo necesitas las variables y el `Scanner` de la U03.
+- ¿Ya sabes decidir y solo quieres repetir? → Ve directo al [punto 3](/ApuntsProgramacio/04-estructuras-control-excepciones/03-bucles-while-do-while) y al [punto 4](/ApuntsProgramacio/04-estructuras-control-excepciones/04-bucle-for).
+- ¿Tu programa se rompe y no sabes por qué? → Los [puntos 6](/ApuntsProgramacio/04-estructuras-control-excepciones/06-excepciones-basicas), [7](/ApuntsProgramacio/04-estructuras-control-excepciones/07-try-catch-finally) y [8](/ApuntsProgramacio/04-estructuras-control-excepciones/08-throw-excepciones-propias) te enseñan a leer los gritos de Java.
+- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntsProgramacio/04-estructuras-control-excepciones/09-repaso-interactivo) y después los [boletines](/ApuntsProgramacio/boletines/boletin-u04-inicial).
 
-**📍 Primer punto:** [01 · if, else if y else](/ApuntesProgramacion/04-estructuras-control-excepciones/01-if-else)  
-**⏭️ Al acabar la unidad, continúa en [U05 · Funciones y métodos](/ApuntesProgramacion/05-funciones).**
+**📍 Primer punto:** [01 · if, else if y else](/ApuntsProgramacio/04-estructuras-control-excepciones/01-if-else)  
+**⏭️ Al acabar la unidad, continúa en [U05 · Funciones y métodos](/ApuntsProgramacio/05-funciones).**

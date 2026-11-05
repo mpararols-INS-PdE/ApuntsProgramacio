@@ -211,4 +211,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `getClass()` | Información de la clase real del objeto |
 > | Contrato equals/hashCode | Iguales según `equals` ⇒ mismo `hashCode` |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces) · **Anterior:** [05 · instanceof y downcasting](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/05-instanceof-downcasting) · **Siguiente:** [07 · Clases abstractas](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/07-clases-abstractas)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces) · **Anterior:** [05 · instanceof y downcasting](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/05-instanceof-downcasting) · **Siguiente:** [07 · Clases abstractas](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/07-clases-abstractas)

@@ -186,4 +186,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `Files` | Clase estática con las operaciones sobre rutas |
 > | `Stream` | Secuencia de datos sobre la que puedes filtrar, transformar y recorrer |
 
-📁 [Volver al índice de la unidad](/ApuntesProgramacion/14-ficheros-regex) · **Anterior:** [04 · PrintWriter y Scanner + File](/ApuntesProgramacion/14-ficheros-regex/04-printwriter-scanner-file) · **Siguiente:** [06 · Serialización: guardar objetos con ObjectOutputStream](/ApuntesProgramacion/14-ficheros-regex/06-serializacion)
+📁 [Volver al índice de la unidad](/ApuntsProgramacio/14-ficheros-regex) · **Anterior:** [04 · PrintWriter y Scanner + File](/ApuntsProgramacio/14-ficheros-regex/04-printwriter-scanner-file) · **Siguiente:** [06 · Serialización: guardar objetos con ObjectOutputStream](/ApuntsProgramacio/14-ficheros-regex/06-serializacion)

@@ -43,15 +43,15 @@ Al terminar, serás capaz de:
 
 | Punto | Qué aprenderás | Dificultad |
 |---|---|---|
-| [01 · Lambdas: funciones que viajan solas](/ApuntesProgramacion/13-programacion-funcional/01-lambdas) | La flecha `->`, la sintaxis y guardar funciones en variables | Todos |
-| [02 · Interfaces funcionales: Predicate, Function, Consumer, Supplier](/ApuntesProgramacion/13-programacion-funcional/02-interfaces-funcionales) | Los cuatro trajes oficiales de toda lambda y `@FunctionalInterface` | Todos |
-| [03 · Referencias a métodos: el atajo `::`](/ApuntesProgramacion/13-programacion-funcional/03-referencias-metodos) | `String::toUpperCase`: reciclar métodos como si fueran lambdas | Todos |
-| [04 · Streams: el flujo de datos](/ApuntesProgramacion/13-programacion-funcional/04-streams-basicos) | Crear streams con `stream()` y `Stream.of`, y el pipeline | Todos |
-| [05 · Operaciones intermedias: filter, map, distinct, sorted, limit](/ApuntesProgramacion/13-programacion-funcional/05-streams-intermedias) | La cinta que filtra, transforma, quita repetidos, ordena y limita | Todos |
-| [06 · Operaciones terminales: collect, reduce, count, forEach](/ApuntesProgramacion/13-programacion-funcional/06-streams-terminales) | El grifo que hace que el agua fluya de verdad | Todos |
-| [07 · Del stream a la colección: toList, Collectors, groupingBy](/ApuntesProgramacion/13-programacion-funcional/07-streams-colecciones) | `toList()`, `Collectors.toMap` y agrupar como en una tabla | Todos |
-| [08 · Optional: el que acepta la ausencia](/ApuntesProgramacion/13-programacion-funcional/08-optional) | Envolver el `null` para no tropezarte con él | Todos |
-| [09 · Repaso interactivo](/ApuntesProgramacion/13-programacion-funcional/09-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
+| [01 · Lambdas: funciones que viajan solas](/ApuntsProgramacio/13-programacion-funcional/01-lambdas) | La flecha `->`, la sintaxis y guardar funciones en variables | Todos |
+| [02 · Interfaces funcionales: Predicate, Function, Consumer, Supplier](/ApuntsProgramacio/13-programacion-funcional/02-interfaces-funcionales) | Los cuatro trajes oficiales de toda lambda y `@FunctionalInterface` | Todos |
+| [03 · Referencias a métodos: el atajo `::`](/ApuntsProgramacio/13-programacion-funcional/03-referencias-metodos) | `String::toUpperCase`: reciclar métodos como si fueran lambdas | Todos |
+| [04 · Streams: el flujo de datos](/ApuntsProgramacio/13-programacion-funcional/04-streams-basicos) | Crear streams con `stream()` y `Stream.of`, y el pipeline | Todos |
+| [05 · Operaciones intermedias: filter, map, distinct, sorted, limit](/ApuntsProgramacio/13-programacion-funcional/05-streams-intermedias) | La cinta que filtra, transforma, quita repetidos, ordena y limita | Todos |
+| [06 · Operaciones terminales: collect, reduce, count, forEach](/ApuntsProgramacio/13-programacion-funcional/06-streams-terminales) | El grifo que hace que el agua fluya de verdad | Todos |
+| [07 · Del stream a la colección: toList, Collectors, groupingBy](/ApuntsProgramacio/13-programacion-funcional/07-streams-colecciones) | `toList()`, `Collectors.toMap` y agrupar como en una tabla | Todos |
+| [08 · Optional: el que acepta la ausencia](/ApuntsProgramacio/13-programacion-funcional/08-optional) | Envolver el `null` para no tropezarte con él | Todos |
+| [09 · Repaso interactivo](/ApuntsProgramacio/13-programacion-funcional/09-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
 
 > 📖 **Flujo de lectura:** los 8 primeros puntos son teoría en progresión. El 9º es el aterrizaje práctico: léelo justo después del 8º y antes de abrir los boletines.
 
@@ -62,11 +62,11 @@ Al terminar, serás capaz de:
 > Practica con los pares del curso: en esta unidad el por-resolver va primero. Inténtalo de verdad y solo mira el resuelto cuando hayas sudado un poco.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/boletines/boletin-u13-inicial" class="elink">🟢 Inicial por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u13-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u13-avanzado" class="elink">⭐ Avanzado por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u13-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u13-extras" class="elink">🔥 Extras</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u13-inicial" class="elink">🟢 Inicial por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u13-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u13-avanzado" class="elink">⭐ Avanzado por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u13-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u13-extras" class="elink">🔥 Extras</a>
 </div>
 
 ---
@@ -99,10 +99,10 @@ Al terminar, serás capaz de:
 
 ## 🚪 ¿Por dónde empiezo?
 
-- ¿Vienes de la U12 y quieres lo esencial? → Arranca en el [punto 1](/ApuntesProgramacion/13-programacion-funcional/01-lambdas) y el [punto 2](/ApuntesProgramacion/13-programacion-funcional/02-interfaces-funcionales): las funciones que viajan solas.
-- ¿Ya escribes lambdas y quieres flujos? → Ve directo al [punto 4](/ApuntesProgramacion/13-programacion-funcional/04-streams-basicos) y al [punto 5](/ApuntesProgramacion/13-programacion-funcional/05-streams-intermedias): la cinta transportadora.
-- ¿Solo vienes a por los trucos? → Salta al [punto 3](/ApuntesProgramacion/13-programacion-funcional/03-referencias-metodos) (la drecera `::`) y al [punto 8](/ApuntesProgramacion/13-programacion-funcional/08-optional) (la caja que acepta la ausencia).
-- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntesProgramacion/13-programacion-funcional/09-repaso-interactivo) y después los [boletines](/ApuntesProgramacion/boletines/boletin-u13-inicial).
+- ¿Vienes de la U12 y quieres lo esencial? → Arranca en el [punto 1](/ApuntsProgramacio/13-programacion-funcional/01-lambdas) y el [punto 2](/ApuntsProgramacio/13-programacion-funcional/02-interfaces-funcionales): las funciones que viajan solas.
+- ¿Ya escribes lambdas y quieres flujos? → Ve directo al [punto 4](/ApuntsProgramacio/13-programacion-funcional/04-streams-basicos) y al [punto 5](/ApuntsProgramacio/13-programacion-funcional/05-streams-intermedias): la cinta transportadora.
+- ¿Solo vienes a por los trucos? → Salta al [punto 3](/ApuntsProgramacio/13-programacion-funcional/03-referencias-metodos) (la drecera `::`) y al [punto 8](/ApuntsProgramacio/13-programacion-funcional/08-optional) (la caja que acepta la ausencia).
+- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntsProgramacio/13-programacion-funcional/09-repaso-interactivo) y después los [boletines](/ApuntsProgramacio/boletines/boletin-u13-inicial).
 
-**📍 Primer punto:** [01 · Lambdas: funciones que viajan solas](/ApuntesProgramacion/13-programacion-funcional/01-lambdas)  
-**⏭️ Al acabar la unidad, continúa en [U14 · Ficheros y expresiones regulares (Regex)](/ApuntesProgramacion/14-ficheros-regex).**
+**📍 Primer punto:** [01 · Lambdas: funciones que viajan solas](/ApuntsProgramacio/13-programacion-funcional/01-lambdas)  
+**⏭️ Al acabar la unidad, continúa en [U14 · Ficheros y expresiones regulares (Regex)](/ApuntsProgramacio/14-ficheros-regex).**

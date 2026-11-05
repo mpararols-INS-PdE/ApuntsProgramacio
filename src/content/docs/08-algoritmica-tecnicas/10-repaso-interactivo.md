@@ -379,4 +379,4 @@ El novato guarda su proyecto, y siente que algo ha cambiado en su forma de pensa
 
 ---
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/08-algoritmica-tecnicas) · **Anterior:** [09 · Modularidad](/ApuntesProgramacion/08-algoritmica-tecnicas/09-modularidad) · **Siguiente:** **[U09 · POO: clases y objetos](/ApuntesProgramacion/09-poo-clases-objetos)**
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/08-algoritmica-tecnicas) · **Anterior:** [09 · Modularidad](/ApuntsProgramacio/08-algoritmica-tecnicas/09-modularidad) · **Siguiente:** **[U09 · POO: clases y objetos](/ApuntsProgramacio/09-poo-clases-objetos)**

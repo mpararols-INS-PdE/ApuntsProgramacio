@@ -144,4 +144,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Trade-off | Compromiso: ganar en algo pagando algo a cambio |
 > | Estabilidad | Mantener el orden relativo de los elementos iguales |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/07-algoritmica-fundamentos) · **Anterior:** [06 · Complejidad algorítmica: Big O](/ApuntesProgramacion/07-algoritmica-fundamentos/06-complejidad-big-o) · **Siguiente:** [08 · Be the Code: búsqueda binaria desde cero](/ApuntesProgramacion/07-algoritmica-fundamentos/08-be-the-code)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/07-algoritmica-fundamentos) · **Anterior:** [06 · Complejidad algorítmica: Big O](/ApuntsProgramacio/07-algoritmica-fundamentos/06-complejidad-big-o) · **Siguiente:** [08 · Be the Code: búsqueda binaria desde cero](/ApuntsProgramacio/07-algoritmica-fundamentos/08-be-the-code)

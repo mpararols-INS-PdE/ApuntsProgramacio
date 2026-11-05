@@ -130,4 +130,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Particionar | Repartir elements al voltant d'un pivot (Quicksort) |
 > | Fusionar | Barrejar dues llistes ordenades en una (Mergesort) |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/08-algoritmica-tecnicas) · **Anterior:** [02 · Recursivitat: exemples clàssics](/ApuntesProgramacion/va/08-algoritmica-tecnicas/02-recursividad-ejemplos-clasicos) · **Següent:** [04 · Quicksort](/ApuntesProgramacion/va/08-algoritmica-tecnicas/04-quicksort)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/08-algoritmica-tecnicas) · **Anterior:** [02 · Recursivitat: exemples clàssics](/ApuntsProgramacio/va/08-algoritmica-tecnicas/02-recursividad-ejemplos-clasicos) · **Següent:** [04 · Quicksort](/ApuntsProgramacio/va/08-algoritmica-tecnicas/04-quicksort)

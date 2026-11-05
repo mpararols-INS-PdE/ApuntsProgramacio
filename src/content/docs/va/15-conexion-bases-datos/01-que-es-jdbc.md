@@ -95,4 +95,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | SQLite | Base de dades en un únic fitxer, sense servidor |
 > | Dependència Maven | La línia al `pom.xml` que porta el controlador |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/15-conexion-bases-datos) · **Anterior:** — · **Següent:** [02 · Connexió a SQLite: els 5 passos i Connection](/ApuntesProgramacion/va/15-conexion-bases-datos/02-conexion)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/15-conexion-bases-datos) · **Anterior:** — · **Següent:** [02 · Connexió a SQLite: els 5 passos i Connection](/ApuntsProgramacio/va/15-conexion-bases-datos/02-conexion)

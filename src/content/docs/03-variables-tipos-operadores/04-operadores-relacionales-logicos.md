@@ -76,7 +76,7 @@ System.out.println(x);                       // 5 — el ++x nunca se ejecutó
 
 > 💡 **Detalle práctico:** el cortocircuito también te protege. Si escribes `(algo != null) && algo.metodo()`, Java no llamará al método si `algo` es `null`, evitando un crash en tu programa.
 
-![Flujo de cortocircuito: con && si la 1ª condición es false y con || si es true, la 2ª condición no se evalúa (¡STOP!)](/ApuntesProgramacion/diagrams/u03-cortocircuito-flujo.svg)
+![Flujo de cortocircuito: con && si la 1ª condición es false y con || si es true, la 2ª condición no se evalúa (¡STOP!)](/ApuntsProgramacio/diagrams/u03-cortocircuito-flujo.svg)
 
 ---
 
@@ -202,4 +202,4 @@ Imprime `true`, `true`, `false` y `11`.
 > | Ternario | `condición ? valor1 : valor2`, un if-else en una línea |
 > | Booleano | Tipo con solo dos valores: `true` o `false` |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/03-variables-tipos-operadores) · **Anterior:** [03 · Operadores aritméticos](/ApuntesProgramacion/03-variables-tipos-operadores/03-operadores-aritmeticos) · **Siguiente:** [05 · Casting y conversiones](/ApuntesProgramacion/03-variables-tipos-operadores/05-casting-conversiones)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/03-variables-tipos-operadores) · **Anterior:** [03 · Operadores aritméticos](/ApuntsProgramacio/03-variables-tipos-operadores/03-operadores-aritmeticos) · **Siguiente:** [05 · Casting y conversiones](/ApuntsProgramacio/03-variables-tipos-operadores/05-casting-conversiones)

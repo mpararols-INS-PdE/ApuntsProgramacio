@@ -39,16 +39,16 @@ En acabar, seràs capaç de:
 
 | Punt | Què aprendràs | Nivell |
 |---|---|---|
-| [01 · Variables i tipus primitius](/ApuntesProgramacion/va/03-variables-tipos-operadores/01-variables-tipos-primitivos) | Declarar variables, nomenclatura i els 8 primitius | Tots |
-| [02 · String, constants i final](/ApuntesProgramacion/va/03-variables-tipos-operadores/02-string-constantes-final) | `String`, immutabilitat, `==` vs `equals` i constants `final` | Tots |
-| [03 · Operadors aritmètics](/ApuntesProgramacion/va/03-variables-tipos-operadores/03-operadores-aritmeticos) | `+ - * / %`, divisió entera, precedència i `++`/`--` | Tots |
-| [04 · Relacionals, lògics i ternari](/ApuntesProgramacion/va/03-variables-tipos-operadores/04-operadores-relacionales-logicos) | Comparacions, `&&`/`\|\|`/`!`, curtcircuit i ternari | Tots |
-| [05 · Casting i conversions](/ApuntesProgramacion/va/03-variables-tipos-operadores/05-casting-conversiones) | Conversió implícita i explícita, truncament i desbordament | Tots |
-| [06 · Scanner: llegir pel teclat](/ApuntesProgramacion/va/03-variables-tipos-operadores/06-scanner-entrada-teclado) | `Scanner`, `nextInt`, `nextDouble` i `nextLine` | Tots |
-| [07 · Consola: eixida amb format i errors d'entrada](/ApuntesProgramacion/va/03-variables-tipos-operadores/07-consola-salida-formateada) | `printf`, `String.format`, `NumberFormat` i errors del `Scanner` | Tots |
-| [08 · Math.random() i nombres aleatoris](/ApuntesProgramacion/va/03-variables-tipos-operadores/08-math-random-aleatorios) | `Math.random()`, la fórmula min-max i les ferramentes de `Math` | Tots |
-| [09 · Mètodes útils de String](/ApuntesProgramacion/va/03-variables-tipos-operadores/09-metodos-string) | `length`, `substring`, `replace`, `trim`, `charAt`… | Tots |
-| [10 · Repàs interactiu](/ApuntesProgramacion/va/03-variables-tipos-operadores/10-repaso-interactivo) | Sé el Código, Fireside, Qui Soc, Laboratori, Crucigrama… | Tots |
+| [01 · Variables i tipus primitius](/ApuntsProgramacio/va/03-variables-tipos-operadores/01-variables-tipos-primitivos) | Declarar variables, nomenclatura i els 8 primitius | Tots |
+| [02 · String, constants i final](/ApuntsProgramacio/va/03-variables-tipos-operadores/02-string-constantes-final) | `String`, immutabilitat, `==` vs `equals` i constants `final` | Tots |
+| [03 · Operadors aritmètics](/ApuntsProgramacio/va/03-variables-tipos-operadores/03-operadores-aritmeticos) | `+ - * / %`, divisió entera, precedència i `++`/`--` | Tots |
+| [04 · Relacionals, lògics i ternari](/ApuntsProgramacio/va/03-variables-tipos-operadores/04-operadores-relacionales-logicos) | Comparacions, `&&`/`\|\|`/`!`, curtcircuit i ternari | Tots |
+| [05 · Casting i conversions](/ApuntsProgramacio/va/03-variables-tipos-operadores/05-casting-conversiones) | Conversió implícita i explícita, truncament i desbordament | Tots |
+| [06 · Scanner: llegir pel teclat](/ApuntsProgramacio/va/03-variables-tipos-operadores/06-scanner-entrada-teclado) | `Scanner`, `nextInt`, `nextDouble` i `nextLine` | Tots |
+| [07 · Consola: eixida amb format i errors d'entrada](/ApuntsProgramacio/va/03-variables-tipos-operadores/07-consola-salida-formateada) | `printf`, `String.format`, `NumberFormat` i errors del `Scanner` | Tots |
+| [08 · Math.random() i nombres aleatoris](/ApuntsProgramacio/va/03-variables-tipos-operadores/08-math-random-aleatorios) | `Math.random()`, la fórmula min-max i les ferramentes de `Math` | Tots |
+| [09 · Mètodes útils de String](/ApuntsProgramacio/va/03-variables-tipos-operadores/09-metodos-string) | `length`, `substring`, `replace`, `trim`, `charAt`… | Tots |
+| [10 · Repàs interactiu](/ApuntsProgramacio/va/03-variables-tipos-operadores/10-repaso-interactivo) | Sé el Código, Fireside, Qui Soc, Laboratori, Crucigrama… | Tots |
 
 > 📖 **Flux de lectura:** els 9 primers punts són teoria en progressió. El 10 és l'aterratge pràctic: llig-lo just després del 9 i abans d'obrir els butlletins.
 
@@ -59,11 +59,11 @@ En acabar, seràs capaç de:
 > Practica amb els parells del curs: intenta primer el per-resoldre i comprova amb el resolt quan hagues acabat.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u03-inicial" class="elink">🟢 Inicial per resoldre</a>
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u03-inicial-resuelto" class="elink">✅ Inicial resolt</a>
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u03-avanzado" class="elink">⭐ Avançat per resoldre</a>
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u03-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u03-extras" class="elink">🔥 Extres</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u03-inicial" class="elink">🟢 Inicial per resoldre</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u03-inicial-resuelto" class="elink">✅ Inicial resolt</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u03-avanzado" class="elink">⭐ Avançat per resoldre</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u03-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u03-extras" class="elink">🔥 Extres</a>
 </div>
 
 ---
@@ -94,10 +94,10 @@ En acabar, seràs capaç de:
 
 ## 🚪 Per on comence?
 
-- Cero coneixements? → Comença en el [punt 1](/ApuntesProgramacion/va/03-variables-tipos-operadores/01-variables-tipos-primitivos). Només necessites el que vas vore en la U02.
-- Ja saps declarar variables i vols cim? → Ves directe al [punt 6](/ApuntesProgramacion/va/03-variables-tipos-operadores/06-scanner-entrada-teclado) i al [punt 8](/ApuntesProgramacion/va/03-variables-tipos-operadores/08-math-random-aleatorios): allà comencen els programes interessants.
-- Només vens a per operadors? → Salta al [punt 3](/ApuntesProgramacion/va/03-variables-tipos-operadores/03-operadores-aritmeticos) i al [punt 4](/ApuntesProgramacion/va/03-variables-tipos-operadores/04-operadores-relacionales-logicos).
-- Vens a repassar? → Fes el [Repàs interactiu](/ApuntesProgramacion/va/03-variables-tipos-operadores/10-repaso-interactivo) i després els [butlletins](/ApuntesProgramacion/va/boletines/boletin-u03-inicial).
+- Cero coneixements? → Comença en el [punt 1](/ApuntsProgramacio/va/03-variables-tipos-operadores/01-variables-tipos-primitivos). Només necessites el que vas vore en la U02.
+- Ja saps declarar variables i vols cim? → Ves directe al [punt 6](/ApuntsProgramacio/va/03-variables-tipos-operadores/06-scanner-entrada-teclado) i al [punt 8](/ApuntsProgramacio/va/03-variables-tipos-operadores/08-math-random-aleatorios): allà comencen els programes interessants.
+- Només vens a per operadors? → Salta al [punt 3](/ApuntsProgramacio/va/03-variables-tipos-operadores/03-operadores-aritmeticos) i al [punt 4](/ApuntsProgramacio/va/03-variables-tipos-operadores/04-operadores-relacionales-logicos).
+- Vens a repassar? → Fes el [Repàs interactiu](/ApuntsProgramacio/va/03-variables-tipos-operadores/10-repaso-interactivo) i després els [butlletins](/ApuntsProgramacio/va/boletines/boletin-u03-inicial).
 
-**📍 Primer punt:** [01 · Variables i tipus primitius](/ApuntesProgramacion/va/03-variables-tipos-operadores/01-variables-tipos-primitivos)  
-**⏭️ En acabar la unitat, continua en [U04 · Estructures de control i excepcions bàsiques](/ApuntesProgramacion/va/04-estructuras-control-excepciones).
+**📍 Primer punt:** [01 · Variables i tipus primitius](/ApuntsProgramacio/va/03-variables-tipos-operadores/01-variables-tipos-primitivos)  
+**⏭️ En acabar la unitat, continua en [U04 · Estructures de control i excepcions bàsiques](/ApuntsProgramacio/va/04-estructuras-control-excepciones).

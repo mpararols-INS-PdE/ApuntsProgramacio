@@ -369,4 +369,4 @@ S'acosta CONRAD, el compilador cascarràbies, amb la seua tassa fumant.
 
 ---
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces) · **Anterior:** [08 · Interfícies: el contracte que signes](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/08-interfaces) · **Següent:** **[U12 · Col·leccions](/ApuntesProgramacion/va/12-colecciones)**
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces) · **Anterior:** [08 · Interfícies: el contracte que signes](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/08-interfaces) · **Següent:** **[U12 · Col·leccions](/ApuntsProgramacio/va/12-colecciones)**

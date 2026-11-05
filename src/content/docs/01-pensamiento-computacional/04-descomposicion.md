@@ -75,4 +75,4 @@ Pero espera, ¡que aún lo podemos dividir más! ¿Cómo es el proceso de un pr�
 
 ---
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/01-pensamiento-computacional) · **Anterior:** [03 · Primero pensamos, después escribimos](/ApuntesProgramacion/01-pensamiento-computacional/03-pensar-antes) · **Siguiente:** [05 · Debugging y casos límite](/ApuntesProgramacion/01-pensamiento-computacional/05-debugging-casos-limite)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/01-pensamiento-computacional) · **Anterior:** [03 · Primero pensamos, después escribimos](/ApuntsProgramacio/01-pensamiento-computacional/03-pensar-antes) · **Siguiente:** [05 · Debugging y casos límite](/ApuntsProgramacio/01-pensamiento-computacional/05-debugging-casos-limite)

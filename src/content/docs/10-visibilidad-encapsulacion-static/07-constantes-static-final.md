@@ -154,4 +154,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Convención | Regla de estilo (MAYÚSCULAS) que todos siguen |
 > | Constructor privado | Impide crear objetos de la clase |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/10-visibilidad-encapsulacion-static) · **Anterior:** [06 · Métodos static y el main](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/06-metodos-static) · **Siguiente:** [08 · Be the Code: encapsula tu clase](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/08-be-the-code)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/10-visibilidad-encapsulacion-static) · **Anterior:** [06 · Métodos static y el main](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/06-metodos-static) · **Siguiente:** [08 · Be the Code: encapsula tu clase](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/08-be-the-code)

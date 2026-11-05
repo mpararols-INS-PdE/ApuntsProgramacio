@@ -255,4 +255,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `final` | Bloqueja l'herència d'una classe o la sobrescriptura d'un mètode |
 > | Cadena de constructors | El pare es construïx sempre abans que el fill |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces) · **Anterior:** [01 · Herència: quan els teus fills seguixen els teus passos](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/01-herencia) · **Següent:** [03 · protected i jerarquies de classes](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/03-protected-jerarquias)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces) · **Anterior:** [01 · Herència: quan els teus fills seguixen els teus passos](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/01-herencia) · **Següent:** [03 · protected i jerarquies de classes](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/03-protected-jerarquias)

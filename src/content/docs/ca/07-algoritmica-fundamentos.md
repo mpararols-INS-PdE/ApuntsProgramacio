@@ -38,15 +38,15 @@ En acabar, seràs capaç de:
 
 | Punt | Què aprendràs | Dificultat |
 |---|---|---|
-| [01 · Què és un algoritme](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/01-que-es-algoritmo) | Definir algoritme, les seves propietats i la recepta de la truita | Tots |
-| [02 · Cerca lineal](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/02-busqueda-lineal) | Recórrer l'array buscant un element, O(n) | Tots |
-| [03 · Cerca binària](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/03-busqueda-binaria) | Dividir i véncer: descartar mitats, O(log n) | Tots |
-| [04 · Ordenació bombolla](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/04-ordenacion-burbuja) | Intercanviar bombolles fins que tot sura, O(n²) | Tots |
-| [05 · Ordenació per inserció](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/05-ordenacion-insercion) | Ordenar com cartes a la mà, O(n²) i bèstia amb quasi ordenats | Tots |
-| [06 · Complexitat algorísmica: Big O](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/06-complejidad-big-o) | Com creix el temps amb les dades, d'O(1) a O(2ⁿ) | Tots |
-| [07 · Triar l'algoritme adequat](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/07-elegir-algoritmo) | La taula de decisió segons mida i ordre inicial | Tots |
-| [08 · Be the Code: cerca binària des de zero](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/08-be-the-code) | Programar binària i bombolla sense xarxa de seguretat | Tots |
-| [09 · Repàs interactiu](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/09-repaso-interactivo) | Be the Code, Fireside, Qui Soc, Laboratori, Crucigrama… | Tots |
+| [01 · Què és un algoritme](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/01-que-es-algoritmo) | Definir algoritme, les seves propietats i la recepta de la truita | Tots |
+| [02 · Cerca lineal](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/02-busqueda-lineal) | Recórrer l'array buscant un element, O(n) | Tots |
+| [03 · Cerca binària](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/03-busqueda-binaria) | Dividir i véncer: descartar mitats, O(log n) | Tots |
+| [04 · Ordenació bombolla](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/04-ordenacion-burbuja) | Intercanviar bombolles fins que tot sura, O(n²) | Tots |
+| [05 · Ordenació per inserció](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/05-ordenacion-insercion) | Ordenar com cartes a la mà, O(n²) i bèstia amb quasi ordenats | Tots |
+| [06 · Complexitat algorísmica: Big O](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/06-complejidad-big-o) | Com creix el temps amb les dades, d'O(1) a O(2ⁿ) | Tots |
+| [07 · Triar l'algoritme adequat](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/07-elegir-algoritmo) | La taula de decisió segons mida i ordre inicial | Tots |
+| [08 · Be the Code: cerca binària des de zero](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/08-be-the-code) | Programar binària i bombolla sense xarxa de seguretat | Tots |
+| [09 · Repàs interactiu](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/09-repaso-interactivo) | Be the Code, Fireside, Qui Soc, Laboratori, Crucigrama… | Tots |
 
 > 📖 **Flux de lectura:** els 8 primers punts són teoria en progressió. El 9 és l'aterratge pràctic: llegeix-lo just després del 8 i abans d'obrir els butlletins.
 
@@ -57,11 +57,11 @@ En acabar, seràs capaç de:
 > Practica amb els parells del curs: intenta primer el per-resoldre i comprova amb el resolt quan hagis acabat.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u07-inicial" class="elink">🟢 Inicial per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u07-inicial-resuelto" class="elink">✅ Inicial resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u07-avanzado" class="elink">⭐ Avançat per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u07-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u07-extras" class="elink">🔥 Extres</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u07-inicial" class="elink">🟢 Inicial per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u07-inicial-resuelto" class="elink">✅ Inicial resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u07-avanzado" class="elink">⭐ Avançat per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u07-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u07-extras" class="elink">🔥 Extres</a>
 </div>
 
 ---
@@ -84,10 +84,10 @@ En acabar, seràs capaç de:
 
 ## 🚪 Per on començo?
 
-- Cero coneixements? → Comença en el [punt 1](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/01-que-es-algoritmo). Només necessites variables, bucles i arrays bàsics de la U04.
-- Ja saps què és un algoritme i vols molta cosa? → Salta a la [cerca binària](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/03-busqueda-binaria) o a l'[ordenació per inserció](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/05-ordenacion-insercion).
-- Només vols saber quin algoritme triar? → Llegeix [Big O](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/06-complejidad-big-o) i [Triar l'algoritme adequat](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/07-elegir-algoritmo).
-- Vens a repassar? → Fes el [Repàs interactiu](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/09-repaso-interactivo) i després els [butlletins](/ApuntesProgramacion/ca/boletines/boletin-u07-inicial).
+- Cero coneixements? → Comença en el [punt 1](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/01-que-es-algoritmo). Només necessites variables, bucles i arrays bàsics de la U04.
+- Ja saps què és un algoritme i vols molta cosa? → Salta a la [cerca binària](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/03-busqueda-binaria) o a l'[ordenació per inserció](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/05-ordenacion-insercion).
+- Només vols saber quin algoritme triar? → Llegeix [Big O](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/06-complejidad-big-o) i [Triar l'algoritme adequat](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/07-elegir-algoritmo).
+- Vens a repassar? → Fes el [Repàs interactiu](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/09-repaso-interactivo) i després els [butlletins](/ApuntsProgramacio/ca/boletines/boletin-u07-inicial).
 
-**📍 Primer punt:** [01 · Què és un algoritme](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/01-que-es-algoritmo)  
-**⏭️ En acabar la unitat, continua en [U08 · Algorítmica II: tècniques avançades i modularitat](/ApuntesProgramacion/ca/08-algoritmica-tecnicas).**
+**📍 Primer punt:** [01 · Què és un algoritme](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/01-que-es-algoritmo)  
+**⏭️ En acabar la unitat, continua en [U08 · Algorítmica II: tècniques avançades i modularitat](/ApuntsProgramacio/ca/08-algoritmica-tecnicas).**

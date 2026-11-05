@@ -212,4 +212,4 @@ public class Comptador {
 > | Bucle infinit | Bucle que no s'acaba mai per descuit |
 > | do-while | Bucle que executa almenys una vegada i comprova al final |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/04-estructuras-control-excepciones) · **Anterior:** [02 · switch](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/02-switch) · **Següent:** [04 · Bucle for](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/04-bucle-for)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/04-estructuras-control-excepciones) · **Anterior:** [02 · switch](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/02-switch) · **Següent:** [04 · Bucle for](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/04-bucle-for)

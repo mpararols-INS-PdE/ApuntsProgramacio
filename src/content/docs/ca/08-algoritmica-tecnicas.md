@@ -37,16 +37,16 @@ En acabar, seràs capaç de:
 
 | Punt | Què aprendràs | Dificultat |
 |---|---|---|
-| [01 · Recursivitat](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/01-recursividad) | Cas base, cas recursiu, la pila de crides i la por al `StackOverflowError` | Tots |
-| [02 · Recursivitat: exemples clàssics](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/02-recursividad-ejemplos-clasicos) | Factorial, Fibonacci, palíndroms i torres de Hanoi | Tots |
-| [03 · Divide i venceràs](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/03-divide-y-venceras) | Dividir, conquistar i combinar: el patró de Juli Cèsar | Tots |
-| [04 · Quicksort](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/04-quicksort) | Partició, pivot, complexitats i per què és tan famós | Tots |
-| [05 · Mergesort](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/05-mergesort) | Divisió per la meitat, fusió i estabilitat | Tots |
-| [06 · Comparació: quan usar cada ordenació](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/06-comparacion-ordenacion) | Guia pràctica per a triar algorisme i què hi ha sota `Arrays.sort()` | Tots |
-| [07 · Be the Code: quicksort des de zero](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/07-be-the-code-quicksort) | Implementar Quicksort i Mergesort pas a pas, sense mirar | ⭐⭐⭐ |
-| [08 · Altres tècniques algorísmiques](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/08-otras-tecnicas-algoritmicas) | Algorismes voracos (greedy) i backtracking | ⭐⭐⭐ |
-| [09 · Modularitat](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/09-modularidad) | Paquets, cohesió i acoblament per a partir el teu codi | Tots |
-| [10 · Repàs interactiu](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/10-repaso-interactivo) | Be the Code, Fireside, Laboratori, Crucigrama i més | Tots |
+| [01 · Recursivitat](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/01-recursividad) | Cas base, cas recursiu, la pila de crides i la por al `StackOverflowError` | Tots |
+| [02 · Recursivitat: exemples clàssics](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/02-recursividad-ejemplos-clasicos) | Factorial, Fibonacci, palíndroms i torres de Hanoi | Tots |
+| [03 · Divide i venceràs](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/03-divide-y-venceras) | Dividir, conquistar i combinar: el patró de Juli Cèsar | Tots |
+| [04 · Quicksort](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/04-quicksort) | Partició, pivot, complexitats i per què és tan famós | Tots |
+| [05 · Mergesort](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/05-mergesort) | Divisió per la meitat, fusió i estabilitat | Tots |
+| [06 · Comparació: quan usar cada ordenació](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/06-comparacion-ordenacion) | Guia pràctica per a triar algorisme i què hi ha sota `Arrays.sort()` | Tots |
+| [07 · Be the Code: quicksort des de zero](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/07-be-the-code-quicksort) | Implementar Quicksort i Mergesort pas a pas, sense mirar | ⭐⭐⭐ |
+| [08 · Altres tècniques algorísmiques](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/08-otras-tecnicas-algoritmicas) | Algorismes voracos (greedy) i backtracking | ⭐⭐⭐ |
+| [09 · Modularitat](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/09-modularidad) | Paquets, cohesió i acoblament per a partir el teu codi | Tots |
+| [10 · Repàs interactiu](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/10-repaso-interactivo) | Be the Code, Fireside, Laboratori, Crucigrama i més | Tots |
 
 > 📖 **Flux de lectura:** els 9 primers punts són teoria i pràctica en progressió. El 10 és l'aterratge final: llegeix-lo just després del 9 i abans d'obrir els butlletins.
 
@@ -57,11 +57,11 @@ En acabar, seràs capaç de:
 > Practica amb els parells del curs: intenta primer el per-resoldre i comprova amb el resolt quan hagis acabat.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u08-inicial" class="elink">🟢 Inicial per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u08-inicial-resuelto" class="elink">✅ Inicial resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u08-avanzado" class="elink">⭐ Avançat per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u08-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u08-extras" class="elink">🔥 Extres</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u08-inicial" class="elink">🟢 Inicial per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u08-inicial-resuelto" class="elink">✅ Inicial resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u08-avanzado" class="elink">⭐ Avançat per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u08-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u08-extras" class="elink">🔥 Extres</a>
 </div>
 
 ---
@@ -87,10 +87,10 @@ En acabar, seràs capaç de:
 
 ## 🚪 Per on començo?
 
-- Vens de la U07 i estàs fresc de Big O? → Arranca en el [punt 1](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/01-recursividad). Només necessites el que vas veure en Fonaments.
-- El que t'agrada és veure el resultat i no les tripes? → Salta al [punt 4](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/04-quicksort) i al [punt 5](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/05-mergesort) i torna després a la teoria de la recursivitat.
-- Et flipen els reptes? → Fes el [punt 7](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/07-be-the-code-quicksort) sense mirar el codi dels punts 4 i 5. Pateix amb honor.
-- Vens a repassar? → Fes el [Repàs interactiu](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/10-repaso-interactivo) i després els [butlletins](/ApuntesProgramacion/ca/boletines/boletin-u08-inicial).
+- Vens de la U07 i estàs fresc de Big O? → Arranca en el [punt 1](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/01-recursividad). Només necessites el que vas veure en Fonaments.
+- El que t'agrada és veure el resultat i no les tripes? → Salta al [punt 4](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/04-quicksort) i al [punt 5](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/05-mergesort) i torna després a la teoria de la recursivitat.
+- Et flipen els reptes? → Fes el [punt 7](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/07-be-the-code-quicksort) sense mirar el codi dels punts 4 i 5. Pateix amb honor.
+- Vens a repassar? → Fes el [Repàs interactiu](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/10-repaso-interactivo) i després els [butlletins](/ApuntsProgramacio/ca/boletines/boletin-u08-inicial).
 
-**📍 Primer punt:** [01 · Recursivitat](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/01-recursividad)  
-**⏭️ En acabar la unitat, continua en [U09 · POO: classes i objectes](/ApuntesProgramacion/ca/09-poo-clases-objetos).**
+**📍 Primer punt:** [01 · Recursivitat](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/01-recursividad)  
+**⏭️ En acabar la unitat, continua en [U09 · POO: classes i objectes](/ApuntsProgramacio/ca/09-poo-clases-objetos).**

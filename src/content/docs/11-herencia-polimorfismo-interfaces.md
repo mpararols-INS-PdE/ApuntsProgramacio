@@ -44,15 +44,15 @@ Al terminar, serás capaz de:
 
 | Punto | Qué aprenderás | Dificultad |
 |---|---|---|
-| [01 · Herencia: cuando tus hijos siguen tus pasos](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/01-herencia) | `extends`, qué se hereda y qué no, IS-A vs HAS-A, el árbol genealógico | Todos |
-| [02 · super y @Override](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/02-super-override) | Llamar a la superclase, sobrescribir métodos y encadenar constructores | Todos |
-| [03 · protected y jerarquías de clases](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/03-protected-jerarquias) | El miembro que solo ve la familia, árboles de clases y la clase base frágil | Todos |
-| [04 · Polimorfismo: el camaleón de la POO](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/04-polimorfismo) | Dynamic binding, referencias polimórficas, colecciones y parámetros | Todos |
-| [05 · instanceof y downcasting](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/05-instanceof-downcasting) | Preguntar quién eres y bajar la referencia sin romper nada | Todos |
-| [06 · La clase Object: el tatarabuelo](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/06-clase-object) | `toString()`, `equals()` y `hashCode()` bien sobrescritos | Todos |
-| [07 · Clases abstractas](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/07-clases-abstractas) | Bocetos que no se instancian, métodos abstractos y template method | Todos |
-| [08 · Interfaces: el contrato que firmas](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/08-interfaces) | `implements`, polimorfismo, métodos `default` y abstract vs interface | Todos |
-| [09 · Repaso interactivo](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/09-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
+| [01 · Herencia: cuando tus hijos siguen tus pasos](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/01-herencia) | `extends`, qué se hereda y qué no, IS-A vs HAS-A, el árbol genealógico | Todos |
+| [02 · super y @Override](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/02-super-override) | Llamar a la superclase, sobrescribir métodos y encadenar constructores | Todos |
+| [03 · protected y jerarquías de clases](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/03-protected-jerarquias) | El miembro que solo ve la familia, árboles de clases y la clase base frágil | Todos |
+| [04 · Polimorfismo: el camaleón de la POO](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/04-polimorfismo) | Dynamic binding, referencias polimórficas, colecciones y parámetros | Todos |
+| [05 · instanceof y downcasting](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/05-instanceof-downcasting) | Preguntar quién eres y bajar la referencia sin romper nada | Todos |
+| [06 · La clase Object: el tatarabuelo](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/06-clase-object) | `toString()`, `equals()` y `hashCode()` bien sobrescritos | Todos |
+| [07 · Clases abstractas](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/07-clases-abstractas) | Bocetos que no se instancian, métodos abstractos y template method | Todos |
+| [08 · Interfaces: el contrato que firmas](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/08-interfaces) | `implements`, polimorfismo, métodos `default` y abstract vs interface | Todos |
+| [09 · Repaso interactivo](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/09-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
 
 > 📖 **Flujo de lectura:** los 8 primeros puntos son teoría en progresión. El 9º es el aterrizaje práctico: léelo justo después del 8º y antes de abrir los boletines.
 
@@ -63,11 +63,11 @@ Al terminar, serás capaz de:
 > Practica con los pares del curso: intenta primero el por-resolver y comprueba con el resuelto cuando hayas terminado.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/boletines/boletin-u11-inicial" class="elink">🟢 Inicial por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u11-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u11-avanzado" class="elink">⭐ Avanzado por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u11-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u11-extras" class="elink">🔥 Extras</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u11-inicial" class="elink">🟢 Inicial por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u11-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u11-avanzado" class="elink">⭐ Avanzado por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u11-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u11-extras" class="elink">🔥 Extras</a>
 </div>
 
 ---
@@ -103,10 +103,10 @@ Al terminar, serás capaz de:
 
 ## 🚪 ¿Por dónde empiezo?
 
-- ¿Cero conocimientos? → Arranca en el [punto 1](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/01-herencia). Solo necesitas lo que viste en las unidades 06 y 07.
-- ¿Ya heredas y quieres el contrato? → Ve directo al [punto 7](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/07-clases-abstractas) y al [punto 8](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/08-interfaces): ahí está la mitad abstracta de la unidad.
-- ¿Solo vienes a por el polimorfismo? → Salta al [punto 4](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/04-polimorfismo) y al [punto 5](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/05-instanceof-downcasting).
-- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/09-repaso-interactivo) y después los [boletines](/ApuntesProgramacion/boletines/boletin-u11-inicial).
+- ¿Cero conocimientos? → Arranca en el [punto 1](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/01-herencia). Solo necesitas lo que viste en las unidades 06 y 07.
+- ¿Ya heredas y quieres el contrato? → Ve directo al [punto 7](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/07-clases-abstractas) y al [punto 8](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/08-interfaces): ahí está la mitad abstracta de la unidad.
+- ¿Solo vienes a por el polimorfismo? → Salta al [punto 4](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/04-polimorfismo) y al [punto 5](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/05-instanceof-downcasting).
+- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/09-repaso-interactivo) y después los [boletines](/ApuntsProgramacio/boletines/boletin-u11-inicial).
 
-**📍 Primer punto:** [01 · Herencia: cuando tus hijos siguen tus pasos](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/01-herencia)  
-**⏭️ Al acabar la unidad, continúa en [U12 · Colecciones](/ApuntesProgramacion/12-colecciones).**
+**📍 Primer punto:** [01 · Herencia: cuando tus hijos siguen tus pasos](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/01-herencia)  
+**⏭️ Al acabar la unidad, continúa en [U12 · Colecciones](/ApuntsProgramacio/12-colecciones).**

@@ -126,4 +126,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `SQLException` | La checked que te acompaña en todo JDBC |
 > | `try-with-resources` | Cierre automático de recursos, orden inverso |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/15-conexion-bases-datos) · **Anterior:** [01 · Qué es JDBC](/ApuntesProgramacion/15-conexion-bases-datos/01-que-es-jdbc) · **Siguiente:** [03 · Statement y ResultSet: consultar datos](/ApuntesProgramacion/15-conexion-bases-datos/03-statement-resultset)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/15-conexion-bases-datos) · **Anterior:** [01 · Qué es JDBC](/ApuntsProgramacio/15-conexion-bases-datos/01-que-es-jdbc) · **Siguiente:** [03 · Statement y ResultSet: consultar datos](/ApuntsProgramacio/15-conexion-bases-datos/03-statement-resultset)

@@ -160,4 +160,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Estable | Respecta l'ordre relatiu dels elements iguals |
 > | In-place | Ordena sense necessitat d'arrays auxiliars |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/07-algoritmica-fundamentos) · **Anterior:** [04 · Ordenació bombolla](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/04-ordenacion-burbuja) · **Següent:** [06 · Complexitat algorísmica: Big O](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/06-complejidad-big-o)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/07-algoritmica-fundamentos) · **Anterior:** [04 · Ordenació bombolla](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/04-ordenacion-burbuja) · **Següent:** [06 · Complexitat algorísmica: Big O](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/06-complejidad-big-o)

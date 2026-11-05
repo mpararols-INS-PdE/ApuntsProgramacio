@@ -68,4 +68,4 @@ Para no sonar como un extranjero cuando hablamos del módulo, guarda estos 5 té
 
 ---
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/01-pensamiento-computacional) · **Anterior:** [Índice de la unidad](/ApuntesProgramacion/01-pensamiento-computacional) · **Siguiente:** [02 · Programar no es memorizar código](/ApuntesProgramacion/01-pensamiento-computacional/02-no-memorizar)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/01-pensamiento-computacional) · **Anterior:** [Índice de la unidad](/ApuntsProgramacio/01-pensamiento-computacional) · **Siguiente:** [02 · Programar no es memorizar código](/ApuntsProgramacio/01-pensamiento-computacional/02-no-memorizar)

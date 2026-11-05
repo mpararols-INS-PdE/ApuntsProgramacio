@@ -157,4 +157,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Memoria O(n) | Necesita un array auxiliar del mismo tamaño |
 > | Mergesort externo | Variante que ordena datos que no caben en RAM (discos) |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/08-algoritmica-tecnicas) · **Anterior:** [04 · Quicksort](/ApuntesProgramacion/08-algoritmica-tecnicas/04-quicksort) · **Siguiente:** [06 · Comparación: cuándo usar cada ordenación](/ApuntesProgramacion/08-algoritmica-tecnicas/06-comparacion-ordenacion)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/08-algoritmica-tecnicas) · **Anterior:** [04 · Quicksort](/ApuntsProgramacio/08-algoritmica-tecnicas/04-quicksort) · **Siguiente:** [06 · Comparación: cuándo usar cada ordenación](/ApuntsProgramacio/08-algoritmica-tecnicas/06-comparacion-ordenacion)

@@ -185,4 +185,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Ampliación | `int` cabe en `double` sin avisar |
 > | Copia del argumento | Cada llamada trabaja con su propio valor |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/05-funciones) · **Anterior:** [02 · Tu primer método](/ApuntesProgramacion/05-funciones/02-primer-metodo) · **Siguiente:** [04 · return: la salida](/ApuntesProgramacion/05-funciones/04-return-valores)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/05-funciones) · **Anterior:** [02 · Tu primer método](/ApuntsProgramacio/05-funciones/02-primer-metodo) · **Siguiente:** [04 · return: la salida](/ApuntsProgramacio/05-funciones/04-return-valores)

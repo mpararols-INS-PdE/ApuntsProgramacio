@@ -282,4 +282,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Fusión | Combinar dos mitades ordenadas en una |
 > | Array temporal | El `tmp` de la fusión, que cuesta O(n) de memoria |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/08-algoritmica-tecnicas) · **Anterior:** [06 · Comparación: cuándo usar cada ordenación](/ApuntesProgramacion/08-algoritmica-tecnicas/06-comparacion-ordenacion) · **Siguiente:** [08 · Otras técnicas algorítmicas](/ApuntesProgramacion/08-algoritmica-tecnicas/08-otras-tecnicas-algoritmicas)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/08-algoritmica-tecnicas) · **Anterior:** [06 · Comparación: cuándo usar cada ordenación](/ApuntsProgramacio/08-algoritmica-tecnicas/06-comparacion-ordenacion) · **Siguiente:** [08 · Otras técnicas algorítmicas](/ApuntsProgramacio/08-algoritmica-tecnicas/08-otras-tecnicas-algoritmicas)

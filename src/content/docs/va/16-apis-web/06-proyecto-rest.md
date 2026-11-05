@@ -179,4 +179,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Path param | El `3` de `/api/tareas/3`, llegit de la pròpia ruta |
 > | `204` | Resposta d'èxit sense contingut (típic de DELETE) |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/16-apis-web) · **Anterior:** [05 · Tornant JSON: com una API de veritat](/ApuntesProgramacion/va/16-apis-web/05-devolviendo-json) · **Següent:** [07 · Consumir APIs externes amb HttpClient](/ApuntesProgramacion/va/16-apis-web/07-httpclient)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/16-apis-web) · **Anterior:** [05 · Tornant JSON: com una API de veritat](/ApuntsProgramacio/va/16-apis-web/05-devolviendo-json) · **Següent:** [07 · Consumir APIs externes amb HttpClient](/ApuntsProgramacio/va/16-apis-web/07-httpclient)

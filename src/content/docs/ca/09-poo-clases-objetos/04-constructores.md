@@ -204,4 +204,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Instanciar | Crear un objecte amb `new` (que crida el constructor) |
 > | `new` | Operador que reserva memòria, crida el constructor i retorna la referència |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/09-poo-clases-objetos) · **Anterior:** [03 · Atributs i mètodes](/ApuntesProgramacion/ca/09-poo-clases-objetos/03-atributos-metodos) · **Següent:** [05 · La paraula clau this](/ApuntesProgramacion/ca/09-poo-clases-objetos/05-this)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/09-poo-clases-objetos) · **Anterior:** [03 · Atributs i mètodes](/ApuntsProgramacio/ca/09-poo-clases-objetos/03-atributos-metodos) · **Següent:** [05 · La paraula clau this](/ApuntsProgramacio/ca/09-poo-clases-objetos/05-this)

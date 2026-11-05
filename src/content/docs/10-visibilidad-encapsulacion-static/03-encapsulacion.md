@@ -158,4 +158,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Acoplamiento | Cuánto dependen unas clases de otras |
 > | Frontera | Los métodos públicos por donde entra y sale la información |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/10-visibilidad-encapsulacion-static) · **Anterior:** [02 · public, private y protected](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/02-public-private-protected) · **Siguiente:** [04 · Getters y setters](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/04-getters-setters)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/10-visibilidad-encapsulacion-static) · **Anterior:** [02 · public, private y protected](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/02-public-private-protected) · **Siguiente:** [04 · Getters y setters](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/04-getters-setters)

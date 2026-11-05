@@ -140,4 +140,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `Files.readString` | Llegeix un fitxer complet en un `String` (vist a U14) |
 > | Text block | `"""..."""`: cadena multilínia per a escriure HTML còmodament |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/16-apis-web) · **Anterior:** [02 · Servidor web mínim amb HttpServer](/ApuntesProgramacion/ca/16-apis-web/02-servidor-minimo) · **Següent:** [04 · Paràmetres GET i formularis POST](/ApuntesProgramacion/ca/16-apis-web/04-get-post)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/16-apis-web) · **Anterior:** [02 · Servidor web mínim amb HttpServer](/ApuntsProgramacio/ca/16-apis-web/02-servidor-minimo) · **Següent:** [04 · Paràmetres GET i formularis POST](/ApuntsProgramacio/ca/16-apis-web/04-get-post)

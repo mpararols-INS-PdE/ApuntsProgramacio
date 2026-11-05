@@ -222,4 +222,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Orden de inserción | El orden en el que se añadieron los elementos |
 > | O(1) / O(log n) | Instantáneo / logarítmico (rápido aunque crezca) |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/12-colecciones) · **Anterior:** [02 · LinkedList: la conga line](/ApuntesProgramacion/12-colecciones/02-linkedlist) · **Siguiente:** [04 · Iterator y Collections](/ApuntesProgramacion/12-colecciones/04-iterator-collections)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/12-colecciones) · **Anterior:** [02 · LinkedList: la conga line](/ApuntsProgramacio/12-colecciones/02-linkedlist) · **Siguiente:** [04 · Iterator y Collections](/ApuntsProgramacio/12-colecciones/04-iterator-collections)

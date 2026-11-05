@@ -154,4 +154,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Estable | Que conserva l'ordre original dels elements iguals |
 > | O(n log n) | Complexitat "quasi lineal": l'estàndard de l'ordenació moderna |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/08-algoritmica-tecnicas) · **Anterior:** [03 · Divide i venceràs](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/03-divide-y-venceras) · **Següent:** [05 · Mergesort](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/05-mergesort)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/08-algoritmica-tecnicas) · **Anterior:** [03 · Divide i venceràs](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/03-divide-y-venceras) · **Següent:** [05 · Mergesort](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/05-mergesort)

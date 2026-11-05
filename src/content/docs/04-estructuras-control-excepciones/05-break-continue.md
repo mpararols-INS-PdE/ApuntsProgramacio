@@ -244,4 +244,4 @@ Paso a paso: del 1 al 8, `continue` se salta los múltiplos de 3 (3 y 6), y `bre
 > | `break etiqueta` | Sale del bucle etiquetado, no del más interno |
 > | Bucle infinito | Riesgo si `continue` se salta la actualización de un `while` |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/04-estructuras-control-excepciones) · **Anterior:** [04 · Bucle for](/ApuntesProgramacion/04-estructuras-control-excepciones/04-bucle-for) · **Siguiente:** [06 · Excepciones básicas](/ApuntesProgramacion/04-estructuras-control-excepciones/06-excepciones-basicas)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/04-estructuras-control-excepciones) · **Anterior:** [04 · Bucle for](/ApuntsProgramacio/04-estructuras-control-excepciones/04-bucle-for) · **Siguiente:** [06 · Excepciones básicas](/ApuntsProgramacio/04-estructuras-control-excepciones/06-excepciones-basicas)

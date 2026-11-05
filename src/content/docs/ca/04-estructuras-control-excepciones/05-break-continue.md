@@ -244,4 +244,4 @@ Pas a pas: de l'1 al 8, `continue` es salta els múltiples de 3 (3 i 6), i `brea
 > | `break etiqueta` | Eix del bucle etiquetat, no del més intern |
 > | Bucle infinit | Risc si `continue` es salta l'actualització d'un `while` |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/04-estructuras-control-excepciones) · **Anterior:** [04 · Bucle for](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/04-bucle-for) · **Següent:** [06 · Excepcions bàsiques](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/06-excepciones-basicas)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/04-estructuras-control-excepciones) · **Anterior:** [04 · Bucle for](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/04-bucle-for) · **Següent:** [06 · Excepcions bàsiques](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/06-excepciones-basicas)

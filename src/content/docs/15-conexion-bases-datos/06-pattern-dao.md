@@ -199,4 +199,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Lógica de negocio | Las reglas del problema, sin SQL |
 > | Repository | Primo del DAO, más cercano al dominio |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/15-conexion-bases-datos) · **Anterior:** [05 · PreparedStatement y SQL injection](/ApuntesProgramacion/15-conexion-bases-datos/05-preparedstatement) · **Siguiente:** [07 · Transacciones](/ApuntesProgramacion/15-conexion-bases-datos/07-transacciones)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/15-conexion-bases-datos) · **Anterior:** [05 · PreparedStatement y SQL injection](/ApuntsProgramacio/15-conexion-bases-datos/05-preparedstatement) · **Siguiente:** [07 · Transacciones](/ApuntsProgramacio/15-conexion-bases-datos/07-transacciones)

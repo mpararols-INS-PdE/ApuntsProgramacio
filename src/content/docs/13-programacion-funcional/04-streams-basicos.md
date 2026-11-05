@@ -151,4 +151,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Pereza | Las operaciones intermedias no se ejecutan hasta la terminal |
 > | Consumible | Un stream solo se recorre una vez |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/13-programacion-funcional) · **Anterior:** [03 · Referencias a métodos: el atajo `::`](/ApuntesProgramacion/13-programacion-funcional/03-referencias-metodos) · **Siguiente:** [05 · Operaciones intermedias: filter, map, distinct, sorted, limit](/ApuntesProgramacion/13-programacion-funcional/05-streams-intermedias)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/13-programacion-funcional) · **Anterior:** [03 · Referencias a métodos: el atajo `::`](/ApuntsProgramacio/13-programacion-funcional/03-referencias-metodos) · **Siguiente:** [05 · Operaciones intermedias: filter, map, distinct, sorted, limit](/ApuntsProgramacio/13-programacion-funcional/05-streams-intermedias)

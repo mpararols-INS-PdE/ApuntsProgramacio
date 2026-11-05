@@ -132,4 +132,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `executeQuery()` | Per a SELECT: torna `ResultSet` |
 > | `executeUpdate()` | Per a INSERT/UPDATE/DELETE: torna files afectades |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/15-conexion-bases-datos) · **Anterior:** [02 · Connexió a SQLite](/ApuntesProgramacion/va/15-conexion-bases-datos/02-conexion) · **Següent:** [04 · CRUD complet](/ApuntesProgramacion/va/15-conexion-bases-datos/04-crud)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/15-conexion-bases-datos) · **Anterior:** [02 · Connexió a SQLite](/ApuntsProgramacio/va/15-conexion-bases-datos/02-conexion) · **Següent:** [04 · CRUD complet](/ApuntsProgramacio/va/15-conexion-bases-datos/04-crud)

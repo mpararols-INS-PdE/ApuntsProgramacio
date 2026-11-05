@@ -185,4 +185,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Ampliació | `int` cap en `double` sense avisar |
 > | Còpia de l'argument | Cada crida treballa amb el seu propi valor |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/05-funciones) · **Anterior:** [02 · El teu primer mètode](/ApuntesProgramacion/va/05-funciones/02-primer-metodo) · **Següent:** [04 · return: l'eixida](/ApuntesProgramacion/va/05-funciones/04-return-valores)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/05-funciones) · **Anterior:** [02 · El teu primer mètode](/ApuntsProgramacio/va/05-funciones/02-primer-metodo) · **Següent:** [04 · return: l'eixida](/ApuntsProgramacio/va/05-funciones/04-return-valores)

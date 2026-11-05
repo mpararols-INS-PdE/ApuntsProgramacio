@@ -210,4 +210,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Valor centinela | Un valor especial (`-1`, `0`) que significa "vacío" en primitivos |
 > | Puntero | Índice que delimita una zona (`izquierda`, `derecha`) |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/06-arrays) · **Anterior:** [06 · Aplicaciones de los arrays](/ApuntesProgramacion/06-arrays/06-aplicaciones-arrays) · **Siguiente:** [08 · Array-revelde: errores comunes y depuración](/ApuntesProgramacion/06-arrays/08-array-revelde)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/06-arrays) · **Anterior:** [06 · Aplicaciones de los arrays](/ApuntsProgramacio/06-arrays/06-aplicaciones-arrays) · **Siguiente:** [08 · Array-revelde: errores comunes y depuración](/ApuntsProgramacio/06-arrays/08-array-revelde)

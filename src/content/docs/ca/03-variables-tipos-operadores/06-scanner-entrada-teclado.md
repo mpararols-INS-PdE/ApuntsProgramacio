@@ -115,7 +115,7 @@ String nombre = sc.nextLine();    // ara sí, llig el nom
 
 > ⚠️ **Advertència:** memoritza el truc: *després d'un `nextInt()` / `nextDouble()`, inserta un `nextLine()` buit abans del següent `nextLine()`.* És el guardià del buffer.
 
-![Comparació de carrils després d'nextInt(): el carril erroni es menja l'Enter i torna cadena buida, el carril correcte afegeix un nextLine() buit i llegeix el nom](/ApuntesProgramacion/diagrams/u03-buffer-enter-residual-ca.svg)
+![Comparació de carrils després d'nextInt(): el carril erroni es menja l'Enter i torna cadena buida, el carril correcte afegeix un nextLine() buit i llegeix el nom](/ApuntsProgramacio/diagrams/u03-buffer-enter-residual-ca.svg)
 
 ---
 
@@ -228,4 +228,4 @@ String nombre = sc.nextLine();    // ara sí que llig el nom
 > | Buffer | Zona de memòria on queda l'Enter residual |
 > | Instanciar | Crear un objecte a partir d'una classe |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/03-variables-tipos-operadores) · **Anterior:** [05 · Casting i conversions](/ApuntesProgramacion/ca/03-variables-tipos-operadores/05-casting-conversiones) · **Següent:** [07 · Consola: sortida amb format i errors d'entrada](/ApuntesProgramacion/ca/03-variables-tipos-operadores/07-consola-salida-formateada)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/03-variables-tipos-operadores) · **Anterior:** [05 · Casting i conversions](/ApuntsProgramacio/ca/03-variables-tipos-operadores/05-casting-conversiones) · **Següent:** [07 · Consola: sortida amb format i errors d'entrada](/ApuntsProgramacio/ca/03-variables-tipos-operadores/07-consola-salida-formateada)

@@ -183,4 +183,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Instancia | Sinónimo de objeto creado |
 > | Miembro | Cualquier atributo o método de una clase |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/09-poo-clases-objetos) · **Anterior:** [01 · Qué es la POO](/ApuntesProgramacion/09-poo-clases-objetos/01-que-es-poo) · **Siguiente:** [03 · Atributos y métodos](/ApuntesProgramacion/09-poo-clases-objetos/03-atributos-metodos)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/09-poo-clases-objetos) · **Anterior:** [01 · Qué es la POO](/ApuntsProgramacio/09-poo-clases-objetos/01-que-es-poo) · **Siguiente:** [03 · Atributos y métodos](/ApuntsProgramacio/09-poo-clases-objetos/03-atributos-metodos)

@@ -177,4 +177,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `orElseThrow()` | Llança una excepció si està buit |
 > | `ifPresent(c)` | Executa un `Consumer` només si hi ha valor |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/13-programacion-funcional) · **Anterior:** [07 · Del stream a la col·lecció: toList, Collectors, groupingBy](/ApuntesProgramacion/ca/13-programacion-funcional/07-streams-colecciones) · **Següent:** [09 · Repàs interactiu](/ApuntesProgramacion/ca/13-programacion-funcional/09-repaso-interactivo)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/13-programacion-funcional) · **Anterior:** [07 · Del stream a la col·lecció: toList, Collectors, groupingBy](/ApuntsProgramacio/ca/13-programacion-funcional/07-streams-colecciones) · **Següent:** [09 · Repàs interactiu](/ApuntsProgramacio/ca/13-programacion-funcional/09-repaso-interactivo)

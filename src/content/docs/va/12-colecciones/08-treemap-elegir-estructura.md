@@ -233,4 +233,4 @@ Tens parelles clau → valor?
 
 ---
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/12-colecciones) · **Anterior:** [07 · HashMap: la guia telefònica](/ApuntesProgramacion/va/12-colecciones/07-hashmap) · **Següent:** [09 · Repàs interactiu](/ApuntesProgramacion/va/12-colecciones/09-repaso-interactivo)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/12-colecciones) · **Anterior:** [07 · HashMap: la guia telefònica](/ApuntsProgramacio/va/12-colecciones/07-hashmap) · **Següent:** [09 · Repàs interactiu](/ApuntsProgramacio/va/12-colecciones/09-repaso-interactivo)

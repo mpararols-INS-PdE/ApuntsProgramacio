@@ -173,4 +173,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `this(...)` | Llamada a otro constructor de la misma clase |
 > | `static` | Contexto sin objeto (no admite `this`) |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/09-poo-clases-objetos) · **Anterior:** [04 · Constructores](/ApuntesProgramacion/09-poo-clases-objetos/04-constructores) · **Siguiente:** [06 · Referencias, null y memoria](/ApuntesProgramacion/09-poo-clases-objetos/06-referencias-memoria)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/09-poo-clases-objetos) · **Anterior:** [04 · Constructores](/ApuntsProgramacio/09-poo-clases-objetos/04-constructores) · **Siguiente:** [06 · Referencias, null y memoria](/ApuntsProgramacio/09-poo-clases-objetos/06-referencias-memoria)

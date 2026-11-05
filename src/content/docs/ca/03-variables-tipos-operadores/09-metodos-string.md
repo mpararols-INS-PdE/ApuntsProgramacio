@@ -70,7 +70,7 @@ String apellido = nombreCompleto.substring(4);        // "Martínez" — des del
 
 > ⚠️ **Advertència:** en `substring(inicio, fin)`, el `fin` **no s'inclou**. `substring(0, 3)` et dona els caràcters 0, 1 i 2. És un error típic demanar un caràcter de més (o de menys).
 
-![Índexos de substring sobre "PROGRAMA": les cel·les 2 a 5 en verd formen "OGRA" i la cel·la 6 (fin) es queda fora](/ApuntesProgramacion/diagrams/u03-substring-indices-ca.svg)
+![Índexos de substring sobre "PROGRAMA": les cel·les 2 a 5 en verd formen "OGRA" i la cel·la 6 (fin) es queda fora](/ApuntsProgramacio/diagrams/u03-substring-indices-ca.svg)
 
 ---
 
@@ -179,4 +179,4 @@ Imprimeix `M. erida`.
 > | `replace()` | Substituïx una part del text per una altra |
 > | Encadenar mètodes | Aplicar diversos mètodes seguits amb punts |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/03-variables-tipos-operadores) · **Anterior:** [08 · Math.random() i nombres aleatoris](/ApuntesProgramacion/ca/03-variables-tipos-operadores/08-math-random-aleatorios) · **Següent:** [10 · Repàs interactiu](/ApuntesProgramacion/ca/03-variables-tipos-operadores/10-repaso-interactivo)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/03-variables-tipos-operadores) · **Anterior:** [08 · Math.random() i nombres aleatoris](/ApuntsProgramacio/ca/03-variables-tipos-operadores/08-math-random-aleatorios) · **Següent:** [10 · Repàs interactiu](/ApuntsProgramacio/ca/03-variables-tipos-operadores/10-repaso-interactivo)

@@ -248,4 +248,4 @@ El `case 2` no té `break`, així que després d'imprimir "Dos" es cau al `case 
 > | `default` | El "cap dels anteriors", opcional |
 > | Fall-through | Que el codi es desborde d'un `case` al següent |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/04-estructuras-control-excepciones) · **Anterior:** [01 · if, else if i else](/ApuntesProgramacion/va/04-estructuras-control-excepciones/01-if-else) · **Següent:** [03 · Bucles: while i do-while](/ApuntesProgramacion/va/04-estructuras-control-excepciones/03-bucles-while-do-while)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/04-estructuras-control-excepciones) · **Anterior:** [01 · if, else if i else](/ApuntsProgramacio/va/04-estructuras-control-excepciones/01-if-else) · **Següent:** [03 · Bucles: while i do-while](/ApuntsProgramacio/va/04-estructuras-control-excepciones/03-bucles-while-do-while)

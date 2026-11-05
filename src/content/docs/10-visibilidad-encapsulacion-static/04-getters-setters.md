@@ -204,4 +204,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Solo lectura | Atributo con getter pero sin setter |
 > | `this` | Referencia al objeto actual, desambigua atributo vs parámetro |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/10-visibilidad-encapsulacion-static) · **Anterior:** [03 · Encapsulación: el pilar de la POO](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/03-encapsulacion) · **Siguiente:** [05 · Atributos static](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/05-atributos-static)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/10-visibilidad-encapsulacion-static) · **Anterior:** [03 · Encapsulación: el pilar de la POO](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/03-encapsulacion) · **Siguiente:** [05 · Atributos static](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/05-atributos-static)

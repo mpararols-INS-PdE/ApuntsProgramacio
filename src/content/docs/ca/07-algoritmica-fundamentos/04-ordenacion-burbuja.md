@@ -184,4 +184,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | O(n²) | El temps creix al quadrat: dos bucles anidats |
 > | In-place | Ordena modificant el mateix array, sense memòria extra |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/07-algoritmica-fundamentos) · **Anterior:** [03 · Cerca binària](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/03-busqueda-binaria) · **Següent:** [05 · Ordenació per inserció](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/05-ordenacion-insercion)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/07-algoritmica-fundamentos) · **Anterior:** [03 · Cerca binària](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/03-busqueda-binaria) · **Següent:** [05 · Ordenació per inserció](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/05-ordenacion-insercion)

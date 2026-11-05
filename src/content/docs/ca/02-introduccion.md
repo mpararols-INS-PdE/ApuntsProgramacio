@@ -37,15 +37,15 @@ En acabar, seràs capaç de:
 
 | Punt | Què aprendràs | Nivell |
 |---|---|---|
-| [01 · Què és Java?](/ApuntesProgramacion/ca/02-introduccion/01-que-es-java) | Història, bytecode, la trilogia JVM/JRE/JDK | Tots |
-| [02 · Instal·lació del JDK](/ApuntesProgramacion/ca/02-introduccion/02-instalacion-jdk) | Eclipse Temurin, VS Code, Extension Pack, `java -version`, PATH | Tots |
-| [03 · El teu primer programa](/ApuntesProgramacion/ca/02-introduccion/03-hola-mundo) | Hola Món, estructura, el mètode `main` | Tots |
-| [04 · El depurador](/ApuntesProgramacion/ca/02-introduccion/04-depurador) | Breakpoints, step over/into, watch | Tots |
-| [05 · Comentaris i documentació](/ApuntesProgramacion/ca/02-introduccion/05-comentarios) | `//`, `/* */`, `/** */` i Javadoc | Tots |
-| [06 · Arguments de línia de comandes](/ApuntesProgramacion/ca/02-introduccion/06-argumentos) | L'array `args`, com llegir-lo i usar-lo | Tots |
-| [07 · El compilador i els seus errors](/ApuntesProgramacion/ca/02-introduccion/07-errores-compilador) | Compilar vs executar, errors típics del novell | Tots |
-| [08 · VS Code i el teu flux de treball](/ApuntesProgramacion/ca/02-introduccion/08-ide-flujo-trabajo) | Projectes, dreceres, crear/executar/depurar | Tots |
-| [09 · Repàs interactiu](/ApuntesProgramacion/ca/02-introduccion/09-repaso-interactivo) | Be the Code, Fireside, Qui Soc, Laboratori, Crucigrama… | Tots |
+| [01 · Què és Java?](/ApuntsProgramacio/ca/02-introduccion/01-que-es-java) | Història, bytecode, la trilogia JVM/JRE/JDK | Tots |
+| [02 · Instal·lació del JDK](/ApuntsProgramacio/ca/02-introduccion/02-instalacion-jdk) | Eclipse Temurin, VS Code, Extension Pack, `java -version`, PATH | Tots |
+| [03 · El teu primer programa](/ApuntsProgramacio/ca/02-introduccion/03-hola-mundo) | Hola Món, estructura, el mètode `main` | Tots |
+| [04 · El depurador](/ApuntsProgramacio/ca/02-introduccion/04-depurador) | Breakpoints, step over/into, watch | Tots |
+| [05 · Comentaris i documentació](/ApuntsProgramacio/ca/02-introduccion/05-comentarios) | `//`, `/* */`, `/** */` i Javadoc | Tots |
+| [06 · Arguments de línia de comandes](/ApuntsProgramacio/ca/02-introduccion/06-argumentos) | L'array `args`, com llegir-lo i usar-lo | Tots |
+| [07 · El compilador i els seus errors](/ApuntsProgramacio/ca/02-introduccion/07-errores-compilador) | Compilar vs executar, errors típics del novell | Tots |
+| [08 · VS Code i el teu flux de treball](/ApuntsProgramacio/ca/02-introduccion/08-ide-flujo-trabajo) | Projectes, dreceres, crear/executar/depurar | Tots |
+| [09 · Repàs interactiu](/ApuntsProgramacio/ca/02-introduccion/09-repaso-interactivo) | Be the Code, Fireside, Qui Soc, Laboratori, Crucigrama… | Tots |
 
 > 📖 **Flux de lectura:** els 8 primers punts són teoria en progressió. El 9 és l'aterratge pràctic: llegeix-lo just després del 8 i abans d'obrir els butlletins.
 
@@ -56,11 +56,11 @@ En acabar, seràs capaç de:
 > Practica amb els parells del curs: intenta primer el per-resoldre i comprova amb el resolt quan hagis acabat.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u02-inicial" class="elink">🟢 Inicial per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u02-inicial-resuelto" class="elink">✅ Inicial resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u02-avanzado" class="elink">⭐ Avançat per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u02-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u02-extras" class="elink">🔥 Extres</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u02-inicial" class="elink">🟢 Inicial per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u02-inicial-resuelto" class="elink">✅ Inicial resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u02-avanzado" class="elink">⭐ Avançat per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u02-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u02-extras" class="elink">🔥 Extres</a>
 </div>
 
 ---
@@ -82,9 +82,9 @@ En acabar, seràs capaç de:
 
 ## 🚪 Per on començo?
 
-- ¿Cero coneixements? → Comença en el [punt 1](/ApuntesProgramacion/ca/02-introduccion/01-que-es-java), no hi ha cap requisit previ.
-- Ja saps què és un IDE? → Ves directe al [punt 3](/ApuntesProgramacion/ca/02-introduccion/03-hola-mundo) i torna enrere només si et perds.
-- Vens a repassar? → Fes el [Repàs interactiu](/ApuntesProgramacion/ca/02-introduccion/09-repaso-interactivo) i els [butlletins](/ApuntesProgramacion/ca/boletines/boletin-u02-inicial).
+- ¿Cero coneixements? → Comença en el [punt 1](/ApuntsProgramacio/ca/02-introduccion/01-que-es-java), no hi ha cap requisit previ.
+- Ja saps què és un IDE? → Ves directe al [punt 3](/ApuntsProgramacio/ca/02-introduccion/03-hola-mundo) i torna enrere només si et perds.
+- Vens a repassar? → Fes el [Repàs interactiu](/ApuntsProgramacio/ca/02-introduccion/09-repaso-interactivo) i els [butlletins](/ApuntsProgramacio/ca/boletines/boletin-u02-inicial).
 
-**📍 Primer punt:** [01 · Què és Java?](/ApuntesProgramacion/ca/02-introduccion/01-que-es-java)  
-**⏭️ En acabar la unitat, continua en [U03 · Variables, tipus i operadors](/ApuntesProgramacion/ca/03-variables-tipos-operadores).**
+**📍 Primer punt:** [01 · Què és Java?](/ApuntsProgramacio/ca/02-introduccion/01-que-es-java)  
+**⏭️ En acabar la unitat, continua en [U03 · Variables, tipus i operadors](/ApuntsProgramacio/ca/03-variables-tipos-operadores).**

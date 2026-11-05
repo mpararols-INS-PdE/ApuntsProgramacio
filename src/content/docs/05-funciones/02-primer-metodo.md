@@ -180,4 +180,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `void` | "No devuelvo nada" |
 > | camelCase | `calcularMedia`: minúscula al inicio, mayúsculas entre palabras |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/05-funciones) · **Anterior:** [01 · ¿Qué es una función?](/ApuntesProgramacion/05-funciones/01-que-es-funcion) · **Siguiente:** [03 · Parámetros: la entrada](/ApuntesProgramacion/05-funciones/03-parametros)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/05-funciones) · **Anterior:** [01 · ¿Qué es una función?](/ApuntsProgramacio/05-funciones/01-que-es-funcion) · **Siguiente:** [03 · Parámetros: la entrada](/ApuntsProgramacio/05-funciones/03-parametros)

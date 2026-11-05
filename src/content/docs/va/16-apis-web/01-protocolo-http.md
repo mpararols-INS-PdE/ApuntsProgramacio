@@ -122,4 +122,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `Content-Type` | Capçalera que diu quin tipus de contingut s'envia |
 > | Query string | Els paràmetres `clau=valor` que viatgen en la URL |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/16-apis-web) · **Anterior:** — · **Següent:** [02 · Servidor web mínim amb HttpServer](/ApuntesProgramacion/va/16-apis-web/02-servidor-minimo)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/16-apis-web) · **Anterior:** — · **Següent:** [02 · Servidor web mínim amb HttpServer](/ApuntsProgramacio/va/16-apis-web/02-servidor-minimo)

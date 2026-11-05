@@ -91,7 +91,7 @@ boolean esJavaDivertido = true;     // Esto es opinable
 
 > 📝 **Nota:** usa `int` para casi todo lo numérico entero. Solo pasa a `long` si vas a contar estrellas. Usa `double` para decimales, a menos que ahorrar memoria sea tu fetiche.
 
-![Mapa de los 8 tipos primitivos de Java: familias de enteros, decimales, texto y lógica con sus bits y rangos](/ApuntesProgramacion/diagrams/u03-map-tipo-primitivos.svg)
+![Mapa de los 8 tipos primitivos de Java: familias de enteros, decimales, texto y lógica con sus bits y rangos](/ApuntsProgramacio/diagrams/u03-map-tipo-primitivos.svg)
 
 ---
 
@@ -180,4 +180,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | camelCase | Convención de nombres: `miVariableEjemplo` |
 > | Palabra reservada | Palabra de Java que no puedes usar como nombre |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/03-variables-tipos-operadores) · **Anterior:** [Índice de la unidad](/ApuntesProgramacion/03-variables-tipos-operadores) · **Siguiente:** [02 · String, constantes y final](/ApuntesProgramacion/03-variables-tipos-operadores/02-string-constantes-final)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/03-variables-tipos-operadores) · **Anterior:** [Índice de la unidad](/ApuntsProgramacio/03-variables-tipos-operadores) · **Siguiente:** [02 · String, constantes y final](/ApuntsProgramacio/03-variables-tipos-operadores/02-string-constantes-final)

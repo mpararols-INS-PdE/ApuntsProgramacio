@@ -213,4 +213,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Array irregular | Cada fila amb diferent nombre de columnes |
 > | Diagonal principal | Els elements on `fila == columna` |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/06-arrays) · **Anterior:** [02 · Recórrer arrays: for i for-each](/ApuntesProgramacion/ca/06-arrays/02-recorrer-arrays) · **Següent:** [04 · La classe Arrays: la teva navalla suïssa](/ApuntesProgramacion/ca/06-arrays/04-clase-arrays)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/06-arrays) · **Anterior:** [02 · Recórrer arrays: for i for-each](/ApuntsProgramacio/ca/06-arrays/02-recorrer-arrays) · **Següent:** [04 · La classe Arrays: la teva navalla suïssa](/ApuntsProgramacio/ca/06-arrays/04-clase-arrays)

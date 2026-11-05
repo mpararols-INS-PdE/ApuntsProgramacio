@@ -154,4 +154,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Recurso | Algo que se debe liberar: archivo, conexión, scanner... |
 > | *Append* | Añadir al final de un archivo (segundo argumento `true` de `FileWriter`) |
 
-📁 [Volver al índice de la unidad](/ApuntesProgramacion/14-ficheros-regex) · **Anterior:** [02 · Escribir y leer texto: FileWriter, FileReader y BufferedReader](/ApuntesProgramacion/14-ficheros-regex/02-escribir-leer-texto) · **Siguiente:** [04 · PrintWriter y Scanner + File](/ApuntesProgramacion/14-ficheros-regex/04-printwriter-scanner-file)
+📁 [Volver al índice de la unidad](/ApuntsProgramacio/14-ficheros-regex) · **Anterior:** [02 · Escribir y leer texto: FileWriter, FileReader y BufferedReader](/ApuntsProgramacio/14-ficheros-regex/02-escribir-leer-texto) · **Siguiente:** [04 · PrintWriter y Scanner + File](/ApuntsProgramacio/14-ficheros-regex/04-printwriter-scanner-file)

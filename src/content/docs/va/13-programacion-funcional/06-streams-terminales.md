@@ -172,4 +172,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `count()` | Torna el nombre d'elements (`long`) |
 > | `forEach` | Aplica un `Consumer` a cada element |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/13-programacion-funcional) · **Anterior:** [05 · Operacions intermèdies: filter, map, distinct, sorted, limit](/ApuntesProgramacion/va/13-programacion-funcional/05-streams-intermedias) · **Següent:** [07 · Del stream a la col·lecció: toList, Collectors, groupingBy](/ApuntesProgramacion/va/13-programacion-funcional/07-streams-colecciones)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/13-programacion-funcional) · **Anterior:** [05 · Operacions intermèdies: filter, map, distinct, sorted, limit](/ApuntsProgramacio/va/13-programacion-funcional/05-streams-intermedias) · **Següent:** [07 · Del stream a la col·lecció: toList, Collectors, groupingBy](/ApuntsProgramacio/va/13-programacion-funcional/07-streams-colecciones)

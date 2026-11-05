@@ -45,16 +45,16 @@ En acabar, seràs capaç de:
 
 | Punt | Què aprendràs | Dificultat |
 |---|---|---|
-| [01 · Què és JDBC](/ApuntesProgramacion/ca/15-conexion-bases-datos/01-que-es-jdbc) | JDBC, SQLite i la dependència Maven que ho posa tot en marxa | Tots |
-| [02 · Connexió a SQLite](/ApuntesProgramacion/ca/15-conexion-bases-datos/02-conexion) | Els 5 passos del ritual i la interfície `Connection` | Tots |
-| [03 · Statement i ResultSet](/ApuntesProgramacion/ca/15-conexion-bases-datos/03-statement-resultset) | Executar consultes i processar files amb `next()` i `getXxx` | Tots |
-| [04 · CRUD complet](/ApuntesProgramacion/ca/15-conexion-bases-datos/04-crud) | Inserir, llegir, actualitzar i esborrar amb `executeQuery` i `executeUpdate` | Tots |
-| [05 · PreparedStatement i SQL injection](/ApuntesProgramacion/ca/15-conexion-bases-datos/05-preparedstatement) | Placeholders `?`, `setXxx` i la història de Bobby Tables | Tots |
-| [06 · El patró DAO](/ApuntesProgramacion/ca/15-conexion-bases-datos/06-pattern-dao) | Interfície + implementació: l'SQL no trepitja la teva lògica de negoci | Tots |
-| [07 · Transaccions](/ApuntesProgramacion/ca/15-conexion-bases-datos/07-transacciones) | `commit`, `rollback` i savepoints: tot o res | Tots |
-| [08 · Bones pràctiques](/ApuntesProgramacion/ca/15-conexion-bases-datos/08-buenas-practicas) | El decàleg del JDBC: recursos, files afectades i `WHERE` sempre | Tots |
-| [09 · Introducció a ORM](/ApuntesProgramacion/ca/15-conexion-bases-datos/09-introduccion-orm) | Què és un ORM, mapeig objecte-relacional i JDBC vs ORM | Tots |
-| [10 · Repàs interactiu](/ApuntesProgramacion/ca/15-conexion-bases-datos/10-repaso-interactivo) | Be the Code, Fireside, Laboratori, Crucigrama i més | Tots |
+| [01 · Què és JDBC](/ApuntsProgramacio/ca/15-conexion-bases-datos/01-que-es-jdbc) | JDBC, SQLite i la dependència Maven que ho posa tot en marxa | Tots |
+| [02 · Connexió a SQLite](/ApuntsProgramacio/ca/15-conexion-bases-datos/02-conexion) | Els 5 passos del ritual i la interfície `Connection` | Tots |
+| [03 · Statement i ResultSet](/ApuntsProgramacio/ca/15-conexion-bases-datos/03-statement-resultset) | Executar consultes i processar files amb `next()` i `getXxx` | Tots |
+| [04 · CRUD complet](/ApuntsProgramacio/ca/15-conexion-bases-datos/04-crud) | Inserir, llegir, actualitzar i esborrar amb `executeQuery` i `executeUpdate` | Tots |
+| [05 · PreparedStatement i SQL injection](/ApuntsProgramacio/ca/15-conexion-bases-datos/05-preparedstatement) | Placeholders `?`, `setXxx` i la història de Bobby Tables | Tots |
+| [06 · El patró DAO](/ApuntsProgramacio/ca/15-conexion-bases-datos/06-pattern-dao) | Interfície + implementació: l'SQL no trepitja la teva lògica de negoci | Tots |
+| [07 · Transaccions](/ApuntsProgramacio/ca/15-conexion-bases-datos/07-transacciones) | `commit`, `rollback` i savepoints: tot o res | Tots |
+| [08 · Bones pràctiques](/ApuntsProgramacio/ca/15-conexion-bases-datos/08-buenas-practicas) | El decàleg del JDBC: recursos, files afectades i `WHERE` sempre | Tots |
+| [09 · Introducció a ORM](/ApuntsProgramacio/ca/15-conexion-bases-datos/09-introduccion-orm) | Què és un ORM, mapeig objecte-relacional i JDBC vs ORM | Tots |
+| [10 · Repàs interactiu](/ApuntsProgramacio/ca/15-conexion-bases-datos/10-repaso-interactivo) | Be the Code, Fireside, Laboratori, Crucigrama i més | Tots |
 
 > 📖 **Flux de lectura:** els 9 primers punts són teoria en progressió. El 10 és l'aterratge pràctic: llegeix-lo just després del 9 i abans d'obrir els butlletins.
 
@@ -65,11 +65,11 @@ En acabar, seràs capaç de:
 > Practica amb els parells del curs: intenta primer el per-resoldre i comprova amb el resolt quan hagis acabat.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u15-inicial" class="elink">🟢 Inicial per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u15-inicial-resuelto" class="elink">✅ Inicial resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u15-avanzado" class="elink">⭐ Avançat per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u15-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u15-extras" class="elink">🔥 Extres</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u15-inicial" class="elink">🟢 Inicial per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u15-inicial-resuelto" class="elink">✅ Inicial resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u15-avanzado" class="elink">⭐ Avançat per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u15-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u15-extras" class="elink">🔥 Extres</a>
 </div>
 
 ---
@@ -94,10 +94,10 @@ En acabar, seràs capaç de:
 
 ## 🚪 Per on començo?
 
-- Vens de la U14 (fitxers) i vols l'essencial? → Comença en el [punt 1](/ApuntesProgramacion/ca/15-conexion-bases-datos/01-que-es-jdbc) i el [punt 2](/ApuntesProgramacion/ca/15-conexion-bases-datos/02-conexion): connectar és el 90% de la batalla.
-- Ja connectes i vols gestionar dades? → Ves directe al [punt 4](/ApuntesProgramacion/ca/15-conexion-bases-datos/04-crud) (el CRUD) i al [punt 5](/ApuntesProgramacion/ca/15-conexion-bases-datos/05-preparedstatement) (fer-ho sense que et pirategen).
-- Només vens a pels trucs? → Salta al [punt 5](/ApuntesProgramacion/ca/15-conexion-bases-datos/05-preparedstatement) (l'SQL injection) i al [punt 8](/ApuntesProgramacion/ca/15-conexion-bases-datos/08-buenas-practicas) (el decàleg).
-- Vens a repassar? → Fes el [Repàs interactiu](/ApuntesProgramacion/ca/15-conexion-bases-datos/10-repaso-interactivo) i després els [butlletins](/ApuntesProgramacion/ca/boletines/boletin-u15-inicial).
+- Vens de la U14 (fitxers) i vols l'essencial? → Comença en el [punt 1](/ApuntsProgramacio/ca/15-conexion-bases-datos/01-que-es-jdbc) i el [punt 2](/ApuntsProgramacio/ca/15-conexion-bases-datos/02-conexion): connectar és el 90% de la batalla.
+- Ja connectes i vols gestionar dades? → Ves directe al [punt 4](/ApuntsProgramacio/ca/15-conexion-bases-datos/04-crud) (el CRUD) i al [punt 5](/ApuntsProgramacio/ca/15-conexion-bases-datos/05-preparedstatement) (fer-ho sense que et pirategen).
+- Només vens a pels trucs? → Salta al [punt 5](/ApuntsProgramacio/ca/15-conexion-bases-datos/05-preparedstatement) (l'SQL injection) i al [punt 8](/ApuntsProgramacio/ca/15-conexion-bases-datos/08-buenas-practicas) (el decàleg).
+- Vens a repassar? → Fes el [Repàs interactiu](/ApuntsProgramacio/ca/15-conexion-bases-datos/10-repaso-interactivo) i després els [butlletins](/ApuntsProgramacio/ca/boletines/boletin-u15-inicial).
 
-**📍 Primer punt:** [01 · Què és JDBC](/ApuntesProgramacion/ca/15-conexion-bases-datos/01-que-es-jdbc)  
-**⏭️ En acabar la unitat, continua en [U16 · Servir i consumir APIs amb Web](/ApuntesProgramacion/ca/16-apis-web).**
+**📍 Primer punt:** [01 · Què és JDBC](/ApuntsProgramacio/ca/15-conexion-bases-datos/01-que-es-jdbc)  
+**⏭️ En acabar la unitat, continua en [U16 · Servir i consumir APIs amb Web](/ApuntsProgramacio/ca/16-apis-web).**

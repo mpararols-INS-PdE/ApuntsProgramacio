@@ -174,4 +174,4 @@ int c = Integer.parseInt("cuarenta y dos");
 > | `RuntimeException` | Excepción de ejecución, sin captura obligatoria |
 > | Trace | El "stack trace": la lista de llamadas hasta el fallo |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/04-estructuras-control-excepciones) · **Anterior:** [05 · break y continue](/ApuntesProgramacion/04-estructuras-control-excepciones/05-break-continue) · **Siguiente:** [07 · try, catch y finally](/ApuntesProgramacion/04-estructuras-control-excepciones/07-try-catch-finally)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/04-estructuras-control-excepciones) · **Anterior:** [05 · break y continue](/ApuntsProgramacio/04-estructuras-control-excepciones/05-break-continue) · **Siguiente:** [07 · try, catch y finally](/ApuntsProgramacio/04-estructuras-control-excepciones/07-try-catch-finally)

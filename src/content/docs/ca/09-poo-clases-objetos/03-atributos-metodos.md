@@ -213,4 +213,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `void` | El mètode no retorna res |
 > | `return` | Retorna un valor al qui va cridar |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/09-poo-clases-objetos) · **Anterior:** [02 · Classes i objectes: el tallagalletas i les galetes](/ApuntesProgramacion/ca/09-poo-clases-objetos/02-clases-objetos) · **Següent:** [04 · Constructors](/ApuntesProgramacion/ca/09-poo-clases-objetos/04-constructores)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/09-poo-clases-objetos) · **Anterior:** [02 · Classes i objectes: el tallagalletas i les galetes](/ApuntsProgramacio/ca/09-poo-clases-objetos/02-clases-objetos) · **Següent:** [04 · Constructors](/ApuntsProgramacio/ca/09-poo-clases-objetos/04-constructores)

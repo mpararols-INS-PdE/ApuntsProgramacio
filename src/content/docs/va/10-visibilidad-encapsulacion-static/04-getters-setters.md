@@ -204,4 +204,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Només lectura | Atribut amb getter però sense setter |
 > | `this` | Referència a l'objecte actual, desambigua atribut vs paràmetre |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/10-visibilidad-encapsulacion-static) · **Anterior:** [03 · Encapsulació: el pilar de la POO](/ApuntesProgramacion/va/10-visibilidad-encapsulacion-static/03-encapsulacion) · **Següent:** [05 · Atributs static](/ApuntesProgramacion/va/10-visibilidad-encapsulacion-static/05-atributos-static)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/10-visibilidad-encapsulacion-static) · **Anterior:** [03 · Encapsulació: el pilar de la POO](/ApuntsProgramacio/va/10-visibilidad-encapsulacion-static/03-encapsulacion) · **Següent:** [05 · Atributs static](/ApuntsProgramacio/va/10-visibilidad-encapsulacion-static/05-atributos-static)

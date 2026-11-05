@@ -188,4 +188,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `sorted` | Ordena (orden natural o con `Comparator`) |
 > | `limit(n)` | Corta el flujo en n elementos |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/13-programacion-funcional) · **Anterior:** [04 · Streams: el flujo de datos](/ApuntesProgramacion/13-programacion-funcional/04-streams-basicos) · **Siguiente:** [06 · Operaciones terminales: collect, reduce, count, forEach](/ApuntesProgramacion/13-programacion-funcional/06-streams-terminales)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/13-programacion-funcional) · **Anterior:** [04 · Streams: el flujo de datos](/ApuntsProgramacio/13-programacion-funcional/04-streams-basicos) · **Siguiente:** [06 · Operaciones terminales: collect, reduce, count, forEach](/ApuntsProgramacio/13-programacion-funcional/06-streams-terminales)

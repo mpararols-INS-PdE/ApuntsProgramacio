@@ -215,4 +215,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Subclase | Clase que hereda de otra (`extends`) |
 > | Miembro | Un atributo o un método de la clase |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/10-visibilidad-encapsulacion-static) · **Anterior:** [01 · Visibilidad: el arte de no enseñarlo todo](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/01-visibilidad) · **Siguiente:** [03 · Encapsulación: el pilar de la POO](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/03-encapsulacion)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/10-visibilidad-encapsulacion-static) · **Anterior:** [01 · Visibilidad: el arte de no enseñarlo todo](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/01-visibilidad) · **Siguiente:** [03 · Encapsulación: el pilar de la POO](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/03-encapsulacion)

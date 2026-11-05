@@ -13,7 +13,7 @@ description: El cierre práctico de la unidad, con un bug de truncamiento que no
 
 > **En este punto no aprendemos nada nuevo: lo convertimos todo en práctica. Y, como siempre, algo no va a funcionar.** 😈
 
-![Mapa mental de la unidad 03: siete zonas del temario con el error típico de cada una, de los tipos de variables a los métodos de String](/ApuntesProgramacion/diagrams/u03-mapa-unidad.svg)
+![Mapa mental de la unidad 03: siete zonas del temario con el error típico de cada una, de los tipos de variables a los métodos de String](/ApuntsProgramacio/diagrams/u03-mapa-unidad.svg)
 
 ---
 
@@ -313,4 +313,4 @@ El novato guarda su proyecto, cierra el IDE y siente que el almacén de datos ya
 
 ---
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/03-variables-tipos-operadores) · **Anterior:** [09 · Métodos útiles de String](/ApuntesProgramacion/03-variables-tipos-operadores/09-metodos-string) · **Siguiente:** **[U04 · Estructuras de control y excepciones básicas](/ApuntesProgramacion/04-estructuras-control-excepciones)**
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/03-variables-tipos-operadores) · **Anterior:** [09 · Métodos útiles de String](/ApuntsProgramacio/03-variables-tipos-operadores/09-metodos-string) · **Siguiente:** **[U04 · Estructuras de control y excepciones básicas](/ApuntsProgramacio/04-estructuras-control-excepciones)**

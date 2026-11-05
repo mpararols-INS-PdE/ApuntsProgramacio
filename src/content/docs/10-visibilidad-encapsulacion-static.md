@@ -42,15 +42,15 @@ Al terminar, serás capaz de:
 
 | Punto | Qué aprenderás | Dificultad |
 |---|---|---|
-| [01 · Visibilidad: el arte de no enseñarlo todo](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/01-visibilidad) | La casa de cristal: el problema de enseñar todos tus atributos al mundo | Todos |
-| [02 · public, private y protected](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/02-public-private-protected) | Los 4 niveles de visibilidad y quién ve cada cosa de tu clase | Todos |
-| [03 · Encapsulación: el pilar de la POO](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/03-encapsulacion) | Atributos privados, control de acceso y el patrón JavaBeans | Todos |
-| [04 · Getters y setters](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/04-getters-setters) | El portero de la discoteca: leer y modificar atributos con validación | Todos |
-| [05 · Atributos static](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/05-atributos-static) | Lo que pertenece a la clase, no al objeto: el grupo de WhatsApp | Todos |
-| [06 · Métodos static y el main](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/06-metodos-static) | Llamar a métodos sin crear objetos y por qué `main` es estático | Todos |
-| [07 · Constantes de clase: static final](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/07-constantes-static-final) | Valores inmutables en MAYÚSCULAS y las clases utilitarias | Todos |
-| [08 · Be the Code: encapsula tu clase](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/08-be-the-code) | Convierte una clase sin blindar en una bien encapsulada, paso a paso | ⭐⭐⭐ |
-| [09 · Repaso interactivo](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/09-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
+| [01 · Visibilidad: el arte de no enseñarlo todo](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/01-visibilidad) | La casa de cristal: el problema de enseñar todos tus atributos al mundo | Todos |
+| [02 · public, private y protected](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/02-public-private-protected) | Los 4 niveles de visibilidad y quién ve cada cosa de tu clase | Todos |
+| [03 · Encapsulación: el pilar de la POO](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/03-encapsulacion) | Atributos privados, control de acceso y el patrón JavaBeans | Todos |
+| [04 · Getters y setters](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/04-getters-setters) | El portero de la discoteca: leer y modificar atributos con validación | Todos |
+| [05 · Atributos static](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/05-atributos-static) | Lo que pertenece a la clase, no al objeto: el grupo de WhatsApp | Todos |
+| [06 · Métodos static y el main](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/06-metodos-static) | Llamar a métodos sin crear objetos y por qué `main` es estático | Todos |
+| [07 · Constantes de clase: static final](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/07-constantes-static-final) | Valores inmutables en MAYÚSCULAS y las clases utilitarias | Todos |
+| [08 · Be the Code: encapsula tu clase](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/08-be-the-code) | Convierte una clase sin blindar en una bien encapsulada, paso a paso | ⭐⭐⭐ |
+| [09 · Repaso interactivo](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/09-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
 
 > 📖 **Flujo de lectura:** los 8 primeros puntos son teoría en progresión. El 9º es el aterrizaje práctico: léelo justo después del 8º y antes de abrir los boletines.
 
@@ -61,11 +61,11 @@ Al terminar, serás capaz de:
 > Practica con los pares del curso: intenta primero el por-resolver y comprueba con el resuelto cuando hayas terminado.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/boletines/boletin-u10-inicial" class="elink">🟢 Inicial por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u10-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u10-avanzado" class="elink">⭐ Avanzado por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u10-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u10-extras" class="elink">🔥 Extras</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u10-inicial" class="elink">🟢 Inicial por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u10-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u10-avanzado" class="elink">⭐ Avanzado por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u10-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u10-extras" class="elink">🔥 Extras</a>
 </div>
 
 ---
@@ -90,10 +90,10 @@ Al terminar, serás capaz de:
 
 ## 🚪 ¿Por dónde empiezo?
 
-- ¿Cero conocimientos? → Arranca en el [punto 1](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/01-visibilidad). Solo necesitas lo que viste en la U09.
-- ¿Ya blindas atributos y quieres chicha? → Ve directo al [punto 5](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/05-atributos-static) y al [punto 6](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/06-metodos-static): ahí empieza el mundo estático.
-- ¿Solo vienes a por los candados? → Salta al [punto 3](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/03-encapsulacion) y al [punto 4](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/04-getters-setters).
-- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/09-repaso-interactivo) y después los [boletines](/ApuntesProgramacion/boletines/boletin-u10-inicial).
+- ¿Cero conocimientos? → Arranca en el [punto 1](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/01-visibilidad). Solo necesitas lo que viste en la U09.
+- ¿Ya blindas atributos y quieres chicha? → Ve directo al [punto 5](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/05-atributos-static) y al [punto 6](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/06-metodos-static): ahí empieza el mundo estático.
+- ¿Solo vienes a por los candados? → Salta al [punto 3](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/03-encapsulacion) y al [punto 4](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/04-getters-setters).
+- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/09-repaso-interactivo) y después los [boletines](/ApuntsProgramacio/boletines/boletin-u10-inicial).
 
-**📍 Primer punto:** [01 · Visibilidad: el arte de no enseñarlo todo](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/01-visibilidad)  
-**⏭️ Al acabar la unidad, continúa en [U11 · Herencia, polimorfismo e interfaces](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces).
+**📍 Primer punto:** [01 · Visibilidad: el arte de no enseñarlo todo](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/01-visibilidad)  
+**⏭️ Al acabar la unidad, continúa en [U11 · Herencia, polimorfismo e interfaces](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces).

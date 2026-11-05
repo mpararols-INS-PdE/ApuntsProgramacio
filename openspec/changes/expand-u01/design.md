@@ -46,5 +46,5 @@
 
 ## URLs
 
-- ES: `/ApuntesProgramacion/01-introduccion`, `/ApuntesProgramacion/01-introduccion/0X-*`, `/ApuntesProgramacion/boletines/boletin-U01-*`
-- VA: `/ApuntesProgramacion/va/...` análogo
+- ES: `/ApuntsProgramacio/01-introduccion`, `/ApuntsProgramacio/01-introduccion/0X-*`, `/ApuntsProgramacio/boletines/boletin-U01-*`
+- VA: `/ApuntsProgramacio/va/...` análogo

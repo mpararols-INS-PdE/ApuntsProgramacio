@@ -144,4 +144,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Trade-off | Compromís: guanyar en alguna cosa pagant alguna cosa a canvi |
 > | Estabilitat | Mantenir l'ordre relatiu dels elements iguals |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/07-algoritmica-fundamentos) · **Anterior:** [06 · Complexitat algorísmica: Big O](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/06-complejidad-big-o) · **Següent:** [08 · Be the Code: cerca binària des de zero](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/08-be-the-code)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/07-algoritmica-fundamentos) · **Anterior:** [06 · Complexitat algorísmica: Big O](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/06-complejidad-big-o) · **Següent:** [08 · Be the Code: cerca binària des de zero](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/08-be-the-code)

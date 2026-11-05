@@ -212,4 +212,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Firma clara | Nom + paràmetres + retorn que s'entenen sols |
 > | Abans/després | Prova que la refactorització va neta |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/05-funciones) · **Anterior:** [07 · Divideix el problema](/ApuntesProgramacion/va/05-funciones/07-divide-problema) · **Següent:** [09 · Repàs interactiu](/ApuntesProgramacion/va/05-funciones/09-repaso-interactivo)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/05-funciones) · **Anterior:** [07 · Divideix el problema](/ApuntsProgramacio/va/05-funciones/07-divide-problema) · **Següent:** [09 · Repàs interactiu](/ApuntsProgramacio/va/05-funciones/09-repaso-interactivo)

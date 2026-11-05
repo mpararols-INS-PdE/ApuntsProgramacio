@@ -374,4 +374,4 @@ S'acosta CONRAD, el compilador cascarrabutxes, amb la seua tassa fumant.
 
 ---
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/15-conexion-bases-datos) · **Anterior:** [09 · Introducció a ORM](/ApuntesProgramacion/va/15-conexion-bases-datos/09-introduccion-orm) · **Següent:** **[U16 · Servir i consumir APIs amb Web](/ApuntesProgramacion/va/16-apis-web)**
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/15-conexion-bases-datos) · **Anterior:** [09 · Introducció a ORM](/ApuntsProgramacio/va/15-conexion-bases-datos/09-introduccion-orm) · **Següent:** **[U16 · Servir i consumir APIs amb Web](/ApuntsProgramacio/va/16-apis-web)**

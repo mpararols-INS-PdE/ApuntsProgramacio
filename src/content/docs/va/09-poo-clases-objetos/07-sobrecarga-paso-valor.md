@@ -220,4 +220,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Còpia de referència | Es copia l'adreça, no l'objecte |
 > | Encadenar constructors | Un constructor crida un altre amb `this(...)` |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/09-poo-clases-objetos) · **Anterior:** [06 · Referències, null i memòria](/ApuntesProgramacion/va/09-poo-clases-objetos/06-referencias-memoria) · **Següent:** [08 · Be the Code: dissenya la teua classe](/ApuntesProgramacion/va/09-poo-clases-objetos/08-be-the-code)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/09-poo-clases-objetos) · **Anterior:** [06 · Referències, null i memòria](/ApuntsProgramacio/va/09-poo-clases-objetos/06-referencias-memoria) · **Següent:** [08 · Be the Code: dissenya la teua classe](/ApuntsProgramacio/va/09-poo-clases-objetos/08-be-the-code)

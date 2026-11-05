@@ -51,7 +51,7 @@ Palabra 2: mola
 Palabra 3: mucho
 ```
 
-![Diagrama del array args: de la terminal al programa con sus índices y length](/ApuntesProgramacion/diagrams/u02-array-args.svg)
+![Diagrama del array args: de la terminal al programa con sus índices y length](/ApuntsProgramacio/diagrams/u02-array-args.svg)
 
 ---
 

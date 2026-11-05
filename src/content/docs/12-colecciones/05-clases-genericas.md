@@ -177,4 +177,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Wrapper | Clase que envuelve un primitivo (`Integer` envuelve `int`) |
 > | Tipo crudo (raw type) | `Caja` sin `< >`: sin seguridad de tipos, evítalo |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/12-colecciones) · **Anterior:** [04 · Iterator y Collections](/ApuntesProgramacion/12-colecciones/04-iterator-collections) · **Siguiente:** [06 · El diamante, métodos genéricos y wildcards](/ApuntesProgramacion/12-colecciones/06-genericos-avanzado)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/12-colecciones) · **Anterior:** [04 · Iterator y Collections](/ApuntsProgramacio/12-colecciones/04-iterator-collections) · **Siguiente:** [06 · El diamante, métodos genéricos y wildcards](/ApuntsProgramacio/12-colecciones/06-genericos-avanzado)

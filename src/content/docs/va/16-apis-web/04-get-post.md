@@ -160,4 +160,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `URLDecoder` | Convertix `%20` i amics en caràcters llegibles |
 > | Null-safe | Codi que no peta encara que reba `null` |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/16-apis-web) · **Anterior:** [03 · Servint HTML](/ApuntesProgramacion/va/16-apis-web/03-sirviendo-html) · **Següent:** [05 · Tornant JSON: com una API de veritat](/ApuntesProgramacion/va/16-apis-web/05-devolviendo-json)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/16-apis-web) · **Anterior:** [03 · Servint HTML](/ApuntsProgramacio/va/16-apis-web/03-sirviendo-html) · **Següent:** [05 · Tornant JSON: com una API de veritat](/ApuntsProgramacio/va/16-apis-web/05-devolviendo-json)

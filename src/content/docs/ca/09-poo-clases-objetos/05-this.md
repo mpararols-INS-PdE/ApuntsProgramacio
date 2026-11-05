@@ -173,4 +173,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `this(...)` | Crida a un altre constructor de la mateixa classe |
 > | `static` | Context sense objecte (no admet `this`) |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/09-poo-clases-objetos) · **Anterior:** [04 · Constructors](/ApuntesProgramacion/ca/09-poo-clases-objetos/04-constructores) · **Següent:** [06 · Referències, null i memòria](/ApuntesProgramacion/ca/09-poo-clases-objetos/06-referencias-memoria)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/09-poo-clases-objetos) · **Anterior:** [04 · Constructors](/ApuntsProgramacio/ca/09-poo-clases-objetos/04-constructores) · **Següent:** [06 · Referències, null i memòria](/ApuntsProgramacio/ca/09-poo-clases-objetos/06-referencias-memoria)

@@ -75,4 +75,4 @@ MIRA AIXÒ! 🎉 La tasca gegant i aterridora de "Fer una Biblioteca" s'ha conve
 
 ---
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/01-pensamiento-computacional) · **Anterior:** [03 · Primer pensem, després escrivim](/ApuntesProgramacion/va/01-pensamiento-computacional/03-pensar-antes) · **Següent:** [05 · Debugging i casos límit](/ApuntesProgramacion/va/01-pensamiento-computacional/05-debugging-casos-limite)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/01-pensamiento-computacional) · **Anterior:** [03 · Primer pensem, després escrivim](/ApuntsProgramacio/va/01-pensamiento-computacional/03-pensar-antes) · **Següent:** [05 · Debugging i casos límit](/ApuntsProgramacio/va/01-pensamiento-computacional/05-debugging-casos-limite)

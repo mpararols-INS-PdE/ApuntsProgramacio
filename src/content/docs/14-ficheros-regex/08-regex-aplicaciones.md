@@ -229,4 +229,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `$n` | Grupo `n` en un reemplazo de `replaceAll` |
 > | Validar | Comprobar el formato de un dato (no su veracidad) |
 
-📁 [Volver al índice de la unidad](/ApuntesProgramacion/14-ficheros-regex) · **Anterior:** [07 · Expresiones regulares: Pattern y Matcher](/ApuntesProgramacion/14-ficheros-regex/07-regex-basica) · **Siguiente:** [09 · Repaso interactivo](/ApuntesProgramacion/14-ficheros-regex/09-repaso-interactivo)
+📁 [Volver al índice de la unidad](/ApuntsProgramacio/14-ficheros-regex) · **Anterior:** [07 · Expresiones regulares: Pattern y Matcher](/ApuntsProgramacio/14-ficheros-regex/07-regex-basica) · **Siguiente:** [09 · Repaso interactivo](/ApuntsProgramacio/14-ficheros-regex/09-repaso-interactivo)

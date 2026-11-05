@@ -44,15 +44,15 @@ En acabar, seràs capaç de:
 
 | Punt | Què aprendràs | Dificultat |
 |---|---|---|
-| [01 · if, else if i else](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/01-if-else) | Decisions amb `if`/`else`, anidats i ternari | Tots |
-| [02 · switch](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/02-switch) | `switch`, `case`, `break` i `default` | Tots |
-| [03 · Bucles: while i do-while](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/03-bucles-while-do-while) | Repetir amb `while` i `do-while`, bucles infinits | Tots |
-| [04 · Bucle for i bucles anidats](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/04-bucle-for) | `for` amb comptador i bucles dins de bucles | Tots |
-| [05 · break, continue i etiquetes](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/05-break-continue) | Sortides del bucle i salt entre etiquetes | Tots |
-| [06 · Excepcions bàsiques](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/06-excepciones-basicas) | `Throwable`, `Exception`, `RuntimeException` i les excepcions típiques | Tots |
-| [07 · try, catch i finally](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/07-try-catch-finally) | Protegir codi, capturar errors i captura múltiple | Tots |
-| [08 · throw i excepcions pròpies](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/08-throw-excepciones-propias) | Llançar excepcions i crear les teves | Tots |
-| [09 · Repàs interactiu](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/09-repaso-interactivo) | Be the Code, Fireside, Qui Soc, Laboratori, Crucigrama… | Tots |
+| [01 · if, else if i else](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/01-if-else) | Decisions amb `if`/`else`, anidats i ternari | Tots |
+| [02 · switch](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/02-switch) | `switch`, `case`, `break` i `default` | Tots |
+| [03 · Bucles: while i do-while](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/03-bucles-while-do-while) | Repetir amb `while` i `do-while`, bucles infinits | Tots |
+| [04 · Bucle for i bucles anidats](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/04-bucle-for) | `for` amb comptador i bucles dins de bucles | Tots |
+| [05 · break, continue i etiquetes](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/05-break-continue) | Sortides del bucle i salt entre etiquetes | Tots |
+| [06 · Excepcions bàsiques](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/06-excepciones-basicas) | `Throwable`, `Exception`, `RuntimeException` i les excepcions típiques | Tots |
+| [07 · try, catch i finally](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/07-try-catch-finally) | Protegir codi, capturar errors i captura múltiple | Tots |
+| [08 · throw i excepcions pròpies](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/08-throw-excepciones-propias) | Llançar excepcions i crear les teves | Tots |
+| [09 · Repàs interactiu](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/09-repaso-interactivo) | Be the Code, Fireside, Qui Soc, Laboratori, Crucigrama… | Tots |
 
 > 📖 **Flux de lectura:** els 8 primers punts són teoria en progressió. El 9 és l'aterratge pràctic: llegeix-lo just després del 8 i abans d'obrir els butlletins.
 
@@ -63,11 +63,11 @@ En acabar, seràs capaç de:
 > Practica amb els parells del curs: intenta primer el per-resoldre i comprova amb el resolt quan hagis acabat.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u04-inicial" class="elink">🟢 Inicial per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u04-inicial-resuelto" class="elink">✅ Inicial resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u04-avanzado" class="elink">⭐ Avançat per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u04-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u04-extras" class="elink">🔥 Extres</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u04-inicial" class="elink">🟢 Inicial per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u04-inicial-resuelto" class="elink">✅ Inicial resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u04-avanzado" class="elink">⭐ Avançat per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u04-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u04-extras" class="elink">🔥 Extres</a>
 </div>
 
 ---
@@ -92,10 +92,10 @@ En acabar, seràs capaç de:
 
 ## 🚪 Per on començo?
 
-- Cero coneixements? → Comença en el [punt 1](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/01-if-else). Només necessites les variables i el `Scanner` de la U03.
-- Ja saps decidir i només vols repetir? → Ves directe al [punt 3](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/03-bucles-while-do-while) i al [punt 4](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/04-bucle-for).
-- El teu programa es trenca i no saps per què? → Els [punts 6](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/06-excepciones-basicas), [7](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/07-try-catch-finally) i [8](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/08-throw-excepciones-propias) t'ensenyen a llegir els crits de Java.
-- Vens a repassar? → Fes el [Repàs interactiu](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/09-repaso-interactivo) i després els [butlletins](/ApuntesProgramacion/ca/boletines/boletin-u04-inicial).
+- Cero coneixements? → Comença en el [punt 1](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/01-if-else). Només necessites les variables i el `Scanner` de la U03.
+- Ja saps decidir i només vols repetir? → Ves directe al [punt 3](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/03-bucles-while-do-while) i al [punt 4](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/04-bucle-for).
+- El teu programa es trenca i no saps per què? → Els [punts 6](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/06-excepciones-basicas), [7](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/07-try-catch-finally) i [8](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/08-throw-excepciones-propias) t'ensenyen a llegir els crits de Java.
+- Vens a repassar? → Fes el [Repàs interactiu](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/09-repaso-interactivo) i després els [butlletins](/ApuntsProgramacio/ca/boletines/boletin-u04-inicial).
 
-**📍 Primer punt:** [01 · if, else if i else](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/01-if-else)  
-**⏭️ En acabar la unitat, continua en [U05 · Funcions i mètodes](/ApuntesProgramacion/ca/05-funciones).**
+**📍 Primer punt:** [01 · if, else if i else](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/01-if-else)  
+**⏭️ En acabar la unitat, continua en [U05 · Funcions i mètodes](/ApuntsProgramacio/ca/05-funciones).**

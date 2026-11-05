@@ -45,15 +45,15 @@ En acabar, seràs capaç de:
 
 | Punt | Què aprendràs | Dificultat |
 |---|---|---|
-| [01 · La classe File: el teu explorador de fitxers](/ApuntesProgramacion/ca/14-ficheros-regex/01-clase-file) | El GPS que localitza fitxers sense llegir-ne el contingut | Tots |
-| [02 · Escriure i llegir text: FileWriter, FileReader i BufferedReader](/ApuntesProgramacion/ca/14-ficheros-regex/02-escribir-leer-texto) | El llapis que no oblida i el lector que no s'ennuega | Tots |
-| [03 · try-with-resources: tancar sense plorar](/ApuntesProgramacion/ca/14-ficheros-regex/03-try-with-resources) | La porta que es tanca sola: adéu al `close()` manual | Tots |
-| [04 · PrintWriter i Scanner + File](/ApuntesProgramacion/ca/14-ficheros-regex/04-printwriter-scanner-file) | El sergent que formata i el pop que tokenitza | Tots |
-| [05 · NIO: Files i Paths (la forma moderna)](/ApuntesProgramacion/ca/14-ficheros-regex/05-nio-files-paths) | Llegir, escriure i consultar fitxers en una línia | Tots |
-| [06 · Serialització: guardar objectes amb ObjectOutputStream](/ApuntesProgramacion/ca/14-ficheros-regex/06-serializacion) | El teu objecte sencer en una maleta: `Serializable` | Tots |
-| [07 · Expressions regulars: Pattern i Matcher](/ApuntesProgramacion/ca/14-ficheros-regex/07-regex-basica) | El motlle, el text i l'infern de les contrabarres | Tots |
-| [08 · Regex en acció: matches, replaceAll, split i validacions](/ApuntesProgramacion/ca/14-ficheros-regex/08-regex-aplicaciones) | Validar correus, DNIs, telèfons i extreure amb grups | Tots |
-| [09 · Repàs interactiu](/ApuntesProgramacion/ca/14-ficheros-regex/09-repaso-interactivo) | Be the Code, Fireside, Laboratori, Crucigrama i més | Tots |
+| [01 · La classe File: el teu explorador de fitxers](/ApuntsProgramacio/ca/14-ficheros-regex/01-clase-file) | El GPS que localitza fitxers sense llegir-ne el contingut | Tots |
+| [02 · Escriure i llegir text: FileWriter, FileReader i BufferedReader](/ApuntsProgramacio/ca/14-ficheros-regex/02-escribir-leer-texto) | El llapis que no oblida i el lector que no s'ennuega | Tots |
+| [03 · try-with-resources: tancar sense plorar](/ApuntsProgramacio/ca/14-ficheros-regex/03-try-with-resources) | La porta que es tanca sola: adéu al `close()` manual | Tots |
+| [04 · PrintWriter i Scanner + File](/ApuntsProgramacio/ca/14-ficheros-regex/04-printwriter-scanner-file) | El sergent que formata i el pop que tokenitza | Tots |
+| [05 · NIO: Files i Paths (la forma moderna)](/ApuntsProgramacio/ca/14-ficheros-regex/05-nio-files-paths) | Llegir, escriure i consultar fitxers en una línia | Tots |
+| [06 · Serialització: guardar objectes amb ObjectOutputStream](/ApuntsProgramacio/ca/14-ficheros-regex/06-serializacion) | El teu objecte sencer en una maleta: `Serializable` | Tots |
+| [07 · Expressions regulars: Pattern i Matcher](/ApuntsProgramacio/ca/14-ficheros-regex/07-regex-basica) | El motlle, el text i l'infern de les contrabarres | Tots |
+| [08 · Regex en acció: matches, replaceAll, split i validacions](/ApuntsProgramacio/ca/14-ficheros-regex/08-regex-aplicaciones) | Validar correus, DNIs, telèfons i extreure amb grups | Tots |
+| [09 · Repàs interactiu](/ApuntsProgramacio/ca/14-ficheros-regex/09-repaso-interactivo) | Be the Code, Fireside, Laboratori, Crucigrama i més | Tots |
 
 > 📖 **Flux de lectura:** els 8 primers punts són teoria en progressió. El 9 és l'aterratge pràctic: llegeix-lo just després del 8 i abans d'obrir els butlletins.
 
@@ -64,11 +64,11 @@ En acabar, seràs capaç de:
 > Practica amb els parells del curs: intenta primer el per-resoldre i comprova amb el resolt quan hagis acabat.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u14-inicial" class="elink">🟢 Inicial per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u14-inicial-resuelto" class="elink">✅ Inicial resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u14-avanzado" class="elink">⭐ Avançat per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u14-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u14-extras" class="elink">🔥 Extres</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u14-inicial" class="elink">🟢 Inicial per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u14-inicial-resuelto" class="elink">✅ Inicial resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u14-avanzado" class="elink">⭐ Avançat per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u14-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u14-extras" class="elink">🔥 Extres</a>
 </div>
 
 ---
@@ -101,10 +101,10 @@ En acabar, seràs capaç de:
 
 ## 🚪 Per on començo?
 
-- Vens de la U12 i vols l'essencial? → Comença en el [punt 1](/ApuntesProgramacion/ca/14-ficheros-regex/01-clase-file) i el [punt 2](/ApuntesProgramacion/ca/14-ficheros-regex/02-escribir-leer-texto): localitzar i llegir fitxers de text.
-- Ja saps escriure i llegir i vols la forma moderna? → Salta al [punt 3](/ApuntesProgramacion/ca/14-ficheros-regex/03-try-with-resources) (tancar sense plorar) i al [punt 5](/ApuntesProgramacion/ca/14-ficheros-regex/05-nio-files-paths) (NIO en una línia).
-- Només vens a per les regex? → Ves directe al [punt 7](/ApuntesProgramacion/ca/14-ficheros-regex/07-regex-basica) i al [punt 8](/ApuntesProgramacion/ca/14-ficheros-regex/08-regex-aplicaciones): el detectiu de patrons.
-- Vens a repassar? → Fes el [Repàs interactiu](/ApuntesProgramacion/ca/14-ficheros-regex/09-repaso-interactivo) i després els [butlletins](/ApuntesProgramacion/ca/boletines/boletin-u14-inicial).
+- Vens de la U12 i vols l'essencial? → Comença en el [punt 1](/ApuntsProgramacio/ca/14-ficheros-regex/01-clase-file) i el [punt 2](/ApuntsProgramacio/ca/14-ficheros-regex/02-escribir-leer-texto): localitzar i llegir fitxers de text.
+- Ja saps escriure i llegir i vols la forma moderna? → Salta al [punt 3](/ApuntsProgramacio/ca/14-ficheros-regex/03-try-with-resources) (tancar sense plorar) i al [punt 5](/ApuntsProgramacio/ca/14-ficheros-regex/05-nio-files-paths) (NIO en una línia).
+- Només vens a per les regex? → Ves directe al [punt 7](/ApuntsProgramacio/ca/14-ficheros-regex/07-regex-basica) i al [punt 8](/ApuntsProgramacio/ca/14-ficheros-regex/08-regex-aplicaciones): el detectiu de patrons.
+- Vens a repassar? → Fes el [Repàs interactiu](/ApuntsProgramacio/ca/14-ficheros-regex/09-repaso-interactivo) i després els [butlletins](/ApuntsProgramacio/ca/boletines/boletin-u14-inicial).
 
-**📍 Primer punt:** [01 · La classe File: el teu explorador de fitxers](/ApuntesProgramacion/ca/14-ficheros-regex/01-clase-file)  
-**⏭️ En acabar la unitat, continua en [U15 · Persistència de dades: JDBC i introducció a ORM](/ApuntesProgramacion/ca/15-conexion-bases-datos).**
+**📍 Primer punt:** [01 · La classe File: el teu explorador de fitxers](/ApuntsProgramacio/ca/14-ficheros-regex/01-clase-file)  
+**⏭️ En acabar la unitat, continua en [U15 · Persistència de dades: JDBC i introducció a ORM](/ApuntsProgramacio/ca/15-conexion-bases-datos).**

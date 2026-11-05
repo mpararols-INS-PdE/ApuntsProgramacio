@@ -159,4 +159,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Crida | Executar un mètode: `nom(...)` |
 > | Cos | El codi entre `{` i `}` del mètode |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/05-funciones) · **Anterior:** [Índex de la unitat](/ApuntesProgramacion/ca/05-funciones) · **Següent:** [02 · El teu primer mètode](/ApuntesProgramacion/ca/05-funciones/02-primer-metodo)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/05-funciones) · **Anterior:** [Índex de la unitat](/ApuntsProgramacio/ca/05-funciones) · **Següent:** [02 · El teu primer mètode](/ApuntsProgramacio/ca/05-funciones/02-primer-metodo)

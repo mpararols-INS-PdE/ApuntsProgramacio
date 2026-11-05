@@ -210,4 +210,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Valor de sentinella | Un valor especial (`-1`, `0`) que significa "buit" en primitius |
 > | Punter | Índex que delimita una zona (`izquierda`, `derecha`) |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/06-arrays) · **Anterior:** [06 · Aplicacions dels arrays](/ApuntesProgramacion/va/06-arrays/06-aplicaciones-arrays) · **Següent:** [08 · Array-revelde: errors comuns i depuració](/ApuntesProgramacion/va/06-arrays/08-array-revelde)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/06-arrays) · **Anterior:** [06 · Aplicacions dels arrays](/ApuntsProgramacio/va/06-arrays/06-aplicaciones-arrays) · **Següent:** [08 · Array-revelde: errors comuns i depuració](/ApuntsProgramacio/va/06-arrays/08-array-revelde)

@@ -207,4 +207,4 @@ try {
 > | `e.getMessage()` | Missatge de l'error atrapat |
 > | Stack trace | Rastre de crides on va ocórrer el fallo |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/04-estructuras-control-excepciones) · **Anterior:** [06 · Excepcions bàsiques](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/06-excepciones-basicas) · **Següent:** [08 · throw i excepcions pròpies](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/08-throw-excepciones-propias)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/04-estructuras-control-excepciones) · **Anterior:** [06 · Excepcions bàsiques](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/06-excepciones-basicas) · **Següent:** [08 · throw i excepcions pròpies](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/08-throw-excepciones-propias)

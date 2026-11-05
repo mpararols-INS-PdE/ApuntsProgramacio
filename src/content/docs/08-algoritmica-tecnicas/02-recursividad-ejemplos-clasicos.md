@@ -243,4 +243,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Recursión exponencial | La que se bifurca en varias llamadas (Fibonacci, Hanói) |
 > | `long` | Tipo para números grandes... hasta que el factorial lo desborda |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/08-algoritmica-tecnicas) · **Anterior:** [01 · Recursividad](/ApuntesProgramacion/08-algoritmica-tecnicas/01-recursividad) · **Siguiente:** [03 · Divide y vencerás](/ApuntesProgramacion/08-algoritmica-tecnicas/03-divide-y-venceras)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/08-algoritmica-tecnicas) · **Anterior:** [01 · Recursividad](/ApuntsProgramacio/08-algoritmica-tecnicas/01-recursividad) · **Siguiente:** [03 · Divide y vencerás](/ApuntsProgramacio/08-algoritmica-tecnicas/03-divide-y-venceras)

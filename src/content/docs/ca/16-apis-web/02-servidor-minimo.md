@@ -145,4 +145,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Handler | La lambda que processa cada petició d'una ruta |
 > | `sendResponseHeaders` | Envia el codi d'estat (i la grandària del cos) |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/16-apis-web) · **Anterior:** [01 · El protocol HTTP en 30 segons](/ApuntesProgramacion/ca/16-apis-web/01-protocolo-http) · **Següent:** [03 · Servint HTML](/ApuntesProgramacion/ca/16-apis-web/03-sirviendo-html)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/16-apis-web) · **Anterior:** [01 · El protocol HTTP en 30 segons](/ApuntsProgramacio/ca/16-apis-web/01-protocolo-http) · **Següent:** [03 · Servint HTML](/ApuntsProgramacio/ca/16-apis-web/03-sirviendo-html)

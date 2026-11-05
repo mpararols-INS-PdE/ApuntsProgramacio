@@ -221,4 +221,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Ternari | `condició ? valor1 : valor2`, un if-else en una línia |
 > | Curtcircuit | Java deixa d'avaluar quan la primera condició ja decideix |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/04-estructuras-control-excepciones) · **Anterior:** [Índex de la unitat](/ApuntesProgramacion/ca/04-estructuras-control-excepciones) · **Següent:** [02 · switch](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/02-switch)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/04-estructuras-control-excepciones) · **Anterior:** [Índex de la unitat](/ApuntsProgramacio/ca/04-estructuras-control-excepciones) · **Següent:** [02 · switch](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/02-switch)

@@ -171,4 +171,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `fetch` | La forma de JavaScript de hacer peticiones HTTP |
 > | Frontend / Backend | Quien muestra (navegador) / quien sirve (servidor) |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/16-apis-web) · **Anterior:** [04 · Parámetros GET y formularios POST](/ApuntesProgramacion/16-apis-web/04-get-post) · **Siguiente:** [06 · Mini proyecto: gestor de tareas (API REST)](/ApuntesProgramacion/16-apis-web/06-proyecto-rest)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/16-apis-web) · **Anterior:** [04 · Parámetros GET y formularios POST](/ApuntsProgramacio/16-apis-web/04-get-post) · **Siguiente:** [06 · Mini proyecto: gestor de tareas (API REST)](/ApuntsProgramacio/16-apis-web/06-proyecto-rest)

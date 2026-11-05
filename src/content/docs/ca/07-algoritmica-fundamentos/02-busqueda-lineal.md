@@ -162,4 +162,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | O(n) | El temps creix en proporció directa al nombre d'elements |
 > | Millor cas | L'element és el primer: 1 sol pas |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/07-algoritmica-fundamentos) · **Anterior:** [01 · Què és un algoritme](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/01-que-es-algoritmo) · **Següent:** [03 · Cerca binària](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/03-busqueda-binaria)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/07-algoritmica-fundamentos) · **Anterior:** [01 · Què és un algoritme](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/01-que-es-algoritmo) · **Següent:** [03 · Cerca binària](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/03-busqueda-binaria)

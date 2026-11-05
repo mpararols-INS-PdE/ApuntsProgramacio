@@ -91,7 +91,7 @@ boolean esJavaDivertido = true;     // Esto es opinable
 
 > 📝 **Nota:** usa `int` per a quasi tot el numèric enter. Només passa a `long` si vas a contar estrelles. Usa `double` per a decimals, a menys que estalviar memòria siga el teu fetitxe.
 
-![Mapa dels 8 tipus primitius de Java: famílies d'enters, decimals, text i lògica amb els seus bits i rangs](/ApuntesProgramacion/diagrams/u03-map-tipo-primitivos-val.svg)
+![Mapa dels 8 tipus primitius de Java: famílies d'enters, decimals, text i lògica amb els seus bits i rangs](/ApuntsProgramacio/diagrams/u03-map-tipo-primitivos-val.svg)
 
 ---
 
@@ -180,4 +180,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | camelCase | Convenció de noms: `miVariableEjemplo` |
 > | Paraula reservada | Paraula de Java que no pots usar com a nom |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/03-variables-tipos-operadores) · **Anterior:** [Índex de la unitat](/ApuntesProgramacion/va/03-variables-tipos-operadores) · **Següent:** [02 · String, constants i final](/ApuntesProgramacion/va/03-variables-tipos-operadores/02-string-constantes-final)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/03-variables-tipos-operadores) · **Anterior:** [Índex de la unitat](/ApuntsProgramacio/va/03-variables-tipos-operadores) · **Següent:** [02 · String, constants i final](/ApuntsProgramacio/va/03-variables-tipos-operadores/02-string-constantes-final)

@@ -411,4 +411,4 @@ El novato guarda su proyecto, cierra el IDE y siente que sus objetos ya no son c
 
 ---
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/10-visibilidad-encapsulacion-static) · **Anterior:** [08 · Be the Code: encapsula tu clase](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/08-be-the-code) · **Siguiente:** **[U11 · Herencia, polimorfismo e interfaces](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces)**
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/10-visibilidad-encapsulacion-static) · **Anterior:** [08 · Be the Code: encapsula tu clase](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/08-be-the-code) · **Siguiente:** **[U11 · Herencia, polimorfismo e interfaces](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces)**

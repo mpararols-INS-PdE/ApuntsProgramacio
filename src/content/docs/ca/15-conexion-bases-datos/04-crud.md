@@ -243,4 +243,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `WHERE` | El filtre que t'estalvia actualitzar/esborrar la taula sencera |
 > | Files afectades | El `int` que torna `executeUpdate()` |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/15-conexion-bases-datos) · **Anterior:** [03 · Statement i ResultSet](/ApuntesProgramacion/ca/15-conexion-bases-datos/03-statement-resultset) · **Següent:** [05 · PreparedStatement i SQL injection](/ApuntesProgramacion/ca/15-conexion-bases-datos/05-preparedstatement)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/15-conexion-bases-datos) · **Anterior:** [03 · Statement i ResultSet](/ApuntsProgramacio/ca/15-conexion-bases-datos/03-statement-resultset) · **Següent:** [05 · PreparedStatement i SQL injection](/ApuntsProgramacio/ca/15-conexion-bases-datos/05-preparedstatement)

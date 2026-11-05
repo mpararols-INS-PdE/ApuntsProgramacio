@@ -226,4 +226,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `serialVersionUID` | Versió de la classe per a compatibilitat |
 > | Binari | Fitxer que no és text llegible (`.obj`, `.dat`, `.ser`) |
 
-📁 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/14-ficheros-regex) · **Anterior:** [05 · NIO: Files i Paths (la forma moderna)](/ApuntesProgramacion/ca/14-ficheros-regex/05-nio-files-paths) · **Següent:** [07 · Expressions regulars: Pattern i Matcher](/ApuntesProgramacion/ca/14-ficheros-regex/07-regex-basica)
+📁 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/14-ficheros-regex) · **Anterior:** [05 · NIO: Files i Paths (la forma moderna)](/ApuntsProgramacio/ca/14-ficheros-regex/05-nio-files-paths) · **Següent:** [07 · Expressions regulars: Pattern i Matcher](/ApuntsProgramacio/ca/14-ficheros-regex/07-regex-basica)

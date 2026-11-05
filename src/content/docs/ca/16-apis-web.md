@@ -45,15 +45,15 @@ En acabar, seràs capaç de:
 
 | Punt | Què aprendràs | Dificultat |
 |---|---|---|
-| [01 · El protocol HTTP en 30 segons](/ApuntesProgramacion/ca/16-apis-web/01-protocolo-http) | Petició-resposta, mètodes, codis d'estat i URLs | Tots |
-| [02 · Servidor web mínim amb HttpServer](/ApuntesProgramacion/ca/16-apis-web/02-servidor-minimo) | El teu primer servidor Java: `HttpServer`, `createContext` i `HttpExchange` | Tots |
-| [03 · Servint HTML](/ApuntesProgramacion/ca/16-apis-web/03-sirviendo-html) | Pàgines completes amb `Content-Type: text/html` i des de fitxer | Tots |
-| [04 · Paràmetres GET i formularis POST](/ApuntesProgramacion/ca/16-apis-web/04-get-post) | Llegir la query string i el cos de la petició | Tots |
-| [05 · Tornant JSON: com una API de veritat](/ApuntesProgramacion/ca/16-apis-web/05-devolviendo-json) | `application/json`, `fetch` des del frontend i per què front i back se separen | Tots |
-| [06 · Mini projecte: gestor de tasques (API REST)](/ApuntesProgramacion/ca/16-apis-web/06-proyecto-rest) | CRUD complet en memòria: GET, POST, PUT i DELETE | Tots |
-| [07 · Consumir APIs externes amb HttpClient](/ApuntesProgramacion/ca/16-apis-web/07-httpclient) | `HttpClient`, GET, `BodyHandlers` i parsejar JSON amb Gson | Tots |
-| [08 · HttpClient avançat](/ApuntesProgramacion/ca/16-apis-web/08-httpclient-avanzado) | POST, capçaleres, timeouts, `sendAsync` i PUT/DELETE | Tots |
-| [09 · Repàs interactiu](/ApuntesProgramacion/ca/16-apis-web/09-repaso-interactivo) | Be the Code, Fireside, Laboratori, Crucigrama i més | Tots |
+| [01 · El protocol HTTP en 30 segons](/ApuntsProgramacio/ca/16-apis-web/01-protocolo-http) | Petició-resposta, mètodes, codis d'estat i URLs | Tots |
+| [02 · Servidor web mínim amb HttpServer](/ApuntsProgramacio/ca/16-apis-web/02-servidor-minimo) | El teu primer servidor Java: `HttpServer`, `createContext` i `HttpExchange` | Tots |
+| [03 · Servint HTML](/ApuntsProgramacio/ca/16-apis-web/03-sirviendo-html) | Pàgines completes amb `Content-Type: text/html` i des de fitxer | Tots |
+| [04 · Paràmetres GET i formularis POST](/ApuntsProgramacio/ca/16-apis-web/04-get-post) | Llegir la query string i el cos de la petició | Tots |
+| [05 · Tornant JSON: com una API de veritat](/ApuntsProgramacio/ca/16-apis-web/05-devolviendo-json) | `application/json`, `fetch` des del frontend i per què front i back se separen | Tots |
+| [06 · Mini projecte: gestor de tasques (API REST)](/ApuntsProgramacio/ca/16-apis-web/06-proyecto-rest) | CRUD complet en memòria: GET, POST, PUT i DELETE | Tots |
+| [07 · Consumir APIs externes amb HttpClient](/ApuntsProgramacio/ca/16-apis-web/07-httpclient) | `HttpClient`, GET, `BodyHandlers` i parsejar JSON amb Gson | Tots |
+| [08 · HttpClient avançat](/ApuntsProgramacio/ca/16-apis-web/08-httpclient-avanzado) | POST, capçaleres, timeouts, `sendAsync` i PUT/DELETE | Tots |
+| [09 · Repàs interactiu](/ApuntsProgramacio/ca/16-apis-web/09-repaso-interactivo) | Be the Code, Fireside, Laboratori, Crucigrama i més | Tots |
 
 > 📖 **Flux de lectura:** els 8 primers punts són teoria en progressió. El 9 és l'aterratge pràctic: llegeix-lo just després del 8 i abans d'obrir els butlletins.
 
@@ -64,11 +64,11 @@ En acabar, seràs capaç de:
 > Practica amb els parells del curs: intenta primer el per-resoldre i comprova amb el resolt quan hagis acabat.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u16-inicial" class="elink">🟢 Inicial per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u16-inicial-resuelto" class="elink">✅ Inicial resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u16-avanzado" class="elink">⭐ Avançat per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u16-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u16-extras" class="elink">🔥 Extres</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u16-inicial" class="elink">🟢 Inicial per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u16-inicial-resuelto" class="elink">✅ Inicial resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u16-avanzado" class="elink">⭐ Avançat per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u16-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u16-extras" class="elink">🔥 Extres</a>
 </div>
 
 ---
@@ -90,11 +90,11 @@ En acabar, seràs capaç de:
 
 ## 🚪 Per on començo?
 
-- Vens de la U15 (JDBC) i vols l'essencial? → Comença en el [punt 1](/ApuntesProgramacion/ca/16-apis-web/01-protocolo-http) i el [punt 2](/ApuntesProgramacion/ca/16-apis-web/02-servidor-minimo): HTTP i el teu primer servidor.
-- Ja saps servir i vols fer APIs? → Ves directe al [punt 5](/ApuntesProgramacion/ca/16-apis-web/05-devolviendo-json) i al [punt 6](/ApuntesProgramacion/ca/16-apis-web/06-proyecto-rest): JSON i el CRUD de tasques.
-- Només vens a pel costat client? → Salta al [punt 7](/ApuntesProgramacion/ca/16-apis-web/07-httpclient) i al [punt 8](/ApuntesProgramacion/ca/16-apis-web/08-httpclient-avanzado): consumir APIs externes.
-- Vens a repassar? → Fes el [Repàs interactiu](/ApuntesProgramacion/ca/16-apis-web/09-repaso-interactivo) i després els [butlletins](/ApuntesProgramacion/ca/boletines/boletin-u16-inicial).
+- Vens de la U15 (JDBC) i vols l'essencial? → Comença en el [punt 1](/ApuntsProgramacio/ca/16-apis-web/01-protocolo-http) i el [punt 2](/ApuntsProgramacio/ca/16-apis-web/02-servidor-minimo): HTTP i el teu primer servidor.
+- Ja saps servir i vols fer APIs? → Ves directe al [punt 5](/ApuntsProgramacio/ca/16-apis-web/05-devolviendo-json) i al [punt 6](/ApuntsProgramacio/ca/16-apis-web/06-proyecto-rest): JSON i el CRUD de tasques.
+- Només vens a pel costat client? → Salta al [punt 7](/ApuntsProgramacio/ca/16-apis-web/07-httpclient) i al [punt 8](/ApuntsProgramacio/ca/16-apis-web/08-httpclient-avanzado): consumir APIs externes.
+- Vens a repassar? → Fes el [Repàs interactiu](/ApuntsProgramacio/ca/16-apis-web/09-repaso-interactivo) i després els [butlletins](/ApuntsProgramacio/ca/boletines/boletin-u16-inicial).
 
-**📍 Primer punt:** [01 · El protocol HTTP en 30 segons](/ApuntesProgramacion/ca/16-apis-web/01-protocolo-http)
+**📍 Primer punt:** [01 · El protocol HTTP en 30 segons](/ApuntsProgramacio/ca/16-apis-web/01-protocolo-http)
 
 **🎓 Fi del curs.** Vas començar escrivint `System.out.println("Hola, mundo")` en una terminal i acabes servint i consumint APIs per Internet. De consola a web en 14 unitats: no és poc. La propera parada ja no té guia: tria el teu camí (Spring Boot, el teu projecte final, la teva primera entrevista) i segueix programant.

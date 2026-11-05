@@ -166,4 +166,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `objeto::metodo` | Mètode cridat sobre un objecte concret que ja existeix |
 > | `Clase::new` | Referència al constructor |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/13-programacion-funcional) · **Anterior:** [02 · Interfícies funcionals: Predicate, Function, Consumer, Supplier](/ApuntesProgramacion/va/13-programacion-funcional/02-interfaces-funcionales) · **Següent:** [04 · Streams: el flux de dades](/ApuntesProgramacion/va/13-programacion-funcional/04-streams-basicos)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/13-programacion-funcional) · **Anterior:** [02 · Interfícies funcionals: Predicate, Function, Consumer, Supplier](/ApuntsProgramacio/va/13-programacion-funcional/02-interfaces-funcionales) · **Següent:** [04 · Streams: el flux de dades](/ApuntsProgramacio/va/13-programacion-funcional/04-streams-basicos)

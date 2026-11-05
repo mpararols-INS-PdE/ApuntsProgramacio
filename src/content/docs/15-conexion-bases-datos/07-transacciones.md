@@ -140,4 +140,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `Savepoint` | Marca intermedia para deshacer solo hasta ahí |
 > | Atómico | Todo o nada, sin estados a medias |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/15-conexion-bases-datos) · **Anterior:** [06 · El patrón DAO](/ApuntesProgramacion/15-conexion-bases-datos/06-pattern-dao) · **Siguiente:** [08 · Buenas prácticas](/ApuntesProgramacion/15-conexion-bases-datos/08-buenas-practicas)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/15-conexion-bases-datos) · **Anterior:** [06 · El patrón DAO](/ApuntsProgramacio/15-conexion-bases-datos/06-pattern-dao) · **Siguiente:** [08 · Buenas prácticas](/ApuntsProgramacio/15-conexion-bases-datos/08-buenas-practicas)

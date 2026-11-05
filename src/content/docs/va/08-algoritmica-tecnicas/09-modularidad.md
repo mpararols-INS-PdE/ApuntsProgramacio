@@ -126,4 +126,4 @@ Posa't a prova en 30 segons (les respostes estan amagades):
 > | Responsabilitat única | Un mòdul, una missió |
 > | `import` | Declarar quina peça aliena necessites usar |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/08-algoritmica-tecnicas) · **Anterior:** [08 · Altres tècniques algorítmiques](/ApuntesProgramacion/va/08-algoritmica-tecnicas/08-otras-tecnicas-algoritmicas) · **Següent:** [10 · Repàs interactiu](/ApuntesProgramacion/va/08-algoritmica-tecnicas/10-repaso-interactivo)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/08-algoritmica-tecnicas) · **Anterior:** [08 · Altres tècniques algorítmiques](/ApuntsProgramacio/va/08-algoritmica-tecnicas/08-otras-tecnicas-algoritmicas) · **Següent:** [10 · Repàs interactiu](/ApuntsProgramacio/va/08-algoritmica-tecnicas/10-repaso-interactivo)

@@ -126,4 +126,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Responsabilidad única | Un módulo, una misión |
 > | `import` | Declarar qué pieza ajena necesitas usar |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/08-algoritmica-tecnicas) · **Anterior:** [08 · Otras técnicas algorítmicas](/ApuntesProgramacion/08-algoritmica-tecnicas/08-otras-tecnicas-algoritmicas) · **Siguiente:** [10 · Repaso interactivo](/ApuntesProgramacion/08-algoritmica-tecnicas/10-repaso-interactivo)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/08-algoritmica-tecnicas) · **Anterior:** [08 · Otras técnicas algorítmicas](/ApuntsProgramacio/08-algoritmica-tecnicas/08-otras-tecnicas-algoritmicas) · **Siguiente:** [10 · Repaso interactivo](/ApuntsProgramacio/08-algoritmica-tecnicas/10-repaso-interactivo)

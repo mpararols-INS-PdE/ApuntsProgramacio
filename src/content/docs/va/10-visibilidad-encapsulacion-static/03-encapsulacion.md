@@ -158,4 +158,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Acoblament | Quant depenen unes classes d'unes altres |
 > | Frontera | Els mètodes públics per on entra i ix la informació |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/10-visibilidad-encapsulacion-static) · **Anterior:** [02 · public, private i protected](/ApuntesProgramacion/va/10-visibilidad-encapsulacion-static/02-public-private-protected) · **Següent:** [04 · Getters i setters](/ApuntesProgramacion/va/10-visibilidad-encapsulacion-static/04-getters-setters)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/10-visibilidad-encapsulacion-static) · **Anterior:** [02 · public, private i protected](/ApuntsProgramacio/va/10-visibilidad-encapsulacion-static/02-public-private-protected) · **Següent:** [04 · Getters i setters](/ApuntsProgramacio/va/10-visibilidad-encapsulacion-static/04-getters-setters)

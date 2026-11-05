@@ -170,4 +170,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Abstracción | Quedarte con lo esencial y olvidar el ruido |
 > | Procedural | Estilo antiguo: una receta de instrucciones en orden |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/09-poo-clases-objetos) · **Anterior:** [Índice de la unidad](/ApuntesProgramacion/09-poo-clases-objetos) · **Siguiente:** [02 · Clases y objetos: el cortapastas y las galletas](/ApuntesProgramacion/09-poo-clases-objetos/02-clases-objetos)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/09-poo-clases-objetos) · **Anterior:** [Índice de la unidad](/ApuntsProgramacio/09-poo-clases-objetos) · **Siguiente:** [02 · Clases y objetos: el cortapastas y las galletas](/ApuntsProgramacio/09-poo-clases-objetos/02-clases-objetos)

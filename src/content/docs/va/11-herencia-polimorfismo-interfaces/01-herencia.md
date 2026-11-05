@@ -218,4 +218,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | HAS-A | Relació de composició (Coche té-un Motor) |
 > | Jerarquia | L'arbre de classes de general a específic |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces) · **Anterior:** — · **Següent:** [02 · super i @Override](/ApuntesProgramacion/va/11-herencia-polimorfismo-interfaces/02-super-override)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces) · **Anterior:** — · **Següent:** [02 · super i @Override](/ApuntsProgramacio/va/11-herencia-polimorfismo-interfaces/02-super-override)

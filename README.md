@@ -24,9 +24,19 @@ Curso completo de **Programación en Java** para DAM/DAW. Material en castellano
 
 Cada unidad tiene 9 puntos de teoría (10 en U03, U08 y U15) y 5 boletines (inicial → inicial-resuelto → avanzado → avanzado-resuelto → extras). Idiomas: castellano (raíz), valenciano (`/va/`) y catalán (`/ca/`).
 
-🌐 **Web del curso:** [sergarb1.github.io/ApuntesProgramacion](https://sergarb1.github.io/ApuntesProgramacion/)
+🌐 **Web del curso:** [mpararols-ins-pde.github.io/ApuntsProgramacio](https://mpararols-ins-pde.github.io/ApuntsProgramacio/)
 
 **CC BY-SA 4.0** — *Sergi Garcia Barea*
+
+## Publicación en GitHub Pages
+
+La web de este repositorio se publica en https://mpararols-ins-pde.github.io/ApuntsProgramacio/; la edición catalana está en https://mpararols-ins-pde.github.io/ApuntsProgramacio/ca/.
+
+1. En [Settings → Pages](https://github.com/mpararols-INS-PdE/ApuntsProgramacio/settings/pages), selecciona **GitHub Actions** en **Build and deployment → Source**. Este ajuste se realiza una sola vez.
+2. Sube los cambios a `main`. El workflow **Deploy Astro to Pages** comprueba los idiomas, compila Astro y publica `dist/`.
+3. Comprueba en [Actions](https://github.com/mpararols-INS-PdE/ApuntsProgramacio/actions) que los trabajos `build` y `deploy` terminen correctamente. También puedes iniciar el workflow manualmente con **Run workflow → main**.
+
+La configuración de Astro usa `site: 'https://mpararols-ins-pde.github.io'` y `base: '/ApuntsProgramacio'`. Los enlaces internos, las imágenes y los scripts de exportación utilizan esa misma ruta. GitHub Pages necesita la web compilada; publicar directamente la carpeta raíz de `main` no ejecuta Astro.
 
 ## Idiomas y exportaciones
 

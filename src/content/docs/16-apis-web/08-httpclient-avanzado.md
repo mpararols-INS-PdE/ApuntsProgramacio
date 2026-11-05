@@ -242,4 +242,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `CompletableFuture` | La promesa de Java: "llegará, pero no ahora" |
 > | `415` | Unsupported Media Type: olvidaste el `Content-Type` |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/16-apis-web) · **Anterior:** [07 · Consumir APIs externas con HttpClient](/ApuntesProgramacion/16-apis-web/07-httpclient) · **Siguiente:** [09 · Repaso interactivo](/ApuntesProgramacion/16-apis-web/09-repaso-interactivo)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/16-apis-web) · **Anterior:** [07 · Consumir APIs externas con HttpClient](/ApuntsProgramacio/16-apis-web/07-httpclient) · **Siguiente:** [09 · Repaso interactivo](/ApuntsProgramacio/16-apis-web/09-repaso-interactivo)

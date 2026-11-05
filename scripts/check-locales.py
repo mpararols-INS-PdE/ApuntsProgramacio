@@ -8,8 +8,8 @@ from urllib.parse import unquote, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / 'src/content/docs'
-BASE = '/ApuntesProgramacion/'
-LINK = re.compile(r'(?:\]\(|(?:href|src)=["\'])(/ApuntesProgramacion/[^\s)"\']*)')
+BASE = '/ApuntsProgramacio/'
+LINK = re.compile(r'(?:\]\(|(?:href|src)=["\'])(/ApuntsProgramacio/[^\s)"\']*)')
 FENCE = re.compile(r'(?ms)^([ \t]*)(`{3,}|~{3,})[^\n]*\n.*?^\1\2[ \t]*(?:\n|$)')
 
 

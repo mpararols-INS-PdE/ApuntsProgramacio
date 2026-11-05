@@ -135,4 +135,4 @@ Posa't a prova en 30 segons (les respostes estan amagades):
 > | `EntityManager` | El "mandatari" que executa la persistència |
 > | Lazy / eager | Carregar dades tard (quan toca) o tot d'una |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/15-conexion-bases-datos) · **Anterior:** [08 · Bones pràctiques](/ApuntesProgramacion/va/15-conexion-bases-datos/08-buenas-practicas) · **Següent:** [10 · Repàs interactiu](/ApuntesProgramacion/va/15-conexion-bases-datos/10-repaso-interactivo)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/15-conexion-bases-datos) · **Anterior:** [08 · Bones pràctiques](/ApuntsProgramacio/va/15-conexion-bases-datos/08-buenas-practicas) · **Següent:** [10 · Repàs interactiu](/ApuntsProgramacio/va/15-conexion-bases-datos/10-repaso-interactivo)

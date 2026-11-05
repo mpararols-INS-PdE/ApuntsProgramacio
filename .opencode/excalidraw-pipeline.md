@@ -52,9 +52,9 @@ Objetivo: mantener un pipeline de diagramas Excalidraw gestionado mediante MCP +
 | SVG exportado | `public/diagrams/NOMBRE.svg` |
 | Fuente editable | `public/diagrams/NOMBRE.excalidraw` |
 | Diccionario de iconos | `docs/excalidraw-icons.md` |
-| Referencia en Markdown | `![Descripción didáctica](/ApuntesProgramacion/diagrams/NOMBRE.svg)` |
+| Referencia en Markdown | `![Descripción didáctica](/ApuntsProgramacio/diagrams/NOMBRE.svg)` |
 
-**Base path del sitio:** `/ApuntesProgramacion` (definido en `astro.config.mjs`).
+**Base path del sitio:** `/ApuntsProgramacio` (definido en `astro.config.mjs`).
 Todas las rutas Markdown de diagramas DEBEN incluir este prefijo.
 
 ### Restricciones de Astro/Starlight (PROHIBIDO / OBLIGATORIO)
@@ -63,7 +63,7 @@ Todas las rutas Markdown de diagramas DEBEN incluir este prefijo.
 - **PROHIBIDO** guardar SVGs en `src/assets/` (Starlight/Astro no los servirá como se espera).
 - **PROHIBIDO** crear páginas `.astro` o `.mdx` solo para renderizar diagramas.
 - **OBLIGATORIO** usar SOLO la carpeta `public/diagrams/`.
-- **OBLIGATORIO** ruta Markdown absoluta respecto a la raíz del sitio: `/ApuntesProgramacion/diagrams/NOMBRE.svg`.
+- **OBLIGATORIO** ruta Markdown absoluta respecto a la raíz del sitio: `/ApuntsProgramacio/diagrams/NOMBRE.svg`.
 
 ---
 

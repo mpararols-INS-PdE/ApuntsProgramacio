@@ -191,4 +191,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | *Append* | Afegir al final del fitxer sense esborrar l'anterior |
 > | `FileNotFoundException` | Es llança en llegir un fitxer que no existeix |
 
-📁 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/14-ficheros-regex) · **Anterior:** [01 · La classe File: el teu explorador de fitxers](/ApuntesProgramacion/va/14-ficheros-regex/01-clase-file) · **Següent:** [03 · try-with-resources: tancar sense plorar](/ApuntesProgramacion/va/14-ficheros-regex/03-try-with-resources)
+📁 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/14-ficheros-regex) · **Anterior:** [01 · La classe File: el teu explorador de fitxers](/ApuntsProgramacio/va/14-ficheros-regex/01-clase-file) · **Següent:** [03 · try-with-resources: tancar sense plorar](/ApuntsProgramacio/va/14-ficheros-regex/03-try-with-resources)

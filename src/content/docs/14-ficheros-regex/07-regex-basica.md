@@ -216,4 +216,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Grupo de captura | Paréntesis que "recuerdan" parte de la coincidencia |
 > | Metacaracter | Símbolo con significado especial en una regex (`.`, `+`, `\d`...) |
 
-📁 [Volver al índice de la unidad](/ApuntesProgramacion/14-ficheros-regex) · **Anterior:** [06 · Serialización: guardar objetos con ObjectOutputStream](/ApuntesProgramacion/14-ficheros-regex/06-serializacion) · **Siguiente:** [08 · Regex en acción: matches, replaceAll, split y validaciones](/ApuntesProgramacion/14-ficheros-regex/08-regex-aplicaciones)
+📁 [Volver al índice de la unidad](/ApuntsProgramacio/14-ficheros-regex) · **Anterior:** [06 · Serialización: guardar objetos con ObjectOutputStream](/ApuntsProgramacio/14-ficheros-regex/06-serializacion) · **Siguiente:** [08 · Regex en acción: matches, replaceAll, split y validaciones](/ApuntsProgramacio/14-ficheros-regex/08-regex-aplicaciones)

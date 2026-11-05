@@ -196,4 +196,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | O(log n) | Cada pas descarta la meitat: creix molt a a poc a poc |
 > | Exponencial | O(2ⁿ): creix tan ràpid que és inviable amb dades mitjanes |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/07-algoritmica-fundamentos) · **Anterior:** [05 · Ordenació per inserció](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/05-ordenacion-insercion) · **Següent:** [07 · Triar l'algoritme adequat](/ApuntesProgramacion/ca/07-algoritmica-fundamentos/07-elegir-algoritmo)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/07-algoritmica-fundamentos) · **Anterior:** [05 · Ordenació per inserció](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/05-ordenacion-insercion) · **Següent:** [07 · Triar l'algoritme adequat](/ApuntsProgramacio/ca/07-algoritmica-fundamentos/07-elegir-algoritmo)

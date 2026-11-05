@@ -217,4 +217,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Alias | Dos variables que apuntan al mismo objeto |
 > | Argumentos de `main` | El array `args` con los parámetros de la línea de comandos |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/06-arrays) · **Anterior:** [04 · La clase Arrays: tu navaja suiza](/ApuntesProgramacion/06-arrays/04-clase-arrays) · **Siguiente:** [06 · Aplicaciones de los arrays](/ApuntesProgramacion/06-arrays/06-aplicaciones-arrays)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/06-arrays) · **Anterior:** [04 · La clase Arrays: tu navaja suiza](/ApuntsProgramacio/06-arrays/04-clase-arrays) · **Siguiente:** [06 · Aplicaciones de los arrays](/ApuntsProgramacio/06-arrays/06-aplicaciones-arrays)

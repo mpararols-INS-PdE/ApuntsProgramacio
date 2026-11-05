@@ -140,4 +140,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `Savepoint` | Marca intermèdia per a desfer només fins aquí |
 > | Atòmic | Tot o res, sense estats a mitges |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/15-conexion-bases-datos) · **Anterior:** [06 · El patró DAO](/ApuntesProgramacion/ca/15-conexion-bases-datos/06-pattern-dao) · **Següent:** [08 · Bones pràctiques](/ApuntesProgramacion/ca/15-conexion-bases-datos/08-buenas-practicas)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/15-conexion-bases-datos) · **Anterior:** [06 · El patró DAO](/ApuntsProgramacio/ca/15-conexion-bases-datos/06-pattern-dao) · **Següent:** [08 · Bones pràctiques](/ApuntsProgramacio/ca/15-conexion-bases-datos/08-buenas-practicas)

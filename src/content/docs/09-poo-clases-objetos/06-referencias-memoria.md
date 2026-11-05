@@ -191,4 +191,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | NPE | `NullPointerException`, el crash por usar `null` |
 > | Garbage collector | El que recicla objetos sin referencias |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/09-poo-clases-objetos) · **Anterior:** [05 · La palabra clave this](/ApuntesProgramacion/09-poo-clases-objetos/05-this) · **Siguiente:** [07 · Sobrecarga y paso por valor](/ApuntesProgramacion/09-poo-clases-objetos/07-sobrecarga-paso-valor)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/09-poo-clases-objetos) · **Anterior:** [05 · La palabra clave this](/ApuntsProgramacio/09-poo-clases-objetos/05-this) · **Siguiente:** [07 · Sobrecarga y paso por valor](/ApuntsProgramacio/09-poo-clases-objetos/07-sobrecarga-paso-valor)

@@ -212,4 +212,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Firma clara | Nombre + parámetros + retorno que se entienden solos |
 > | Antes/después | Prueba de que la refactorización fue limpia |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/05-funciones) · **Anterior:** [07 · Divide el problema](/ApuntesProgramacion/05-funciones/07-divide-problema) · **Siguiente:** [09 · Repaso interactivo](/ApuntesProgramacion/05-funciones/09-repaso-interactivo)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/05-funciones) · **Anterior:** [07 · Divide el problema](/ApuntsProgramacio/05-funciones/07-divide-problema) · **Siguiente:** [09 · Repaso interactivo](/ApuntsProgramacio/05-funciones/09-repaso-interactivo)

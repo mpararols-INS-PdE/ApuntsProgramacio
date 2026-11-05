@@ -255,4 +255,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `final` | Bloquea la herencia de una clase o la sobrescritura de un método |
 > | Cadena de constructores | El padre se construye siempre antes que el hijo |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces) · **Anterior:** [01 · Herencia: cuando tus hijos siguen tus pasos](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/01-herencia) · **Siguiente:** [03 · protected y jerarquías de clases](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/03-protected-jerarquias)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces) · **Anterior:** [01 · Herencia: cuando tus hijos siguen tus pasos](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/01-herencia) · **Siguiente:** [03 · protected y jerarquías de clases](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/03-protected-jerarquias)

@@ -248,4 +248,4 @@ El `case 2` no tiene `break`, así que tras imprimir "Dos" se cae al `case 3` ("
 > | `default` | El "ninguno de los anteriores", opcional |
 > | Fall-through | Que el código se desborde de un `case` al siguiente |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/04-estructuras-control-excepciones) · **Anterior:** [01 · if, else if y else](/ApuntesProgramacion/04-estructuras-control-excepciones/01-if-else) · **Siguiente:** [03 · Bucles: while y do-while](/ApuntesProgramacion/04-estructuras-control-excepciones/03-bucles-while-do-while)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/04-estructuras-control-excepciones) · **Anterior:** [01 · if, else if y else](/ApuntsProgramacio/04-estructuras-control-excepciones/01-if-else) · **Siguiente:** [03 · Bucles: while y do-while](/ApuntsProgramacio/04-estructuras-control-excepciones/03-bucles-while-do-while)

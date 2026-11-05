@@ -38,15 +38,15 @@ Al terminar, serás capaz de:
 
 | Punto | Qué aprenderás | Dificultad |
 |---|---|---|
-| [01 · Arrays: el aparcamiento de datos](/ApuntesProgramacion/06-arrays/01-arrays-basicos) | Crear arrays, índices, `length` y el primer BOOM | Todos |
-| [02 · Recorrer arrays: for y for-each](/ApuntesProgramacion/06-arrays/02-recorrer-arrays) | El dúo inseparable y la variante perezosa de solo lectura | Todos |
-| [03 · Arrays multidimensionales](/ApuntesProgramacion/06-arrays/03-arrays-multidimensionales) | Arrays de arrays, filas, columnas y bucles anidados | Todos |
-| [04 · La clase Arrays: tu navaja suiza](/ApuntesProgramacion/06-arrays/04-clase-arrays) | `toString`, `sort`, `binarySearch`, `copyOf`, `fill`, `equals` | Todos |
-| [05 · Arrays y métodos](/ApuntesProgramacion/06-arrays/05-arrays-metodos) | Pasar arrays por referencia y devolverlos | Todos |
-| [06 · Aplicaciones de los arrays](/ApuntesProgramacion/06-arrays/06-aplicaciones-arrays) | Arrays de String, de char, de objetos y datos en tabla | Todos |
-| [07 · Be the Code: el parking se gestiona](/ApuntesProgramacion/06-arrays/07-be-the-code) | Programar inverso, búsquedas y compactar a mano | Todos |
-| [08 · Array-revelde: errores comunes y depuración](/ApuntesProgramacion/06-arrays/08-array-revelde) | La galería de monstruos de los arrays y cómo cazarlos | Todos |
-| [09 · Repaso interactivo](/ApuntesProgramacion/06-arrays/09-repaso-interactivo) | Sé el Código, Fireside, Quién Soy, Laboratorio, Crucigrama… | Todos |
+| [01 · Arrays: el aparcamiento de datos](/ApuntsProgramacio/06-arrays/01-arrays-basicos) | Crear arrays, índices, `length` y el primer BOOM | Todos |
+| [02 · Recorrer arrays: for y for-each](/ApuntsProgramacio/06-arrays/02-recorrer-arrays) | El dúo inseparable y la variante perezosa de solo lectura | Todos |
+| [03 · Arrays multidimensionales](/ApuntsProgramacio/06-arrays/03-arrays-multidimensionales) | Arrays de arrays, filas, columnas y bucles anidados | Todos |
+| [04 · La clase Arrays: tu navaja suiza](/ApuntsProgramacio/06-arrays/04-clase-arrays) | `toString`, `sort`, `binarySearch`, `copyOf`, `fill`, `equals` | Todos |
+| [05 · Arrays y métodos](/ApuntsProgramacio/06-arrays/05-arrays-metodos) | Pasar arrays por referencia y devolverlos | Todos |
+| [06 · Aplicaciones de los arrays](/ApuntsProgramacio/06-arrays/06-aplicaciones-arrays) | Arrays de String, de char, de objetos y datos en tabla | Todos |
+| [07 · Be the Code: el parking se gestiona](/ApuntsProgramacio/06-arrays/07-be-the-code) | Programar inverso, búsquedas y compactar a mano | Todos |
+| [08 · Array-revelde: errores comunes y depuración](/ApuntsProgramacio/06-arrays/08-array-revelde) | La galería de monstruos de los arrays y cómo cazarlos | Todos |
+| [09 · Repaso interactivo](/ApuntsProgramacio/06-arrays/09-repaso-interactivo) | Sé el Código, Fireside, Quién Soy, Laboratorio, Crucigrama… | Todos |
 
 > 📖 **Flujo de lectura:** los 8 primeros puntos son teoría en progresión. El 9º es el aterrizaje práctico: léelo justo después del 8º y antes de abrir los boletines.
 
@@ -57,11 +57,11 @@ Al terminar, serás capaz de:
 > Practica con los pares del curso: intenta primero el por-resolver y comprueba con el resuelto cuando hayas terminado.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/boletines/boletin-u06-inicial" class="elink">🟢 Inicial por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u06-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u06-avanzado" class="elink">⭐ Avanzado por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u06-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u06-extras" class="elink">🔥 Extras</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u06-inicial" class="elink">🟢 Inicial por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u06-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u06-avanzado" class="elink">⭐ Avanzado por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u06-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u06-extras" class="elink">🔥 Extras</a>
 </div>
 
 ---
@@ -81,10 +81,10 @@ Al terminar, serás capaz de:
 
 ## 🚪 ¿Por dónde empiezo?
 
-- ¿Cero conocimientos? → Arranca en el [punto 1](/ApuntesProgramacion/06-arrays/01-arrays-basicos). Solo necesitas variables, bucles y `if` de la U04.
-- ¿Ya sabes crear arrays y quieres chicha? → Salta al [recorrido](/ApuntesProgramacion/06-arrays/02-recorrer-arrays) o a la [clase Arrays](/ApuntesProgramacion/06-arrays/04-clase-arrays).
-- ¿Solo quieres ver arrays en acción real? → Lee [Aplicaciones de los arrays](/ApuntesProgramacion/06-arrays/06-aplicaciones-arrays).
-- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntesProgramacion/06-arrays/09-repaso-interactivo) y después los [boletines](/ApuntesProgramacion/boletines/boletin-u06-inicial).
+- ¿Cero conocimientos? → Arranca en el [punto 1](/ApuntsProgramacio/06-arrays/01-arrays-basicos). Solo necesitas variables, bucles y `if` de la U04.
+- ¿Ya sabes crear arrays y quieres chicha? → Salta al [recorrido](/ApuntsProgramacio/06-arrays/02-recorrer-arrays) o a la [clase Arrays](/ApuntsProgramacio/06-arrays/04-clase-arrays).
+- ¿Solo quieres ver arrays en acción real? → Lee [Aplicaciones de los arrays](/ApuntsProgramacio/06-arrays/06-aplicaciones-arrays).
+- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntsProgramacio/06-arrays/09-repaso-interactivo) y después los [boletines](/ApuntsProgramacio/boletines/boletin-u06-inicial).
 
-**📍 Primer punto:** [01 · Arrays: el aparcamiento de datos](/ApuntesProgramacion/06-arrays/01-arrays-basicos)  
-**⏭️ Al acabar la unidad, continúa en [U07 · Algorítmica I: Fundamentos](/ApuntesProgramacion/07-algoritmica-fundamentos).**
+**📍 Primer punto:** [01 · Arrays: el aparcamiento de datos](/ApuntsProgramacio/06-arrays/01-arrays-basicos)  
+**⏭️ Al acabar la unidad, continúa en [U07 · Algorítmica I: Fundamentos](/ApuntsProgramacio/07-algoritmica-fundamentos).**

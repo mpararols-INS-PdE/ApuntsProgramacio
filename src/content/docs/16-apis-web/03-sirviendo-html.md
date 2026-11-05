@@ -140,4 +140,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `Files.readString` | Lee un fichero completo en un `String` (visto en U14) |
 > | Text block | `"""..."""`: cadena multilínea para escribir HTML cómodo |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/16-apis-web) · **Anterior:** [02 · Servidor web mínimo con HttpServer](/ApuntesProgramacion/16-apis-web/02-servidor-minimo) · **Siguiente:** [04 · Parámetros GET y formularios POST](/ApuntesProgramacion/16-apis-web/04-get-post)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/16-apis-web) · **Anterior:** [02 · Servidor web mínimo con HttpServer](/ApuntsProgramacio/16-apis-web/02-servidor-minimo) · **Siguiente:** [04 · Parámetros GET y formularios POST](/ApuntsProgramacio/16-apis-web/04-get-post)

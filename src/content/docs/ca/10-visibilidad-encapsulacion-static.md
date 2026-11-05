@@ -42,15 +42,15 @@ En acabar, seràs capaç de:
 
 | Punt | Què aprendràs | Dificultat |
 |---|---|---|
-| [01 · Visibilitat: l'art de no ensenyar-ho tot](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/01-visibilidad) | La casa de vidre: el problema d'ensenyar tots els teus atributs al món | Tots |
-| [02 · public, private i protected](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/02-public-private-protected) | Els 4 nivells de visibilitat i qui veu cada cosa de la teva classe | Tots |
-| [03 · Encapsulació: el pilar de la POO](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/03-encapsulacion) | Atributs privats, control d'accés i el patró JavaBeans | Tots |
-| [04 · Getters i setters](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/04-getters-setters) | El porter de la discoteca: llegir i modificar atributs amb validació | Tots |
-| [05 · Atributs static](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/05-atributos-static) | El que pertany a la classe, no a l'objecte: el grup de WhatsApp | Tots |
-| [06 · Mètodes static i el main](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/06-metodos-static) | Cridar mètodes sense crear objectes i per què `main` és estàtic | Tots |
-| [07 · Constants de classe: static final](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/07-constantes-static-final) | Valors immutables en MAJÚSCULES i les classes utilitàries | Tots |
-| [08 · Be the Code: encapsula la teva classe](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/08-be-the-code) | Converteix una classe sense blindar en una ben encapsulada, pas a pas | ⭐⭐⭐ |
-| [09 · Repàs interactiu](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/09-repaso-interactivo) | Be the Code, Fireside, Laboratori, Crucigrama i més | Tots |
+| [01 · Visibilitat: l'art de no ensenyar-ho tot](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/01-visibilidad) | La casa de vidre: el problema d'ensenyar tots els teus atributs al món | Tots |
+| [02 · public, private i protected](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/02-public-private-protected) | Els 4 nivells de visibilitat i qui veu cada cosa de la teva classe | Tots |
+| [03 · Encapsulació: el pilar de la POO](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/03-encapsulacion) | Atributs privats, control d'accés i el patró JavaBeans | Tots |
+| [04 · Getters i setters](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/04-getters-setters) | El porter de la discoteca: llegir i modificar atributs amb validació | Tots |
+| [05 · Atributs static](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/05-atributos-static) | El que pertany a la classe, no a l'objecte: el grup de WhatsApp | Tots |
+| [06 · Mètodes static i el main](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/06-metodos-static) | Cridar mètodes sense crear objectes i per què `main` és estàtic | Tots |
+| [07 · Constants de classe: static final](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/07-constantes-static-final) | Valors immutables en MAJÚSCULES i les classes utilitàries | Tots |
+| [08 · Be the Code: encapsula la teva classe](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/08-be-the-code) | Converteix una classe sense blindar en una ben encapsulada, pas a pas | ⭐⭐⭐ |
+| [09 · Repàs interactiu](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/09-repaso-interactivo) | Be the Code, Fireside, Laboratori, Crucigrama i més | Tots |
 
 > 📖 **Flux de lectura:** els 8 primers punts són teoria en progressió. El 9 és l'aterratge pràctic: llegeix-lo just després del 8 i abans d'obrir els butlletins.
 
@@ -61,11 +61,11 @@ En acabar, seràs capaç de:
 > Practica amb els parells del curs: intenta primer el per-resoldre i comprova amb el resolt quan hagis acabat.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u10-inicial" class="elink">🟢 Inicial per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u10-inicial-resuelto" class="elink">✅ Inicial resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u10-avanzado" class="elink">⭐ Avançat per resoldre</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u10-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
-  <a href="/ApuntesProgramacion/ca/boletines/boletin-u10-extras" class="elink">🔥 Extres</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u10-inicial" class="elink">🟢 Inicial per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u10-inicial-resuelto" class="elink">✅ Inicial resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u10-avanzado" class="elink">⭐ Avançat per resoldre</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u10-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
+  <a href="/ApuntsProgramacio/ca/boletines/boletin-u10-extras" class="elink">🔥 Extres</a>
 </div>
 
 ---
@@ -90,10 +90,10 @@ En acabar, seràs capaç de:
 
 ## 🚪 Per on començo?
 
-- Cero coneixements? → Comença en el [punt 1](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/01-visibilidad). Només necessites el que vas veure en la U09.
-- Ja blindes atributs i vols cim? → Ves directe al [punt 5](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/05-atributos-static) i al [punt 6](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/06-metodos-static): aquí comença el món estàtic.
-- Només vens a per els cadenats? → Salta al [punt 3](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/03-encapsulacion) i al [punt 4](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/04-getters-setters).
-- Vens a repassar? → Fes el [Repàs interactiu](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/09-repaso-interactivo) i després els [butlletins](/ApuntesProgramacion/ca/boletines/boletin-u10-inicial).
+- Cero coneixements? → Comença en el [punt 1](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/01-visibilidad). Només necessites el que vas veure en la U09.
+- Ja blindes atributs i vols cim? → Ves directe al [punt 5](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/05-atributos-static) i al [punt 6](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/06-metodos-static): aquí comença el món estàtic.
+- Només vens a per els cadenats? → Salta al [punt 3](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/03-encapsulacion) i al [punt 4](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/04-getters-setters).
+- Vens a repassar? → Fes el [Repàs interactiu](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/09-repaso-interactivo) i després els [butlletins](/ApuntsProgramacio/ca/boletines/boletin-u10-inicial).
 
-**📍 Primer punt:** [01 · Visibilitat: l'art de no ensenyar-ho tot](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/01-visibilidad)  
-**⏭️ En acabar la unitat, continua en [U11 · Herència, polimorfisme i interfícies](/ApuntesProgramacion/ca/11-herencia-polimorfismo-interfaces).
+**📍 Primer punt:** [01 · Visibilitat: l'art de no ensenyar-ho tot](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/01-visibilidad)  
+**⏭️ En acabar la unitat, continua en [U11 · Herència, polimorfisme i interfícies](/ApuntsProgramacio/ca/11-herencia-polimorfismo-interfaces).

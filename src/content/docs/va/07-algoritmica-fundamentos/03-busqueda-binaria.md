@@ -191,4 +191,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Off-by-one | Error de "per un": confondre `<=` amb `<` o `mig+1` amb `mig` |
 > | Desbordament | Quan una suma supera el màxim que cap en un `int` |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/07-algoritmica-fundamentos) · **Anterior:** [02 · Cerca lineal](/ApuntesProgramacion/va/07-algoritmica-fundamentos/02-busqueda-lineal) · **Següent:** [04 · Ordenació bombolla](/ApuntesProgramacion/va/07-algoritmica-fundamentos/04-ordenacion-burbuja)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/07-algoritmica-fundamentos) · **Anterior:** [02 · Cerca lineal](/ApuntsProgramacio/va/07-algoritmica-fundamentos/02-busqueda-lineal) · **Següent:** [04 · Ordenació bombolla](/ApuntsProgramacio/va/07-algoritmica-fundamentos/04-ordenacion-burbuja)

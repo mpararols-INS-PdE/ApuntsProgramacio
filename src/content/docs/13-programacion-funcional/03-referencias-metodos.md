@@ -166,4 +166,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `objeto::metodo` | Método llamado sobre un objeto concreto que ya existe |
 > | `Clase::new` | Referencia al constructor |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/13-programacion-funcional) · **Anterior:** [02 · Interfaces funcionales: Predicate, Function, Consumer, Supplier](/ApuntesProgramacion/13-programacion-funcional/02-interfaces-funcionales) · **Siguiente:** [04 · Streams: el flujo de datos](/ApuntesProgramacion/13-programacion-funcional/04-streams-basicos)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/13-programacion-funcional) · **Anterior:** [02 · Interfaces funcionales: Predicate, Function, Consumer, Supplier](/ApuntsProgramacio/13-programacion-funcional/02-interfaces-funcionales) · **Siguiente:** [04 · Streams: el flujo de datos](/ApuntsProgramacio/13-programacion-funcional/04-streams-basicos)

@@ -43,7 +43,7 @@ Cada `%alguna_cosa` és un **forat** que s'ompli amb el valor que li segueix, en
 
 > 💡 **Consell:** `%n` per als salts de línia en `printf` (no `\n`): funciona igual a Windows, Linux i Mac. El `\n` també val, però `%n` és l'opció "oficial".
 
-![Flux de printf: la plantilla amb forats %d i %s i els arguments 25 i Ana passen per la cridada fins a la sortida formatada](/ApuntesProgramacion/diagrams/u03-flujo-printf-ca.svg)
+![Flux de printf: la plantilla amb forats %d i %s i els arguments 25 i Ana passen per la cridada fins a la sortida formatada](/ApuntsProgramacio/diagrams/u03-flujo-printf-ca.svg)
 
 ### Controlar els decimals i l'amplària
 
@@ -246,4 +246,4 @@ El `%d` ompli amb l'enter, `%.1f` amb un decimal, i `%.2f` amb dos. Els tres val
 > | `InputMismatchException` | Explosió en demanar un tipus i rebre'n un altre |
 > | `hasNextInt()` | Pregunta si el que ve és un enter, sense consumir-lo |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/03-variables-tipos-operadores) · **Anterior:** [06 · Scanner: llegir pel teclat](/ApuntesProgramacion/ca/03-variables-tipos-operadores/06-scanner-entrada-teclado) · **Següent:** [08 · Math.random() i números aleatoris](/ApuntesProgramacion/ca/03-variables-tipos-operadores/08-math-random-aleatorios)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/03-variables-tipos-operadores) · **Anterior:** [06 · Scanner: llegir pel teclat](/ApuntsProgramacio/ca/03-variables-tipos-operadores/06-scanner-entrada-teclado) · **Següent:** [08 · Math.random() i números aleatoris](/ApuntsProgramacio/ca/03-variables-tipos-operadores/08-math-random-aleatorios)

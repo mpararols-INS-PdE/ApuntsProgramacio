@@ -45,15 +45,15 @@ Al terminar, serás capaz de:
 
 | Punto | Qué aprenderás | Dificultad |
 |---|---|---|
-| [01 · El protocolo HTTP en 30 segundos](/ApuntesProgramacion/16-apis-web/01-protocolo-http) | Petición-respuesta, métodos, códigos de estado y URLs | Todos |
-| [02 · Servidor web mínimo con HttpServer](/ApuntesProgramacion/16-apis-web/02-servidor-minimo) | Tu primer servidor Java: `HttpServer`, `createContext` y `HttpExchange` | Todos |
-| [03 · Sirviendo HTML](/ApuntesProgramacion/16-apis-web/03-sirviendo-html) | Páginas completas con `Content-Type: text/html` y desde fichero | Todos |
-| [04 · Parámetros GET y formularios POST](/ApuntesProgramacion/16-apis-web/04-get-post) | Leer la query string y el cuerpo de la petición | Todos |
-| [05 · Devolviendo JSON: como una API de verdad](/ApuntesProgramacion/16-apis-web/05-devolviendo-json) | `application/json`, `fetch` desde el frontend y por qué front y back se separan | Todos |
-| [06 · Mini proyecto: gestor de tareas (API REST)](/ApuntesProgramacion/16-apis-web/06-proyecto-rest) | CRUD completo en memoria: GET, POST, PUT y DELETE | Todos |
-| [07 · Consumir APIs externas con HttpClient](/ApuntesProgramacion/16-apis-web/07-httpclient) | `HttpClient`, GET, `BodyHandlers` y parsear JSON con Gson | Todos |
-| [08 · HttpClient avanzado](/ApuntesProgramacion/16-apis-web/08-httpclient-avanzado) | POST, cabeceras, timeouts, `sendAsync` y PUT/DELETE | Todos |
-| [09 · Repaso interactivo](/ApuntesProgramacion/16-apis-web/09-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
+| [01 · El protocolo HTTP en 30 segundos](/ApuntsProgramacio/16-apis-web/01-protocolo-http) | Petición-respuesta, métodos, códigos de estado y URLs | Todos |
+| [02 · Servidor web mínimo con HttpServer](/ApuntsProgramacio/16-apis-web/02-servidor-minimo) | Tu primer servidor Java: `HttpServer`, `createContext` y `HttpExchange` | Todos |
+| [03 · Sirviendo HTML](/ApuntsProgramacio/16-apis-web/03-sirviendo-html) | Páginas completas con `Content-Type: text/html` y desde fichero | Todos |
+| [04 · Parámetros GET y formularios POST](/ApuntsProgramacio/16-apis-web/04-get-post) | Leer la query string y el cuerpo de la petición | Todos |
+| [05 · Devolviendo JSON: como una API de verdad](/ApuntsProgramacio/16-apis-web/05-devolviendo-json) | `application/json`, `fetch` desde el frontend y por qué front y back se separan | Todos |
+| [06 · Mini proyecto: gestor de tareas (API REST)](/ApuntsProgramacio/16-apis-web/06-proyecto-rest) | CRUD completo en memoria: GET, POST, PUT y DELETE | Todos |
+| [07 · Consumir APIs externas con HttpClient](/ApuntsProgramacio/16-apis-web/07-httpclient) | `HttpClient`, GET, `BodyHandlers` y parsear JSON con Gson | Todos |
+| [08 · HttpClient avanzado](/ApuntsProgramacio/16-apis-web/08-httpclient-avanzado) | POST, cabeceras, timeouts, `sendAsync` y PUT/DELETE | Todos |
+| [09 · Repaso interactivo](/ApuntsProgramacio/16-apis-web/09-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
 
 > 📖 **Flujo de lectura:** los 8 primeros puntos son teoría en progresión. El 9º es el aterrizaje práctico: léelo justo después del 8º y antes de abrir los boletines.
 
@@ -64,11 +64,11 @@ Al terminar, serás capaz de:
 > Practica con los pares del curso: intenta primero el por-resolver y comprueba con el resuelto cuando hayas terminado.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/boletines/boletin-u16-inicial" class="elink">🟢 Inicial por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u16-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u16-avanzado" class="elink">⭐ Avanzado por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u16-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u16-extras" class="elink">🔥 Extras</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u16-inicial" class="elink">🟢 Inicial por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u16-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u16-avanzado" class="elink">⭐ Avanzado por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u16-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u16-extras" class="elink">🔥 Extras</a>
 </div>
 
 ---
@@ -90,11 +90,11 @@ Al terminar, serás capaz de:
 
 ## 🚪 ¿Por dónde empiezo?
 
-- ¿Vienes de la U15 (JDBC) y quieres lo esencial? → Arranca en el [punto 1](/ApuntesProgramacion/16-apis-web/01-protocolo-http) y el [punto 2](/ApuntesProgramacion/16-apis-web/02-servidor-minimo): HTTP y tu primer servidor.
-- ¿Ya sabes servir y quieres hacer APIs? → Ve directo al [punto 5](/ApuntesProgramacion/16-apis-web/05-devolviendo-json) y al [punto 6](/ApuntesProgramacion/16-apis-web/06-proyecto-rest): JSON y el CRUD de tareas.
-- ¿Solo vienes a por el lado cliente? → Salta al [punto 7](/ApuntesProgramacion/16-apis-web/07-httpclient) y al [punto 8](/ApuntesProgramacion/16-apis-web/08-httpclient-avanzado): consumir APIs externas.
-- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntesProgramacion/16-apis-web/09-repaso-interactivo) y después los [boletines](/ApuntesProgramacion/boletines/boletin-u16-inicial).
+- ¿Vienes de la U15 (JDBC) y quieres lo esencial? → Arranca en el [punto 1](/ApuntsProgramacio/16-apis-web/01-protocolo-http) y el [punto 2](/ApuntsProgramacio/16-apis-web/02-servidor-minimo): HTTP y tu primer servidor.
+- ¿Ya sabes servir y quieres hacer APIs? → Ve directo al [punto 5](/ApuntsProgramacio/16-apis-web/05-devolviendo-json) y al [punto 6](/ApuntsProgramacio/16-apis-web/06-proyecto-rest): JSON y el CRUD de tareas.
+- ¿Solo vienes a por el lado cliente? → Salta al [punto 7](/ApuntsProgramacio/16-apis-web/07-httpclient) y al [punto 8](/ApuntsProgramacio/16-apis-web/08-httpclient-avanzado): consumir APIs externas.
+- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntsProgramacio/16-apis-web/09-repaso-interactivo) y después los [boletines](/ApuntsProgramacio/boletines/boletin-u16-inicial).
 
-**📍 Primer punto:** [01 · El protocolo HTTP en 30 segundos](/ApuntesProgramacion/16-apis-web/01-protocolo-http)
+**📍 Primer punto:** [01 · El protocolo HTTP en 30 segundos](/ApuntsProgramacio/16-apis-web/01-protocolo-http)
 
 **🎓 Fin del curso.** Empezaste escribiendo `System.out.println("Hola, mundo")` en una terminal y acabas sirviendo y consumiendo APIs por Internet. De consola a web en 14 unidades: no es poco. La siguiente parada ya no tiene guía: elige tu camino (Spring Boot, tu proyecto final, tu primera entrevista) y sigue programando.

@@ -316,4 +316,4 @@ El novell guarda el seu projecte, tanca l'IDE i sent que els programes ja no li 
 
 ---
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/04-estructuras-control-excepciones) · **Anterior:** [08 · throw i excepcions pròpies](/ApuntesProgramacion/ca/04-estructuras-control-excepciones/08-throw-excepciones-propias) · **Següent:** **[U05 · Funcions i mètodes](/ApuntesProgramacion/ca/05-funciones)**
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/04-estructuras-control-excepciones) · **Anterior:** [08 · throw i excepcions pròpies](/ApuntsProgramacio/ca/04-estructuras-control-excepciones/08-throw-excepciones-propias) · **Següent:** **[U05 · Funcions i mètodes](/ApuntsProgramacio/ca/05-funciones)**

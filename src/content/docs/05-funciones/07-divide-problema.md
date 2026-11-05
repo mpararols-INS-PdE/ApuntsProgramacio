@@ -189,4 +189,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Refactorizar | Reorganizar sin cambiar lo que hace |
 > | Método helper | Ayudante pequeño al servicio de otro paso |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/05-funciones) · **Anterior:** [06 · Errores frecuentes](/ApuntesProgramacion/05-funciones/06-errores-frecuentes) · **Siguiente:** [08 · Be the Code](/ApuntesProgramacion/05-funciones/08-be-the-code)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/05-funciones) · **Anterior:** [06 · Errores frecuentes](/ApuntsProgramacio/05-funciones/06-errores-frecuentes) · **Siguiente:** [08 · Be the Code](/ApuntsProgramacio/05-funciones/08-be-the-code)

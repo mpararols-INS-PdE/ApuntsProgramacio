@@ -132,4 +132,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `executeQuery()` | Para SELECT: devuelve `ResultSet` |
 > | `executeUpdate()` | Para INSERT/UPDATE/DELETE: devuelve filas afectadas |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/15-conexion-bases-datos) · **Anterior:** [02 · Conexión a SQLite](/ApuntesProgramacion/15-conexion-bases-datos/02-conexion) · **Siguiente:** [04 · CRUD completo](/ApuntesProgramacion/15-conexion-bases-datos/04-crud)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/15-conexion-bases-datos) · **Anterior:** [02 · Conexión a SQLite](/ApuntsProgramacio/15-conexion-bases-datos/02-conexion) · **Siguiente:** [04 · CRUD completo](/ApuntsProgramacio/15-conexion-bases-datos/04-crud)

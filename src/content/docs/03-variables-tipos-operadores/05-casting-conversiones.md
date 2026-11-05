@@ -35,7 +35,7 @@ byte → short → int → long → float → double
 
 Cualquier tipo puede pasar al que está a su derecha sin que se pierda ni un bit. Java sonríe y te deja.
 
-![Escalera de casting: de byte a double con flechas verdes de conversión implícita y flecha roja de vuelta con casting explícito (narrowing)](/ApuntesProgramacion/diagrams/u03-escalera-casting.svg)
+![Escalera de casting: de byte a double con flechas verdes de conversión implícita y flecha roja de vuelta con casting explícito (narrowing)](/ApuntsProgramacio/diagrams/u03-escalera-casting.svg)
 
 ---
 
@@ -191,4 +191,4 @@ Imprime `10` y `44`.
 > | Desbordamiento | El valor no cabe y se convierte en algo absurdo en silencio |
 > | `(int)` | El casting que fuerza un valor decimal a entero |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/03-variables-tipos-operadores) · **Anterior:** [04 · Relacionales, lógicos y ternario](/ApuntesProgramacion/03-variables-tipos-operadores/04-operadores-relacionales-logicos) · **Siguiente:** [06 · Scanner: leer por teclado](/ApuntesProgramacion/03-variables-tipos-operadores/06-scanner-entrada-teclado)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/03-variables-tipos-operadores) · **Anterior:** [04 · Relacionales, lógicos y ternario](/ApuntsProgramacio/03-variables-tipos-operadores/04-operadores-relacionales-logicos) · **Siguiente:** [06 · Scanner: leer por teclado](/ApuntsProgramacio/03-variables-tipos-operadores/06-scanner-entrada-teclado)

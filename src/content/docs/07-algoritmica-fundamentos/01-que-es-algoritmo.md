@@ -137,4 +137,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Ordenación | Poner los datos en un orden determinado (numérico, alfabético…) |
 > | Materializar | Traducir la idea del algoritmo a código de un lenguaje |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/07-algoritmica-fundamentos) · **Anterior:** [Índice de la unidad](/ApuntesProgramacion/07-algoritmica-fundamentos) · **Siguiente:** [02 · Búsqueda lineal](/ApuntesProgramacion/07-algoritmica-fundamentos/02-busqueda-lineal)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/07-algoritmica-fundamentos) · **Anterior:** [Índice de la unidad](/ApuntsProgramacio/07-algoritmica-fundamentos) · **Siguiente:** [02 · Búsqueda lineal](/ApuntsProgramacio/07-algoritmica-fundamentos/02-busqueda-lineal)

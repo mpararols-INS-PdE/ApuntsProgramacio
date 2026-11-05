@@ -126,4 +126,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `SQLException` | La checked que t'acompanya en tot JDBC |
 > | `try-with-resources` | Tancament automàtic de recursos, ordre invers |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/15-conexion-bases-datos) · **Anterior:** [01 · Què és JDBC](/ApuntesProgramacion/va/15-conexion-bases-datos/01-que-es-jdbc) · **Següent:** [03 · Statement i ResultSet: consultar dades](/ApuntesProgramacion/va/15-conexion-bases-datos/03-statement-resultset)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/15-conexion-bases-datos) · **Anterior:** [01 · Què és JDBC](/ApuntsProgramacio/va/15-conexion-bases-datos/01-que-es-jdbc) · **Següent:** [03 · Statement i ResultSet: consultar dades](/ApuntsProgramacio/va/15-conexion-bases-datos/03-statement-resultset)

@@ -145,4 +145,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Handler | La lambda que procesa cada petición de una ruta |
 > | `sendResponseHeaders` | Envía el código de estado (y el tamaño del cuerpo) |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/16-apis-web) · **Anterior:** [01 · El protocolo HTTP en 30 segundos](/ApuntesProgramacion/16-apis-web/01-protocolo-http) · **Siguiente:** [03 · Sirviendo HTML](/ApuntesProgramacion/16-apis-web/03-sirviendo-html)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/16-apis-web) · **Anterior:** [01 · El protocolo HTTP en 30 segundos](/ApuntsProgramacio/16-apis-web/01-protocolo-http) · **Siguiente:** [03 · Sirviendo HTML](/ApuntsProgramacio/16-apis-web/03-sirviendo-html)

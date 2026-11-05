@@ -124,4 +124,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Estat inconsistent | Un objecte amb valors impossibles (ex. `edad = -5`) |
 > | Contracte públic | El que la teva classe promet al món exterior |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static) · **Anterior:** [Índex de la unitat](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static) · **Següent:** [02 · public, private i protected](/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static/02-public-private-protected)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static) · **Anterior:** [Índex de la unitat](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static) · **Següent:** [02 · public, private i protected](/ApuntsProgramacio/ca/10-visibilidad-encapsulacion-static/02-public-private-protected)

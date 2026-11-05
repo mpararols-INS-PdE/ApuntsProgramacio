@@ -188,4 +188,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Búsqueda lineal | Recorrer de principio a fin buscando un valor |
 > | `break` | Cortar el bucle en el momento en que encuentras lo buscado |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/06-arrays) · **Anterior:** [01 · Arrays: el aparcamiento de datos](/ApuntesProgramacion/06-arrays/01-arrays-basicos) · **Siguiente:** [03 · Arrays multidimensionales](/ApuntesProgramacion/06-arrays/03-arrays-multidimensionales)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/06-arrays) · **Anterior:** [01 · Arrays: el aparcamiento de datos](/ApuntsProgramacio/06-arrays/01-arrays-basicos) · **Siguiente:** [03 · Arrays multidimensionales](/ApuntsProgramacio/06-arrays/03-arrays-multidimensionales)

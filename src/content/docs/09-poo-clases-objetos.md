@@ -39,15 +39,15 @@ Al terminar, serás capaz de:
 
 | Punto | Qué aprenderás | Dificultad |
 |---|---|---|
-| [01 · Qué es la POO](/ApuntesProgramacion/09-poo-clases-objetos/01-que-es-poo) | Programación procedural vs orientada a objetos y por qué el mundo real manda | Todos |
-| [02 · Clases y objetos: el cortapastas y las galletas](/ApuntesProgramacion/09-poo-clases-objetos/02-clases-objetos) | El molde, la galleta, `new`, y tu primera clase | Todos |
-| [03 · Atributos y métodos](/ApuntesProgramacion/09-poo-clases-objetos/03-atributos-metodos) | Las propiedades y los comportamientos de una clase, con sus tipos y parámetros | Todos |
-| [04 · Constructores](/ApuntesProgramacion/09-poo-clases-objetos/04-constructores) | El método que prepara al objeto al nacer: por defecto y con parámetros | Todos |
-| [05 · La palabra clave this](/ApuntesProgramacion/09-poo-clases-objetos/05-this) | Cuando los parámetros se llaman igual que los atributos (y cómo salir del lío) | Todos |
-| [06 · Referencias, null y memoria](/ApuntesProgramacion/09-poo-clases-objetos/06-referencias-memoria) | Qué guarda una variable de objeto, el `heap`, `null` y el mítico `NullPointerException` | Todos |
-| [07 · Sobrecarga y paso por valor](/ApuntesProgramacion/09-poo-clases-objetos/07-sobrecarga-paso-valor) | Varios métodos con el mismo nombre y qué se copia cuando llamas | Todos |
-| [08 · Be the Code: diseña tu clase](/ApuntesProgramacion/09-poo-clases-objetos/08-be-the-code) | Diseñar y construir una clase completa paso a paso, sin mirar | ⭐⭐⭐ |
-| [09 · Repaso interactivo](/ApuntesProgramacion/09-poo-clases-objetos/09-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
+| [01 · Qué es la POO](/ApuntsProgramacio/09-poo-clases-objetos/01-que-es-poo) | Programación procedural vs orientada a objetos y por qué el mundo real manda | Todos |
+| [02 · Clases y objetos: el cortapastas y las galletas](/ApuntsProgramacio/09-poo-clases-objetos/02-clases-objetos) | El molde, la galleta, `new`, y tu primera clase | Todos |
+| [03 · Atributos y métodos](/ApuntsProgramacio/09-poo-clases-objetos/03-atributos-metodos) | Las propiedades y los comportamientos de una clase, con sus tipos y parámetros | Todos |
+| [04 · Constructores](/ApuntsProgramacio/09-poo-clases-objetos/04-constructores) | El método que prepara al objeto al nacer: por defecto y con parámetros | Todos |
+| [05 · La palabra clave this](/ApuntsProgramacio/09-poo-clases-objetos/05-this) | Cuando los parámetros se llaman igual que los atributos (y cómo salir del lío) | Todos |
+| [06 · Referencias, null y memoria](/ApuntsProgramacio/09-poo-clases-objetos/06-referencias-memoria) | Qué guarda una variable de objeto, el `heap`, `null` y el mítico `NullPointerException` | Todos |
+| [07 · Sobrecarga y paso por valor](/ApuntsProgramacio/09-poo-clases-objetos/07-sobrecarga-paso-valor) | Varios métodos con el mismo nombre y qué se copia cuando llamas | Todos |
+| [08 · Be the Code: diseña tu clase](/ApuntsProgramacio/09-poo-clases-objetos/08-be-the-code) | Diseñar y construir una clase completa paso a paso, sin mirar | ⭐⭐⭐ |
+| [09 · Repaso interactivo](/ApuntsProgramacio/09-poo-clases-objetos/09-repaso-interactivo) | Sé el Código, Fireside, Laboratorio, Crucigrama y más | Todos |
 
 > 📖 **Flujo de lectura:** los 8 primeros puntos son teoría en progresión. El 9º es el aterrizaje práctico: léelo justo después del 8º y antes de abrir los boletines.
 
@@ -58,11 +58,11 @@ Al terminar, serás capaz de:
 > Practica con los pares del curso: intenta primero el por-resolver y comprueba con el resuelto cuando hayas terminado.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/boletines/boletin-u09-inicial" class="elink">🟢 Inicial por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u09-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u09-avanzado" class="elink">⭐ Avanzado por resolver</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u09-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
-  <a href="/ApuntesProgramacion/boletines/boletin-u09-extras" class="elink">🔥 Extras</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u09-inicial" class="elink">🟢 Inicial por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u09-inicial-resuelto" class="elink">✅ Inicial resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u09-avanzado" class="elink">⭐ Avanzado por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u09-avanzado-resuelto" class="elink">💪 Avanzado resuelto</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u09-extras" class="elink">🔥 Extras</a>
 </div>
 
 ---
@@ -93,10 +93,10 @@ Al terminar, serás capaz de:
 
 ## 🚪 ¿Por dónde empiezo?
 
-- ¿Cero conocimientos de POO? → Arranca en el [punto 1](/ApuntesProgramacion/09-poo-clases-objetos/01-que-es-poo). Solo necesitas lo que viste hasta la U08.
-- ¿Ya sabes qué es una clase y quieres chicha? → Ve directo al [punto 4](/ApuntesProgramacion/09-poo-clases-objetos/04-constructores) y al [punto 5](/ApuntesProgramacion/09-poo-clases-objetos/05-this): ahí empieza el baile serio.
-- ¿Te flipan los retos? → Haz el [punto 8](/ApuntesProgramacion/09-poo-clases-objetos/08-be-the-code) sin mirar el código de los puntos anteriores. Diseña tu clase con honor.
-- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntesProgramacion/09-poo-clases-objetos/09-repaso-interactivo) y después los [boletines](/ApuntesProgramacion/boletines/boletin-u09-inicial).
+- ¿Cero conocimientos de POO? → Arranca en el [punto 1](/ApuntsProgramacio/09-poo-clases-objetos/01-que-es-poo). Solo necesitas lo que viste hasta la U08.
+- ¿Ya sabes qué es una clase y quieres chicha? → Ve directo al [punto 4](/ApuntsProgramacio/09-poo-clases-objetos/04-constructores) y al [punto 5](/ApuntsProgramacio/09-poo-clases-objetos/05-this): ahí empieza el baile serio.
+- ¿Te flipan los retos? → Haz el [punto 8](/ApuntsProgramacio/09-poo-clases-objetos/08-be-the-code) sin mirar el código de los puntos anteriores. Diseña tu clase con honor.
+- ¿Vienes a repasar? → Haz el [Repaso interactivo](/ApuntsProgramacio/09-poo-clases-objetos/09-repaso-interactivo) y después los [boletines](/ApuntsProgramacio/boletines/boletin-u09-inicial).
 
-**📍 Primer punto:** [01 · Qué es la POO](/ApuntesProgramacion/09-poo-clases-objetos/01-que-es-poo)  
-**⏭️ Al acabar la unidad, continúa en [U10 · Visibilidad, encapsulación y static](/ApuntesProgramacion/10-visibilidad-encapsulacion-static).**
+**📍 Primer punto:** [01 · Qué es la POO](/ApuntsProgramacio/09-poo-clases-objetos/01-que-es-poo)  
+**⏭️ Al acabar la unidad, continúa en [U10 · Visibilidad, encapsulación y static](/ApuntsProgramacio/10-visibilidad-encapsulacion-static).**

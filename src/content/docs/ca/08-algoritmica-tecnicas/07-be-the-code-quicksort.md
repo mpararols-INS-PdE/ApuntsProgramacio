@@ -282,4 +282,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Fusió | Combinar dues meitats ordenades en una |
 > | Array temporal | El `tmp` de la fusió, que costa O(n) de memòria |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/08-algoritmica-tecnicas) · **Anterior:** [06 · Comparació: quan usar cada ordenació](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/06-comparacion-ordenacion) · **Següent:** [08 · Altres tècniques algorísmiques](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/08-otras-tecnicas-algoritmicas)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/08-algoritmica-tecnicas) · **Anterior:** [06 · Comparació: quan usar cada ordenació](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/06-comparacion-ordenacion) · **Següent:** [08 · Altres tècniques algorísmiques](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/08-otras-tecnicas-algoritmicas)

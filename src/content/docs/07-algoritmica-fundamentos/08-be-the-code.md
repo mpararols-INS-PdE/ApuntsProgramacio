@@ -235,4 +235,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Variable temporal | El `temp` que guarda un valor durante el intercambio |
 > | Flag | Booleano que avisa de si pasó algo en la pasada |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/07-algoritmica-fundamentos) · **Anterior:** [07 · Elegir el algoritmo adecuado](/ApuntesProgramacion/07-algoritmica-fundamentos/07-elegir-algoritmo) · **Siguiente:** [09 · Repaso interactivo](/ApuntesProgramacion/07-algoritmica-fundamentos/09-repaso-interactivo)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/07-algoritmica-fundamentos) · **Anterior:** [07 · Elegir el algoritmo adecuado](/ApuntsProgramacio/07-algoritmica-fundamentos/07-elegir-algoritmo) · **Siguiente:** [09 · Repaso interactivo](/ApuntsProgramacio/07-algoritmica-fundamentos/09-repaso-interactivo)

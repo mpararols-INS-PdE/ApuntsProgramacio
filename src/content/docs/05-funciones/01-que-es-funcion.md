@@ -159,4 +159,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Llamada | Ejecutar un método: `nombre(...)` |
 > | Cuerpo | El código entre `{` y `}` del método |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/05-funciones) · **Anterior:** [Índice de la unidad](/ApuntesProgramacion/05-funciones) · **Siguiente:** [02 · Tu primer método](/ApuntesProgramacion/05-funciones/02-primer-metodo)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/05-funciones) · **Anterior:** [Índice de la unidad](/ApuntsProgramacio/05-funciones) · **Siguiente:** [02 · Tu primer método](/ApuntsProgramacio/05-funciones/02-primer-metodo)

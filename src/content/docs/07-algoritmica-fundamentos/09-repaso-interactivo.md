@@ -343,4 +343,4 @@ El novato guarda su proyecto, cierra el IDE y siente que ya no busca ni ordena: 
 
 ---
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/07-algoritmica-fundamentos) · **Anterior:** [08 · Be the Code: búsqueda binaria desde cero](/ApuntesProgramacion/07-algoritmica-fundamentos/08-be-the-code) · **Siguiente:** **[U08 · Algorítmica II: técnicas avanzadas y modularidad](/ApuntesProgramacion/08-algoritmica-tecnicas)**
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/07-algoritmica-fundamentos) · **Anterior:** [08 · Be the Code: búsqueda binaria desde cero](/ApuntsProgramacio/07-algoritmica-fundamentos/08-be-the-code) · **Siguiente:** **[U08 · Algorítmica II: técnicas avanzadas y modularidad](/ApuntsProgramacio/08-algoritmica-tecnicas)**

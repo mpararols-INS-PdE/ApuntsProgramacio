@@ -217,4 +217,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Àlies | Dues variables que apunten al mateix objecte |
 > | Arguments de `main` | L'array `args` amb els paràmetres de la línia de comandes |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/06-arrays) · **Anterior:** [04 · La classe Arrays: la teua navalla suïssa](/ApuntesProgramacion/va/06-arrays/04-clase-arrays) · **Següent:** [06 · Aplicacions dels arrays](/ApuntesProgramacion/va/06-arrays/06-aplicaciones-arrays)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/06-arrays) · **Anterior:** [04 · La classe Arrays: la teua navalla suïssa](/ApuntsProgramacio/va/06-arrays/04-clase-arrays) · **Següent:** [06 · Aplicacions dels arrays](/ApuntsProgramacio/va/06-arrays/06-aplicaciones-arrays)

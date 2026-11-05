@@ -358,4 +358,4 @@ El novell guarda el seu projecte, tanca l'IDE i sent que ja no escriu blocs de c
 
 ---
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/05-funciones) · **Anterior:** [08 · Be the Code](/ApuntesProgramacion/va/05-funciones/08-be-the-code) · **Següent:** **[U06 · Arrays](/ApuntesProgramacion/va/06-arrays)**
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/05-funciones) · **Anterior:** [08 · Be the Code](/ApuntsProgramacio/va/05-funciones/08-be-the-code) · **Següent:** **[U06 · Arrays](/ApuntsProgramacio/va/06-arrays)**

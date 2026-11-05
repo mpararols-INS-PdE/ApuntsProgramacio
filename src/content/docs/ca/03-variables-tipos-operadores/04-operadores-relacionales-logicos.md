@@ -76,7 +76,7 @@ System.out.println(x);                       // 5 — el ++x mai no es va execut
 
 > 💡 **Detall pràctic:** el curtcircuit també et protegeix. Si escrius `(algo != null) && algo.metodo()`, Java no cridarà el mètode si `algo` és `null`, evitant un crash al teu programa.
 
-![Flux de curtcircuit: amb && si la 1a condició és false i amb || si és true, la 2a condició no s'avalua (STOP!)](/ApuntesProgramacion/diagrams/u03-cortocircuito-flujo-ca.svg)
+![Flux de curtcircuit: amb && si la 1a condició és false i amb || si és true, la 2a condició no s'avalua (STOP!)](/ApuntsProgramacio/diagrams/u03-cortocircuito-flujo-ca.svg)
 
 ---
 
@@ -202,4 +202,4 @@ Imprimeix `true`, `true`, `false` i `11`.
 > | Ternari | `condició ? valor1 : valor2`, un if-else en una línia |
 > | Booleà | Tipus amb només dos valors: `true` o `false` |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/03-variables-tipos-operadores) · **Anterior:** [03 · Operadors aritmètics](/ApuntesProgramacion/ca/03-variables-tipos-operadores/03-operadores-aritmeticos) · **Següent:** [05 · Casting i conversions](/ApuntesProgramacion/ca/03-variables-tipos-operadores/05-casting-conversiones)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/03-variables-tipos-operadores) · **Anterior:** [03 · Operadors aritmètics](/ApuntsProgramacio/ca/03-variables-tipos-operadores/03-operadores-aritmeticos) · **Següent:** [05 · Casting i conversions](/ApuntsProgramacio/ca/03-variables-tipos-operadores/05-casting-conversiones)

@@ -191,4 +191,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Poda | Descartar de seguida els camins sense sortida |
 > | Programació dinàmica | Memoització + subproblemes que es repeteixen |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/08-algoritmica-tecnicas) · **Anterior:** [07 · Be the Code: quicksort des de zero](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/07-be-the-code-quicksort) · **Següent:** [09 · Modularitat](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/09-modularidad)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/08-algoritmica-tecnicas) · **Anterior:** [07 · Be the Code: quicksort des de zero](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/07-be-the-code-quicksort) · **Següent:** [09 · Modularitat](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/09-modularidad)

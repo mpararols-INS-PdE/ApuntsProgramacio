@@ -238,4 +238,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Solo lectura | Getter sin setter: se lee pero no se escribe |
 > | Número mágico | Literal sin nombre: se convierte en constante |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/10-visibilidad-encapsulacion-static) · **Anterior:** [07 · Constantes de clase: static final](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/07-constantes-static-final) · **Siguiente:** [09 · Repaso interactivo](/ApuntesProgramacion/10-visibilidad-encapsulacion-static/09-repaso-interactivo)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/10-visibilidad-encapsulacion-static) · **Anterior:** [07 · Constantes de clase: static final](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/07-constantes-static-final) · **Siguiente:** [09 · Repaso interactivo](/ApuntsProgramacio/10-visibilidad-encapsulacion-static/09-repaso-interactivo)

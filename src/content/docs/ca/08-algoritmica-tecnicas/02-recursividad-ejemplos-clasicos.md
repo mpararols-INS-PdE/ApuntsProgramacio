@@ -243,4 +243,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Recursió exponencial | La que es bifurca en diverses crides (Fibonacci, Hanoi) |
 > | `long` | Tipus per a números grans... fins que el factorial el desborda |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/08-algoritmica-tecnicas) · **Anterior:** [01 · Recursivitat](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/01-recursividad) · **Següent:** [03 · Divide i venceràs](/ApuntesProgramacion/ca/08-algoritmica-tecnicas/03-divide-y-venceras)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/08-algoritmica-tecnicas) · **Anterior:** [01 · Recursivitat](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/01-recursividad) · **Següent:** [03 · Divide i venceràs](/ApuntsProgramacio/ca/08-algoritmica-tecnicas/03-divide-y-venceras)

@@ -120,4 +120,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Ordre inicial | Com arriben les dades: a l'atzar, ordenades, quasi ordenades |
 > | Mergesort extern | Ordenació de dades que no caben en RAM (bases de dades) |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/08-algoritmica-tecnicas) · **Anterior:** [05 · Mergesort](/ApuntesProgramacion/va/08-algoritmica-tecnicas/05-mergesort) · **Següent:** [07 · Be the Code: quicksort des de zero](/ApuntesProgramacion/va/08-algoritmica-tecnicas/07-be-the-code-quicksort)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/08-algoritmica-tecnicas) · **Anterior:** [05 · Mergesort](/ApuntsProgramacio/va/08-algoritmica-tecnicas/05-mergesort) · **Següent:** [07 · Be the Code: quicksort des de zero](/ApuntsProgramacio/va/08-algoritmica-tecnicas/07-be-the-code-quicksort)

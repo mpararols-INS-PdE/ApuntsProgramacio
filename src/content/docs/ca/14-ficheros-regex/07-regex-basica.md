@@ -216,4 +216,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Grup de captura | Parèntesis que "recorden" part de la coincidència |
 > | Metacaràcter | Símbol amb significat especial en una regex (`.`, `+`, `\d`...) |
 
-📁 [Tornar a l'índex de la unitat](/ApuntesProgramacion/ca/14-ficheros-regex) · **Anterior:** [06 · Serialització: guardar objectes amb ObjectOutputStream](/ApuntesProgramacion/ca/14-ficheros-regex/06-serializacion) · **Següent:** [08 · Regex en acció: matches, replaceAll, split i validacions](/ApuntesProgramacion/ca/14-ficheros-regex/08-regex-aplicaciones)
+📁 [Tornar a l'índex de la unitat](/ApuntsProgramacio/ca/14-ficheros-regex) · **Anterior:** [06 · Serialització: guardar objectes amb ObjectOutputStream](/ApuntsProgramacio/ca/14-ficheros-regex/06-serializacion) · **Següent:** [08 · Regex en acció: matches, replaceAll, split i validacions](/ApuntsProgramacio/ca/14-ficheros-regex/08-regex-aplicaciones)

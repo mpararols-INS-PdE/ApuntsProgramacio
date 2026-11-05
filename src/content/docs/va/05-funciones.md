@@ -38,15 +38,15 @@ En acabar, seràs capaç de:
 
 | Punt | Què aprendrás | Dificultat |
 |---|---|---|
-| [01 · Què és una funció?](/ApuntesProgramacion/va/05-funciones/01-que-es-funcion) | La recepta amb nom: per què existeix i què és "mètode" | Tots |
-| [02 · El teu primer mètode](/ApuntesProgramacion/va/05-funciones/02-primer-metodo) | `public static void`, cridar des de `main` i executar | Tots |
-| [03 · Paràmetres: l'entrada](/ApuntesProgramacion/va/05-funciones/03-parametros) | Dades que entren: tipus, ordre i diversos alhora | Tots |
-| [04 · return: l'eixida](/ApuntesProgramacion/va/05-funciones/04-return-valores) | Tornar resultats i quan usar `void` | Tots |
-| [05 · Àmbit de variables](/ApuntesProgramacion/va/05-funciones/05-ambito-variables) | Quines variables viuen dins d'un mètode i per què | Tots |
-| [06 · Errors freqüents](/ApuntesProgramacion/va/05-funciones/06-errores-frecuentes) | Els 7 entrebancs de tothom eixir-ne | Tots |
-| [07 · Divideix el problema](/ApuntesProgramacion/va/05-funciones/07-divide-problema) | Compondre: main menut, una responsabilitat per mètode | Tots |
-| [08 · Be the Code](/ApuntesProgramacion/va/05-funciones/08-be-the-code) | Refactoritza un programa monolític a mà | Tots |
-| [09 · Repàs interactiu](/ApuntesProgramacion/va/05-funciones/09-repaso-interactivo) | Sé el Còdigo, Fireside, Qui Sóc, Laboratori, Crucigrama… | Tots |
+| [01 · Què és una funció?](/ApuntsProgramacio/va/05-funciones/01-que-es-funcion) | La recepta amb nom: per què existeix i què és "mètode" | Tots |
+| [02 · El teu primer mètode](/ApuntsProgramacio/va/05-funciones/02-primer-metodo) | `public static void`, cridar des de `main` i executar | Tots |
+| [03 · Paràmetres: l'entrada](/ApuntsProgramacio/va/05-funciones/03-parametros) | Dades que entren: tipus, ordre i diversos alhora | Tots |
+| [04 · return: l'eixida](/ApuntsProgramacio/va/05-funciones/04-return-valores) | Tornar resultats i quan usar `void` | Tots |
+| [05 · Àmbit de variables](/ApuntsProgramacio/va/05-funciones/05-ambito-variables) | Quines variables viuen dins d'un mètode i per què | Tots |
+| [06 · Errors freqüents](/ApuntsProgramacio/va/05-funciones/06-errores-frecuentes) | Els 7 entrebancs de tothom eixir-ne | Tots |
+| [07 · Divideix el problema](/ApuntsProgramacio/va/05-funciones/07-divide-problema) | Compondre: main menut, una responsabilitat per mètode | Tots |
+| [08 · Be the Code](/ApuntsProgramacio/va/05-funciones/08-be-the-code) | Refactoritza un programa monolític a mà | Tots |
+| [09 · Repàs interactiu](/ApuntsProgramacio/va/05-funciones/09-repaso-interactivo) | Sé el Còdigo, Fireside, Qui Sóc, Laboratori, Crucigrama… | Tots |
 
 > 📖 **Flux de lectura:** els 8 primers punts són teoria en progressió. El 9è és l'aterratge pràctic: llig-lo just després del 8è i abans d'obrir els butlletins.
 
@@ -57,11 +57,11 @@ En acabar, seràs capaç de:
 > Practica amb els parells del curs: intenta primer el per-resoldre i comprova amb el resolt quan hages acabat.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u05-inicial" class="elink">🟢 Inicial per resoldre</a>
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u05-inicial-resuelto" class="elink">✅ Inicial resolt</a>
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u05-avanzado" class="elink">⭐ Avançat per resoldre</a>
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u05-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
-  <a href="/ApuntesProgramacion/va/boletines/boletin-u05-extras" class="elink">🔥 Extra</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u05-inicial" class="elink">🟢 Inicial per resoldre</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u05-inicial-resuelto" class="elink">✅ Inicial resolt</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u05-avanzado" class="elink">⭐ Avançat per resoldre</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u05-avanzado-resuelto" class="elink">💪 Avançat resolt</a>
+  <a href="/ApuntsProgramacio/va/boletines/boletin-u05-extras" class="elink">🔥 Extra</a>
 </div>
 
 ---
@@ -82,10 +82,10 @@ En acabar, seràs capaç de:
 
 ## 🚪 Per on comence?
 
-- No has escrit mai un mètode que no fora `main`? → Comença en el [punt 1](/ApuntesProgramacion/va/05-funciones/01-que-es-funcion) i no et saltses el 2.
-- El teu `main` ja sembla un paràgraf infinit de copiar i enganxar? → Ves directe al [punt 7](/ApuntesProgramacion/va/05-funciones/07-divide-problema) i després al [Be the Code](/ApuntesProgramacion/va/05-funciones/08-be-the-code).
-- Només vols entendre per què `main` és `public static void main`? → El [punt 2](/ApuntesProgramacion/va/05-funciones/02-primer-metodo) te desmonta la firma en 4 paraules.
-- Vens a repassar? → Fes el [Repàs interactiu](/ApuntesProgramacion/va/05-funciones/09-repaso-interactivo) i després els [butlletins](/ApuntesProgramacion/va/boletines/boletin-u05-inicial).
+- No has escrit mai un mètode que no fora `main`? → Comença en el [punt 1](/ApuntsProgramacio/va/05-funciones/01-que-es-funcion) i no et saltses el 2.
+- El teu `main` ja sembla un paràgraf infinit de copiar i enganxar? → Ves directe al [punt 7](/ApuntsProgramacio/va/05-funciones/07-divide-problema) i després al [Be the Code](/ApuntsProgramacio/va/05-funciones/08-be-the-code).
+- Només vols entendre per què `main` és `public static void main`? → El [punt 2](/ApuntsProgramacio/va/05-funciones/02-primer-metodo) te desmonta la firma en 4 paraules.
+- Vens a repassar? → Fes el [Repàs interactiu](/ApuntsProgramacio/va/05-funciones/09-repaso-interactivo) i després els [butlletins](/ApuntsProgramacio/va/boletines/boletin-u05-inicial).
 
-**📍 Primer punt:** [01 · Què és una funció?](/ApuntesProgramacion/va/05-funciones/01-que-es-funcion)  
-**⏭️ En acabar la unitat, continua en [U06 · Arrays](/ApuntesProgramacion/va/06-arrays).**
+**📍 Primer punt:** [01 · Què és una funció?](/ApuntsProgramacio/va/05-funciones/01-que-es-funcion)  
+**⏭️ En acabar la unitat, continua en [U06 · Arrays](/ApuntsProgramacio/va/06-arrays).**

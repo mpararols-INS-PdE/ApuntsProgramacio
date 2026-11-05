@@ -202,4 +202,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Ordenació lexicogràfica | Ordre alfabètic segons el valor dels caràcters |
 > | Còpia | Nou array independent amb els mateixos valors |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/06-arrays) · **Anterior:** [03 · Arrays multidimensionals](/ApuntesProgramacion/va/06-arrays/03-arrays-multidimensionales) · **Següent:** [05 · Arrays i mètodes](/ApuntesProgramacion/va/06-arrays/05-arrays-metodos)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/06-arrays) · **Anterior:** [03 · Arrays multidimensionals](/ApuntsProgramacio/va/06-arrays/03-arrays-multidimensionales) · **Següent:** [05 · Arrays i mètodes](/ApuntsProgramacio/va/06-arrays/05-arrays-metodos)

@@ -174,4 +174,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Fusió (merge) | Funció que resol què fer amb claus repetides |
 > | `joining` | Unix els elements en un `String` |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/13-programacion-funcional) · **Anterior:** [06 · Operacions terminals: collect, reduce, count, forEach](/ApuntesProgramacion/va/13-programacion-funcional/06-streams-terminales) · **Següent:** [08 · Optional: el que accepta l'absència](/ApuntesProgramacion/va/13-programacion-funcional/08-optional)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/13-programacion-funcional) · **Anterior:** [06 · Operacions terminals: collect, reduce, count, forEach](/ApuntsProgramacio/va/13-programacion-funcional/06-streams-terminales) · **Següent:** [08 · Optional: el que accepta l'absència](/ApuntsProgramacio/va/13-programacion-funcional/08-optional)

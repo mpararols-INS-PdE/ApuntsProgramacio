@@ -56,7 +56,7 @@ public class MiPrimerPrograma {
 
 💡 **Detalle práctico:** cada instrucción termina con `;`. Es el punto final de cada frase. Sin él, el compilador piensa que la frase continúa y se enlaza. Los `{}` delimitan los bloques: los de la clase contienen la clase, los del main contienen las órdenes.
 
-![Diagrama con la anatomía de un Hola Mundo: clase, main, println y comentario explicados](/ApuntesProgramacion/diagrams/u02-anatomia-hola-mundo.svg)
+![Diagrama con la anatomía de un Hola Mundo: clase, main, println y comentario explicados](/ApuntsProgramacio/diagrams/u02-anatomia-hola-mundo.svg)
 
 ---
 

@@ -205,4 +205,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | `\\R` | "Qualsevol salt de línia" en regex de Java |
 > | CSV | Fitxer de valors separats per comes (o per `;`) |
 
-📁 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/14-ficheros-regex) · **Anterior:** [03 · try-with-resources: tancar sense plorar](/ApuntesProgramacion/va/14-ficheros-regex/03-try-with-resources) · **Següent:** [05 · NIO: Files i Paths (la forma moderna)](/ApuntesProgramacion/va/14-ficheros-regex/05-nio-files-paths)
+📁 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/14-ficheros-regex) · **Anterior:** [03 · try-with-resources: tancar sense plorar](/ApuntsProgramacio/va/14-ficheros-regex/03-try-with-resources) · **Següent:** [05 · NIO: Files i Paths (la forma moderna)](/ApuntsProgramacio/va/14-ficheros-regex/05-nio-files-paths)

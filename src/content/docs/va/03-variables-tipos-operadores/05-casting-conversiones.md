@@ -35,7 +35,7 @@ byte → short → int → long → float → double
 
 Qualsevol tipus pot passar al que està a la seua dreta sense que es perda ni un bit. Java somriu i et deixa.
 
-![Escalera de casting: de byte a double amb fletxes verdes de conversió implícita i fletxa roja de tornada amb casting explícit (narrowing)](/ApuntesProgramacion/diagrams/u03-escalera-casting-val.svg)
+![Escalera de casting: de byte a double amb fletxes verdes de conversió implícita i fletxa roja de tornada amb casting explícit (narrowing)](/ApuntsProgramacio/diagrams/u03-escalera-casting-val.svg)
 
 ---
 
@@ -191,4 +191,4 @@ Imprimeix `10` i `44`.
 > | Desbordament | El valor no cap i es converteix en una cosa absurda en silenci |
 > | `(int)` | El casting que força un valor decimal a enter |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/03-variables-tipos-operadores) · **Anterior:** [04 · Relacionals, lògics i ternari](/ApuntesProgramacion/va/03-variables-tipos-operadores/04-operadores-relacionales-logicos) · **Següent:** [06 · Scanner: llegir pel teclat](/ApuntesProgramacion/va/03-variables-tipos-operadores/06-scanner-entrada-teclado)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/03-variables-tipos-operadores) · **Anterior:** [04 · Relacionals, lògics i ternari](/ApuntsProgramacio/va/03-variables-tipos-operadores/04-operadores-relacionales-logicos) · **Següent:** [06 · Scanner: llegir pel teclat](/ApuntsProgramacio/va/03-variables-tipos-operadores/06-scanner-entrada-teclado)

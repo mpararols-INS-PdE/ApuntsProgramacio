@@ -228,4 +228,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Acoplamiento | Cuánto dependen unas clases de otras |
 > | Composición | "Tener" (HAS-A) en vez de "ser" (IS-A) |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces) · **Anterior:** [02 · super y @Override](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/02-super-override) · **Siguiente:** [04 · Polimorfismo: el camaleón de la POO](/ApuntesProgramacion/11-herencia-polimorfismo-interfaces/04-polimorfismo)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces) · **Anterior:** [02 · super y @Override](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/02-super-override) · **Siguiente:** [04 · Polimorfismo: el camaleón de la POO](/ApuntsProgramacio/11-herencia-polimorfismo-interfaces/04-polimorfismo)

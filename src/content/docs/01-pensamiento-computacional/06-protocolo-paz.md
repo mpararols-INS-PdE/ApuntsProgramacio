@@ -45,4 +45,4 @@ Si después de esto no lo resuelves, escribes en el foro, pero **no digas "no fu
 
 ---
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/01-pensamiento-computacional) · **Anterior:** [05 · Debugging y casos límite](/ApuntesProgramacion/01-pensamiento-computacional/05-debugging-casos-limite) · **Siguiente:** [07 · Practicar (menos mirar, más intentar)](/ApuntesProgramacion/01-pensamiento-computacional/07-practicar)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/01-pensamiento-computacional) · **Anterior:** [05 · Debugging y casos límite](/ApuntsProgramacio/01-pensamiento-computacional/05-debugging-casos-limite) · **Siguiente:** [07 · Practicar (menos mirar, más intentar)](/ApuntsProgramacio/01-pensamiento-computacional/07-practicar)

@@ -163,4 +163,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | `StackOverflowError` | Lo que pasa cuando llenas la pila |
 > | Recursión de cola | Cuando la llamada recursiva es lo último que hace la función |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/08-algoritmica-tecnicas) · **Anterior:** [Índice de la unidad](/ApuntesProgramacion/08-algoritmica-tecnicas) · **Siguiente:** [02 · Recursividad: ejemplos clásicos](/ApuntesProgramacion/08-algoritmica-tecnicas/02-recursividad-ejemplos-clasicos)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/08-algoritmica-tecnicas) · **Anterior:** [Índice de la unidad](/ApuntsProgramacio/08-algoritmica-tecnicas) · **Siguiente:** [02 · Recursividad: ejemplos clásicos](/ApuntsProgramacio/08-algoritmica-tecnicas/02-recursividad-ejemplos-clasicos)

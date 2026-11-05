@@ -221,4 +221,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Ternario | `condición ? valor1 : valor2`, un if-else en una línea |
 > | Cortocircuito | Java deja de evaluar cuando la primera condición ya decide |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/04-estructuras-control-excepciones) · **Anterior:** [Índice de la unidad](/ApuntesProgramacion/04-estructuras-control-excepciones) · **Siguiente:** [02 · switch](/ApuntesProgramacion/04-estructuras-control-excepciones/02-switch)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/04-estructuras-control-excepciones) · **Anterior:** [Índice de la unidad](/ApuntsProgramacio/04-estructuras-control-excepciones) · **Siguiente:** [02 · switch](/ApuntsProgramacio/04-estructuras-control-excepciones/02-switch)

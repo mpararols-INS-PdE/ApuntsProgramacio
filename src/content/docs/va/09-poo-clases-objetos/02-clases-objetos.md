@@ -183,4 +183,4 @@ Posat a prova en 30 segons (les respostes estan amagades):
 > | Instància | Sinònim d'objecte creat |
 > | Membre | Qualsevol atribut o mètode d'una classe |
 
-📚 [Tornar a l'índex de la unitat](/ApuntesProgramacion/va/09-poo-clases-objetos) · **Anterior:** [01 · Què és la POO](/ApuntesProgramacion/va/09-poo-clases-objetos/01-que-es-poo) · **Següent:** [03 · Atributs i mètodes](/ApuntesProgramacion/va/09-poo-clases-objetos/03-atributos-metodos)
+📚 [Tornar a l'índex de la unitat](/ApuntsProgramacio/va/09-poo-clases-objetos) · **Anterior:** [01 · Què és la POO](/ApuntsProgramacio/va/09-poo-clases-objetos/01-que-es-poo) · **Següent:** [03 · Atributs i mètodes](/ApuntsProgramacio/va/09-poo-clases-objetos/03-atributos-metodos)

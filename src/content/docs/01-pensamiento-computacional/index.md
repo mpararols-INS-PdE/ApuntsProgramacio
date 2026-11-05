@@ -37,15 +37,15 @@ Al terminar, serás capaz de explicar:
 
 | Punto | Qué aprenderás | Nivel |
 |---|---|---|
-| [01 · Qué es un ordenador y un lenguaje de programación](/ApuntesProgramacion/01-pensamiento-computacional/01-ordenadores-lenguajes) | Binario, compiladores vs intérpretes, JVM, terminología clave | Todos |
-| [02 · Programar no es memorizar código](/ApuntesProgramacion/01-pensamiento-computacional/02-no-memorizar) | Espejo de la comprensión, pantalla en blanco, tutorial hell | Todos |
-| [03 · Primero pensamos, después escribimos](/ApuntesProgramacion/01-pensamiento-computacional/03-pensar-antes) | Literalidad, los 4 pasos sagrados, ejercicio del robot | Todos |
-| [04 · La descomposición](/ApuntesProgramacion/01-pensamiento-computacional/04-descomposicion) | Divide y vencerás, el arte de partir problemas | Todos |
-| [05 · Debugging y casos límite](/ApuntesProgramacion/01-pensamiento-computacional/05-debugging-casos-limite) | El texto rojo es tu amigo, edge cases | Todos |
-| [06 · El protocolo de paz](/ApuntesProgramacion/01-pensamiento-computacional/06-protocolo-paz) | 4 pasos antes de pedir ayuda en el foro | Todos |
-| [07 · Practicar (menos mirar, más intentar)](/ApuntesProgramacion/01-pensamiento-computacional/07-practicar) | Regla 80/20, hábitos diarios del programador | Todos |
-| [08 · Cómo utilizaremos la IA](/ApuntesProgramacion/01-pensamiento-computacional/08-ia-tutor) | Tutor socrático, alucinaciones, reglas de oro | Todos |
-| [09 · Mi primer problema (puente a Java)](/ApuntesProgramacion/01-pensamiento-computacional/09-primer-problema) | Comparador de números, pseudocódigo, glosario | Todos |
+| [01 · Qué es un ordenador y un lenguaje de programación](/ApuntsProgramacio/01-pensamiento-computacional/01-ordenadores-lenguajes) | Binario, compiladores vs intérpretes, JVM, terminología clave | Todos |
+| [02 · Programar no es memorizar código](/ApuntsProgramacio/01-pensamiento-computacional/02-no-memorizar) | Espejo de la comprensión, pantalla en blanco, tutorial hell | Todos |
+| [03 · Primero pensamos, después escribimos](/ApuntsProgramacio/01-pensamiento-computacional/03-pensar-antes) | Literalidad, los 4 pasos sagrados, ejercicio del robot | Todos |
+| [04 · La descomposición](/ApuntsProgramacio/01-pensamiento-computacional/04-descomposicion) | Divide y vencerás, el arte de partir problemas | Todos |
+| [05 · Debugging y casos límite](/ApuntsProgramacio/01-pensamiento-computacional/05-debugging-casos-limite) | El texto rojo es tu amigo, edge cases | Todos |
+| [06 · El protocolo de paz](/ApuntsProgramacio/01-pensamiento-computacional/06-protocolo-paz) | 4 pasos antes de pedir ayuda en el foro | Todos |
+| [07 · Practicar (menos mirar, más intentar)](/ApuntsProgramacio/01-pensamiento-computacional/07-practicar) | Regla 80/20, hábitos diarios del programador | Todos |
+| [08 · Cómo utilizaremos la IA](/ApuntsProgramacio/01-pensamiento-computacional/08-ia-tutor) | Tutor socrático, alucinaciones, reglas de oro | Todos |
+| [09 · Mi primer problema (puente a Java)](/ApuntsProgramacio/01-pensamiento-computacional/09-primer-problema) | Comparador de números, pseudocódigo, glosario | Todos |
 
 > 📖 **Flujo de lectura:** los 8 primeros puntos son teoría en progresión. El 9º es el aterrizaje práctico: léelo justo después del 8º y antes de abrir los boletines.
 
@@ -56,7 +56,7 @@ Al terminar, serás capaz de explicar:
 > Entrena la mente de programador/a sin una sola línea de Java. Son ejercicios no evaluables, pero son la mejor manera de romper el hielo y compartir ideas en el foro.
 
 <div class="ejercicio-links">
-  <a href="/ApuntesProgramacion/boletines/boletin-u01-inicial" class="elink">🟢 Inicial por resolver</a>
+  <a href="/ApuntsProgramacio/boletines/boletin-u01-inicial" class="elink">🟢 Inicial por resolver</a>
 </div>
 
 ---
@@ -76,9 +76,9 @@ Al terminar, serás capaz de explicar:
 
 ## 🚪 ¿Por dónde empiezo?
 
-- 🆕 ¿Cero conocimientos? → Empieza en el [punto 1](/ApuntesProgramacion/01-pensamiento-computacional/01-ordenadores-lenguajes), no hay ningún requisito previo.
-- 💻 ¿Ya sabes qué es un ordenador? → Ve directo al [punto 3](/ApuntesProgramacion/01-pensamiento-computacional/03-pensar-antes) y vuelve atrás solo si te pierdes.
-- 🎯 ¿Vienes a repasar? → Haz las [actividades](/ApuntesProgramacion/boletines/boletin-u01-inicial).
+- 🆕 ¿Cero conocimientos? → Empieza en el [punto 1](/ApuntsProgramacio/01-pensamiento-computacional/01-ordenadores-lenguajes), no hay ningún requisito previo.
+- 💻 ¿Ya sabes qué es un ordenador? → Ve directo al [punto 3](/ApuntsProgramacio/01-pensamiento-computacional/03-pensar-antes) y vuelve atrás solo si te pierdes.
+- 🎯 ¿Vienes a repasar? → Haz las [actividades](/ApuntsProgramacio/boletines/boletin-u01-inicial).
 
-**📍 Primer punto:** [01 · Qué es un ordenador y un lenguaje de programación](/ApuntesProgramacion/01-pensamiento-computacional/01-ordenadores-lenguajes)
-**⏭️ Al acabar la unidad, continúa en [U02 · Introducción a Java y el entorno de trabajo](/ApuntesProgramacion/02-introduccion).**
+**📍 Primer punto:** [01 · Qué es un ordenador y un lenguaje de programación](/ApuntsProgramacio/01-pensamiento-computacional/01-ordenadores-lenguajes)
+**⏭️ Al acabar la unidad, continúa en [U02 · Introducción a Java y el entorno de trabajo](/ApuntsProgramacio/02-introduccion).**

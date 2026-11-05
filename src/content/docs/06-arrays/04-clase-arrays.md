@@ -202,4 +202,4 @@ Ponte a prueba en 30 segundos (las respuestas están escondidas):
 > | Ordenación lexicográfica | Orden alfabético según el valor de los caracteres |
 > | Copia | Nuevo array independiente con los mismos valores |
 
-📚 [Volver al índice de la unidad](/ApuntesProgramacion/06-arrays) · **Anterior:** [03 · Arrays multidimensionales](/ApuntesProgramacion/06-arrays/03-arrays-multidimensionales) · **Siguiente:** [05 · Arrays y métodos](/ApuntesProgramacion/06-arrays/05-arrays-metodos)
+📚 [Volver al índice de la unidad](/ApuntsProgramacio/06-arrays) · **Anterior:** [03 · Arrays multidimensionales](/ApuntsProgramacio/06-arrays/03-arrays-multidimensionales) · **Siguiente:** [05 · Arrays y métodos](/ApuntsProgramacio/06-arrays/05-arrays-metodos)
