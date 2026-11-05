@@ -4,7 +4,7 @@ description: Curs complet de Programació en Java per a DAM/DAW. CC BY-SA 4.0 �
 ---
 
 <div align="center">
-  <img src="https://sergarb1.github.io/ApuntesProgramacion/portada_val.png" alt="☕ Programació Java — DAM/DAW. Curs complet d'iniciació a la programació en Java. Bilingüe (valencià / castellà), amb cercador, mode fosc i disseny premium." style="max-width:100%;height:auto;border-radius:12px;margin:0 0 1.5rem;box-shadow:0 8px 40px rgba(0,0,0,0.15);">
+  <img src="https://sergarb1.github.io/ApuntesProgramacion/portada_val.png" alt="☕ Programació Java — DAM/DAW. Curs complet d'iniciació a la programació en Java. En castellà, valencià i català, amb cercador, mode fosc i disseny premium." style="max-width:100%;height:auto;border-radius:12px;margin:0 0 1.5rem;box-shadow:0 8px 40px rgba(0,0,0,0.15);">
 </div>
 
 <div align="center" style="margin-bottom:2rem;">
@@ -27,8 +27,10 @@ description: Curs complet de Programació en Java per a DAM/DAW. CC BY-SA 4.0 �
   <div class="download-links">
     <a href="/ApuntesProgramacion/pdf/ApuntesProgramacion-es.pdf" class="dl-btn">📄 PDF (Castellà)</a>
     <a href="/ApuntesProgramacion/pdf/ApuntesProgramacion-va.pdf" class="dl-btn">📄 PDF (Valencià)</a>
+    <a href="/ApuntesProgramacion/pdf/ApuntesProgramacion-ca.pdf" class="dl-btn">📄 PDF (Català)</a>
     <a href="/ApuntesProgramacion/epub/ApuntesProgramacion-cast.epub" class="dl-btn">📱 EPUB (Castellà)</a>
     <a href="/ApuntesProgramacion/epub/ApuntesProgramacion-val.epub" class="dl-btn">📱 EPUB (Valencià)</a>
+    <a href="/ApuntesProgramacion/epub/ApuntesProgramacion-ca.epub" class="dl-btn">📱 EPUB (Català)</a>
   </div>
 </div>
 

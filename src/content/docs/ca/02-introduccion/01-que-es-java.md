@@ -1,0 +1,121 @@
+---
+title: "01 — Què és Java?"
+description: "La trilogia del cafè i el secret de la tassa humejant ☕"
+---
+
+<p><small>La trilogia del cafè i el secret de la tassa humejant ☕</small></p>
+
+> 🗺️ **Estàs en:** 🚀 **U02 · Introducció a Java i l'entorn de treball** → 01 · Què és Java?
+
+---
+
+Java és un llenguatge de programació que s'executa dins d'una màquina virtual (la JVM), la qual cosa li permet córrer igual en Windows, Linux o macOS: **"escriu una vegada, corre en qualsevol lloc"**.
+
+Si el teu ordinador és un cadell molt llest, però amb zero iniciatives, Java és un dels idiomes que pots usar per a donar-li ordres. I la JVM és l'intèrpret que tradueix les teves ordres a l'idioma concret de cada cadell.
+
+---
+
+## 🔍 D'on surt aquest llenguatge?
+
+Java va néixer el **1995** en **Sun Microsystems**, i la seva història té una de les curiositats més divertides del sector: es va inspirar en la **màquina de cafè** de l'oficina. Per això el logo és una tassa fumejant. No m'ho invento.
+
+La idea dels seus creadors era simple, però ambiciosa: un llenguatge que funcionés en **qualsevol dispositiu**, sense importar el sistema operatiu ni el maquinari. Abans de Java, cada plataforma necessitava la seva pròpia versió del programa. Java va proposar la solució: no programar per a l'ordinador, sinó per a una **màquina virtual** que l'ordinador simula.
+
+💡 **Dada freak:** el llenguatge es va dir primer *Oak* (roure), per un arbre que es veia des de l'oficina. Van haver de canviar-lo per motius de marca registrada i, segons la llegenda, el nom "Java" es va triar pel cafè que prenen durant les reunions.
+
+---
+
+## 📦 Què és això del bytecode?
+
+Quan escrius Java no escrius instruccions de la CPU del teu ordinador: escrius instruccions per a la **JVM**. El procés és així:
+
+1. Tu escrius codi font en un arxiu `.java`.
+2. El **compilador** (`javac`) ho tradueix a *bytecode*: un idioma intermedi que entén la JVM. El resultat és un arxiu `.class`.
+3. La **JVM** llegeix el bytecode i l'executa en la teva màquina concreta.
+
+```
+El teu codi (.java)  --javac-->  bytecode (.class)  --JVM-->  ¡s'executa!
+```
+
+La gràcia és que aquell `.class` és el mateix per a totes les plataformes: la JVM de Windows, la de Linux i la de macOS saben llegir-lo. Només canvia la JVM, no el teu programa.
+
+![Diagrama del procés de compilació: de codi .java a bytecode .class i a la sortida](/ApuntesProgramacion/diagrams/u02-pipeline-compilacion-ca.svg)
+
+---
+
+## ☕ La trilogia del cafè: JVM, JRE i JDK
+
+Aquí està el moment estrella de la unitat. Java funciona com una **cafeteria d'especialitat**, i has de memoritzar qui és qui:
+
+| Concepte | Definició | Analogia |
+| --- | --- | --- |
+| **JVM** | La màquina que executa el *bytecode*. | La màquina de cafè: té la seva recepta i funciona igual en qualsevol lloc. |
+| **JRE** | Tot el necessari per a executar Java. | La cafeteria sencera: màquina, gots, sucre... |
+| **JDK** | Tot el necessari per a crear programes. | El kit complet per a muntar la teva cafeteria: màquina, grans, molinet i manual de barista. |
+
+- **JVM (Java Virtual Machine)**: la màquina de cafè. Executa el bytecode i viatja amb el teu programa a tot arreu.
+- **JRE (Java Runtime Environment)**: la cafeteria sencera. Té la JVM i les llibreries necessàries per a *executar* cafè ja fet. Si només vols *executar* programes, et basta.
+- **JDK (Java Development Kit)**: el kit per a muntar la teva pròpia cafeteria. Inclou el JRE més el compilador `javac`, el generador de documentació `javadoc` i altres eines de desenvolupament. Si vols *crear* programes, el necessites.
+
+```java
+// Comentari de com funciona el codi
+public class Cafe {
+    public static void main(String[] args) {
+        System.out.println("☕ ¡Café preparat!");
+    }
+}
+```
+
+El JDK compila això a bytecode (cafè molt), el JRE ho passa per la JVM i... tachán! Cafè en la teva pantalla.
+
+⚠️ **Advertència:** no confonguis JDK amb JRE. El JDK és el *ganivet del xef*; el JRE és el *plat servit*. El JDK inclou el JRE, així que instal·lant el JDK tens les dues coses. Instal·lar només el JRE et permet executar programes, però no crear-los.
+
+![Diagrama de la trilogia del cafè: què inclou el JDK, el JRE i la JVM](/ApuntesProgramacion/diagrams/u02-jdk-jre-jvm-ca.svg)
+
+---
+
+## 🌍 Per què segueix viu Java tants anys després?
+
+No és nostàlgia. Java segueix sent un dels llenguatges més demanats del món perquè:
+
+- **És multiplataforma**: el mateix programa corre en mòbils, servidors, caixers i fins i tot en la rentadora intel·ligent.
+- **Domina el món empresarial**: les grans empreses (banca, assegurances, logística) fa dècades que construeixen els seus sistemes en Java.
+- **És el llenguatge oficial d'Android** (en la seva variant Kotlin conviu, però Java segueix omnipresent).
+- **Té una comunitat enorme**: qualsevol error que tinguis, probablement algú ja el va resoldre fa deu anys en un fòrum.
+- **És exigent, i això et fa millor**: Java t'obliga a ser ordenat. Els programadors que aprenen amb Java solen escriure codi més net.
+
+---
+
+## 🎯 Mini-comprovació
+
+Posat a prova en 30 segons (les respostes estan més endavant):
+
+1. Quina és la diferència entre JDK i JRE en una frase?
+2. Què fa el compilador javac amb el teu codi `.java`?
+3. Per què el logo de Java és una tassa fumejant?
+
+**🔄 Respostes**
+
+1. El JDK serveix per a crear programes (inclou el compilador); el JRE serveix per a executar-los. El JDK conté el JRE.
+2. Ho tradueix a bytecode (un arxiu `.class`) que la JVM pot executar.
+3. Perquè el llenguatge s'inspira en la màquina de cafè de l'oficina de Sun Microsystems: "escriu una vegada, corre en qualsevol lloc" (com el cafè, que es prepara igual en qualsevol cafeteria).
+
+---
+
+## ✅ Resum en 3 frases
+
+1. Java executa el seu codi dins d'una **màquina virtual (JVM)**, la qual cosa li dona portabilitat total.
+2. **JDK** crea (compila a bytecode), **JRE** executa, **JVM** transporta: com Amazon però amb cafè.
+3. Java segueix sent rei en el món empresarial i aprendre'l et forma com a programador ordenat.
+
+---
+
+## 🐛 Vocabulari ràpid
+
+| Terme | Idea general |
+| --- | --- |
+| **JVM** | La màquina virtual que executa el bytecode |
+| **JRE** | Entorn d'execució (JVM + llibreries) |
+| **JDK** | Kit de desenvolupament (compilador + JRE + eines) |
+| **Bytecode** | Codi intermedi que entén la JVM |
+| **Compilador** | Traductor de codi font a bytecode |

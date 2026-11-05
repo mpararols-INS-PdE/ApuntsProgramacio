@@ -149,9 +149,9 @@ npx -y mcp-excalidraw-server clear --yes
 
 ## 6. Integración y limpieza final
 
-- Los documentos `.md` residen en `src/content/docs/` (ES) y `src/content/docs/va/` (VA).
-- **Bilingüe obligatorio:** todo cambio de contenido aplica a ambos idiomas.
-- Todos los textos alternativos (`alt`) en **español (es-ES)**, tono técnico y didáctico.
+- Los documentos `.md` residen en `src/content/docs/` (ES), `src/content/docs/va/` (VA) y `src/content/docs/ca/` (CA).
+- **Tres idiomas obligatorios:** todo cambio de contenido aplica a las tres ediciones.
+- Los textos alternativos (`alt`) usan el idioma del documento (español de España, valenciano o catalán), con tono técnico y didáctico.
 - Antes de commit:
   1. Eliminar archivos `.json` temporales.
   2. No alterar dependencias en `package.json` ni `astro.config.mjs`.

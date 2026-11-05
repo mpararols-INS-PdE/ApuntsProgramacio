@@ -290,6 +290,7 @@
 }
 .download-links {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   gap: 0.4rem;
 }
@@ -370,11 +371,11 @@
 }
 
 /* === SELECTOR DE IDIOMA DESTACADO === */
-starlight-locale-select {
+:is(starlight-locale-select, starlight-lang-select) {
   display: inline-flex;
   align-items: center;
 }
-starlight-locale-select select {
+:is(starlight-locale-select, starlight-lang-select) select {
   background: linear-gradient(135deg, #2d8a4e 0%, #3ca85e 100%) !important;
   color: #fff !important;
   border: none !important;
@@ -386,19 +387,29 @@ starlight-locale-select select {
   appearance: none !important;
   -webkit-appearance: none !important;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E") !important;
+  background-color: #2d8a4e !important;
   background-repeat: no-repeat !important;
   background-position: right 0.5rem center !important;
   background-size: 0.8rem !important;
   box-shadow: 0 2px 8px rgba(45, 138, 78, 0.3) !important;
   transition: all 0.2s ease !important;
 }
-starlight-locale-select select:hover {
+:is(starlight-locale-select, starlight-lang-select) select:hover {
   box-shadow: 0 4px 14px rgba(45, 138, 78, 0.45) !important;
   transform: translateY(-1px);
 }
-starlight-locale-select select option {
+:is(starlight-locale-select, starlight-lang-select) select option {
   background: #fff !important;
   color: #1a1a1a !important;
+}
+/* Starlight actual incluye sus propios iconos de idioma y desplegable. */
+starlight-lang-select select {
+  padding-inline-start: 2rem !important;
+  background-image: linear-gradient(135deg, #2d8a4e, #3ca85e) !important;
+  background-size: 100% 100% !important;
+}
+starlight-lang-select label {
+  color: #fff;
 }
 
 /* (sidebar visible por defecto - 3 columnas) */

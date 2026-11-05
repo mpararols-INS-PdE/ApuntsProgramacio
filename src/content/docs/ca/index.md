@@ -1,0 +1,458 @@
+---
+title: Inici
+description: Curs complet de Programació en Java per a DAM/DAW. CC BY-SA 4.0 — Sergi Garcia Barea
+---
+
+<div align="center">
+  <img src="https://sergarb1.github.io/ApuntesProgramacion/portada_val.png" alt="☕ Programació Java — DAM/DAW. Curs complet d'iniciació a la programació en Java. En castellà, valencià i català, amb cercador, mode fosc i disseny premium." style="max-width:100%;height:auto;border-radius:12px;margin:0 0 1.5rem;box-shadow:0 8px 40px rgba(0,0,0,0.15);">
+</div>
+
+<div align="center" style="margin-bottom:2rem;">
+  <a href="/ApuntesProgramacion/ca/02-introduccion" style="display:inline-block;padding:0.75rem 2rem;background:linear-gradient(135deg,#2d8a4e,#1e6b38);color:#fff;border-radius:8px;text-decoration:none;font-weight:600;margin:0 0.5rem;">🚀 Començar per la Unitat 2</a>
+  <a href="/ApuntesProgramacion/ca/01-pensamiento-computacional" style="display:inline-block;padding:0.75rem 2rem;background:var(--sl-color-gray-5);color:var(--sl-color-white);border-radius:8px;text-decoration:none;font-weight:600;margin:0 0.5rem;">🧠 Primer: Introducció al pensament computacional</a>
+  <a href="https://github.com/sergarb1/ApuntesProgramacion" style="display:inline-block;padding:0.75rem 2rem;background:var(--sl-color-gray-5);color:var(--sl-color-white);border-radius:8px;text-decoration:none;font-weight:600;margin:0 0.5rem;">🐙 Veure al GitHub</a>
+</div>
+
+<div align="center">
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ca" target="_blank">
+    <img src="/ApuntesProgramacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31">
+  </a>
+  <p style="font-size:0.8rem;color:var(--sl-color-gray-3);margin-top:0.5rem;">
+    <strong>Sergi Garcia Barea</strong> — CC BY-SA 4.0
+  </p>
+</div>
+
+<div class="download-bar">
+  <p class="download-msg">⬇️ Prefereixes estudiar sense connexió? Descarrega el curs complet</p>
+  <div class="download-links">
+    <a href="/ApuntesProgramacion/pdf/ApuntesProgramacion-es.pdf" class="dl-btn">📄 PDF (Castellà)</a>
+    <a href="/ApuntesProgramacion/pdf/ApuntesProgramacion-va.pdf" class="dl-btn">📄 PDF (Valencià)</a>
+    <a href="/ApuntesProgramacion/pdf/ApuntesProgramacion-ca.pdf" class="dl-btn">📄 PDF (Català)</a>
+    <a href="/ApuntesProgramacion/epub/ApuntesProgramacion-cast.epub" class="dl-btn">📱 EPUB (Castellà)</a>
+    <a href="/ApuntesProgramacion/epub/ApuntesProgramacion-val.epub" class="dl-btn">📱 EPUB (Valencià)</a>
+    <a href="/ApuntesProgramacion/epub/ApuntesProgramacion-ca.epub" class="dl-btn">📱 EPUB (Català)</a>
+  </div>
+</div>
+
+## 📚 Unitats
+
+<div class="unit-grid">
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 1</span>
+    <span class="ra">RA1</span>
+  </div>
+  <a href="/ApuntesProgramacion/ca/01-pensamiento-computacional" class="title-link">Introducció al pensament computacional</a>
+  <p class="desc">Abans de codi, pensem. Descomposició, debugging, protocol de pau i el teu primer problema de programació sense tocar Java.</p>
+  <a href="/ApuntesProgramacion/ca/01-pensamiento-computacional" class="unit-link">👉 Veure unitat 👈</a>
+
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 2</span>
+    <span class="ra">RA1</span>
+  </div>
+  <a href="/ApuntesProgramacion/ca/02-introduccion" class="title-link">Introducció a Java i l'entorn de treball</a>
+  <p class="desc">Primer contacte amb Java: instal·la el JDK, escriu el teu primer programa, coneix el mètode <code>main</code>, els comentaris i els arguments de línia de ordres.</p>
+  <a href="/ApuntesProgramacion/ca/02-introduccion" class="unit-link">👉 Veure unitat 👈</a>
+
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 3</span>
+    <span class="ra">RA2</span>
+  </div>
+  <a href="/ApuntesProgramacion/ca/03-variables-tipos-operadores" class="title-link">Variables, tipus i operadors</a>
+  <p class="desc">Declara variables, usa tipus primitius, operadors aritmètics i lògics, conversions de tipus i llegeix dades per teclat amb <code>Scanner</code>.</p>
+  <a href="/ApuntesProgramacion/ca/03-variables-tipos-operadores" class="unit-link">👉 Veure unitat 👈</a>
+
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 4</span>
+    <span class="ra">RA3</span>
+  </div>
+  <a href="/ApuntesProgramacion/ca/04-estructuras-control-excepciones" class="title-link">Estructures de control i excepcions bàsiques</a>
+  <p class="desc">Domina <code>if</code>/<code>else</code>, <code>switch</code>, bucles <code>while</code> i <code>for</code>, i gestiona excepcions amb <code>try</code>/<code>catch</code> perquè el teu programa no es trenqui.</p>
+  <a href="/ApuntesProgramacion/ca/04-estructuras-control-excepciones" class="unit-link">👉 Veure unitat 👈</a>
+
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 5</span>
+    <span class="ra">RA2</span>
+  </div>
+  <a href="/ApuntesProgramacion/ca/05-funciones" class="title-link">Funcions i mètodes</a>
+  <p class="desc">Pasa d'escriure codi solt a dissenyar-lo: mètodes amb paràmetres, <code>return</code> amb sentit i variables amb el seu àmbit.</p>
+  <a href="/ApuntesProgramacion/ca/05-funciones" class="unit-link">
+👉
+ Veure unitat 
+👈
+</a>
+
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 6</span>
+    <span class="ra">RA6</span>
+  </div>
+  <a href="/ApuntesProgramacion/ca/06-arrays" class="title-link">Arrays</a>
+  <p class="desc">Els arrays són l'aparcament de dades: declara, recorre, ordena i manipula col·leccions de dades amb arrays unidimensionals, multidimensionals i la classe <code>Arrays</code>.</p>
+  <a href="/ApuntesProgramacion/ca/06-arrays" class="unit-link">👉 Veure unitat 👈</a>
+
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 7</span>
+    <span class="ra">RA2, RA6</span>
+  </div>
+  <a href="/ApuntesProgramacion/ca/07-algoritmica-fundamentos" class="title-link">Algorítmica I: fonaments</a>
+  <p class="desc">Aprèn a pensar com un programador: divideix problemes en parts, usa pseudocodi, diagrames de flux i crea funcions reutilitzables.</p>
+  <a href="/ApuntesProgramacion/ca/07-algoritmica-fundamentos" class="unit-link">👉 Veure unitat 👈</a>
+
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 8</span>
+    <span class="ra">RA2, RA6</span>
+  </div>
+  <a href="/ApuntesProgramacion/ca/08-algoritmica-tecnicas" class="title-link">Algorítmica II: tècniques avançades i modularitat</a>
+  <p class="desc">Algoritmes d'ordenació, cerca binària, recursivitat i tècniques divideix i venceràs per a resoldre problemes més complexos.</p>
+  <a href="/ApuntesProgramacion/ca/08-algoritmica-tecnicas" class="unit-link">👉 Veure unitat 👈</a>
+
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 9</span>
+    <span class="ra">RA2, RA4</span>
+  </div>
+  <a href="/ApuntesProgramacion/ca/09-poo-clases-objetos" class="title-link">POO: classes i objectes</a>
+  <p class="desc">Programació Orientada a Objectes: crea classes, instància objectes, defineix atributs i mètodes, i entén la màgia dels constructors.</p>
+  <a href="/ApuntesProgramacion/ca/09-poo-clases-objetos" class="unit-link">👉 Veure unitat 👈</a>
+
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 10</span>
+    <span class="ra">RA4</span>
+  </div>
+  <a href="/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static" class="title-link">Visibilitat, encapsulació i static</a>
+  <p class="desc">Controla qui veu què: modificadors d'accés (<code>public</code>, <code>private</code>, <code>protected</code>), encapsulació amb getters/setters, membres <code>static</code> i constants.</p>
+  <a href="/ApuntesProgramacion/ca/10-visibilidad-encapsulacion-static" class="unit-link">👉 Veure unitat 👈</a>
+
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 11</span>
+    <span class="ra">RA4, RA7</span>
+  </div>
+  <a href="/ApuntesProgramacion/ca/11-herencia-polimorfismo-interfaces" class="title-link">Herència, polimorfisme i interfícies</a>
+  <p class="desc">Herència, polimorfisme, classes abstractes i interfícies: la base del disseny flexible i reutilitzable en Java. Aprèn a sobreescriure mètodes i a usar <code>super</code>.</p>
+  <a href="/ApuntesProgramacion/ca/11-herencia-polimorfismo-interfaces" class="unit-link">👉 Veure unitat 👈</a>
+
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 12</span>
+    <span class="ra">RA6</span>
+  </div>
+  <a href="/ApuntesProgramacion/ca/12-colecciones" class="title-link">Col·leccions, genèrics i mapes</a>
+  <p class="desc"><code>ArrayList</code>, <code>LinkedList</code>, <code>HashSet</code>, <code>TreeSet</code>, <code>Iterator</code> i la classe <code>Collections</code>: el Java Collections Framework per a guardar i recórrer dades de manera elegant.</p>
+  <a href="/ApuntesProgramacion/ca/12-colecciones" class="unit-link">👉 Veure unitat 👈</a>
+
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 13</span>
+    <span class="ra">RA6, RA7</span>
+  </div>
+  <a href="/ApuntesProgramacion/ca/13-programacion-funcional" class="title-link">Programació funcional (Streams i Lambdas)</a>
+  <p class="desc">Lambdes, interfícies funcionals, referències a mètodes, la Stream API (<code>filter</code>, <code>map</code>, <code>reduce</code>, <code>collect</code>) i <code>Optional</code> per a escriure Java modern i expressiu.</p>
+  <a href="/ApuntesProgramacion/ca/13-programacion-funcional" class="unit-link">👉 Veure unitat 👈</a>
+
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 14</span>
+    <span class="ra">RA5</span>
+  </div>
+  <a href="/ApuntesProgramacion/ca/14-ficheros-regex" class="title-link">Fitxers i expressions regulars (Regex)</a>
+  <p class="desc">Lectura i escriptura de fitxers de text i binaris, serialització d'objectes i expressions regulars per a buscar, validar i reemplaçar patrons en text.</p>
+  <a href="/ApuntesProgramacion/ca/14-ficheros-regex" class="unit-link">👉 Veure unitat 👈</a>
+
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 15</span>
+    <span class="ra">RA9</span>
+  </div>
+  <a href="/ApuntesProgramacion/ca/15-conexion-bases-datos" class="title-link">Persistència de dades: JDBC i introducció a ORM</a>
+  <p class="desc">Connecta Java amb bases de dades relacionals usant JDBC: <code>Connection</code>, <code>Statement</code>, consultes, insercions, actualitzacions i transaccions segures.</p>
+  <a href="/ApuntesProgramacion/ca/15-conexion-bases-datos" class="unit-link">👉 Veure unitat 👈</a>
+
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 16 (extra)</span>
+    <span class="ra">RA5</span>
+  </div>
+  <a href="/ApuntesProgramacion/ca/16-apis-web" class="title-link">Servir i consumir APIs amb Web</a>
+  <p class="desc">Crea un servidor HTTP amb Java <code>HttpServer</code>, serveix pàgines HTML/JS, gestiona peticions JSON, implementa una API REST completa des de zero.</p>
+  <a href="/ApuntesProgramacion/ca/16-apis-web" class="unit-link">👉 Veure unitat 👈</a>
+
+</div>
+
+</div>
+
+## 📝 Butlletins
+
+<div class="unit-grid">
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 1</span>
+  </div>
+  <p class="boletin-section-label">📝 Butlletins de la unitat</p>
+  <div class="boletin-links">
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u01-inicial" class="blink">🟢 Inicial per resoldre</a>
+  </div>
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 2</span>
+  </div>
+  <p class="boletin-section-label">📝 Butlletins de la unitat</p>
+  <div class="boletin-links">
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u02-inicial" class="blink">🟢 Inicial per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u02-inicial-resuelto" class="blink">✅ Inicial resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u02-avanzado" class="blink">⭐ Avançat per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u02-avanzado-resuelto" class="blink">💪 Avançat resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u02-extras" class="blink">🔥 Extres</a>
+  </div>
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 3</span>
+  </div>
+  <p class="boletin-section-label">📝 Butlletins de la unitat</p>
+  <div class="boletin-links">
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u03-inicial" class="blink">🟢 Inicial per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u03-inicial-resuelto" class="blink">✅ Inicial resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u03-avanzado" class="blink">⭐ Avançat per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u03-avanzado-resuelto" class="blink">💪 Avançat resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u03-extras" class="blink">🔥 Extres</a>
+  </div>
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 4</span>
+  </div>
+  <p class="boletin-section-label">📝 Butlletins de la unitat</p>
+  <div class="boletin-links">
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u04-inicial" class="blink">🟢 Inicial per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u04-inicial-resuelto" class="blink">✅ Inicial resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u04-avanzado" class="blink">⭐ Avançat per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u04-avanzado-resuelto" class="blink">💪 Avançat resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u04-extras" class="blink">🔥 Extres</a>
+  </div>
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 5</span>
+  </div>
+  <p class="boletin-section-label">📝 Butlletins de la unitat</p>
+  <div class="boletin-links">
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u05-inicial" class="blink">🟢 Inicial per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u05-inicial-resuelto" class="blink">✅ Inicial resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u05-avanzado" class="blink">⭐ Avançat per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u05-avanzado-resuelto" class="blink">💪 Avançat resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u05-extras" class="blink">🔥 Extres</a>
+  </div>
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 6</span>
+  </div>
+  <p class="boletin-section-label">📝 Butlletins de la unitat</p>
+  <div class="boletin-links">
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u06-inicial" class="blink">🟢 Inicial per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u06-inicial-resuelto" class="blink">✅ Inicial resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u06-avanzado" class="blink">⭐ Avançat per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u06-avanzado-resuelto" class="blink">💪 Avançat resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u06-extras" class="blink">🔥 Extres</a>
+  </div>
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 7</span>
+  </div>
+  <p class="boletin-section-label">📝 Butlletins de la unitat</p>
+  <div class="boletin-links">
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u07-inicial" class="blink">🟢 Inicial per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u07-inicial-resuelto" class="blink">✅ Inicial resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u07-avanzado" class="blink">⭐ Avançat per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u07-avanzado-resuelto" class="blink">💪 Avançat resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u07-extras" class="blink">🔥 Extres</a>
+  </div>
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 8</span>
+  </div>
+  <p class="boletin-section-label">📝 Butlletins de la unitat</p>
+  <div class="boletin-links">
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u08-inicial" class="blink">🟢 Inicial per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u08-inicial-resuelto" class="blink">✅ Inicial resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u08-avanzado" class="blink">⭐ Avançat per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u08-avanzado-resuelto" class="blink">💪 Avançat resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u08-extras" class="blink">🔥 Extres</a>
+  </div>
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 9</span>
+  </div>
+  <p class="boletin-section-label">📝 Butlletins de la unitat</p>
+  <div class="boletin-links">
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u09-inicial" class="blink">🟢 Inicial per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u09-inicial-resuelto" class="blink">✅ Inicial resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u09-avanzado" class="blink">⭐ Avançat per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u09-avanzado-resuelto" class="blink">💪 Avançat resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u09-extras" class="blink">🔥 Extres</a>
+  </div>
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 10</span>
+  </div>
+  <p class="boletin-section-label">📝 Butlletins de la unitat</p>
+  <div class="boletin-links">
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u10-inicial" class="blink">🟢 Inicial per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u10-inicial-resuelto" class="blink">✅ Inicial resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u10-avanzado" class="blink">⭐ Avançat per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u10-avanzado-resuelto" class="blink">💪 Avançat resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u10-extras" class="blink">🔥 Extres</a>
+  </div>
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 11</span>
+  </div>
+  <p class="boletin-section-label">📝 Butlletins de la unitat</p>
+  <div class="boletin-links">
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u11-inicial" class="blink">🟢 Inicial per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u11-inicial-resuelto" class="blink">✅ Inicial resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u11-avanzado" class="blink">⭐ Avançat per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u11-avanzado-resuelto" class="blink">💪 Avançat resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u11-extras" class="blink">🔥 Extres</a>
+  </div>
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 12</span>
+  </div>
+  <p class="boletin-section-label">📝 Butlletins de la unitat</p>
+  <div class="boletin-links">
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u12-inicial" class="blink">🟢 Inicial per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u12-inicial-resuelto" class="blink">✅ Inicial resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u12-avanzado" class="blink">⭐ Avançat per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u12-avanzado-resuelto" class="blink">💪 Avançat resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u12-extras" class="blink">🔥 Extres</a>
+  </div>
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 13</span>
+  </div>
+  <p class="boletin-section-label">📝 Butlletins de la unitat</p>
+  <div class="boletin-links">
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u13-inicial" class="blink">🟢 Inicial per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u13-inicial-resuelto" class="blink">✅ Inicial resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u13-avanzado" class="blink">⭐ Avançat per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u13-avanzado-resuelto" class="blink">💪 Avançat resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u13-extras" class="blink">🔥 Extres</a>
+  </div>
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 14</span>
+  </div>
+  <p class="boletin-section-label">📝 Butlletins de la unitat</p>
+  <div class="boletin-links">
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u14-inicial" class="blink">🟢 Inicial per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u14-inicial-resuelto" class="blink">✅ Inicial resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u14-avanzado" class="blink">⭐ Avançat per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u14-avanzado-resuelto" class="blink">💪 Avançat resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u14-extras" class="blink">🔥 Extres</a>
+  </div>
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 15</span>
+  </div>
+  <p class="boletin-section-label">📝 Butlletins de la unitat</p>
+  <div class="boletin-links">
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u15-inicial" class="blink">🟢 Inicial per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u15-inicial-resuelto" class="blink">✅ Inicial resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u15-avanzado" class="blink">⭐ Avançat per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u15-avanzado-resuelto" class="blink">💪 Avançat resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u15-extras" class="blink">🔥 Extres</a>
+  </div>
+</div>
+
+<div class="unit-card">
+  <div class="unit-card-header">
+    <span class="num">Unitat 16 (extra)</span>
+  </div>
+  <p class="boletin-section-label">📝 Butlletins de la unitat</p>
+  <div class="boletin-links">
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u16-inicial" class="blink">🟢 Inicial per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u16-inicial-resuelto" class="blink">✅ Inicial resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u16-avanzado" class="blink">⭐ Avançat per resoldre</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u16-avanzado-resuelto" class="blink">💪 Avançat resolt</a>
+    <a href="/ApuntesProgramacion/ca/boletines/boletin-u16-extras" class="blink">🔥 Extres</a>
+  </div>
+</div>
+
+</div>
+
+## 📄 Llicència
+
+<div style="text-align:center;">
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ca" target="_blank">
+    <img src="/ApuntesProgramacion/cc-by-sa.png" alt="CC BY-SA 4.0" width="88" height="31">
+  </a><br>
+  <span style="font-size:0.85rem;color:var(--sl-color-gray-3);"><strong>CC BY-SA 4.0</strong> — <em>Sergi Garcia Barea</em></span><br>
+  <span style="font-size:0.75rem;color:var(--sl-color-gray-3);"><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ca" target="_blank">Creative Commons Reconeixement-CompartirIgual 4.0 Internacional</a></span><br>
+  <span style="font-size:0.7rem;color:var(--sl-color-gray-4);">Pots compartir i adaptar el material per a qualsevol propòsit, fins i tot comercial, sempre que en reconeguis l'autoria i compartesques les modificacions sota la mateixa llicència.</span>
+</div>

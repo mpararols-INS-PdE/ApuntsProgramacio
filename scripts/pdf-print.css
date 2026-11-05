@@ -1,0 +1,6 @@
+/* Incluye las soluciones plegadas cuando Chromium imprime el curso completo. */
+details::details-content {
+  content-visibility: visible !important;
+  display: block !important;
+  height: auto !important;
+}

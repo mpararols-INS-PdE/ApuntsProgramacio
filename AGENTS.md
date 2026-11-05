@@ -39,10 +39,10 @@ boletin-u0N-extras.md              → CodeWars + AceptaElReto con pistas (inclu
 Los boletines viven en `src/content/docs/boletines/` (ES) y `src/content/docs/va/boletines/` (VA). Archivos y **URLs SIEMPRE en minúsculas** (`/ApuntesProgramacion/boletines/boletin-u0N-*`). En la web, en el sidebar, las landings y los índices de unidad, el **orden de los boletines** es siempre: `inicial → inicial-resuelto → avanzado → avanzado-resuelto → extras` (por-resolver primero, luego su resuelto).
 
 ## Estilo
-Humor, secciones "⭐ Be the Code", "¡No hay preguntas tontas!", [NOTE]/[WARNING]/[TIP] en blockquotes, lenguaje conversacional en castellano y valenciano. Formato Markdown compatible con Google Docs (importación directa).
+Humor, secciones "⭐ Be the Code", "¡No hay preguntas tontas!", [NOTE]/[WARNING]/[TIP] en blockquotes, lenguaje conversacional en castellano, valenciano y catalán. Formato Markdown compatible con Google Docs (importación directa).
 
 ## 🗣️ Requisito lingüístico (es-ES)
-Todo el contenido dirigido al usuario en castellano debe estar redactado en **español de España natural (es-ES)**. Este requisito NO aplica a `src/content/docs/va/` (valenciano).
+Todo el contenido dirigido al usuario en castellano debe estar redactado en **español de España natural (es-ES)**. Este requisito NO aplica a `src/content/docs/va/` (valenciano) ni a `src/content/docs/ca/` (catalán).
 
 ### Vocabulario peninsular
 | Evitar | Preferir |
@@ -80,17 +80,18 @@ Antes de dar por terminado cualquier contenido nuevo o modificado:
 5. Lectura final: ¿suena natural para un profesor de España?
 6. **Checklist de unidades:** cada unidad nueva o ampliada debe superar esta revisión lingüística completa antes de cerrarse (ver también la nota 13).
 
-## Bilingüe obligatorio
-**Cualquier cambio debe aplicarse SIEMPRE en ambos idiomas:**
+## Tres idiomas obligatorios
+**Cualquier cambio debe aplicarse SIEMPRE en los tres idiomas:**
 - `src/content/docs/` → Castellano (raíz `/`)
 - `src/content/docs/va/` → Valenciano (`/va/`)
+- `src/content/docs/ca/` → Catalán central estándar (`/ca/`)
 
-Ambos deben mantener la misma estructura, contenido y calidad. Las traducciones al valenciano deben ser naturales, no literales.
+Las tres ediciones deben mantener la misma estructura, contenido y calidad. Las traducciones al valenciano y al catalán deben ser naturales. El código, los identificadores y las salidas de los ejemplos se conservan durante las adaptaciones lingüísticas.
 
 ## Stack tecnológico
 - **Framework:** [Astro](https://astro.build/) + [Starlight](https://starlight.astro.build/)
 - **Tema:** Verde calma (#2d8a4e) + degradados + Geist Sans
-- **Idiomas:** Castellano (raíz `/`) y Valenciano (`/va/`)
+- **Idiomas:** Castellano (raíz `/`), Valenciano (`/va/`) y Catalán (`/ca/`)
 - **Selector idioma:** Botón verde destacado en la cabecera (CSS personalizado)
 - **Buscador:** Pagefind integrado (Starlight)
 - **PDF:** `starlight-to-pdf` (generar PDF completo del sitio, por idioma)
@@ -102,6 +103,7 @@ Ambos deben mantener la misma estructura, contenido y calidad. Las traducciones 
 ```
 src/content/docs/            → Markdown (castellano, raíz)
 src/content/docs/va/         → Markdown (valenciano)
+src/content/docs/ca/         → Markdown (catalán)
 src/content/docs/index.md    → Portada (imagen principal) + cards unidades + barra descargas + boletin-cards + licencia
 src/styles/custom.css        → CSS premium (paleta, botón idioma, hero, cards, download-bar)
 public/portada.png           → Imagen de portada para PDF/EPUB (castellano, también en web)
@@ -129,9 +131,9 @@ astro.config.mjs             → Config principal (sidebar, i18n, plugins, emoji
 ```
 
 ## Descargas
-- **PDF:** `npm run pdf:es` / `npm run pdf:va` (genera PDF por idioma con portada, sin header hora, footer estilizado)
-- **EPUB:** `npm run epub:all` (genera EPUB castellano + valenciano con portada y sintaxis coloreada)
-- **DOCX:** `powershell -File scripts/generate-docx.ps1` (pandoc 3.x + `python`/cairosvg para los SVG) genera `docx/<idioma>/<unidad>/` con el tema (índice + capítulos, con TOC) y sus boletines, uno por archivo; `docx/` está versionado en git (no ignorado)
+- **PDF:** `npm run pdf:es` / `npm run pdf:va` / `npm run pdf:ca` (genera PDF por idioma con portada, sin header hora, footer estilizado)
+- **EPUB:** `npm run epub:all` (genera EPUB castellano + valenciano + catalán con portada y sintaxis coloreada)
+- **DOCX:** `powershell -File scripts/generate-docx.ps1` (pandoc 3.x + `python`/cairosvg para los SVG) genera `docx/<idioma>/<unidad>/` para es, va y ca con el tema (índice + capítulos, con TOC) y sus boletines, uno por archivo; `docx/` está versionado en git (no ignorado)
 - Los enlaces de descarga están disponibles en la página de inicio (`index.md`)
 
 ## CI/CD
@@ -155,10 +157,11 @@ npm run build     # Build estático en dist/
 npm run preview   # Previsualizar build
 npm run pdf:es    # Generar PDF castellano en public/pdf/
 npm run pdf:va    # Generar PDF valenciano en public/pdf/
+npm run pdf:ca    # Generar PDF catalán en public/pdf/
 npm run pdf:local:es  # PDF castellano desde localhost
 npm run pdf:local:va  # PDF valenciano desde localhost
 npm run epub      # Generar EPUB castellano en public/epub/
-npm run epub:all  # Generar EPUB ambos idiomas
+npm run epub:all  # Generar EPUB de los tres idiomas
 ```
 
 ## 📐 Diagramas (Excalidraw → Astro/Starlight)
@@ -191,9 +194,9 @@ npm run epub:all  # Generar EPUB ambos idiomas
 - Texto ≥ 16 (títulos 20–28); formas ≥ 120×60; rejilla 20 px; rojo **solo** errores.
 
 ## Notas
-- Los .md en `va/` deben mantenerse siempre sincronizados con los de castellano
+- Los .md en `va/` y `ca/` deben mantenerse siempre sincronizados con los de castellano
 - `starlight-llm-actions` eliminado por incompatibilidad; PDF por página con Ctrl+P del navegador
-- `ca/` renombrado a `va/` para usar el código ISO correcto del valenciano
+- La ruta histórica valenciana se conserva en `/va/`; `/ca/` identifica la edición en catalán central estándar. Son rutas propias del proyecto; en EPUB se usan `ca-ES-valencia` y `ca-ES`, respectivamente.
 - Las unidades en el sidebar llevan emojis temáticos (🧠, 🚀, 🔤, 🔀, 🔧, 🅿️, 🧩, ⚡, 🏗️, 🔒, 🧬, 📚, 🎯, 📁, 🗄️, 🌐)
 - El layout de la web usa las 3 columnas por defecto de Starlight (sidebar, contenido, TOC derecho)
 - `portada.png` se usa como portada común para PDF y EPUB, y se muestra en la web como hero de la landing (castellano)
@@ -207,3 +210,5 @@ npm run epub:all  # Generar EPUB ambos idiomas
 - **15 · Diagramas U02:** los 8 diagramas Excalidraw de la U02 viven en `public/diagrams/` con tres ficheros cada uno: `u02-NOMBRE.excalidraw` (origen editable), `u02-NOMBRE.svg` (castellano) y `u02-NOMBRE-val.svg` (valenciano). Los ocho capítulos de `02-introduccion/` (ES y VA) referencian su SVG con ruta absoluta `/ApuntesProgramacion/diagrams/…`; los diagramas ASCII existentes se conservan. Toda la tipografía es cascadia (nada de Virgil/Excalifont/Comic).
 - **16 · Temario 2026-27 (UD1–UD15):** títulos oficiales aplicados en ES y VA; RA1 cubierto en UD1 (badge en la landing + sección de criterios en `01-pensamiento-computacional/index.md`); capítulos nuevos `09-modularidad` (U08) y `09-introduccion-orm` (U15) con sus repasos renumerados al punto 10 (sidebar, índices, footers y flujo de lectura actualizados en ambos idiomas).
 - **17 · Unidad 05 Funciones y métodos (2026-27):** nueva unidad RA2 entre Estructuras de control y Arrays; todo renumerado sin huecos (01–16, carpetas y URLs 05–14 → 06–15); sidebar, landings, cards de boletines y array de emojis (🔧 en U05) actualizados en ambos idiomas; 10 boletines U05 (5 ES + 5 VA) verificados (FFFD=0, CJK=0, LF, convenciones u04).
+
+- **18 · Catalán:** tercera edición en `src/content/docs/ca/`, con 240 documentos y rutas `/ApuntesProgramacion/ca/`. Revisar léxico, conjugaciones y apostrofación del catalán central estándar; conservar el código y las salidas. Diagramas catalanes: `public/diagrams/*-ca.svg` y `*-ca.excalidraw`. La portada `portada_val.png` se comparte con el valenciano porque su texto es común. Exportaciones: `npm run pdf:ca`, `npm run epub:ca` y `npm run docx:ca`; el exportador común es `scripts/export-course.py` (Python 3.9+ y Pandoc 3.x). Ejecutar `npm run check:locales` y `npm run build` antes de cerrar cambios de idiomas.
